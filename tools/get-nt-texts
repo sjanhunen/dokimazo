@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# See http://koti.24.fi/jusalak/GreekNT/NTTexts.htm
+texts="BP05FNL TR-PRSD ELZPRSD ANT-PRSD WH27PRSD"
+
+for t in $texts; do
+    wget -nc http://koti.24.fi/jusalak/GreekNT/$t.ZIP
+    mkdir $t && unzip $t.ZIP -d $t
+done
