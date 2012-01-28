@@ -1,0 +1,18 @@
+Present: JB, SJ
+
+Discussion:
+*   Building a GNT search tool using SqLite. Demo for next week. Consider
+    Groovy/Grails later as a way to build a web front-end to the database.
+*   The battleground in Eph 6 is in proximity to blessings in Eph 1. You
+    must *twist* scripture to show that there is no spiritual wickedness
+    in heavenly places (Eph 6:12).
+*   Actually laying hold on the blessings was future for Jacob and Israel.
+    Doesn't it make sense that this is the case for us too?
+*   A diagram showing the separation of Israel from the Nations
+    and the reconciling (upwards) into the New Man. More refinement is
+    necessary.  This could be an excellent approach to explaining the
+    Bible in one page and then highlighting "The Mystery".
+
+Action Items:
+*   SJ: Prepare SqLite GNT demo for next week.
+*   JB: Get VM ready to run demo
