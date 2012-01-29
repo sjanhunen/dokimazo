@@ -6,17 +6,77 @@ import sqlite3
 words = open(sys.argv[1]).read().split()
 book = 'Eph'
 
-# Create an sqlite database for storing gnt
-#
+# TODO: Review how mapping of text, words, and Strongs numbers works!
+
+# Table: Text (textId PRIMARY)
+#   textId, wordId, posId, verseId
+
+# Table: Verses (prmary verseId)
+#   verseId, book, chapter, verse
+
 # Table: Words (every word in order)
-#   wordId   verseId    word    partOfSpeech    strongsId
-# Table: Verses (every verse in order)
-#   verseId     book    chapter verse   firstWord   lastWord
-# Table: Strongs (every Strong's number in order)
-#   strongsId   TBD
+#   wordId, word
 
-index = 0
+# Table: PartsOfSpeech (posId PRIMARY)
+#   posId, description
 
+# Table StrongsVerses (one=>many)
+#   strongsId   verseId
+
+# Table: StrongsWords (one=>many)
+#   strongsId   wordId
+
+SCHEMA = (
+    """DROP TABLE IF EXISTS Words""",
+    """CREATE TABLE Words(
+        wordId          INTEGER PRIMARY KEY AUTOINCREMENT,
+        verseId         INTEGER,
+        word            TEXT,
+        partOfSpeech    TEXT,
+        strongsId       INTEGER)""",
+    """DROP TABLE IF EXISTS Verses""",
+    """CREATE TABLE Verses(
+        verseId         INTEGER PRIMARY KEY AUTOINCREMENT,
+        book            TEXT,
+        chapter         INTEGER,
+        verse           INTEGER,
+        firstWordId     INTEGER,
+        lastWordId      INTEGER)""")
+
+def addVerse(cursor, book, chapter, verse):
+    cursor.execute(
+        "INSERT INTO Verses (book, chapter, verse) VALUES ('%s', %d, %d)" %
+        (book, chapter, verse))
+    return cursor.lastrowid
+
+def updateVerse(cursor, verseId, firstWordId, lastWordId):
+    cursor.execute(
+        "UPDATE Verses SET firstWordId=%d, lastWordId=%d WHERE verseId=%d" %
+        (firstWordId, lastWordId, verseId))
+
+
+def newWord(verseId):
+    return {
+        'verseId':      verseId,
+        'word':         None,
+        'partOfSpeech': None,
+        'strongsId':    None}
+
+def addWord():
+    pass
+
+
+# Connect to database and get a cursor
+db = sqlite3.connect('gnt.db')
+cursor = db.cursor()
+
+# Create the tables
+for statement in SCHEMA:
+    cursor.execute(statement)
+
+
+
+verseId = None
 w = None
 variation = False
 for word in words:
@@ -31,7 +91,7 @@ for word in words:
         variation = True
     elif word.isdigit():
         # Strong's number
-        w['strongs'].append(int(word))
+        w['strongsId'].append(int(word))
     elif word.startswith('{'):
         # Part of speech
         w['pos'] = word.translate(None, '{}')
@@ -41,22 +101,21 @@ for word in words:
     elif word.find(':') != -1:
         # Verse
         (chapter, sep, verse) = word.partition(':')
-        chapter = int(chapter)
-        verse = int(verse)
-        print '%s %d:%d' % (book, chapter, verse)
+        verseId = addVerse(cursor, book, int(chapter), int(verse))
     elif word.isalpha():
         # Greek word
         if w:
             print w
         w = {
             'word': word,
-            'index': index,
             'book': book,
             'chapter': chapter,
             'verse': verse,
             'pos': None,
-            'strongs': []}
-        index = index + 1
+            'strongsId': []}
+
+db.commit()
+db.close()
 
 if w:
     print w
