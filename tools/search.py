@@ -6,25 +6,30 @@ import sqlite3
 words = open(sys.argv[1]).read().split()
 book = 'Eph'
 
-# TODO: Review how mapping of text, words, and Strongs numbers works!
+# TODO
+#   * understand multiple Strong's numbers per word
+#   * study http://koti.24.fi/jusalak/GreekNT/PARSINGS.TXT
 
-# Table: Text (textId PRIMARY)
-#   textId, wordId, posId, verseId
+# Strong's numbers map only to 'root' words. So, many words in the original
+# actually have the same Strong's number. This is where part of speech, 
+# tense, number, etc come into play
 
-# Table: Verses (prmary verseId)
-#   verseId, book, chapter, verse
+# Which are one-to-one and one-to-many?
+# Table Verse (every verse in order)
+#   id, book, chapter, verse
+# Table Word (every word in order)
+#   id, verseId, formId
+# Table Form (every Greek form in the NT)
+#   id, word, lemmaId, inflectionId
+# Table Lemma (or should we call it Root?)
+#   id, strongsId
+# Table Strongs
+#   id, lemmaId
+# Table Inflection
+#   id, part, gender, case, etc.
 
-# Table: Words (every word in order)
-#   wordId, word
-
-# Table: PartsOfSpeech (posId PRIMARY)
-#   posId, description
-
-# Table StrongsVerses (one=>many)
-#   strongsId   verseId
-
-# Table: StrongsWords (one=>many)
-#   strongsId   wordId
+# Table Lexeme
+#   id, strongsNumber
 
 SCHEMA = (
     """DROP TABLE IF EXISTS Words""",
@@ -73,8 +78,6 @@ cursor = db.cursor()
 # Create the tables
 for statement in SCHEMA:
     cursor.execute(statement)
-
-
 
 verseId = None
 w = None
