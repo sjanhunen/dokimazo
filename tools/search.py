@@ -6,70 +6,48 @@ import sqlite3
 words = open(sys.argv[1]).read().split()
 book = 'Eph'
 
-# TODO
-#   * understand multiple Strong's numbers per word
-#   * study http://koti.24.fi/jusalak/GreekNT/PARSINGS.TXT
-
-# Strong's numbers map only to 'root' words. So, many words in the original
-# actually have the same Strong's number. This is where part of speech, 
-# tense, number, etc come into play
-
-# Which are one-to-one and one-to-many?
-# Table Verse (every verse in order)
-#   id, book, chapter, verse
-# Table Word (every word in order)
-#   id, verseId, formId
-# Table Form (every Greek form in the NT)
-#   id, word, lemmaId, inflectionId
-# Table Lemma (or should we call it Root?)
-#   id, strongsId
-# Table Strongs
-#   id, lemmaId
-# Table Inflection
-#   id, part, gender, case, etc.
-
-# Table Lexeme
-#   id, strongsNumber
+# For details on parsing see http://koti.24.fi/jusalak/GreekNT/PARSINGS.TXT
 
 SCHEMA = (
-    """DROP TABLE IF EXISTS Words""",
-    """CREATE TABLE Words(
-        wordId          INTEGER PRIMARY KEY AUTOINCREMENT,
-        verseId         INTEGER,
-        word            TEXT,
-        partOfSpeech    TEXT,
-        strongsId       INTEGER)""",
-    """DROP TABLE IF EXISTS Verses""",
-    """CREATE TABLE Verses(
-        verseId         INTEGER PRIMARY KEY AUTOINCREMENT,
-        book            TEXT,
+    """DROP TABLE IF EXISTS Book""",
+    # Every GNT book in order by id
+    """CREATE TABLE Book(
+        id              INTEGER PRIMARY KEY AUTOINCREMENT,
+        name            TEXT,
+        abbreviation    TEXT)""",
+    """DROP TABLE IF EXISTS Verse""",
+    # Every GNT verse in order by id
+    """CREATE TABLE Verse(
+        id              INTEGER PRIMARY KEY AUTOINCREMENT,
+        bookId          INTEGER,
         chapter         INTEGER,
-        verse           INTEGER,
-        firstWordId     INTEGER,
-        lastWordId      INTEGER)""")
-
-def addVerse(cursor, book, chapter, verse):
-    cursor.execute(
-        "INSERT INTO Verses (book, chapter, verse) VALUES ('%s', %d, %d)" %
-        (book, chapter, verse))
-    return cursor.lastrowid
-
-def updateVerse(cursor, verseId, firstWordId, lastWordId):
-    cursor.execute(
-        "UPDATE Verses SET firstWordId=%d, lastWordId=%d WHERE verseId=%d" %
-        (firstWordId, lastWordId, verseId))
-
-
-def newWord(verseId):
-    return {
-        'verseId':      verseId,
-        'word':         None,
-        'partOfSpeech': None,
-        'strongsId':    None}
-
-def addWord():
-    pass
-
+        verse           INTEGER)""",
+    """DROP TABLE IF EXISTS Word""",
+    # Every GNT word (of the Greek text) in order by id
+    """CREATE TABLE Word(
+        id              INTEGER PRIMARY KEY AUTOINCREMENT,
+        verseId         INTEGER,
+        formId          INTEGER)""",
+    """DROP TABLE IF EXISTS Form""",
+    # Each unique inflected form of a root in the GNT
+    # TODO: is there a better name for 'text'?
+    """CREATE TABLE Form(
+        id              INTEGER PRIMARY KEY AUTOINCREMENT,
+        text            TEXT,
+        rootId          INTEGER,
+        inflectionId    INTEGER)""",
+    """DROP TABLE IF EXISTS Root""",
+    # Each unique root form in the GNT
+    """CREATE TABLE Root(
+        id              INTEGER PRIMARY KEY AUTOINCREMENT,
+        strongsId       INTEGER)""",
+    """DROP TABLE IF EXISTS Inflection""",
+    # Each possible type of inflection used on forms
+    # TODO: Eventually we want Inflection(id, part, gender, case, etc)
+    """CREATE TABLE Inflection(
+        id              INTEGER PRIMARY KEY AUTOINCREMENT,
+        tag             TEXT)"""
+)
 
 # Connect to database and get a cursor
 db = sqlite3.connect('gnt.db')
@@ -104,7 +82,6 @@ for word in words:
     elif word.find(':') != -1:
         # Verse
         (chapter, sep, verse) = word.partition(':')
-        verseId = addVerse(cursor, book, int(chapter), int(verse))
     elif word.isalpha():
         # Greek word
         if w:
