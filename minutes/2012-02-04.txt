@@ -1,0 +1,21 @@
+Present: SJ, JB
+
+Discussion:
+*   Successful first demo of GNT SQLite. Parsed Ephesians into SQLite. A few
+    bugs to work out for next week. The goal is to combine everything for
+    command-line use into a single 'gnt' script. 
+*   Sketch out a paper for a wide (but interested) audience. A working title:
+    "Is the Bible relevant today?". Show a big-picture overview of the Bible.
+    Clearly get the point across that most of the Bible doesn't have anything to
+    do with us today (but is important for our learning). The key to what is
+    relevant is understanding what was actually written to us!
+*   Possible topics for Alpha group:
+        - Faith: which target are you looking at?
+        - Grace: what is it?
+*   Discussed the importance of meeting people face-to-face to share The
+    Mystery. We think the university crowd will be especially interested.
+
+Action:
+*   SJ: Continue work on 'gnt' python tool. Add commands to download texts and
+    populate SQLite with all books.
+*   SJ/JB: Begin brainstorming on paper.
