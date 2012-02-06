@@ -144,15 +144,9 @@ ORDER_OF_BOOKS = (
     'JUDE', 'RE'
 )
 
-# For details on parsing see http://koti.24.fi/jusalak/GreekNT/PARSINGS.TXT
 
-with GntDb('gnt.db') as db:
-    db.createSchema()
-
-    for book in ORDER_OF_BOOKS:
-        db.addBook(BOOKS[book], book)
-
-    words = open(sys.argv[1]).read().split()
+def parseBook(db, filename):
+    words = open(filename).read().split()
     book = 'EPH'
 
     verseId = None
@@ -199,3 +193,15 @@ with GntDb('gnt.db') as db:
         db.addWord(verseId, db.addForm(text,
             db.addRoot(strongsId[0]),
             db.addInflection(tag)))
+
+
+
+# For details on parsing see http://koti.24.fi/jusalak/GreekNT/PARSINGS.TXT
+
+with GntDb('gnt.db') as db:
+    db.createSchema()
+
+    for book in ORDER_OF_BOOKS:
+        db.addBook(BOOKS[book], book)
+
+    parseBook(db, sys.argv[1])
