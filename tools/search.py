@@ -145,58 +145,71 @@ ORDER_OF_BOOKS = (
 )
 
 
-def parseBook(db, filename):
-    words = open(filename).read().split()
-    book = 'EPH'
+class GntParser:
+    def __init__(self, listener):
+        self.listener = listener
+        self.word = None
+        self.variation = False
+        self.nextWord()
 
-    verseId = None
-    variation = False
-    strongsId = []
-    tag = None
-    text = None
-    for word in words:
-        if variation:
+    def nextWord(self):
+        if self.word:
+            self.listener.nextWord(self.word, self.strongsId[0], self.tag)
+        self.word = None
+        self.strongsId = []
+        self.tag = None
+
+    def parse(self, word):
+        # For details see http://koti.24.fi/jusalak/GreekNT/PARSINGS.TXT
+        if self.variation:
             # Skip over variants of the text
             if word == ':END':
-                variation = False
-            continue
-
-        if word == 'VAR:':
+                self.variation = False
+        elif word is None:
+            self.nextWord()
+        elif word == 'VAR:':
             # Textual variant
-            variation = True
+            self.variation = True
         elif word.isdigit():
             # Strong's number
-            strongsId.append(int(word))
+            self.strongsId.append(int(word))
         elif word.startswith('{'):
             # Part of speech
-            tag = word.translate(None, '{}')
+            self.tag = word.translate(None, '{}')
         elif word.startswith('('):
             # Not sure what this is
             pass
         elif word.find(':') != -1:
             # Verse
+            self.nextWord()
             (chapter, sep, verse) = word.partition(':')
-            verseId = db.addVerse(book, int(chapter), int(verse))
+            listener.nextVerse(int(chapter), int(verse))
         elif word.isalpha():
             # Greek word
-            if text:
-                #print "Adding %s (%d, %s)" % (text, strongsId[0], tag)
-                db.addWord(verseId, db.addForm(text,
-                    db.addRoot(strongsId[0]),
-                    db.addInflection(tag)))
-                strongsId = []
-                tag = None
-            text = word
+            self.nextWord()
+            self.word = word
 
-    if text:
-        #print "Adding %s (%d, %s)" % (text, strongsId[0], tag)
-        db.addWord(verseId, db.addForm(text,
-            db.addRoot(strongsId[0]),
+
+class GntParseListener:
+    def __init__(self, db):
+        self.db = db
+        self.verseId = None
+        self.book = None
+
+    def nextBook(self, book):
+        #print "nextBook: %s" % book
+        self.book = book
+
+    def nextVerse(self, chapter, verse):
+        #print "nextVerse: %d:%d" % (chapter, verse)
+        self.verseId = db.addVerse(self.book, chapter, verse)
+
+    def nextWord(self, word, strongsId, tag):
+        #print "nextWord: %s, %d, %s" % (word, strongsId, tag)
+        db.addWord(self.verseId, db.addForm(word,
+            db.addRoot(strongsId),
             db.addInflection(tag)))
 
-
-
-# For details on parsing see http://koti.24.fi/jusalak/GreekNT/PARSINGS.TXT
 
 with GntDb('gnt.db') as db:
     db.createSchema()
@@ -204,4 +217,11 @@ with GntDb('gnt.db') as db:
     for book in ORDER_OF_BOOKS:
         db.addBook(BOOKS[book], book)
 
-    parseBook(db, sys.argv[1])
+    listener = GntParseListener(db)
+    parser = GntParser(listener)
+    listener.nextBook('EPH')
+
+    words = open(sys.argv[1]).read().split()
+    for word in words:
+        parser.parse(word)
+    parser.parse(None)
