@@ -1,0 +1,14 @@
+Present: JB, SJ
+
+Discussion:
+*   Reviewed inital thoughts on relevance
+*   Target audienc for paper:
+    *   new believers, speicifically with questions
+    *   not unbelievers in particular, but it's possible it will help some
+*   Thoughts on word searches using new tools
+    *   Density searches: most/lest frequent verb/noun in range of verses
+    *   Set theory: union, intersection, difference of lists of words 
+
+Action:
+*   SJ: Second demo of gnt tool for next weekend.
+*   SJ/JB: Continue brainstorming on paper.
