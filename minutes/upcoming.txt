@@ -1,31 +1,75 @@
-Two actions on the temple frame the Acts period.
+Design review for GNT search sets
+---------------------------------
 
-Before the start: the veil is rent
+All query results returned as sets (immutable collections of unique items).
+
+The GNT can be expressed as sets at different levels of abstraction
+    words - subset of the text
+    forms - subset of inflected forms
+    roots - subset of Strongs roots
+    verses - subset of verses
+    pos - subset of parts of speech
+
+A search will typically start at one level of abstraction and move to another.
+Functions must be used to convert between sets at different levels of
+abstraction. The result is always a set (contains no duplicates). This means
+that some functions are necessarily one way.
+
+For example, to find all the roots in Eph
+
+    roots(words(verses('eph')))
+
+Set theory can be used on sets at the same level of abstraction. See the set
+operators for Python. For example, to find all roots common to Eph and Col
+
+    roots(words(verses('eph'))) & roots(words(verses('col')))
+
+Or to find all roots in Eph and Col
+
+    roots(words(verses('eph') | verses('col')))
+
+Interesting possibilities exist. This would find all root verbs in Eph
+
+    roots(forms(pos('VERB'))) & roots(forms(words(verses('eph'))))
+
+To find all verses in Mat that contain G4172
+
+    verses('mat') & verses(words(forms('G4172')))
+
+We may also consider abbreviated functions. So the previous search may look like
+
+    V('mat') & V(W(F('G4172')))
+
+
+Two significant changes to the temple
+-------------------------------------
+
+Compare Heb 10 and Eph 2. In one case, Paul is looking at the ripped veil and
+the access for Isreal through it made possible by the flesh of Christ. In the
+other, Paul is looking at the Middle Wall completely broken down and the access
+to the Father for all Nations made possible through the flesh of Christ. A
+physical change in the earthly temple reflects an important development in God's
+plan in both cases.
+
+Before the start of Acts: the veil is rent
     *   "By a new and living way, which he hath consecrated for us, through
         the veil, that is to say, his flesh" (Heb 10:20)
-    *   We see the New Covenant is in view (v16)
-    *   Access to the Holiest is possible
-    *   High Priest over the House of God (v21)
+            A   The New Covenant (v16)
+            B   Access to the Holiest (v19)
+            C   High Priest over the House of God (v21)
     *   As a Gentile, this alone does not help me: I'm still stuck outside
         the wall! I can't even see the veil.
-After the end: the middle wall is broken down
+After the end of Acts: the middle wall is broken down
     *   "He is our peace, who hath made both one, and hath broken down the
         middle wall of partition betwen us; having abolished in His flesh
         the enmity, even the law of commandments contained in ordinances"
         (Eph 2:14-15)
-    *   Strangers from the covenants (v12)
-    *   Of the household of God
-    *   Access to the Father
-    *   A holy temple
-    *   Now the distinction between Nations is gone!
-
-The parallels between Eph 2 and Heb 10 are striking. In one case, Paul is
-looking at the ripped veil and the access for Isreal through it made possible by
-the flesh of Christ. In the other, Paul is looking at the Middle Wall completely
-broken down and the access to the Father for all Nations made possible through
-the flesh of Christ. A physical change in the earthly Temple reflects an
-important change in God's plan in both cases.
+            A   Strangers from the covenants (v12)
+            B   Access to the Father (v18)
+            C   Of the household of God (v19)
+    *   The distinction between Nations is gone. A new temple is being built.
 
 Questions:
-    * Does the earthly temple gets rebuilt?
+    * Does the earthly temple get rebuilt?
     * In Revelation, isn't the emphasis on the Heavenly Temple?
+    * How do the holies in Eph differ from the holies in Heb?
