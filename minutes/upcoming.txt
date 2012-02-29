@@ -41,53 +41,7 @@ We may also consider abbreviated functions. So the previous search may look like
     V('mat') & V(W(F('G4172')))
 
 
-Two significant changes to the temple
--------------------------------------
+Acts Period and The Temple
+-------------------------
 
-Compare Heb 10 and Eph 2. In one case, Paul is looking at the ripped veil and
-the access for Isreal through it made possible by the flesh of Christ. In the
-other, Paul is looking at the Middle Wall completely broken down and the access
-to the Father for all Nations made possible through the flesh of Christ. A
-physical change in the earthly temple reflects an important development in God's
-plan in both cases.
-
-Before the start of Acts: the veil is rent
-    *   "By a new and living way, which he hath consecrated for us, through
-        the veil, that is to say, his flesh" (Heb 10:20)
-            A   The New Covenant (v16)
-            B   Access to the Holiest (v19)
-            C   High Priest over the House of God (v21)
-    *   As a an uncircumcised Gentile, this alone does not help me: I'm
-        still stuck outside the wall!
-
-After the end of Acts: the middle wall is broken down
-    *   "He is our peace, who hath made both one, and hath broken down the
-        middle wall of partition betwen us; having abolished in His flesh
-        the enmity, even the law of commandments contained in ordinances"
-        (Eph 2:14-15)
-            A   Strangers from the covenants (v12)
-            B   Access to the Father (v18)
-            C   Of the household of God (v19)
-    *   The distinction between Nations is gone. A new temple is being built.
-
-Important context for this discussion is found in Eze 44:9. Note the
-restriction that "no stranger" could enter the sanctuary of the
-tabernacle. You were a stranger if you were either
-    A) uncircumcised in heart
-    B) uncircumcised in flesh
-
-The saved Gentiles in the Acts period were circumcised in heart, but were
-not required to be circumcised in flesh. These believers were provoking
-unsaved Israelites, who where circumcised in flesh but not in heart, to
-jealously. They partook of the blessings of Israel without the fleshly
-requirements of Israel. Those Gentiles, circumcised in heart but not in
-flesh, would not have access to the sanctuary according to Eze 44:9.
-
-The ultimate reconciliation of this difference does not happen until Eph
-2:14. At this point, the wall between the two is totally broken down and
-something entirely new is being built.
-
-Questions:
-    * Does the earthly temple get rebuilt?
-    * In Revelation, isn't the emphasis on the Heavenly Temple?
-    * How do the holies in Eph differ from the holies in Heb?
+See papers/acts-period-and-temple.txt
