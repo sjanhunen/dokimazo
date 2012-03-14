@@ -1,0 +1,12 @@
+Present: JB, SJ
+
+Discussion:
+*   Reviewed GNT search tool set design
+*   Discussed relevance concepts some more
+*   Mat 7:1: "Judge not that ye be not judged": what does this really mean?
+*   Goal for written articles: short, focused, hard hitting
+*   Physical changes to the temple mirroring key developments
+
+Action:
+*   SJ: Finish initial query implementation of GNT search tool
+*   SJ: Finish writing Relevance article

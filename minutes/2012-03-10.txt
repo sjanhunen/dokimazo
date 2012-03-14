@@ -1,0 +1,25 @@
+Present: JB, SJ
+
+Discussion:
+*   Exo 13: glory cloud filling the tabernacle/temple
+*   Glory was missing from the temple when Christ came to earth
+*   Some OT references to re-building temple:
+    *   New Temple built Zech 6:12
+    *   "Day of small things" in Haggai 2:7-9
+    *   What is the location of the rebuilt temple? Look at Eze 40-48.
+*   Eph and Col: the post-temple books
+*   Why was the Veil of the Temple Rent:
+    *   To allow access to the holiest?
+    *   To see that God's glory wasn't present?
+*   Is there a difference between a temple built during Israel's pre-eminance
+    versus one built during Israel's subjection
+*   Some clarity on the Kingdom of Heaven:
+    *   Kingdom Jesus talked about on earth wasn't put into play yet
+        *   Repent for the kingdom of God is at hand (King was there)
+        *   Luke 21:27-31: kingdom of God is nigh when all this happened
+    *   Contrast to us translated into His Kingdom:
+        *   Versus Col 1:13: translated into the kingdom of His dear Son
+
+Action:
+*   SJ: Finish initial query implementation of GNT search tool
+*   SJ: Finish writing Relevance article
