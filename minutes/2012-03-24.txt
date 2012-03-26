@@ -1,0 +1,25 @@
+Present: JB, SJ
+
+Discussion:
+*   How does the Holy Spirit teach us today?
+    *   Important to remember that when the disciples were alive, the
+        Scriptures were not yet fully written. Leading into all truth
+        was absolutely necessary.
+    *   We understand that today being "filled with the Spirit" is closely
+        aligned with the "Word of Christ dwelling" in us (Eph and Col). If
+        we don't open the Bible and read, how can we possibly have this?
+*   Question: What is God's purpose today?
+    *   Critical to understand this to understand relevance today.
+    *   Consider Israel as an allegory that helps us understand our books.
+    *   How much do we really know about our future work as members of the
+        Body of Christ? How much have we been told?
+    *   Why is there a priesthood? Do we somehow have a role like this but
+        in the super heavens?
+    *   The Temple (as a dwelling place) seems to be a common thread.
+*   Important notes for Ephesians conference:
+    *   Eph 4:11: We can't just pick and choose.
+    *   Eph 4:13: This has already happened.
+
+Action:
+*   SJ: Finish initial query implementation of GNT search tool
+*   SJ: Finish writing Relevance article

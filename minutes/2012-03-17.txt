@@ -1,0 +1,34 @@
+Present: JB, SJ
+
+Discussion:
+*   Christ's two comings and the two covenants: taking away the first that
+    He may establish the second. See Heb 10:9. Many people recognize that
+    Christ came to setup something new. But it seems that that is what His
+    second coming is about. We cannot forget that He first had to take
+    away the old. Didn't His cross work take away the old and pay the
+    price (the Blood) for the new?
+*   Also to compare: the coming Kingdom and the coming New Covenant. While
+    the blood has been shed, neither of these has been fully setup yet.
+    Recall the feasts of Israel that still must take place: Trumpets,
+    Atonement, and Tabernacle.
+*   Clear evidence that the Old Covenant was vanishing but had not quite
+    yet disappeared: Heb 8:13 and Heb 7:12.
+*   Compare the Kingdom in the Gospels and in Col:
+    *   The Kingdom Jesus talked about on earth wasn't in play yet
+        *   Repent for the kingdom of God is at hand (the King was there)
+        *   Luke 21:27-31: kingdom of God is nigh when all this happens
+    *   Believers from that time will need to be resurrected to enter into
+        this Kingdom.
+    *   In Col 1:13, we see that we have already been translated into the
+        'Kingdom of His dear Son'. For us, it's already done! But it's
+        also a different aspect of the kingdom He is focusing on today.
+*   Considering born again and the New Covenant:
+    *   Born is begotten from something else (children are born).
+    *   Created is something new (Adam was not born).
+    *   Are we ever 'born again'? Or is the focus on a new creation only?
+*   God's goal: Compare 1 Cor 15:28 and Eph 1:10. These are some
+    big-picture verses that definitely require more study.
+
+Action:
+*   SJ: Finish initial query implementation of GNT search tool
+*   SJ: Finish writing Relevance article
