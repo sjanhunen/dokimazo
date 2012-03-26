@@ -1,3 +1,6 @@
+For future discussion:
+* What is the true tabernacle that the Lord Pitched in Heb 8:2?
+
 Design review for GNT search sets
 ---------------------------------
 
@@ -39,9 +42,3 @@ To find all verses in Mat that contain G4172
 We may also consider abbreviated functions. So the previous search may look like
 
     V('mat') & V(W(F('G4172')))
-
-
-Acts Period and The Temple
--------------------------
-
-See papers/acts-period-and-temple.txt
