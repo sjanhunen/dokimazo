@@ -1,0 +1,24 @@
+Present: JB, SJ
+
+Discussion:
+*   Start recording our studies again: will require 'fixed' internet
+*   The verb poieo in Eph 2:14,15:
+    *   'made both one'
+    *   'so making peace'
+*   Important question for the conference:
+    *   What is The Fellowship of the Mystery?
+*   Future study: compare Philippians and Hebrews!
+*   A very basic question: why did God make Adam?
+*   Study the link between the prayers in Eph 1:18 and Eph 3:19 more. Look at
+    the relationship between inheritance and the Father's love.
+*   Spirit: 
+    *   Spirit mentioned much in Eph, but only twice in Col
+    *   Christ dwelling in our hearts, sealing of the Spirit
+    *   What is the Spirit and how does it operate today?
+*   The link between Love and inheritance
+    *   Salvation isn't just so you can live, but so you can inherit
+    *   Compare Luke 10:25 and John 3:16
+
+Action:
+*   SJ: Finish initial query implementation of GNT search tool
+*   SJ: Finish writing Relevance article

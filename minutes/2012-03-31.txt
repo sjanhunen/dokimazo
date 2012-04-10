@@ -1,0 +1,33 @@
+Present: JB, SJ
+
+Discussion:
+*   Introduction session for the Conference:
+    *   Tag-team format with some Q&A
+    *   More scripted than last time 
+    *   Hit the big-picture concepts around The Mystery
+    *   Appropriate level so video could be shown to new believers
+*   Mystery in Eph:
+    *   The Mystery of His Will (1:9)
+    *   The Mystery (3:3)
+    *   The Mystery of Christ (3:4)
+    *   The Fellowship of the Mystery (3:9)
+    *   A Great Mystery (5:32)
+    *   The Mystery of the Gospel (6:19)
+*   The Promise in Eph 1 must relate to the picture in Eph 1:22 and form some
+    larger part of what is discussed in Heb 1:30.
+*   How do blessing, inheritance, and love relate in Scrpiture? For example,
+    it seems that manifestation of the Father's love is closely aligned with
+    giving of a blessing/inheritance.
+*   What made Christ different than the angels in Heb?
+    *   Son
+    *   Inheritance
+    *   Angels worship Him
+    *   Enemies made His footstool
+    *   Appointed over the house
+*   The Father made a promise to the Son. Jehovah made a promise to Abraham. As
+    part of The Mystery, we can share in the promise the Father made to the Son.
+    We are strangers to the promises made to the fathers.
+
+Action:
+*   SJ: Finish initial query implementation of GNT search tool
+*   SJ: Finish writing Relevance article
