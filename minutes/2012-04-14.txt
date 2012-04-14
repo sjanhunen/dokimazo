@@ -1,0 +1,29 @@
+Present: JB, SJ
+
+Discussion:
+*   The Pentecostal Gifts were ultimately given to promote the Word (message)
+    *   showed the authority of speakers
+    *   helped get the message out
+    *   1 Cor 13 - notice until something perfect
+    *   Eph 4:13 - notice until something perfect
+    *   Recall Eze 34:16: ultimate goal to feed the flock
+*   What are the distinctive differences between apostles and prophets?
+    A hypothesys:
+    *   Prophet - with local believers mostly
+    *   Apostle - a winder audience: non-believers too, bringing in new people
+*   The Words on this page are Spirit:
+    *   When we are filled with the Word we are filled with the Spirit
+    *   Col 3:16 - no 'let' in the original
+*   Hard to find good translations: a re-translation of Eph and Col done by
+    someone who understands The Mystery would be nice
+*   Links between glory and love (agape)
+    *   John 17:24: Father's love and the glory of the Son
+    *   Eph 5:25-27: Christ's love and the glorious church
+    *   2 Pet 1:16-18: transfiguration
+    *   What is the glory that the Father gave the Son? How is it related to
+        inheritance and what we read about in Psalm 2? 
+
+Action:
+*   SJ/JB: Read Eph in ESV for next meeting
+*   SJ: Finish initial query implementation of GNT search tool
+*   SJ: Finish writing Relevance article
