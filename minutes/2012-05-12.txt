@@ -1,0 +1,28 @@
+Present: JB, SJ
+
+Discussion:
+*   The will of the Father in Ephesians
+    *   7 references in Eph: 6 positive, 1 negative
+    *   Paul speaks as though it is plain, understandable, and doable
+    *   Why do we have a hard time understanding what it is?
+    *   Paul's prayers are clearly focused on understanding God's will:
+        we should be asking God for this understanding
+    *   Perhaps God wants us to ask Him for understanding
+*   Understanding Christ's redemptive work more
+    *   Compare redemption from Egypt to Christ's work on the cross
+        *   Passover (blood shed, death and resurrection)
+        *   Armies spoiled
+    *   Understand the vertical transitions that Christ went through
+        *   Pitched the tent in heavens
+        *   Came down to earth
+        *   Died, buried, resurrected
+        *   Ascended back to tent
+        *   Spoiled armies
+        *   Came back to earth to preach the peace in Eph
+        *   Ascended far above all heavens
+
+Action:
+*   SJ: Make initial sketch: vertical picture of Christ's redemptive work
+*   SJ/JB: Read Eph in ESV
+*   SJ: Finish initial query implementation of GNT search tool
+*   SJ: Finish writing Relevance article

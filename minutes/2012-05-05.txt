@@ -1,0 +1,33 @@
+Present: JB, SJ
+
+Discussion:
+*   Who was Paul writing to in Eph 2:11?
+    *   It doesn't make sense that these were saved Gentiles, grafted into the
+        olive tree of Israel
+    *   It makes more sense if this is a totally new group of people
+    *   He's not offering them a part of the hope of Israel but something
+        entirely new
+*   Compare Eph 1:22 to Heb 2:8 and Cor:
+    *   Heb and Cor look forward to things being put under Christ's feet in the
+        earthly realm (not yet accomplished)
+    *   Eph 1:22 shows that all things have been put under His feet (done deal)
+        as far as the super heavenly realm is concerned
+*   Conference Planning
+        1   1:1-2       [Jeff]
+        2   Relevance   [Jeff, Stefan]
+        3   1:3-6       [open]
+        4   1:7-12      [open]
+        5   1:13-14     [open]
+        6   1:15-19A    [Stefan]
+        7   1:19B-23    [Jeff]
+        8   2:1-7       [open]
+        9   2:8-10      [open]
+    Friday Night
+        *   Start with Section 1 intro
+        *   Finish with tag-team presentation on Relevance
+            *   Q: Why should you care about what we are doing this weekend?
+
+Action:
+*   SJ/JB: Read Eph in ESV for next meeting
+*   SJ: Finish initial query implementation of GNT search tool
+*   SJ: Finish writing Relevance article
