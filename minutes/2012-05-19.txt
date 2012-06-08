@@ -1,0 +1,14 @@
+Present: JB, SJ
+
+Discussion:
+*   Jehovah and the Father in the heavens in the OT: study this more
+*   Eph 2 "In time past" 
+*   In Eph/Col:
+    *   No mention of Day of Christ
+    *   No mention of our sufferings for Christ today
+ 
+Action:
+*   SJ: Make initial sketch: vertical picture of Christ's redemptive work
+*   SJ/JB: Read Eph in ESV
+*   SJ: Finish initial query implementation of GNT search tool
+*   SJ: Finish writing Relevance article
