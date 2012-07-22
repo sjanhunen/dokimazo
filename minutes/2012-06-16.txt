@@ -1,0 +1,19 @@
+Present: JB, SJ
+
+Discussion:
+*   Eph 4:10: missing from 4:8 - this was hidden when Psalms was written
+*   Do we fill up Christ or does He fill us up:
+*   Eph 1:23 vs Col 2:10
+*   Is there an analogy with Israel wating for Messiah and ability to be
+    kingdom of priests vs where we sit in our life right now?
+*   Tag-team into:
+    *   The Bible: God makes us relevant to His Plans!
+        Is God Goal/Purpose oriented? God's family business
+    *   God's purpose: cleaning up the mess from the overthrow
+    *   The Big Picture: timeline versus vertical picture with Christ
+
+Action:
+*   SJ: Make initial sketch: vertical picture of Christ's redemptive work
+*   SJ/JB: Read Eph in ESV
+*   SJ: Finish initial query implementation of GNT search tool
+*   SJ: Finish writing Relevance article

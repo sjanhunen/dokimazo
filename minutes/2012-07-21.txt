@@ -1,0 +1,23 @@
+Present: JB, SJ
+
+Discussion:
+*   Discussed prayers in Ephesians: makes sense if they are focused on
+    on inheritance
+*   Decided on flow for relevance talk at conference:
+    1.  Introduce relevance with example/sketch:
+        We become relevant to God's purpose, not the other way around
+    2.  Present the timeline of purpose:
+        The Mystery covers the gap that's not apparent from prophecy
+    3.  Present the vertical picture of purpose:
+        Christ ascended to the highest point, the superheavenlies
+*   Consider how we can give examples of relevance to God's purposes
+    from the OT, for example
+ 
+Action:
+*   SJ: Make initial sketch: vertical picture of Christ's redemptive work
+*   SJ/JB: Read Eph in ESV
+*   SJ: Finish initial query implementation of GNT search tool
+*   SJ: Finish writing Relevance article
+
+
+
