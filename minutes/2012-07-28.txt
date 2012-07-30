@@ -1,0 +1,22 @@
+Present: JB, SJ
+
+Discussion:
+*   For introduction, need to show how particular parts of the Bible (plan)
+    are important (not just any part)
+*   Perpahs base a small sketch on several people playing a game together
+    (wrong instructions, right instructions, right part of instructions)
+*   For horizontal picture
+    *   Start in the Gospels (Luke) and only bring in OT as necessary
+    *   Covenant and distinction between Jew/Gentile go hand in hand
+    *   The state of temple is strongest indicator of state of Israel
+    *   Kingdom wasn't going to come until the Son came: Luke 21:27-31
+    *   Mysteries fill in the gaps in Scripture (not evident before revealed)
+* Vertical picture
+    *   This picture builds as a pyramid on the current horizontal diagram
+    *   Where Christ is tracks with what he is doing
+
+Action:
+*   SJ: Continue working on diagrams for conference introduction 
+*   SJ/JB: Read through the parables in light of Acts period
+*   SJ: Finish initial query implementation of GNT search tool
+*   SJ: Finish writing Relevance article
