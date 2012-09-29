@@ -1,0 +1,8 @@
+Present: JB, SJ
+
+Discussion:
+*   Focus of discussion was conference preparation. See presentations.
+
+Action:
+*   SJ: Draft slides for relevance talk
+*   SJ: Finish initial query implementation of GNT search tool
