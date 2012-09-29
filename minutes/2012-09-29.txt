@@ -1,0 +1,16 @@
+Present: JB, SJ
+
+Discussion:
+*   Idea: Produce a short 10-15min video (voice with illustration). A good
+    first topic to present would be 'What is Redemption?'
+*   Consider holding next year's conference on Memorial Day weekend: this could
+    possibly be less busy for quite a few people
+*   Start a beginner's track next year (or at least have some sessions
+    targeted specifically at beginners)
+*   Special topic for next year: The Parables!
+*   Kingdom of the Heavens: putting the Divine government order back in place
+
+Action:
+*   Start studying The Parables: identify the list of Parables
+*   Begin to consider Ephesians breakdown for next year's conference
+*   SJ: Finish initial query implementation of GNT search tool
