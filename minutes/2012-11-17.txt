@@ -1,0 +1,13 @@
+Present: JB, SJ
+
+This Time:
+*   LoAmmi period: The Assyrian captivity?
+*   What changed under Nebuchadnezzar?
+*   Who are the legs in the image in Daniel?
+*   Can we break down Biblical history into at least "4 World Orders"?
+*   Are there hints in the OT about Israel's state today?
+
+Action:
+*   Start studying The Parables: identify the list of Parables
+*   Begin to consider Ephesians breakdown for next year's conference
+*   SJ: Finish initial query implementation of GNT search tool
