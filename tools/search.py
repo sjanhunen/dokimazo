@@ -3,6 +3,16 @@
 import sys
 import sqlite3
 
+# TODO: find a better home for this
+def sqlTuple(v):
+    if isinstance(v, int):
+        return "(%s)" % str(v)
+    else:
+        if len(v) == 1:
+            return "(%s)" % str(v[0])
+        else:
+            return str(tuple(v))
+
 
 class GntDb:
     def __init__(self, filename):
@@ -108,7 +118,6 @@ class GntDb:
                 (text, text, rootId, inflectionId))
         return self.cursor.lastrowid
 
-
     def addWord(self, verseId, formId):
         self.cursor.execute(
             "INSERT INTO Word \
@@ -117,6 +126,26 @@ class GntDb:
                 (verseId, formId))
         return self.cursor.lastrowid
 
+    def verses(self, book):
+        return self._querySet(
+            "SELECT id from Verse WHERE bookId is \
+            (SELECT id from Book WHERE abbreviation is '%s')" % book)
+
+    def words(self, verses):
+        return self._querySet(
+            "SELECT id from Word WHERE verseId in %s" % sqlTuple(verses))
+
+    def forms(self, words):
+        return self._querySet(
+            "SELECT formId from Word WHERE id in %s" % sqlTuple(words))
+
+    def text(self, forms):
+        return self._querySet(
+            "SELECT text from Form WHERE id in %s" % sqlTuple(forms))
+
+    def _querySet(self, query):
+        #print("_querySet: " + query)
+        return set([r[0] for r in self.cursor.execute(query)])
 
 BOOKS = {
     'MT':   'Matthew',          'MR':   'Mark',
@@ -225,3 +254,11 @@ with GntDb('gnt.db') as db:
     for word in words:
         parser.parse(word)
     parser.parse(None)
+
+    print db.words(set([1, 2]))
+    # The forms in verse 1
+    print db.text(db.forms(db.words([1,])))
+    # The forms in verse 2
+    print db.text(db.forms(db.words([2,])))
+    # The forms common to verses 1 and 2
+    print db.text(db.forms(db.words(1)) & db.forms(db.words(2)))
