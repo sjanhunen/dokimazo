@@ -10,6 +10,15 @@ The GNT can be expressed as sets at different levels of abstraction
 - verses - subset of verses
 - pos - subset of parts of speech
 
+Fundamental operations:
+- verses(book) - set verses present in a given book (could refine to citation)
+- words(verses) - set of words present in set of verses
+- forms(words) - set of Greek forms used in set of words
+- text(forms) - textual representation of Greek forms
+
+Some Thoughts on Use Cases
+--------------------------
+
 A search will typically start at one level of abstraction and move to another.
 Functions must be used to convert between sets at different levels of
 abstraction. The result is always a set (contains no duplicates). This means
