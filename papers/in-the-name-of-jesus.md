@@ -12,11 +12,15 @@ According to Vine's Expository Dictionary of the New Testament, the word name (o
 
 Whlie a simple proper name is the most common usage of this word, what we are considering here is definitely more aligned with the second meaning: a figurative use that represents the authority and power behind the name.
 
-The book of Acts contains a number of excellent examples of this, all containing the phrase "in the name of Jesus" (epi onoma lesous):
-- Baptizing - "Repent and be baptized" Peter at Penticost (Acts 2:38)
-- Healing - "Rise up and walk" Peter and John to the lame man at the temple (Acts 3:6)
-- Speaking and teaching - "Speak nor teach" The council's threats to Peter and John (Acts 4:18)
-- Casting out evil spirits (Acts 16:18)
+The book of Acts contains a number of excellent examples of the phrase "in the name of Jesus" (epi onoma lesous). Throughout this book, we see the Apostles
+- Baptizing in the name of Jesus - Peter at Penticost (Acts 2:38)
+- Healing in the name of Jesus - Peter and John with the lame man at the temple (Acts 3:6)
+- Speaking and teaching in the name of Jesus - Peter and John were threatened to not do this (Acts 4:18)
+- Casting out evil spirits in the name of Jesus - Paul cast out the spirit of divination from the damsel (Acts 16:18)
+
+In each of these cases, it is clear that real power is present behind every application of the name of Jesus.
+
+Compare to name only in Acts 19:13.
 
 
 Notes
