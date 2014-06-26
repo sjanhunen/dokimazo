@@ -18,9 +18,16 @@ The book of Acts contains a number of excellent examples of the phrase "in the n
 - Speaking and teaching in the name of Jesus - Peter and John were threatened to not do this (Acts 4:18)
 - Casting out evil spirits in the name of Jesus - Paul cast out the spirit of divination from the damsel (Acts 16:18)
 
-In each of these cases, it is clear that real power is present behind every application of the name of Jesus.
+In each of these cases, it is clear that real power is manifested in every application of the name of Jesus. So much so, that when Peter is questioned by the high priest after healing the lame man, he is asked "by what power or by what name did you do this?" (Acts 4:7). Peter was clear in his answer: "by the name of Jesus Christ of Nazareth...this man is standing before you well". 
 
-Compare to name only in Acts 19:13.
+This raises a key question: if doing something "in the name of Jesus" implies doing something with the authority and power of Jesus, how is this authority granted? In other words, how were the apostles authorized to use this power?
+
+Authority must be given, not taken
+==================================
+
+Think of Christ and how the Father gave authority to Him
+Think of how Christ gave authority to the disciples specifically for what they were doing in Acts
+Compare to a mere use of name only in Acts 19:13
 
 
 Notes
