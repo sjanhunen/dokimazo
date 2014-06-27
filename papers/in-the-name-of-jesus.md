@@ -20,10 +20,14 @@ The book of Acts contains a number of excellent examples of the phrase "in the n
 
 In each of these cases, it is clear that real power is manifested in every application of the name of Jesus. So much so, that when Peter is questioned by the high priest after healing the lame man, he is asked "by what power or by what name did you do this?" (Acts 4:7). Peter was clear in his answer: "by the name of Jesus Christ of Nazareth...this man is standing before you well". 
 
-This raises a key question: if doing something "in the name of Jesus" implies doing something with the authority and power of Jesus, how is this authority granted? In other words, how were the apostles authorized to use this power?
 
-Authority must be given, not taken
-==================================
+Authority must be given
+=======================
+
+Doing something "in the name of Jesus" implies doing something with the authority and power of Jesus, but how is this authority granted? Is invoking the name of Jesus the ticket to?
+
+In Acts 19:13
+
 
 Think of Christ and how the Father gave authority to Him
 Think of how Christ gave authority to the disciples specifically for what they were doing in Acts
