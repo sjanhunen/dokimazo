@@ -24,14 +24,20 @@ In each of these cases, it is clear that real power is manifested in every appli
 Authority must be given
 =======================
 
-Doing something "in the name of Jesus" implies doing something with the authority and power of Jesus, but how is this authority granted? Is invoking the name of Jesus the ticket to?
+Doing something "in the name of Jesus" implies doing something with the authority and power of Jesus, but how is this authority granted? Is invoking the name of Jesus the key to this power?
 
-In Acts 19:13
+In Acts 19, we find a striking application of the name of Jesus:
 
+> Then some of the itinerant Jewish exorcists undertook to invoke the name of the Lord Jesus over those who had evil spirits, saying, "I adjure you by the Jesus whom Paul proclaims." Seven sons of a Jewish high priest named Sceva were doing this.
 
-Think of Christ and how the Father gave authority to Him
-Think of how Christ gave authority to the disciples specifically for what they were doing in Acts
-Compare to a mere use of name only in Acts 19:13
+These men had clearly seen the power in the name of Jesus witnessed by so many in Acts and had decided to apply some of this to their own handiwork. The result was clertainly not what they had in mind
+
+> But the evil spirit answered them, "Jesus I know, and Paul I recognize, but who are you?" And the man in whom was the evil spirit leaped on them, mastered all of them and overpowered them, so that they fled out of that house naked and wounded.
+
+Further points:
+- Christ and how the Father gave authority to Him
+- Christ gave authority to the disciples specifically for what they were doing in Acts
+- Not everyone that says Lord, Lord
 
 Notes
 =====
