@@ -40,7 +40,7 @@ These exorcists, no doubt, had seen the powerful signs wrought in the name of Je
 Further points:
 - Christ and how the Father gave authority to Him
 - Christ gave authority to the disciples specifically for what they were doing in Acts
-- Not everyone that says Lord, Lord
+- Authority is always given in some relationship context
 
 Authority must be used in line with God's Will
 ==============================================
