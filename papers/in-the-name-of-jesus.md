@@ -1,4 +1,4 @@
-Name stands for authority
+Name represents authority
 ==========================
 
 What does it mean to do something 'in the name of Jesus'? How often have you heard a phrase like "in the name of the Father, the Son, and the Holy Spirit" used without any real though given to its significance? How many things have been done "in the name of God" that really have nothing to do with Him and His purposes?
@@ -24,20 +24,32 @@ In each of these cases, it is clear that real power is manifested in every appli
 Authority must be given
 =======================
 
-Doing something "in the name of Jesus" implies doing something with the authority and power of Jesus, but how is this authority granted? Is invoking the name of Jesus the key to this power?
+Doing something "in the name of Jesus" implies doing something with the authority and power behind His name. How is this authority granted? Is merely invoking the name of Jesus the ticket to this power?
 
 In Acts 19, we find a striking application of the name of Jesus:
 
 > Then some of the itinerant Jewish exorcists undertook to invoke the name of the Lord Jesus over those who had evil spirits, saying, "I adjure you by the Jesus whom Paul proclaims." Seven sons of a Jewish high priest named Sceva were doing this.
 
-These men had clearly seen the power in the name of Jesus witnessed by so many in Acts and had decided to apply some of this to their own handiwork. The result was clertainly not what they had in mind
+The term exorcist was applied to those who followed a formulaic approach to casting out deamons as a profession [check on this]. This would involve either finding out the name of the deamon and 'adjuring' it by name, or invoking the name of a higher power. [ref]
+
+These exorcists, no doubt, had seen the powerful signs wrought in the name of Jesus and desired to apply this higher power to their own handiwork. The results were certainly not what they had in mind
 
 > But the evil spirit answered them, "Jesus I know, and Paul I recognize, but who are you?" And the man in whom was the evil spirit leaped on them, mastered all of them and overpowered them, so that they fled out of that house naked and wounded.
+
 
 Further points:
 - Christ and how the Father gave authority to Him
 - Christ gave authority to the disciples specifically for what they were doing in Acts
 - Not everyone that says Lord, Lord
+
+Authority must be used in line with God's Will
+==============================================
+
+- Matt 7:21-22 - not everyone who says Lord Lord
+- Luke 6:46 - the house built upon rock and the house built upon sand
+
+Works built without a solid foundaation (God's Will) will not last.
+
 
 Notes
 =====
