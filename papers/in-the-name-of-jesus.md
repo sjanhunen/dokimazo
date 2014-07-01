@@ -49,6 +49,11 @@ While there is certainly much more to be closely studied in this passage, a key 
 
 > And his name--by faith in his name--has made this man strong whom you see and know, and the faith that is through Jesus has given the man this perfect health in the presence of you all. [Acts 3:16 ESV]
 
+Look at this carefully to understand the 3 components
+- Name
+- Faith in his name or Faith of his name
+- Faith through Jesus
+
 It was "his name", or the power and authority of Jesus, that had healed this man. But it was Peter's "faith in His name" that was the necessary link in the chain in this situation that made the difference between mere words and real power.
 
 
