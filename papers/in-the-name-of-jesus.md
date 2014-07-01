@@ -41,26 +41,28 @@ The disciples, on the other hand, were directly comissioned by Jesus for exactly
 > And he called to him his twelve disciples and gave them authority over unclean spirits, to cast them out, and to heal every disease and every affliction.
 [Mat 10:1 ESV]
 
-Moreover, this mission was to a specific people and for a specific purpose
-
-> These twelve Jesus sent out, instructing them, "Go nowhere among the Gentiles and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel. And proclaim as you go, saying, 'The kingdom of heaven is at hand.' Heal the sick, raise the dead, cleanse lepers, cast out demons..."
-
 This authority extended further than just the immediate 12 disciples, as we can see later in Mark
 
 > And these signs will accompany those who believe: in my name they will cast out demons; they will speak in new tongues; they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; they will lay their hands on the sick, and they will recover." [Mark 16:17-18]
 
-While there is certainly much more to be closely studied in this passage, a key point is that the power and authority required for "these signs", which describe the miracles performed in the name of Jesus throughout the gospels and the book of Acts, is believe. 
+While there is certainly much more to be closely studied in this passage, a key point is that the power and authority required for "these signs", which describe the miracles performed in the name of Jesus throughout the gospels and the book of Acts, is belief. Invoking the name of Jesus is always done by faith. Peter sums this up concisely in Acts 3 after healing the lame man
 
+> And his name--by faith in his name--has made this man strong whom you see and know, and the faith that is through Jesus has given the man this perfect health in the presence of you all. [Acts 3:16 ESV]
 
+It was "his name", or the power and authority of Jesus, that had healed this man. But it was Peter's "faith in His name" that was the necessary link in the chain in this situation that made the difference between mere words and real power.
 
 
 Further points:
 - Christ and how the Father gave authority to Him
-- Christ gave authority to the disciples specifically for what they were doing in Acts
-- Authority is always given in some relationship context
+
 
 Authority must be used in line with God's Will
 ==============================================
+
+The signs were for a specific reason
+
+> These twelve Jesus sent out, instructing them, "Go nowhere among the Gentiles and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel. And proclaim as you go, saying, 'The kingdom of heaven is at hand.' Heal the sick, raise the dead, cleanse lepers, cast out demons..."
+
 
 - Matt 7:21-22 - not everyone who says Lord Lord
 - Luke 6:46 - the house built upon rock and the house built upon sand
