@@ -61,7 +61,7 @@ Further points:
 - Christ and how the Father gave authority to Him
 
 
-Authority must be used in line with God's Will
+Authority is for a purpose
 ==============================================
 
 The signs were for a specific reason
