@@ -30,11 +30,28 @@ In Acts 19, we find a striking application of the name of Jesus:
 
 > Then some of the itinerant Jewish exorcists undertook to invoke the name of the Lord Jesus over those who had evil spirits, saying, "I adjure you by the Jesus whom Paul proclaims." Seven sons of a Jewish high priest named Sceva were doing this.
 
-The term exorcist was applied to those who followed a formulaic approach to casting out deamons as a profession [check on this]. This would involve either finding out the name of the deamon and 'adjuring' it by name, or invoking the name of a higher power. [ref]
-
-These exorcists, no doubt, had seen the powerful signs wrought in the name of Jesus and desired to apply this higher power to their own handiwork. The results were certainly not what they had in mind
+The term exorcist was applied to those who followed a formulaic approach to casting out deamons as a profession [ref check]. Typically this would be done by either finding out the name of the evil spirit and commanding it to leave by name, or invoking the name of a higher power to command it to leave.  These exorcists, no doubt, had seen the powerful signs wrought through the name of Jesus and desired to apply this higher power to their own handiwork. The results were certainly not what they had in mind
 
 > But the evil spirit answered them, "Jesus I know, and Paul I recognize, but who are you?" And the man in whom was the evil spirit leaped on them, mastered all of them and overpowered them, so that they fled out of that house naked and wounded.
+
+In this case, the name of Jesus was invoked but power and authority were totally lacking, and the results were devistating. These men were trying to apply something that hadn't been authorized for their use.
+
+The disciples, on the other hand, were directly comissioned by Jesus for exactly what we find them doing in the book of Acts
+
+> And he called to him his twelve disciples and gave them authority over unclean spirits, to cast them out, and to heal every disease and every affliction.
+[Mat 10:1 ESV]
+
+Moreover, this mission was to a specific people and for a specific purpose
+
+> These twelve Jesus sent out, instructing them, "Go nowhere among the Gentiles and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel. And proclaim as you go, saying, 'The kingdom of heaven is at hand.' Heal the sick, raise the dead, cleanse lepers, cast out demons..."
+
+This authority extended further than just the immediate 12 disciples, as we can see later in Mark
+
+> And these signs will accompany those who believe: in my name they will cast out demons; they will speak in new tongues; they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; they will lay their hands on the sick, and they will recover." [Mark 16:17-18]
+
+While there is certainly much more to be closely studied in this passage, a key point is that the power and authority required for "these signs", which describe the miracles performed in the name of Jesus throughout the gospels and the book of Acts, is believe. 
+
+
 
 
 Further points:
@@ -47,7 +64,10 @@ Authority must be used in line with God's Will
 
 - Matt 7:21-22 - not everyone who says Lord Lord
 - Luke 6:46 - the house built upon rock and the house built upon sand
+- Mark 9:38-9:40
+- If devils are cast out by the spirit of God, the kingdom of heaven is at hand
 
+"You received without paying; give without pay."
 Works built without a solid foundaation (God's Will) will not last.
 
 
