@@ -1,4 +1,4 @@
-Name represents authority
+In His Name: Authority
 ==========================
 
 What does it mean to do something 'in the name of Jesus'? How often have you heard a phrase like "in the name of the Father, the Son, and the Holy Spirit" used without any real though given to its significance? How many things have been done "in the name of God" that really have nothing to do with Him and His purposes?
@@ -21,7 +21,7 @@ The book of Acts contains a number of excellent examples of the phrase "in the n
 In each of these cases, it is clear that real power is manifested in every application of the name of Jesus. So much so, that when Peter is questioned by the high priest after healing the lame man, he is asked "by what power or by what name did you do this?" (Acts 4:7). Peter was clear in his answer: "by the name of Jesus Christ of Nazareth...this man is standing before you well". 
 
 
-Authority must be given
+In His Name: Faith
 =======================
 
 Doing something "in the name of Jesus" implies doing something with the authority and power behind His name. How is this authority granted? Is merely invoking the name of Jesus the ticket to this power?
@@ -61,7 +61,7 @@ Further points:
 - Christ and how the Father gave authority to Him
 
 
-Authority is for a purpose
+In His Name: Purpose
 ==============================================
 
 The signs were for a specific reason
