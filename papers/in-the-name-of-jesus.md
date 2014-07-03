@@ -20,11 +20,14 @@ The book of Acts contains a number of excellent examples of the phrase "in the n
 
 In each of these cases, it is clear that real power is manifested in every application of the name of Jesus. So much so, that when Peter is questioned by the high priest after healing the lame man, he is asked "by what power or by what name did you do this?" (Acts 4:7). Peter was clear in his answer: "by the name of Jesus Christ of Nazareth...this man is standing before you well". 
 
+Further points:
+- Christ and how the Father gave authority to Him
+
 
 In His Name: Faith
 =======================
 
-Doing something "in the name of Jesus" implies doing something with the authority and power behind His name. How is this authority granted? Is merely invoking the name of Jesus the ticket to this power?
+Doing something "in the name of Jesus" implies doing something with all that His name stands for: the authority and power of Jesus. But how is this authority received? Is merely invoking His name all that is required?
 
 In Acts 19, we find a striking application of the name of Jesus:
 
@@ -34,31 +37,29 @@ The term exorcist was applied to those who followed a formulaic approach to cast
 
 > But the evil spirit answered them, "Jesus I know, and Paul I recognize, but who are you?" And the man in whom was the evil spirit leaped on them, mastered all of them and overpowered them, so that they fled out of that house naked and wounded.
 
-In this case, the name of Jesus was invoked but power and authority were totally lacking, and the results were devistating. These men were trying to apply something that hadn't been authorized for their use.
+In this case, the name of Jesus was invoked but real power and authority were totally lacking. The results were devistating. These men were trying to apply something that didn't belong to them.
 
-The disciples, on the other hand, were directly comissioned by Jesus for exactly what we find them doing in the book of Acts
+The disciples, on the other hand, were most certainly authorized to exercise this power
 
 > And he called to him his twelve disciples and gave them authority over unclean spirits, to cast them out, and to heal every disease and every affliction.
 [Mat 10:1 ESV]
 
-This authority extended further than just the immediate 12 disciples, as we can see later in Mark
+And we find them doing exactly these things in the book of Acts. This authority extended further than just the immediate 12 disciples, as we can see Jesus explaining in Mark
 
 > And these signs will accompany those who believe: in my name they will cast out demons; they will speak in new tongues; they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; they will lay their hands on the sick, and they will recover." [Mark 16:17-18]
 
-While there is certainly much more to be closely studied in this passage, a key point is that the power and authority required for "these signs", which describe the miracles performed in the name of Jesus throughout the gospels and the book of Acts, is belief. Invoking the name of Jesus is always done by faith. Peter sums this up concisely in Acts 3 after healing the lame man
+The critical link here is the fact that "these signs" follow out of belief. It is by faith that this authority and power is received. This is not a mere belief in the existence of Jesus, but a convinction of who He really is. When Jesus asked Peter  "But who do you say that I am?" [Mar 8:29 ESV], Peter's response was not "a good teacher" or "a propher" but simply "You are the Christ." Peter knew that Christ was the Messiah, the Anointed One, the one promised to come so long ago.
+
+The fact that the name of Jesus must be invoked by faith is summed up concisely in Acts 3, when Peter is explaining the healing of the lame man to the crowd at the temple
 
 > And his name--by faith in his name--has made this man strong whom you see and know, and the faith that is through Jesus has given the man this perfect health in the presence of you all. [Acts 3:16 ESV]
 
+> "And on the basis of faith in His name, it is the name of Jesus which has strengthened this man whom you see and know; and the faith which comes through Him has given him this perfect health in the presence of you all. [Act 3:16 NASB]
+
 Look at this carefully to understand the 3 components
-- Name
-- Faith in his name or Faith of his name
-- Faith through Jesus
-
-It was "his name", or the power and authority of Jesus, that had healed this man. But it was Peter's "faith in His name" that was the necessary link in the chain in this situation that made the difference between mere words and real power.
-
-
-Further points:
-- Christ and how the Father gave authority to Him
+- Faith in the name of Jesus - Peter knew who Christ was and we see this in the preceding verses
+- The Name of Jesus has strengthened - the power was from Christ
+- Faith through Him - the faith Peter has was through Christ ("flesh and blood hath not revelaed this")
 
 
 In His Name: Purpose
@@ -76,6 +77,11 @@ The signs were for a specific reason
 
 "You received without paying; give without pay."
 Works built without a solid foundaation (God's Will) will not last.
+
+In His Name: Glory
+==================
+
+TBD
 
 
 Notes
