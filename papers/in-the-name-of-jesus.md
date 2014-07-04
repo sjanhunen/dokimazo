@@ -48,18 +48,20 @@ And we find them doing exactly these things in the book of Acts. This authority 
 
 > And these signs will accompany those who believe: in my name they will cast out demons; they will speak in new tongues; they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; they will lay their hands on the sick, and they will recover." [Mark 16:17-18]
 
-The critical link here is the fact that "these signs" follow out of belief. It is by faith that this authority and power is received. This is not a mere belief in the existence of Jesus, but a convinction of who He really is. When Jesus asked Peter  "But who do you say that I am?" [Mar 8:29 ESV], Peter's response was not "a good teacher" or "a propher" but simply "You are the Christ." Peter knew that Christ was the Messiah, the Anointed One, the one promised to come so long ago.
+The critical link here is the fact that "these signs" follow out of belief. It is by faith that this authority and power is received. This is not a mere belief in the existence of Jesus, but a convinction of who He really is. When Jesus asked Peter  "But who do you say that I am?" [Mar 8:29 ESV], Peter's response was not "a good teacher" or "a propher" but simply "You are the Christ." Peter knew that Christ was the Messiah, the Anointed One, the Son of God.
 
 The fact that the name of Jesus must be invoked by faith is summed up concisely in Acts 3, when Peter is explaining the healing of the lame man to the crowd at the temple
 
 > And his name--by faith in his name--has made this man strong whom you see and know, and the faith that is through Jesus has given the man this perfect health in the presence of you all. [Acts 3:16 ESV]
 
+The rendering of this verse in NASB prooves helpful for understanding
+
 > "And on the basis of faith in His name, it is the name of Jesus which has strengthened this man whom you see and know; and the faith which comes through Him has given him this perfect health in the presence of you all. [Act 3:16 NASB]
 
-Look at this carefully to understand the 3 components
-- Faith in the name of Jesus - Peter knew who Christ was and we see this in the preceding verses
-- The Name of Jesus has strengthened - the power was from Christ
-- Faith through Him - the faith Peter has was through Christ ("flesh and blood hath not revelaed this")
+There are three components to Peter's explanation of the healing of the lame man:
+- The basis - faith in Jesus as Messiah, the Son of God, is the basis of any work done in His name. Peter is clearly explaining who Jesus was in the preceding verses.
+- The power - the healing was not done by Peter nor was it a result of Peter's faith. This was the power of the Son of God at work.
+- The source - faith was ultimately given from the Father, but it was through the Son. ("flesh and blood hath not revelaed this")
 
 
 In His Name: Purpose
