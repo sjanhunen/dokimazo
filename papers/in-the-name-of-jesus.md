@@ -18,11 +18,13 @@ The book of Acts contains a number of excellent examples of the phrase "in the n
 - Speaking and teaching in the name of Jesus - Peter and John were threatened to not do this (Acts 4:18)
 - Casting out evil spirits in the name of Jesus - Paul cast out the spirit of divination from the damsel (Acts 16:18)
 
-In each of these cases, it is clear that real power is manifested in every application of the name of Jesus. So much so, that when Peter is questioned by the high priest after healing the lame man, he is asked "by what power or by what name did you do this?" (Acts 4:7). Peter was clear in his answer: "by the name of Jesus Christ of Nazareth...this man is standing before you well". 
+In each of these cases, it is clear that real power is manifested in every application of the name of Jesus.
 
 Further points:
-- Christ and how the Father gave authority to Him
-
+- John 10:25 - Christ did works in His Father's name
+- Phil 2:10-11 - at the name of Jesus every knee should bow
+- John 5:43 - I am come in my Father's name
+- Mark 1:27 - He commanded the unclean spirits with authority
 
 In His Name: Faith
 =======================
@@ -61,7 +63,7 @@ The rendering of this verse in NASB prooves helpful for understanding
 There are three components to Peter's explanation of the healing of the lame man:
 - The basis - faith in Jesus as Messiah, the Son of God, is the basis of any work done in His name. Peter is clearly explaining who Jesus was in the preceding verses.
 - The power - the healing was not done by Peter nor was it a result of Peter's faith. This was the power of the Son of God at work.
-- The source - faith was ultimately given from the Father, but it was through the Son. ("flesh and blood hath not revelaed this")
+- The source - faith was ultimately given from the Father, but it was through the Son. ("flesh and blood hath not revelaed this" and also see Mat 11:27)
 
 
 In His Name: Purpose
@@ -74,6 +76,7 @@ The signs were for a specific reason
 
 - Matt 7:21-22 - not everyone who says Lord Lord
 - Luke 6:46 - the house built upon rock and the house built upon sand
+- Luke 9:1-4 - Jesus gave disciples authority and power
 - Mark 9:38-9:40
 - If devils are cast out by the spirit of God, the kingdom of heaven is at hand
 
