@@ -20,10 +20,10 @@ The book of Acts contains a number of excellent examples of the phrase "in the n
 
 In each of these cases, it is clear that real power is manifested in every application of the name of Jesus.
 
-Further points:
-- John 10:25 - Christ did works in His Father's name
+Points for further development:
 - Phil 2:10-11 - at the name of Jesus every knee should bow
-- John 5:43 - I am come in my Father's name
+- John 5:43 - I am come in my Father's name: see all that the Father authorized the Son to do
+- John 10:25 - Christ did works in His Father's name
 - Mark 1:27 - He commanded the unclean spirits with authority
 
 In His Name: Faith
@@ -64,6 +64,10 @@ There are three components to Peter's explanation of the healing of the lame man
 - The basis - faith in Jesus as Messiah, the Son of God, is the basis of any work done in His name. Peter is clearly explaining who Jesus was in the preceding verses.
 - The power - the healing was not done by Peter nor was it a result of Peter's faith. This was the power of the Son of God at work.
 - The source - faith was ultimately given from the Father, but it was through the Son. ("flesh and blood hath not revelaed this" and also see Mat 11:27)
+
+TODO:
+- check on exorists for hire
+- add comment on freely you have received, freely give
 
 
 In His Name: Purpose
