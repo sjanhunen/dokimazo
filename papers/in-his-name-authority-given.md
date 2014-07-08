@@ -12,12 +12,11 @@ According to Vine's Expository Dictionary of the New Testament, the word name (o
 
 Whlie a simple proper name is the most common usage of this word, what we are considering here is definitely more aligned with the second meaning: a figurative use that represents the authority and power behind the name.
 
-A clear example of this is found in
-- Phil 2:10-11 - at the name of Jesus every knee should bow
-
-The Father sent the Son as a witness for Him. Because of this, He was able to say that He came in the name of the Father 
-
 Jhn 5:43 ESV - I have come in my Father's name, and you do not receive me. If another comes in his own name, you will receive him.
+- The Father loves the Son and shows Him works (v20)
+- He was sent by the Father (v37)
+- He was given authority to execute Judgment (v27)
+- He was given life from the Father (v26)
 
 Jhn 10:25 ESV - Jesus answered them, "I told you, and you do not believe. The works that I do in my Father's name bear witness about me,
 
@@ -32,6 +31,5 @@ The book of Acts contains a number of excellent examples of the phrase "in the n
 In each of these cases, it is clear that real power is manifested in every application of the name of Jesus.
 
 Points for further development:
-- John 5:43 - I am come in my Father's name: see all that the Father authorized the Son to do
 - John 10:25 - Christ did works in His Father's name
 - Mark 1:27 - He commanded the unclean spirits with authority
