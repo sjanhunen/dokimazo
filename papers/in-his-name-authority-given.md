@@ -18,18 +18,23 @@ Jhn 5:43 ESV - I have come in my Father's name, and you do not receive me. If an
 - He was given authority to execute Judgment (v27)
 - He was given life from the Father (v26)
 
-Jhn 10:25 ESV - Jesus answered them, "I told you, and you do not believe. The works that I do in my Father's name bear witness about me,
 
-The Disciples were authorized to be witnesses for Jesus, much in the same was He was a witness for the Father.
+Not only did Jesus come in the name of the Father, representing the Father as the Son, the works He did were done in the name of the Father.
 
-The book of Acts contains a number of excellent examples of the phrase "in the name of Jesus" (epi onoma lesous). Throughout this book, we see the Apostles
-- Baptizing in the name of Jesus - Peter at Penticost (Acts 2:38)
-- Healing in the name of Jesus - Peter and John with the lame man at the temple (Acts 3:6)
+> Jesus answered them, "I told you, and you do not believe. The works that I do in my Father's name bear witness about me" (John 10:25 ESV)
+
+Just as Jesus received authority from the Father, He gave authority to His disciples to be witnesses for Him
+
+> And he called the twelve together and gave them power and authority over all demons and to cure diseases, and he sent them out to proclaim the kingdom of God and to heal. (Luke 9:1-2 ESV)
+
+Looking at how the phrase "in the name of Jesus" is used in Acts, we see examples of the disciples doing exactly these things:
+
 - Speaking and teaching in the name of Jesus - Peter and John were threatened to not do this (Acts 4:18)
+- Healing in the name of Jesus - Peter and John with the lame man at the temple (Acts 3:6)
 - Casting out evil spirits in the name of Jesus - Paul cast out the spirit of divination from the damsel (Acts 16:18)
+
 
 In each of these cases, it is clear that real power is manifested in every application of the name of Jesus.
 
 Points for further development:
-- John 10:25 - Christ did works in His Father's name
 - Mark 1:27 - He commanded the unclean spirits with authority
