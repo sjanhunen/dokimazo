@@ -13,10 +13,11 @@ According to Vine's Expository Dictionary of the New Testament, the word name (o
 Whlie a simple proper name is the most common usage of this word, what we are considering here is definitely more aligned with the second meaning: a figurative use that represents the authority and power behind the name.
 
 Jhn 5:43 ESV - I have come in my Father's name, and you do not receive me. If another comes in his own name, you will receive him.
-- The Father loves the Son and shows Him works (v20)
+- He was shown the works that He did by the Father (v20)
+- He was given life as the Father has life in Himself (v26)
+- He was given authority to execute judgment (v27)
+- He was seeking the will of the Father, not His own will (v30)
 - He was sent by the Father (v37)
-- He was given authority to execute Judgment (v27)
-- He was given life from the Father (v26)
 
 
 Not only did Jesus come in the name of the Father, representing the Father as the Son, the works He did were done in the name of the Father.
