@@ -1,16 +1,13 @@
 In His Name: Authority Given
 ============================
 
-What does it mean to do something 'in the name of Jesus'? How often have you heard a phrase like "in the name of the Father, the Son, and the Holy Spirit" used without any real though given to its significance? How many things have been done "in the name of God" that really have nothing to do with Him and His purposes?
+What does it mean to do something 'in the name of Jesus'? Perhaps you have concluded your prayers "in Jesus name" without giving much thought to the real meaning behind the phrase. We probably realize that when something is done or said "in His name", the intention is not merely to include His name like a signature on a card, but to somehow invoke the authority and power of Jesus. In other words, we believe that His name represents His authority. Actions performed or words spoken in His name have something backing them that would otherwise be missing. But what is this authority? And how do we know that we can actually claim it?
 
-According to Vine's Expository Dictionary of the New Testament, the word name (onoma in the Greek), can be used in the following ways
 
-1. name: univ. of proper names
-2. for all that a "name" implies, of authority, character, rank, majesty, power, excellence, etc., of everything that the "name" covers
-3. persons reckoned up by name
-4. the cause or reason named: on this account, because he suffers as a Christian, for this reason
+In John 5, Jesus was dealing with questions surrounding His own authority.
 
-Whlie a simple proper name is the most common usage of this word, what we are considering here is definitely more aligned with the second meaning: a figurative use that represents the authority and power behind the name.
+[Discuss "breaking" Sabbath and God as Father]
+
 
 Jhn 5:43 ESV - I have come in my Father's name, and you do not receive me. If another comes in his own name, you will receive him.
 - He was shown the works that He did by the Father (v20)
@@ -36,6 +33,3 @@ Looking at how the phrase "in the name of Jesus" is used in Acts, we see example
 
 
 In each of these cases, it is clear that real power is manifested in every application of the name of Jesus.
-
-Points for further development:
-- Mark 1:27 - He commanded the unclean spirits with authority
