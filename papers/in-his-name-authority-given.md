@@ -1,9 +1,11 @@
 In His Name: Authority
 ======================
 
-What does it mean to do something 'in the name of Jesus'? Perhaps you have concluded your prayers "in Jesus name" without giving much thought to the real meaning behind the phrase. We probably realize that when something is done or said "in His name", the intention is not merely to include His name like a signature on a card, but to somehow invoke the authority and power of Jesus. In other words, we believe that His name represents His authority. Actions performed or words spoken in His name have something backing them that would otherwise be missing. But what is this authority? And how do we know that we can actually claim it?
+What does it mean to do something 'in the name of Jesus'? Perhaps you have concluded your prayers "in Jesus name" without giving much thought to the real meaning behind the phrase. We probably realize that when something is done or said "in His name", the intention is not merely to include His name like a signature on a card, but to somehow invoke the authority and power of Jesus. In other words, we believe that His name represents His authority. Actions performed or words spoken in His name have something backing them that would otherwise be missing.
 
-During His earthly ministry, Jesus faced questions about His authority from the Jewish religious leaders. As recorded in the Gospels of Matthew, Mark, and Luke, while teaching in the temple, the religious leaders asked Him by what authorty He did those things. They realized that there was power behind both His teaching and His works, but they refused to believe this came from God. In all three recorded instances, Jesus answers their questions with another question: "The baptism of John, from where did it come? From heaven or from man?". This question was a trap - TBD!
+During His earthly ministry, Jesus faced questions about His authority from the Jewish religious leaders.  The people listening to Jesus realized there was something different about His teaching, something that was not present when the scribes taught. His words had an authority that simply was not present when the scribes taught (Matt 7:29). The religious leaders we realizing this and, no doubt, beginning to get concerned about what this might mean for thier own authority and power. Finally, they confronted Him while teaching in the temple and asked “By what authority are you doing these things, and who gave you this authority?” (Matt 21:23).
+
+As recorded in the Gospels of Matthew, Mark, and Luke, while teaching in the temple, the religious leaders asked Him by what authorty He did those things. They realized that there was power behind both His teaching and His works, but they refused to believe this came from God. In all three recorded instances, Jesus answers their questions with another question: "The baptism of John, from where did it come? From heaven or from man?". This question was a trap - TBD!
 
 In the Gospel of John, Jesus has a different encounter with the religious leaders of His day. 
 [Discuss "breaking" Sabbath and God as Father]
@@ -11,6 +13,8 @@ In the Gospel of John, Jesus has a different encounter with the religious leader
 This time, He explains the source of His authoritiy:
 
 > I have come in my Father's name, and you do not receive me. [Jhn 5:43 ESV]
+
+It's easy to think that since Jesus was God, there was no need for Him to ever receive this authority. But when he came to earth, He humbled himself, He laid aside all of His glory. As we see here, as a true Son of His Father, everything He had was given to Him. He did not assume or take something that didn't belong to Him.
 
 Coming in His Father's name didn't mean that Jesus just went around announcing that God was His Father or that He was the Messiah. In fact, He often told people to not spread word of this around. In John 5, Jesus explains what it means for Him to have come in His Father's name.
 
