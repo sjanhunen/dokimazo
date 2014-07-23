@@ -1,9 +1,9 @@
 In His Name: Authority
 ======================
 
-What does it mean to do something 'in the name of Jesus'? Perhaps you have concluded your prayers "in Jesus name" without giving much thought to the real meaning behind the phrase. We probably realize that when something is done or said "in His name", the intention is not merely to include His name like a signature on a card, but to somehow invoke the authority and power of Jesus. In other words, we believe that His name represents His authority. Actions performed or words spoken in His name have something backing them that would otherwise be missing.
+What does it mean to do something 'in the name of Jesus'? Perhaps you have concluded your prayers "in Jesus name" without giving much thought to the real meaning behind the phrase. We realize that when something is done or said "in His name", the intention is not merely to include His name like a signature, but to somehow invoke the authority and power of Jesus. In other words, we believe that His name represents His authority. Actions performed or words spoken in His name have something backing them that would otherwise be missing.
 
-During His earthly ministry, Jesus faced questions about His authority from the Jewish religious leaders.  The people listening to Jesus realized there was something different about His teaching, something that was not present when the scribes taught. His words had an authority that simply was not present when the scribes taught (Matt 7:29). The religious leaders we realizing this and, no doubt, beginning to get concerned about what this might mean for thier own authority and power. Finally, they confronted Him while teaching in the temple and asked “By what authority are you doing these things, and who gave you this authority?” (Matt 21:23).
+During His earthly ministry, Jesus faced questions surrounding His authority from the Jewish religious leaders numerous times.  The people listening to Jesus realized there was something different about Him. His teaching had authority that was not present when the scribes taught (Matt 7:29). His works displayed a real power. The religious leaders we realizing this and, no doubt, beginning to get concerned about what this might mean for thier own positions. Finally, they confronted Him while teaching in the temple and asked “By what authority are you doing these things, and who gave you this authority?” (Matt 21:23).
 
 As recorded in the Gospels of Matthew, Mark, and Luke, while teaching in the temple, the religious leaders asked Him by what authorty He did those things. They realized that there was power behind both His teaching and His works, but they refused to believe this came from God. In all three recorded instances, Jesus answers their questions with another question: "The baptism of John, from where did it come? From heaven or from man?". This question was a trap - TBD!
 
@@ -13,6 +13,8 @@ In the Gospel of John, Jesus has a different encounter with the religious leader
 This time, He explains the source of His authoritiy:
 
 > I have come in my Father's name, and you do not receive me. [Jhn 5:43 ESV]
+
+John presents Jesus as the Son of God. As a true faithful son, everything He had and did was received from the Father. He never took something that didn't belong to Him.
 
 It's easy to think that since Jesus was God, there was no need for Him to ever receive this authority. But when he came to earth, He humbled himself, He laid aside all of His glory. As we see here, as a true Son of His Father, everything He had was given to Him. He did not assume or take something that didn't belong to Him.
 
@@ -24,12 +26,14 @@ Coming in His Father's name didn't mean that Jesus just went around announcing t
 - He was seeking the will of the Father, not His own will (v30)
 - He was sent by the Father (v37)
 
-The works done in the name of the Father were the credentials of Jesus. He didn't go around listing His credentials to everyone. 
-
-
-Not only did Jesus come in the name of the Father, representing the Father as the Son, the works He did were done in the name of the Father.
+Not only did Jesus come in the name of the Father, representing the Father as the Son, the works He did were done in the name of the Father. The works done in the name of the Father were the credentials of Jesus. He didn't go around listing His credentials to everyone. 
 
 > Jesus answered them, "I told you, and you do not believe. The works that I do in my Father's name bear witness about me" (John 10:25 ESV)
+
+In order to come in the name of the Father, Jesus had a relationship with the Father and was sent by the Father.
+
+Notes for other entries
+-----------------------
 
 Just as Jesus received authority from the Father, He gave authority to His disciples to be witnesses for Him
 
