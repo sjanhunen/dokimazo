@@ -15,7 +15,7 @@ These leaders finally confront Jesus while teaching in the temple, as recorded i
 > Leaders (to Jesus): We cannot answer your question.
 > Jesus: I won't answer your question either.
 
-*TODO*: confirm the order of these incidents. I suspect the healing (outside the Temple) happened before the teaching (inside the Temple).
+*TODO*: confirm the order of these incidents. I suspect the healing (outside the Temple) happened before the teaching (inside the Temple). I believe so: http://www.welcometohosanna.com/LIFE_OF_JESUS/036_Ministry16JourneyToJerusalem.htm. The visit in John would not be the same as the last visit recorded in Matthew. So by the end of His ministry, Jesus had a different strategy in answering these sorts of questions than at the beginning.
 
 Jesus does not directly answer their question: He asks them another question in response. To fully appreciate the line of reasoning Jesus takes here, we have to review an incident earlier in His ministry.
 
