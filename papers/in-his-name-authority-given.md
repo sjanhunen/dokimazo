@@ -73,3 +73,5 @@ Looking at how the phrase "in the name of Jesus" is used in Acts, we see example
 Question: How much of what we do in His name is merely building sand castles that will not last?
 
 In each of these cases, it is clear that real power is manifested in every application of the name of Jesus.
+
+Study usage of the word 'authority': http://www.blueletterbible.org/lang/lexicon/lexicon.cfm?page=2&strongs=G1849&t=KJV#lexResults
