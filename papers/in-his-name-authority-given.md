@@ -1,18 +1,24 @@
 In His Name: Authority
 ======================
 
-What does it mean to do something 'in the name of Jesus'? Perhaps you have concluded your prayers "in Jesus name" without giving much thought to the real meaning behind the phrase. We realize that when something is done or said "in His name", the intention is not merely to include His name like a signature, but to somehow invoke the authority and power of Jesus. In other words, we believe that His name represents His authority.
+What does it mean to do something 'in the name of Jesus'? Perhaps you conclude your prayers "in Jesus name" without giving much thought to the significance of the phrase. We realize that when something is done or said "in His name", the intention is not merely to include His name like a signature, but to somehow invoke the authority and power of Jesus. In other words, His name is used to represent His authority. To fully appreciate what it means to do something in the name or the authority of Christ, we must understand the authority of Christ Himself and how he received it from the God the Father.
 
 During His earthly ministry, the Jewish religious leaders were constantly challenging the authority of Jesus.  The people listening to His teaching realized there was something different about Him. His words had authority that was not present when the scribes taught (Matt 7:29). His works displayed a real power. The religious leaders we realizing this and, no doubt, beginning to get concerned about what this might mean for thier own positions.
 
 These leaders finally confront Jesus while teaching in the temple, as recorded in the gospels of Matthew, Mark, and Luke. A lighthearted pharapharase might go something like this
 
 > Leaders: Who said you could teach in the Temple?
-> Jesus: I have a question for you first. If you can answer it, I will answer yours. 
+
+> Jesus: I have a question for you first. If you can answer it, I will answer yours.
+
 > Leaders (thinking silently): Where is he going with this?
+
 > Jesus: Who gave John the authority to baptize? Was it God or man?
+
 > Leaders (whispering amongst themselves): If we say God, he will ask us why we didn't listen to John. If we say man, the people will be angry with us since everybody believes he was sent by God.
+
 > Leaders (to Jesus): We cannot answer your question.
+
 > Jesus: I won't answer your question either.
 
 *TODO*: confirm the order of these incidents. I suspect the healing (outside the Temple) happened before the teaching (inside the Temple). I believe so: http://www.welcometohosanna.com/LIFE_OF_JESUS/036_Ministry16JourneyToJerusalem.htm. The visit in John would not be the same as the last visit recorded in Matthew. So by the end of His ministry, Jesus had a different strategy in answering these sorts of questions than at the beginning.
@@ -20,6 +26,8 @@ These leaders finally confront Jesus while teaching in the temple, as recorded i
 Jesus does not directly answer their question: He asks them another question in response. To fully appreciate the line of reasoning Jesus takes here, we have to review an incident earlier in His ministry.
 
 In John 5, on His way into Jerusalem, Jesus heals a lame man beside the pool called Bethesda.
+
+The leaders were Judging the only One who actually Had the authority to judge. They were accusing the author of the law of breaking His own law.
 
 Jesus answers their accusations by speaking about a relationship:
 
@@ -43,6 +51,11 @@ Not only did Jesus come in the name of the Father, representing the Father as th
 
 > Jesus answered them, "I told you, and you do not believe. The works that I do in my Father's name bear witness about me" (John 10:25 ESV)
 
+In this passage in John, we learn three critical things about the authority of Christ:
+- It was given to Him by His Father (John 5:27)
+- It was received and exercised through faith (John 5:30)
+- It was used in line with the Will of the Father (John 5:30)
+
 
 Notes for other entries
 -----------------------
@@ -57,5 +70,6 @@ Looking at how the phrase "in the name of Jesus" is used in Acts, we see example
 - Healing in the name of Jesus - Peter and John with the lame man at the temple (Acts 3:6)
 - Casting out evil spirits in the name of Jesus - Paul cast out the spirit of divination from the damsel (Acts 16:18)
 
+Question: How much of what we do in His name is merely building sand castles that will not last?
 
 In each of these cases, it is clear that real power is manifested in every application of the name of Jesus.
