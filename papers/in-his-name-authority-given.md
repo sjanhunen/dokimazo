@@ -7,7 +7,7 @@ During His earthly ministry, the Jewish religious leaders were constantly challe
 
 These leaders finally confront Jesus while teaching in the temple, as recorded in the gospels of Matthew, Mark, and Luke. A lighthearted pharapharase might go something like this
 
-> Leaders: Who said you could teach in the Temple?
+> Leaders: Who gave you the authority to teach in the Temple?
 
 > Jesus: I have a question for you first. If you can answer it, I will answer yours.
 
@@ -21,9 +21,9 @@ These leaders finally confront Jesus while teaching in the temple, as recorded i
 
 > Jesus: I won't answer your question either.
 
-*TODO*: confirm the order of these incidents. I suspect the healing (outside the Temple) happened before the teaching (inside the Temple). I believe so: http://www.welcometohosanna.com/LIFE_OF_JESUS/036_Ministry16JourneyToJerusalem.htm. The visit in John would not be the same as the last visit recorded in Matthew. So by the end of His ministry, Jesus had a different strategy in answering these sorts of questions than at the beginning.
-
 Jesus does not directly answer their question: He asks them another question in response. To fully appreciate the line of reasoning Jesus takes here, we have to review an incident earlier in His ministry.
+
+*TODO*: confirm the order of these incidents. I suspect the healing (outside the Temple) happened before the teaching (inside the Temple). I believe so: http://www.welcometohosanna.com/LIFE_OF_JESUS/036_Ministry16JourneyToJerusalem.htm. The visit in John would not be the same as the last visit recorded in Matthew. So by the end of His ministry, Jesus had a different strategy in answering these sorts of questions than at the beginning.
 
 In John 5, on His way into Jerusalem, Jesus heals a lame man beside the pool called Bethesda.
 
@@ -38,21 +38,14 @@ John presents Jesus as the Son of God. As a true faithful son, everything He had
 It's easy to think that since Jesus was God, there was no need for Him to ever receive this authority. But when he came to earth, He humbled himself, He laid aside all of His glory. As we see here, as a true Son of His Father, everything He had was given to Him. He did not assume or take something that didn't belong to Him.
 
 
-> I have come in my Father's name, and you do not receive me. [Jhn 5:43 ESV]
-
-In order to come in the name of the Father, Jesus had a relationship with the Father and was sent by the Father. In this chapter we see that this includes
-
-- The works that He did by the Father (v20)
-- Life as the Father has life in Himself (v26)
-- Authority to execute judgment (v27)
-- Will of the Father, not His own will (v30)
-
 Not only did Jesus come in the name of the Father, representing the Father as the Son, the works He did were done in the name of the Father. The works done in the name of the Father were the credentials of Jesus. He didn't go around listing His credentials to everyone. 
 
-> Jesus answered them, "I told you, and you do not believe. The works that I do in my Father's name bear witness about me" (John 10:25 ESV)
+> I have come in my Father's name, and you do not receive me. [Jhn 5:43 ESV]
+
+In order to come in the name of the Father, Jesus had a relationship with the Father and was sent by the Father.
 
 In this passage in John, we learn three critical things about the authority of Christ:
-- It was given to Him by His Father (John 5:27)
+- It was part of His relationship with the Father (John 5:27)
 - It was received and exercised through faith (John 5:30)
 - It was used in line with the Will of the Father (John 5:30)
 
