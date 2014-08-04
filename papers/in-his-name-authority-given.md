@@ -49,6 +49,11 @@ In this passage in John, we learn three critical things about the authority of C
 - It was received and exercised through faith (John 5:30)
 - It was used in line with the Will of the Father (John 5:30)
 
+To summarize, Christ sets the essential pattern for doing works "in His name":
+1. Authority given by God
+2. Exercised by faith
+3. In accordance with the Will of God
+
 
 Notes for other entries
 -----------------------
