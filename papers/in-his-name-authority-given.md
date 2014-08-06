@@ -3,7 +3,7 @@ In His Name: Authority
 
 What does it mean to do something 'in the name of Jesus'? Perhaps you conclude your prayers "in Jesus name" without giving much thought to the significance of the phrase. We realize that when something is done or said "in His name", the intention is not merely to include His name like a signature, but to somehow invoke the authority and power of Jesus. In other words, His name is used to represent His authority. To fully appreciate what it means to do something in the name or the authority of Christ, we must first understand the authority of Christ Himself. And we must understand how He received this authority.
 
-During His earthly ministry, Jesus faced a challenge to His authority from the Jewish religious leaders of the time. The people listening to His teaching realized there was something different about Him. His words had authority that was not present when the scribes taught (Matt 7:29). His works displayed a real power. No doubt the religious leaders we realizing this and beginning to get concerned about what this might mean for thier own positions of authority. This tension is brought to a climax as Jesus teaches in the temple and is confronted by the leaders. This scene unfolds in Matthew 21 and can be pharaphrased something like this:
+During His earthly ministry, Jesus faced a challenge to His authority from the Jewish religious leaders of the time. The people listening to His teaching realized there was something different about Him. His words had authority that was not present when the scribes taught (Matt 7:29). His works displayed a real power. No doubt the religious leaders were realizing this and beginning to get concerned about what this might mean for thier own positions of authority. This tension is brought to a climax as Jesus teaches in the temple and is confronted by the leaders. This scene unfolds in Matthew 21 and can be pharaphrased something like this:
 
 > Leaders: Who gave you the authority to do this?
 
@@ -19,13 +19,13 @@ During His earthly ministry, Jesus faced a challenge to His authority from the J
 
 > Jesus: I won't answer your question either.
 
-Just before this encounter, Jesus referred to the temple as "my house" and had cleaned house!
+Just before this encounter, Jesus had entered the temple and purged it of the moneychangers. He was, as we might say, "cleaning His house", because it had become something very different than a house of prayer. He healed the blind and lame that came to Him in the Temple. The people saw this and praised God, but the chief priests and scribes resented it. Jesus was in the very building where these leaders would have commanded the most authority and respect, and yet, He was the one really in control. No doubt, their outrage was also mixed with genuine curiosity. How did this man, who seemed to come out of nowhere, just show up and take control? He walked into the Temple as if it were His own.
 
-Jesus does not directly answer their question: He asks them another question in response. To fully appreciate the line of reasoning Jesus takes here, we have to review an incident earlier in His ministry.
+To appreciate the question Jesus asks in return, we need to look back to an earlier encounter that took place outside the Temple. In John 5, on His way into Jerusalem, Jesus heals a lame man beside the pool called Bethesda.
 
 *TODO*: confirm the order of these incidents. I suspect the healing (outside the Temple) happened before the teaching (inside the Temple). I believe so: http://www.welcometohosanna.com/LIFE_OF_JESUS/036_Ministry16JourneyToJerusalem.htm. The visit in John would not be the same as the last visit recorded in Matthew. So by the end of His ministry, Jesus had a different strategy in answering these sorts of questions than at the beginning. What is the significance of outside the temple versus in the temple?
 
-In John 5, on His way into Jerusalem, Jesus heals a lame man beside the pool called Bethesda.
+
 
 The leaders were Judging the only One who actually Had the authority to judge. They were accusing the author of the law of breaking His own law.
 
