@@ -3,7 +3,7 @@ In His Name: Authority
 
 What does it mean to do something 'in the name of Jesus'? Perhaps you conclude your prayers "in Jesus name" without giving much thought to the significance of the phrase. We realize that when something is done or said "in His name", the intention is not merely to include His name like a signature, but to somehow invoke the authority and power of Jesus. In other words, His name is used to represent His authority. To fully appreciate what it means to do something in the name or the authority of Christ, we must first understand the authority of Christ Himself. And we must understand how He received this authority.
 
-During His earthly ministry, Jesus faced a challenge to His authority from the Jewish religious leaders of the time. The people listening to His teaching realized there was something different about Him. His words had authority that was not present when the scribes taught (Matt 7:29). His works displayed a real power. No doubt the religious leaders were realizing this and beginning to get concerned about what this might mean for thier own positions of authority. This tension is brought to a climax as Jesus teaches in the temple and is confronted by the leaders. This scene unfolds in Matthew 21 and can be pharaphrased something like this:
+During His earthly ministry, Jesus faced a challenge to His authority from the Jewish religious leaders of the time. The people listening to His teaching realized there was something different about Him. His words had authority that was not present when the scribes taught (Matt 7:29). His works displayed a real power. No doubt the religious leaders were realizing this and beginning to get concerned about what this might mean for thier own positions of authority. This tension is brought to a climax as Jesus teaches in the temple and is confronted by the leaders. This scene unfolds in [Matthew 21][1] and can be pharaphrased something like this:
 
 > Leaders: Who gave you the authority to do this?
 
@@ -21,22 +21,15 @@ During His earthly ministry, Jesus faced a challenge to His authority from the J
 
 Just before this encounter, Jesus had entered the temple and purged it of the moneychangers. He was, as we might say, "cleaning His house", because it had become something very different than a house of prayer. He healed the blind and lame that came to Him in the Temple. The people saw this and praised God, but the chief priests and scribes resented it. Jesus was in the very building where these leaders would have commanded the most authority and respect, and yet, He was the one really in control. No doubt, their outrage was also mixed with genuine curiosity. How did this man, who seemed to come out of nowhere, just show up and take control? He walked into the Temple as if it were His own.
 
-To appreciate the question Jesus asks in return, we need to look back to an earlier encounter that took place outside the Temple. In John 5, on His way into Jerusalem, Jesus heals a lame man beside the pool called Bethesda.
+To appreciate the approach Jesus takes in answering this question, we need to look back to an earlier incident that took place outside the Temple on one of His [earlier visits][2] to Jerusalem recorded in John 5. Jesus healed a lame man beside the pool Bethesda. The catch here is that this took place on the Sabbath.
 
-*TODO*: confirm the order of these incidents. I suspect the healing (outside the Temple) happened before the teaching (inside the Temple). I believe so: http://www.welcometohosanna.com/LIFE_OF_JESUS/036_Ministry16JourneyToJerusalem.htm. The visit in John would not be the same as the last visit recorded in Matthew. So by the end of His ministry, Jesus had a different strategy in answering these sorts of questions than at the beginning. What is the significance of outside the temple versus in the temple?
-
-
-
-The leaders were Judging the only One who actually Had the authority to judge. They were accusing the author of the law of breaking His own law.
-
-Jesus answers their accusations by speaking about a relationship:
+The leaders were Judging the only One who actually Had the authority to judge. They were accusing the author of the law and the judge Himself of breaking His own law. Jesus answers their accusations by speaking about a relationship:
 
 > But Jesus answered them, "My Father is working until now, and I am working." [John 5:17 ESV]
 
 John presents Jesus as the Son of God. As a true faithful son, everything He had and did was received from the Father. He never took something that didn't belong to Him.
 
 It's easy to think that since Jesus was God, there was no need for Him to ever receive this authority. But when he came to earth, He humbled himself, He laid aside all of His glory. As we see here, as a true Son of His Father, everything He had was given to Him. He did not assume or take something that didn't belong to Him.
-
 
 Not only did Jesus come in the name of the Father, representing the Father as the Son, the works He did were done in the name of the Father. The works done in the name of the Father were the credentials of Jesus. He didn't go around listing His credentials to everyone. 
 
@@ -53,6 +46,9 @@ To summarize, Christ sets the essential pattern for doing works "in His name":
 1. Authority given by God
 2. Exercised by faith
 3. In accordance with the Will of God
+
+[1]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=21&t=KJV#s=950023
+[2]: http://www.welcometohosanna.com/LIFE_OF_JESUS/036_Ministry16JourneyToJerusalem.htm
 
 
 Notes for other entries
