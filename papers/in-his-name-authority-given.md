@@ -19,15 +19,19 @@ During His earthly ministry, Jesus faced a challenge to His authority from the J
 
 > Jesus: I won't answer your question either.
 
-Just before this encounter, Jesus had entered the temple and purged it of the moneychangers. He was, as we might say, "cleaning His house", because it had become something very different than a house of prayer. He healed the blind and lame that came to Him in the Temple. The people saw this and praised God, but the chief priests and scribes resented it. Jesus was in the very building where these leaders would have commanded the most authority and respect, and yet, He was the one really in control. No doubt, their outrage was also mixed with genuine curiosity. How did this man, who seemed to come out of nowhere, just show up and take control? He walked into the Temple as if it were His own.
+Just before this encounter, Jesus had entered the temple and purged it of the moneychangers. He was, as we might say, "cleaning house", because it had become something so very different from a house of prayer. He healed the blind and lame that came to Him in the Temple. The people saw this and praised God, but the chief priests and scribes resented it. Jesus was in the very building where these leaders would have commanded the most authority and respect, and yet, He was the one with the authority. No doubt, their outrage was also mixed with genuine curiosity. How did this man, who seemed to come out of nowhere, just show up and take control? He walked into the Temple as if it were His own.
 
-To appreciate the approach Jesus takes in answering this question, we need to look back to an earlier incident that took place outside the Temple on one of His [earlier visits][2] to Jerusalem recorded in John 5. Jesus healed a lame man beside the pool Bethesda. The catch here is that this took place on the Sabbath.
+Jesus does not directly answer the question about His authority. Instead, He refers to John the baptist and asks a question in return. To appreciate the approach taken here, we need to review an incident that took place outside the Temple on one of His [earlier visits][2] to Jerusalem, as recorded in John 5.
 
-The leaders were Judging the only One who actually Had the authority to judge. They were accusing the author of the law and the judge Himself of breaking His own law. Jesus answers their accusations by speaking about a relationship:
+Beside the pool Bethesda, Jesus finds a lame man and commands him to get up, take his bed mat, and walk. The catch this time is that this healing took place on the sabbath. The Jews heard of this and promptly accused Jesus of breaking the Sabbath. According to them, it was not lawful for this man to carry his mat on the Sabbath.
+
+In response to this accusation, Jesus doesn't enter into a discourse on the law or the sabbath. Instead, He simply speaks about a relationship
 
 > But Jesus answered them, "My Father is working until now, and I am working." [John 5:17 ESV]
 
 John presents Jesus as the Son of God. As a true faithful son, everything He had and did was received from the Father. He never took something that didn't belong to Him.
+
+The leaders were Judging the only One who actually Had the authority to judge. They were accusing the author of the law and the judge Himself of breaking His own law. Jesus answers their accusations by speaking about a relationship:
 
 It's easy to think that since Jesus was God, there was no need for Him to ever receive this authority. But when he came to earth, He humbled himself, He laid aside all of His glory. As we see here, as a true Son of His Father, everything He had was given to Him. He did not assume or take something that didn't belong to Him.
 
