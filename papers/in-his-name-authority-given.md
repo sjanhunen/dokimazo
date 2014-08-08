@@ -23,30 +23,37 @@ Just before this encounter, Jesus had entered the temple and purged it of the mo
 
 Jesus does not directly answer the question about His authority. Instead, He refers to John the baptist and asks a question in return. *He asks them why they didn't believe John, because John testified of Him.* To appreciate the approach taken here, we need to review an incident that took place outside the Temple on one of His [earlier visits][2] to Jerusalem, as recorded in John 5.
 
-Beside the pool Bethesda, Jesus finds a lame man and commands him to get up, take his bed mat, and walk. The catch this time is that this healing took place on the sabbath. The Jews heard of this and promptly accused Jesus of breaking the Sabbath. According to them, it was not lawful for this man to carry his mat on the Sabbath.
+Beside the pool Bethesda, Jesus finds a lame man and commands him to get up, take his bed mat, and walk. The catch: this healing took place on the Sabbath. The Jews heard of this and promptly accused Jesus of breaking the Law of the Sabbath - first, by healing the man, and second, by commanding him to carry his mat.
 
-In response to this accusation, Jesus doesn't enter into a discourse on the law or the sabbath. Instead, He simply speaks about a relationship
+When confronted about this, Jesus doesn't enter into a discourse on the law or the sabbath. Instead, He simply speaks about a relationship
 
 > But Jesus answered them, "My Father is working until now, and I am working." [John 5:17 ESV]
 
-John presents Jesus as the Son of God. As a true faithful son, everything He had and did was received from the Father. He never took something that didn't belong to Him.
+He makes the link to His Father clear and identifies Himself as the Son of God. But beyond this, He highlights the source of all the works He did and the authority He held.
 
-The leaders were Judging the only One who actually Had the authority to judge. They were accusing the author of the law and the judge Himself of breaking His own law. Jesus answers their accusations by speaking about a relationship:
+> Jesus said to them, "Truly, truly, I say to you, the Son can do nothing of his own accord, but only what he sees the Father doing. For whatever the Father does, that the Son does likewise. For the Father loves the Son and shows him all that he himself is doing. And greater works than these will he show him, so that you may marvel. [John 5:19-20 ESV]
 
-It's easy to think that since Jesus was God, there was no need for Him to ever receive this authority. But when he came to earth, He humbled himself, He laid aside all of His glory. As we see here, as a true Son of His Father, everything He had was given to Him. He did not assume or take something that didn't belong to Him.
+How tempting it is to think that Jesus, being God in flesh, had no need to learn from anyone or answer to anyone. But here we see that this is not the case. As a faithful servant and son, He learned from His Father. He did nothing that was outside of His Father's plan. And most critically, He did not take authority for Himself, he received it from the Father.
 
-Not only did Jesus come in the name of the Father, representing the Father as the Son, the works He did were done in the name of the Father. The works done in the name of the Father were the credentials of Jesus. He didn't go around listing His credentials to everyone. 
+> The Father judges no one, but has given all judgment to the Son ... he has given him authority to execute judgment, because he is the Son of Man. [Jhn 5:22-27 ESV]
 
-> I have come in my Father's name, and you do not receive me. [Jhn 5:43 ESV]
+The leaders were Judging the only One who actually Had the authority to judge. They were accusing the author of the law and the judge Himself of breaking His own law. Was the Judge Himself breaking the law? No doubt, this is an example of 
 
-In order to come in the name of the Father, Jesus had a relationship with the Father and was sent by the Father.
+> Mat 15:6 ESV - he need not honor his father.' So for the sake of your tradition you have made void the word of God.
+> Mat 15:9 ESV - in vain do they worship me, teaching as doctrines the commandments of men.'"
 
 In this passage in John, we learn three critical things about the authority of Christ:
+
 - It was part of His relationship with the Father (John 5:27)
 - It was received and exercised through faith (John 5:30)
 - It was used in line with the Will of the Father (John 5:30)
 
+
+> I have come in my Father's name, and you do not receive me. [Jhn 5:43 ESV]
+
+In order to come in the name of the Father, Jesus had a relationship with the Father and was sent by the Father.
 To summarize, Christ sets the essential pattern for doing works "in His name":
+
 1. Authority given by God
 2. Exercised by faith
 3. In accordance with the Will of God
