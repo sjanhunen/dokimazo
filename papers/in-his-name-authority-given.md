@@ -35,7 +35,7 @@ But Jesus goes on to identify the source of all He did and the authority He held
 
 > Jesus said to them, "Truly, truly, I say to you, the Son can do nothing of his own accord, but only what he sees the Father doing. For whatever the Father does, that the Son does likewise. For the Father loves the Son and shows him all that he himself is doing. And greater works than these will he show him, so that you may marvel. [John 5:19-20 ESV]
 
-How tempting it is to think that Jesus, being God in flesh, had no need to learn from anyone or answer to anyone. But here we see that this is not the case. As a faithful servant and son, He learned everything from His Father. He did nothing that was outside of His Father's plan. And critically, He did not take authority upon Himself - he received it from the Father.
+How tempting it is to think that Jesus, being God in flesh, had no need to learn from anyone or answer to anyone. But here we see that this is not the case. As a faithful servant and son, He learned everything from His Father. He did nothing that was outside of His Father's plan. First and foremost, He did not take authority upon Himself - he received it from the Father.
 
 > The Father judges no one, but has given all judgment to the Son ... he has given him authority to execute judgment, because he is the Son of Man. [Jhn 5:22-27 ESV]
 
@@ -45,20 +45,21 @@ The irony here is that the Jewish leaders we judging the only One who actually h
 
 No doubt this little Sabbath scuffle started by the Jews was more about the things that they had [added to the law][4] than about the actual law of God itself.
 
-In this passage in John, we learn three critical things about the authority of Christ:
+A critical link in the authority of Jesus as judge is the fact that He always exercises judgment by faith. That is, it is [based on what He hears][7] from the Father. Unlike the judment of the Jewish leaders, His judgment is always based on the Word of God and in alignment with the Will of Father.
 
-- It was part of His relationship with the Father (John 5:27)
-- It was received and exercised through faith (John 5:30)
-- It was used in line with the Will of the Father (John 5:30)
+> I can do nothing on my own. As I hear, I judge, and my judgment is just, because I seek not my own will but the will of him who sent me. [Jhn 5:30 ESV]
 
 > I have come in my Father's name, and you do not receive me. [Jhn 5:43 ESV]
 
-In order to come in the name of the Father, Jesus had a relationship with the Father and was sent by the Father.
-To summarize, Christ sets the essential pattern for doing works "in His name":
+In summarize, the authority of Jesus as judge had three absolutely critical components
 
-1. Authority given by God
+1. Given by the Father
 2. Exercised by faith
-3. In accordance with the Will of God
+3. Supporting the Will of God
+
+Only with all three of these could He righly claim to come "in His Father's name".
+
+
 
 > Jhn 9:39 KJV - And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.
 
@@ -68,7 +69,7 @@ To summarize, Christ sets the essential pattern for doing works "in His name":
 [4]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=15&t=ESV#s=944009
 [5]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=12&t=ESV#s=941010 
 [6]: http://www.blueletterbible.org/Bible.cfm?b=Jhn&c=5&t=ESV#s=1002010
-
+[7]: http://www.blueletterbible.org/Bible.cfm?b=Rom&c=10&t=ESV#s=1056017
 Notes for other entries
 -----------------------
 
