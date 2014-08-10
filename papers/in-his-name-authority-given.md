@@ -23,7 +23,7 @@ Just before this encounter, Jesus had entered the temple and purged it of the mo
 
 Jesus does not directly answer the question about His authority. Instead, He refers to John the baptist and asks a question in return. *He asks them why they didn't believe John, because John testified of Him.* To appreciate the approach taken here, we need to review an incident that took place outside the Temple on one of His [earlier visits][2] to Jerusalem, as recorded in John 5.
 
-Beside the pool Bethesda, Jesus finds a lame man and commands him to get up, take his bed mat, and walk. The catch: this healing took place on the Sabbath. The Jews heard of this and promptly accused Jesus of breaking the Law of the Sabbath - first, by healing the man, and second, by commanding him to carry his mat.
+Beside the pool Bethesda, Jesus finds a lame man and commands him to get up, take his bed mat, and walk. The catch: this healing took place on the Sabbath. The Jews heard of this and promptly accused Jesus of breaking the Law of the Sabbath - first, by [healing on the Sabbath][5], and second, by commanding him to [carry his mat on the Sabbath][6].
 
 When confronted about this, Jesus doesn't enter into a discourse on the law or the sabbath. Instead, He simply speaks about His relationship with His father.
 
@@ -51,7 +51,6 @@ In this passage in John, we learn three critical things about the authority of C
 - It was received and exercised through faith (John 5:30)
 - It was used in line with the Will of the Father (John 5:30)
 
-
 > I have come in my Father's name, and you do not receive me. [Jhn 5:43 ESV]
 
 In order to come in the name of the Father, Jesus had a relationship with the Father and was sent by the Father.
@@ -61,10 +60,14 @@ To summarize, Christ sets the essential pattern for doing works "in His name":
 2. Exercised by faith
 3. In accordance with the Will of God
 
+> Jhn 9:39 KJV - And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.
+
 [1]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=21&t=KJV#s=950023
 [2]: http://www.welcometohosanna.com/LIFE_OF_JESUS/036_Ministry16JourneyToJerusalem.htm
 [3]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=5&t=ESV#s=934017
 [4]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=15&t=ESV#s=944009
+[5]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=12&t=ESV#s=941010 
+[6]: http://www.blueletterbible.org/Bible.cfm?b=Jhn&c=5&t=ESV#s=1002010
 
 Notes for other entries
 -----------------------
