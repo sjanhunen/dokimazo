@@ -25,22 +25,25 @@ Jesus does not directly answer the question about His authority. Instead, He ref
 
 Beside the pool Bethesda, Jesus finds a lame man and commands him to get up, take his bed mat, and walk. The catch: this healing took place on the Sabbath. The Jews heard of this and promptly accused Jesus of breaking the Law of the Sabbath - first, by healing the man, and second, by commanding him to carry his mat.
 
-When confronted about this, Jesus doesn't enter into a discourse on the law or the sabbath. Instead, He simply speaks about a relationship
+When confronted about this, Jesus doesn't enter into a discourse on the law or the sabbath. Instead, He simply speaks about His relationship with His father.
 
 > But Jesus answered them, "My Father is working until now, and I am working." [John 5:17 ESV]
 
-He makes the link to His Father clear and identifies Himself as the Son of God. But beyond this, He highlights the source of all the works He did and the authority He held.
+He makes clear the link to His Father and in doing so identifies Himself as the Son of God. If His "breaking of the Sabbath" were enough to anger these Jews, calling God His father takes things to a whole new level.
+
+But Jesus goes on to identify the source of all He did and the authority He held.
 
 > Jesus said to them, "Truly, truly, I say to you, the Son can do nothing of his own accord, but only what he sees the Father doing. For whatever the Father does, that the Son does likewise. For the Father loves the Son and shows him all that he himself is doing. And greater works than these will he show him, so that you may marvel. [John 5:19-20 ESV]
 
-How tempting it is to think that Jesus, being God in flesh, had no need to learn from anyone or answer to anyone. But here we see that this is not the case. As a faithful servant and son, He learned from His Father. He did nothing that was outside of His Father's plan. And most critically, He did not take authority for Himself, he received it from the Father.
+How tempting it is to think that Jesus, being God in flesh, had no need to learn from anyone or answer to anyone. But here we see that this is not the case. As a faithful servant and son, He learned everything from His Father. He did nothing that was outside of His Father's plan. And critically, He did not take authority upon Himself - he received it from the Father.
 
 > The Father judges no one, but has given all judgment to the Son ... he has given him authority to execute judgment, because he is the Son of Man. [Jhn 5:22-27 ESV]
 
-The leaders were Judging the only One who actually Had the authority to judge. They were accusing the author of the law and the judge Himself of breaking His own law. Was the Judge Himself breaking the law? No doubt, this is an example of 
+The irony here is that the Jewish leaders we judging the only One who actually had the authority to judge. They were accusing the author of the law of breaking His own law. Did Christ actually break the Sabbath? Not only did He clearly state during His ministry that [He was not abolishing the Law][3], he spoke words of judgment to the leadears about what they had done to His law.
 
-> Mat 15:6 ESV - he need not honor his father.' So for the sake of your tradition you have made void the word of God.
-> Mat 15:9 ESV - in vain do they worship me, teaching as doctrines the commandments of men.'"
+> ... So for the sake of your tradition you have made void the word of God. [Mat 15:6 ESV]
+
+No doubt this little Sabbath scuffle started by the Jews was more about the things that they had [added to the law][4] than about the actual law of God itself.
 
 In this passage in John, we learn three critical things about the authority of Christ:
 
@@ -60,7 +63,8 @@ To summarize, Christ sets the essential pattern for doing works "in His name":
 
 [1]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=21&t=KJV#s=950023
 [2]: http://www.welcometohosanna.com/LIFE_OF_JESUS/036_Ministry16JourneyToJerusalem.htm
-
+[3]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=5&t=ESV#s=934017
+[4]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=15&t=ESV#s=944009
 
 Notes for other entries
 -----------------------
