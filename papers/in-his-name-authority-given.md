@@ -3,7 +3,7 @@ In His Name: Authority
 
 What does it mean to do something 'in the name of Jesus'? Perhaps you conclude your prayers "in Jesus name" without giving much thought to the significance of the phrase. We realize that when something is done or said "in His name", the intention is not merely to include His name like a signature, but to somehow invoke the authority and power of Jesus. In other words, His name is used to represent His authority. To fully appreciate what it means to do something in the name or the authority of Christ, we must first understand the authority of Christ Himself. And we must understand how He received this authority.
 
-During His earthly ministry, Jesus faced a challenge to His authority from the Jewish religious leaders of the time. The people listening to His teaching realized there was something different about Him. His words had [authority][http://www.blueletterbible.org/Bible.cfm?b=Mat&c=7&t=ESV#s=936028] that was not present when the scribes taught. His works displayed real power. No doubt the religious leaders were realizing this and beginning to get concerned about what this might mean for thier own positions of authority. This tension is brought to a climax as Jesus teaches in the temple and is confronted by the leaders. As the [scene unfolds][1] we might pharaphrase it something like this:
+During His earthly ministry, Jesus faced a challenge to His authority from the Jewish religious leaders of the time. The people listening to His teaching realized there was something different about Him. His words had [authority][8] that was not present when the scribes taught. His works displayed real power. No doubt the religious leaders were realizing this and beginning to get concerned about what this might mean for thier own positions of authority. This tension is brought to a climax as Jesus teaches in the temple and is confronted by the leaders. As the [scene unfolds][1] we might pharaphrase it something like this:
 
 > Leaders: Who gave you the authority to do this?
 
@@ -45,21 +45,23 @@ The irony here is that the Jewish leaders we judging the only One who actually h
 
 No doubt this little Sabbath scuffle started by the Jews was more about the things that they had [added to the law][4] than about the actual law of God itself.
 
-A critical link in the authority of Jesus as judge is the fact that He always exercises judgment by faith. That is, it is [based on what He hears][7] from the Father. Unlike the judment of the Jewish leaders, His judgment is always based on the Word of God and in alignment with the Will of God.
+A critical link in the authority of Jesus as judge is the fact that He always exercises judgment by faith. That is, it is [based on what He hears][7] from the Father. Unlike the judment of the Jewish leaders, His judgment is always based solidly on the Word of God. His decisions are always in alignment with the Will of God.
 
 > I can do nothing on my own. As I hear, I judge, and my judgment is just, because I seek not my own will but the will of him who sent me. [Jhn 5:30 ESV]
 
-Now we reach a concise summary of the ministry of Christ while on earth
+Now Jesus provides a concise summary of His ministry
 
 > I have come in my Father's name [Jhn 5:43 ESV]
 
-It was the Father that had given Jesus the authority for His ministry and the power to do His works. The Jewish leaders refused to accept this fact. But here we have, in simple terms, the answer to their question.
+It was the Father that had given Jesus all authority for His ministry and all power to do His works. The Jewish leaders refused to accept this fact. But here we have, in simple terms, the answer to their question.
 
-Christ sets the pattern for any works to be truly done "in His name". The authority and power for these works must always be
+For any works to be truly done "in His name", the authority and power behind works must always be
 
 1. Given by God
 2. Exercised by faith
 3. In His will
+
+As a faithful Son of His Father, Christ fulfills all three of these in His life.
 
 > Jesus said, "For judgment I came into this world, that those who do not see may see, and those who see may become blind." [Jhn 9:39 ESV]
 
@@ -70,7 +72,7 @@ Christ sets the pattern for any works to be truly done "in His name". The author
 [5]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=12&t=ESV#s=941010 
 [6]: http://www.blueletterbible.org/Bible.cfm?b=Jhn&c=5&t=ESV#s=1002010
 [7]: http://www.blueletterbible.org/Bible.cfm?b=Rom&c=10&t=ESV#s=1056017
-
+[8]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=7&t=ESV#s=936028
 
 
 
