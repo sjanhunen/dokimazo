@@ -80,3 +80,28 @@ These did things "in the name" of Jesus but not according to the Father's will:
 > Mat 7:21 KJV - Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.
 > Mat 7:22 KJV - Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?
 > Mat 7:23 KJV - And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
+
+
+Notes for other entries
+-----------------------
+
+Just as Jesus received authority from the Father, He gave authority to His disciples to be witnesses for Him
+
+> And he called the twelve together and gave them power and authority over all demons and to cure diseases, and he sent them out to proclaim the kingdom of God and to heal. (Luke 9:1-2 ESV)
+
+The seventy-two returned with joy, saying, “Lord, even the demons are subject to us in your name!”
+
+A Google image search on "In Jesus Name" 
+
+Looking at how the phrase "in the name of Jesus" is used in Acts, we see examples of the disciples doing exactly these things:
+
+- Speaking and teaching in the name of Jesus - Peter and John were threatened to not do this (Acts 4:18)
+- Healing in the name of Jesus - Peter and John with the lame man at the temple (Acts 3:6)
+- Casting out evil spirits in the name of Jesus - Paul cast out the spirit of divination from the damsel (Acts 16:18)
+
+Question: How much of what we do in His name is merely building sand castles that will not last?
+
+In each of these cases, it is clear that real power is manifested in every application of the name of Jesus.
+
+Study usage of the word 'authority': http://www.blueletterbible.org/lang/lexicon/lexicon.cfm?page=2&strongs=G1849&t=KJV#lexResults
+
