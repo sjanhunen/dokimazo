@@ -1,5 +1,5 @@
-In His Name: Authority
-======================
+In His Name: The Father and the Son
+===================================
 
 What does it mean to do something 'in the name of Jesus'? Perhaps you conclude your prayers "in Jesus name" without giving much thought to the significance of the phrase. We realize that when something is done or said "in His name", the intention is not merely to include His name like a signature, but to somehow invoke the authority and power of Jesus. In other words, His name is used to represent His authority. To fully appreciate what it means to do something in the name or the authority of Christ, we must first understand the authority of Christ Himself. And we must understand how He received this authority.
 
@@ -75,26 +75,3 @@ As a faithful Son of His Father, Christ fulfills all three of these in His life.
 [8]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=7&t=ESV#s=936028
 [9]: http://www.blueletterbible.org/Bible.cfm?b=Mar&c=1&t=ESV#s=958027
 [10]: http://www.blueletterbible.org/Bible.cfm?b=Jhn&c=5&t=ESV#s=1002032
-
-Notes for other entries
------------------------
-
-Just as Jesus received authority from the Father, He gave authority to His disciples to be witnesses for Him
-
-> And he called the twelve together and gave them power and authority over all demons and to cure diseases, and he sent them out to proclaim the kingdom of God and to heal. (Luke 9:1-2 ESV)
-
-The seventy-two returned with joy, saying, “Lord, even the demons are subject to us in your name!”
-
-A Google image search on "In Jesus Name" 
-
-Looking at how the phrase "in the name of Jesus" is used in Acts, we see examples of the disciples doing exactly these things:
-
-- Speaking and teaching in the name of Jesus - Peter and John were threatened to not do this (Acts 4:18)
-- Healing in the name of Jesus - Peter and John with the lame man at the temple (Acts 3:6)
-- Casting out evil spirits in the name of Jesus - Paul cast out the spirit of divination from the damsel (Acts 16:18)
-
-Question: How much of what we do in His name is merely building sand castles that will not last?
-
-In each of these cases, it is clear that real power is manifested in every application of the name of Jesus.
-
-Study usage of the word 'authority': http://www.blueletterbible.org/lang/lexicon/lexicon.cfm?page=2&strongs=G1849&t=KJV#lexResults
