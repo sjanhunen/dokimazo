@@ -61,9 +61,11 @@ For any works to be truly done "in His name", the authority and power behind wor
 2. Exercised by faith
 3. In His will
 
-As a faithful Son of His Father, Christ fulfills all three of these in His life.
+As a faithful Son of His Father, Christ fulfills all three of these in His life. It is the complete and utter faithfulness of Christ to the Word and Will of the Father that makes the exaltation of Christ possible that Paul writes about.
 
-> Jesus said, "For judgment I came into this world, that those who do not see may see, and those who see may become blind." [Jhn 9:39 ESV]
+> Therefore God has highly exalted him and bestowed on him the name that is above every name,
+> so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth,
+> and every tongue confess that Jesus Christ is Lord, to the glory of God the Father. [Phil 2:9-11 ESV]
 
 [1]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=21&t=KJV#s=950023
 [2]: http://www.welcometohosanna.com/LIFE_OF_JESUS/036_Ministry16JourneyToJerusalem.htm
