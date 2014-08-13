@@ -3,7 +3,7 @@ In His Name: Authority
 
 What does it mean to do something 'in the name of Jesus'? Perhaps you conclude your prayers "in Jesus name" without giving much thought to the significance of the phrase. We realize that when something is done or said "in His name", the intention is not merely to include His name like a signature, but to somehow invoke the authority and power of Jesus. In other words, His name is used to represent His authority. To fully appreciate what it means to do something in the name or the authority of Christ, we must first understand the authority of Christ Himself. And we must understand how He received this authority.
 
-During His earthly ministry, Jesus faced a challenge to His authority from the Jewish religious leaders of the time. The people listening to His teaching realized there was something different about Him. His words had [authority][8] that was not present when the scribes taught. His works displayed real power. No doubt the religious leaders were realizing this and beginning to get concerned about what this might mean for thier own positions of authority. This tension is brought to a climax as Jesus teaches in the temple and is confronted by the leaders. As the [scene unfolds][1] we might pharaphrase it something like this:
+During His earthly ministry, Jesus faced a challenge to His authority from the Jewish religious leaders of the time. The people listening to His teaching realized there was something different about Him. His words had [authority][8] that was not present when the scribes taught. His works confirmed this with [manifestations][9] of this authority. No doubt the religious leaders were realizing this and beginning to get concerned about what this might mean for thier own positions. The tension is brought to a climax as Jesus teaches in the temple and is confronted by the leaders. The [scene unfolds][1] in Matthew 21 something like this:
 
 > Leaders: Who gave you the authority to do this?
 
@@ -19,9 +19,9 @@ During His earthly ministry, Jesus faced a challenge to His authority from the J
 
 > Jesus: I won't answer your question either.
 
-Just before this encounter, Jesus had entered the temple and purged it of the moneychangers. He was, as we might say, "cleaning house", because it had become something so very different from a house of prayer. He healed the blind and lame that came to Him in the Temple. The people saw this and praised God, but the chief priests and scribes resented it. Jesus was in the very building where these leaders would have commanded the most authority and respect, and yet, He was the one with the authority. No doubt, their outrage was also mixed with genuine curiosity. How did this man, who seemed to come out of nowhere, just show up and take control? He walked into the Temple as if it were His own.
+Just before this encounter, Jesus had entered the temple and purged it of the moneychangers. He was, as we might say, "cleaning house", because it had become something so very different from a house of prayer. He healed the blind and lame that came to Him in the Temple. The people saw this and praised God, but the chief priests and scribes resented it. Jesus was in the very building where these leaders would have commanded the most authority and respect, and yet, He was the one with authority. No doubt, their outrage was also mixed with genuine curiosity. How did this man, who seemed to come out of nowhere, just show up and take control? He walked into the Temple as if it were His own.
 
-Jesus does not directly answer the question about His authority. Instead, He refers to John the baptist and asks a question in return. *He asks them why they didn't believe John, because John testified of Him.* To appreciate the approach taken here, we need to review an incident that took place outside the Temple on one of His [earlier visits][2] to Jerusalem, as recorded in John 5.
+Jesus does not answer the question except by asking another in return. He points these leaders at the ministry of John the baptist. Had they listened to Him, they would have had no need to ask this question. John was a [witness][10] for  the truth about who Jesus was. To find an answer to the question in the words of Jesus, we need to review an incident that took place outside the Temple on one of His [earlier visits][2] to Jerusalem, as recorded in John 5.
 
 Beside the pool Bethesda, Jesus finds a lame man and commands him to get up, take his bed mat, and walk. The catch: this healing took place on the Sabbath. The Jews heard of this and promptly accused Jesus of breaking the Law of the Sabbath - first, by [healing on the Sabbath][5], and second, by commanding him to [carry his mat on the Sabbath][6].
 
@@ -72,9 +72,9 @@ As a faithful Son of His Father, Christ fulfills all three of these in His life.
 [5]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=12&t=ESV#s=941010 
 [6]: http://www.blueletterbible.org/Bible.cfm?b=Jhn&c=5&t=ESV#s=1002010
 [7]: http://www.blueletterbible.org/Bible.cfm?b=Rom&c=10&t=ESV#s=1056017
-[8]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=7&t=ESV#s=936028
-
-
+[8]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=7&t=ESV#s=936028
+[9]: http://www.blueletterbible.org/Bible.cfm?b=Mar&c=1&t=ESV#s=958027
+[10]: http://www.blueletterbible.org/Bible.cfm?b=Jhn&c=5&t=ESV#s=1002032
 
 Notes for other entries
 -----------------------
