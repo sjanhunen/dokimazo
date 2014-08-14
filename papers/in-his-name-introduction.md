@@ -3,7 +3,7 @@ In His Name
 
 What does it mean to do something 'in the name of Jesus'?
 
-A [Google image search][https://www.google.ca/search?q=in+jesus+name&tbm=isch] on "In Jesus Name" shows that this phrase has been applied to many thingsin many ways.
+A [Google image search][1] on "In Jesus Name" shows that this phrase has been applied to many thingsin many ways.
 
 But what did Paul have in mind when he wrote these words in Colossians?
 
@@ -17,3 +17,5 @@ The first hint is the word "Lord", which is the word for master, or one in autho
 > and every tongue confess that Jesus Christ is Lord, to the glory of God the Father. [Phl 2:10 ESV]
 
 To fully appreciate what it means to do something in the name or the authority of Christ, we must first understand the authority of Christ Himself.
+
+[1][https://www.google.ca/search?q=in+jesus+name&tbm=isch]
