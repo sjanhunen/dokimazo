@@ -1,9 +1,7 @@
 In His Name: The Father and the Son
 ===================================
 
-What does it mean to do something 'in the name of Jesus'? Perhaps you conclude your prayers "in Jesus name" without giving much thought to the significance of the phrase. We realize that when something is done or said "in His name", the intention is not merely to include His name like a signature, but to somehow invoke the authority and power of Jesus. In other words, His name is used to represent His authority. To fully appreciate what it means to do something in the name or the authority of Christ, we must first understand the authority of Christ Himself. And we must understand how He received this authority.
-
-During His earthly ministry, Jesus faced a challenge to His authority from the Jewish religious leaders of the time. The people listening to His teaching realized there was something different about Him. His words had [authority][8] that was not present when the scribes taught. His works confirmed this with [manifestations][9] of this authority. No doubt the religious leaders were realizing this and beginning to get concerned about what this might mean for thier own positions. The tension is brought to a climax as Jesus teaches in the temple and is confronted by the leaders. The [scene unfolds][1] in Matthew 21 something like this:
+During His earthly ministry, Jesus faced numerous challenges to His authority from the Jewish religious leaders of the time. The people listening to His teaching realized there was something different about Him. His words had [authority][8] that was not present when the scribes taught. His works confirmed this with [manifestations][9] of this authority. No doubt the religious leaders were realizing this and beginning to get concerned about what this might mean for thier own positions. The tension is brought to a climax as Jesus teaches in the temple and is confronted by the leaders. The [scene unfolds][1] in Matthew 21 something like this:
 
 > Leaders: Who gave you the authority to do this?
 
