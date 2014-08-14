@@ -18,4 +18,4 @@ The first hint is the word "Lord", which is the word for master, or one in autho
 
 To fully appreciate what it means to do something in the name or the authority of Christ, we must first understand the authority of Christ Himself.
 
-[1]: [https://www.google.ca/search?q=in+jesus+name&tbm=isch]
+[1]: https://www.google.ca/search?q=in+jesus+name&tbm=isch
