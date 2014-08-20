@@ -30,6 +30,6 @@ Even though Christ was equal with God, it was the form of a servant that He took
 
 > For this reason also, God highly exalted Him, and bestowed on Him the name which is above every name [Phl 2:9 NASB]
 
-In God's path to glory, the humbled servant preceds the exalted Lord. For us to enter into a true understanding of what it means to do something "in His name", we must first understand the mindset and authority of Christ Himself.
+In God's path to glory, the humbled servant precedes the exalted Lord. For us to enter into a true understanding of what it means to do something "in His name", we must first understand the mindset and authority of Christ Himself.
 
 [1]: https://www.google.ca/search?q=in+jesus+name&tbm=isch
