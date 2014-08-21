@@ -7,6 +7,10 @@ Still thinking of Christ during His earthly ministry.
 
 Notice that Christ initiated the relationship. He found them, they didn't find Him.
 
+The Shepherd seeking out the lost sheep.
+
+> Rom 5:6 NASB - For while we were still helpless, at the right time Christ died for the ungodly.
+
 This was a relationship with purpose. Recall Judgment and see how the 12 fit into this.
 
 > Mat 4:19 NASB - And He said to them, "Follow Me, and I will make you fishers of men."
