@@ -1,5 +1,5 @@
 In His Name: Authority
-======================
+======================
 
 What does it mean to do something 'in the name of Jesus'?
 
