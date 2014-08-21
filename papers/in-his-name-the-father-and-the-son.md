@@ -1,7 +1,7 @@
 In His Name: The Father and the Son
 ===================================
 
-During His earthly ministry, Jesus faced numerous challenges to His authority from the Jewish religious leaders of the time. The people listening to His teaching realized there was something different about Him. His words had [authority][8] that was not present when the scribes taught. His works confirmed this with [manifestations][9] of this authority. No doubt the religious leaders were realizing this and beginning to get concerned about what this might mean for thier own positions. The tension is brought to a climax as Jesus teaches in the temple and is confronted by the leaders. The [scene unfolds][1] in Matthew 21 something like this:
+During His earthly ministry, Jesus faced numerous challenges to His authority from the Jewish religious leaders of the time. The people listening to His teaching realized there was something different about Him. His words had [authority][8] that was not present when the scribes taught. His works confirmed this with [manifestations of power][9]. No doubt the religious leaders were realizing this and beginning to get concerned about what this might mean for thier own positions. The tension is brought to a climax as Jesus teaches in the temple and is confronted by the leaders. The [scene unfolds][1] in Matthew 21:
 
 > Leaders: Who gave you the authority to do this?
 
@@ -37,13 +37,7 @@ How tempting it is to think that Jesus, being God in flesh, had no need to learn
 
 > The Father judges no one, but has given all judgment to the Son ... he has given him authority to execute judgment, because he is the Son of Man. [Jhn 5:22-27 ESV]
 
-The irony here is that the Jewish leaders we judging the only One who actually had the authority to judge. They were accusing the author of the law of breaking His own law. Did Christ actually break the Sabbath? Not only did He clearly state during His ministry that [He was not abolishing the Law][3], he spoke words of judgment to the leadears about what they had done to His law.
-
-> ... So for the sake of your tradition you have made void the word of God. [Mat 15:6 ESV]
-
-No doubt this little Sabbath scuffle started by the Jews was more about the things that they had [added to the law][4] than about the actual law of God itself.
-
-A critical link in the authority of Jesus as judge is the fact that He always exercises judgment by faith. That is, it is [based on what He hears][7] from the Father. Unlike the judment of the Jewish leaders, His judgment is always based solidly on the Word of God. His decisions are always in alignment with the Will of God.
+The judgment exercised by the Son is always by faith. That is, it is [based on what He hears][7] from the Father. Unlike the judgment of the Jewish leaders, His judgment is always based solidly on the Word of God in alignment with the Will of God.
 
 > I can do nothing on my own. As I hear, I judge, and my judgment is just, because I seek not my own will but the will of him who sent me. [Jhn 5:30 ESV]
 
