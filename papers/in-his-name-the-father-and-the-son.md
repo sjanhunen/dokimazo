@@ -49,9 +49,9 @@ It was the Father that had given Jesus all authority for His ministry and all po
 
 For any works to be truly done "in His name", the authority and power behind works must always be
 
-1. Given by God
-2. Exercised by faith
-3. In His will
+1. Relationship - TBD
+2. Faith - TBD
+3. Purpose - His will
 
 As a faithful Son of His Father, Christ fulfills all three of these in His life. It is the complete and utter faithfulness of Christ to the Word and Will of the Father that makes the exaltation of Christ possible that Paul writes about.
 
