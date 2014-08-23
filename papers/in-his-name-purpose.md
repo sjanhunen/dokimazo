@@ -19,3 +19,5 @@ These did things "in the name" of Jesus but not according to the Father's will:
 > Mat 7:21 KJV - Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.
 > Mat 7:22 KJV - Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?
 > Mat 7:23 KJV - And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
+
+Question: How much of what we do in His name is merely building sand castles that will not last?
