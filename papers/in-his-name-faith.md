@@ -37,36 +37,11 @@ There are three components to Peter's explanation of the healing of the lame man
 - The power - the healing was not done by Peter nor was it a result of Peter's faith. This was the power of the Son of God at work.
 - The source - faith was ultimately given from the Father, but it was through the Son. ("flesh and blood hath not revelaed this" and also see Mat 11:27)
 
-TODO:
-- check on exorists for hire
-- add comment on freely you have received, freely give
-
-
-In His Name: God's Will
-==============================================
-
-The signs were for a specific reason
-
-> These twelve Jesus sent out, instructing them, "Go nowhere among the Gentiles and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel. And proclaim as you go, saying, 'The kingdom of heaven is at hand.' Heal the sick, raise the dead, cleanse lepers, cast out demons..."
-
-
-- Matt 7:21-22 - not everyone who says Lord Lord
-- Luke 6:46 - the house built upon rock and the house built upon sand
-- Luke 9:1-4 - Jesus gave disciples authority and power
-- Mark 9:38-9:40
-- If devils are cast out by the spirit of God, the kingdom of heaven is at hand
-
-"You received without paying; give without pay."
-Works built without a solid foundaation (God's Will) will not last.
-
-In His Name: Glory
-==================
-
-TBD
-
-
 Notes
 =====
+
+- check on exorists for hire
+- add comment on freely you have received, freely give
 - The encounter with the religous leaders in Acts 4 is pretty insightful
 - If something is done in the name or authority of Jesus, how is that authority given?
 - Need to do a full review of http://www.blueletterbible.org/lang/lexicon/lexicon.cfm?Strongs=G3686&t=KJV
@@ -76,21 +51,6 @@ Making Disciples of All Nations: compare Mat 28:19 with Acts 2:5 - isn't the foc
 Compare the authority in Acts with this:
 > Luk 4:18 KJV - The Spirit of the Lord [is] upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised,
 
-These did things "in the name" of Jesus but not according to the Father's will:
-> Mat 7:21 KJV - Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.
-> Mat 7:22 KJV - Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?
-> Mat 7:23 KJV - And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
-
-
-Notes for other entries
------------------------
-
-Just as Jesus received authority from the Father, He gave authority to His disciples to be witnesses for Him
-
-> And he called the twelve together and gave them power and authority over all demons and to cure diseases, and he sent them out to proclaim the kingdom of God and to heal. (Luke 9:1-2 ESV)
-
-The seventy-two returned with joy, saying, “Lord, even the demons are subject to us in your name!”
-
 A Google image search on "In Jesus Name" 
 
 Looking at how the phrase "in the name of Jesus" is used in Acts, we see examples of the disciples doing exactly these things:
@@ -99,9 +59,6 @@ Looking at how the phrase "in the name of Jesus" is used in Acts, we see example
 - Healing in the name of Jesus - Peter and John with the lame man at the temple (Acts 3:6)
 - Casting out evil spirits in the name of Jesus - Paul cast out the spirit of divination from the damsel (Acts 16:18)
 
-Question: How much of what we do in His name is merely building sand castles that will not last?
-
 In each of these cases, it is clear that real power is manifested in every application of the name of Jesus.
 
 Study usage of the word 'authority': http://www.blueletterbible.org/lang/lexicon/lexicon.cfm?page=2&strongs=G1849&t=KJV#lexResults
-
