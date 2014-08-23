@@ -21,9 +21,11 @@ This was a relationship with purpose. Recall Judgment and see how the 12 fit int
 
 > Mat 19:28 NASB - And Jesus said to them, "Truly I say to you, that you who have followed Me, in the regeneration when the > Son of Man will sit on His glorious throne, you also shall sit upon twelve thrones, judging the twelve tribes of Israel.
 
+Just as Jesus received authority from the Father, He gave authority to His disciples to be witnesses for Him
 
-Look specifically at the authority given to the 12.
+> And he called the twelve together and gave them power and authority over all demons and to cure diseases, and he sent them out to proclaim the kingdom of God and to heal. (Luke 9:1-2 ESV)
 
+The seventy-two returned with joy, saying, “Lord, even the demons are subject to us in your name!”
 
 How do you see Christ? What is your relationship to Him?
 
