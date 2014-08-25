@@ -2,9 +2,11 @@ In His Name: Notes
 ==================
 
 3 keys in our relationship with God (and in doing things in Jesus name)
+
 - Purpose - initiated by God, not by us
 - Trust - like a link between purpose and obedience
 - Obedience - the wise builder building according to God's Will
+
 You can't mix up the order here!
 
 
