@@ -7,6 +7,8 @@ In His Name: Notes
 - Trust - like a link between purpose and obedience
 - Obedience - the wise builder building according to God's Will
 
+Highlight one of Christ's purposes as being Prophet/Judge of Israel.
+
 You can't mix up the order here!
 
 
