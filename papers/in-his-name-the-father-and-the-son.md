@@ -47,11 +47,11 @@ Now Jesus provides a concise summary of His ministry
 
 It was the Father that had given Jesus all authority for His ministry and all power to do His works. The Jewish leaders refused to accept this fact. But here we have, in simple terms, the answer to their question.
 
-For any works to be truly done "in His name", the authority and power behind works must always be
+It is impossible to imagine doing something "in His name" outside of the context of a relationship with Him. Three critical aspects of this relationship are illustrated in the Son's relationship with the Father.
 
-1. Relationship - TBD
-2. Faith - TBD
-3. Purpose - His will
+1. Purpose - the Father's calling for the Son
+2. Trust - the Son's faith in the Father's Word
+3. Obedience - faithfulness to the Father's will
 
 As a faithful Son of His Father, Christ fulfills all three of these in His life. It is the complete and utter faithfulness of Christ to the Word and Will of the Father that makes the exaltation of Christ possible that Paul writes about.
 
