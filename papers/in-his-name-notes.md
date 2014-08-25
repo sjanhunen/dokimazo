@@ -9,6 +9,8 @@ In His Name: Notes
 
 Highlight one of Christ's purposes as being Prophet/Judge of Israel.
 
+> Jhn 9:39 KJV - And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.
+
 You can't mix up the order here!
 
 
