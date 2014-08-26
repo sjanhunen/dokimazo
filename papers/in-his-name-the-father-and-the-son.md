@@ -41,23 +41,17 @@ The judgment exercised by the Son is always by faith. That is, it is [based on w
 
 > I can do nothing on my own. As I hear, I judge, and my judgment is just, because I seek not my own will but the will of him who sent me. [Jhn 5:30 ESV]
 
-Now Jesus provides a concise summary of His ministry
+This close relationship between Father and Son illustrates three necessary aspects of any relationship:
+
+1. Purpose - the Father gave the Son authority to give life and to judge
+2. Trust - the Son executed His authority through perfect faith in the Father's Word
+3. Obedience - the work that the Son did was in alignment with Father's will
+
+This is summarized concisely by Jesus when he says
 
 > I have come in my Father's name [Jhn 5:43 ESV]
 
-It was the Father that had given Jesus all authority for His ministry and all power to do His works. The Jewish leaders refused to accept this fact. But here we have, in simple terms, the answer to their question.
-
-It is impossible to imagine doing something "in His name" outside of the context of a relationship with Him. Three critical aspects of this relationship are illustrated in the Son's relationship with the Father.
-
-1. Purpose - the Father's calling for the Son
-2. Trust - the Son's faith in the Father's Word
-3. Obedience - faithfulness to the Father's will
-
-As a faithful Son of His Father, Christ fulfills all three of these in His life. It is the complete and utter faithfulness of Christ to the Word and Will of the Father that makes the exaltation of Christ possible that Paul writes about.
-
-> Therefore God has highly exalted him and bestowed on him the name that is above every name,
-> so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth,
-> and every tongue confess that Jesus Christ is Lord, to the glory of God the Father. [Phil 2:9-11 ESV]
+For Christ to come in His Father's name meant nothing less than Him fulfilling the purpose the Father had given Him through trust and obedience. It was the Father that had given Jesus all authority for His ministry and all power to do His works. The Jewish leaders refused to accept this fact. But here we have, in simple terms, the answer to their question.
 
 [1]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=21&t=KJV#s=950023
 [2]: http://www.welcometohosanna.com/LIFE_OF_JESUS/036_Ministry16JourneyToJerusalem.htm
