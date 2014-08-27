@@ -1,5 +1,5 @@
-In His Name: Relationship
-=========================
+In His Name: Purpose
+====================
 
 It is difficult to imagine authority existing outside the context of a relationship. An employer without employees, a mayor without a city, a president without a country - these are all incomplete.
 
