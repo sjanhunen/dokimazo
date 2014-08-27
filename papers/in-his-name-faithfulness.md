@@ -8,6 +8,12 @@ These did things "in the name" of Jesus but not according to the Father's will:
 > Mat 7:22 KJV - Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?
 > Mat 7:23 KJV - And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
 
+- Matt 7:21-22 - not everyone who says Lord Lord
+- Luke 6:46 - the house built upon rock and the house built upon sand
+- Luke 9:1-4 - Jesus gave disciples authority and power
+- Mark 9:38-9:40
+- If devils are cast out by the spirit of God, the kingdom of heaven is at hand
+
 Faithfulness as a theme in Colossians
 
 > Col 1:2 KJV - To the saints and faithful brethren in Christ which are at Colosse: Grace [be] unto you, and peace, from God our Father and the Lord Jesus Christ.
