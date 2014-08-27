@@ -1,13 +1,23 @@
 In His Name: Notes
 ==================
 
-3 keys in our relationship with God (and in doing things in Jesus name)
+3 keys in our relationship with Christ
+--------------------------------------
 
 - Purpose - initiated by God, not by us
 - Trust - like a link between purpose and obedience
 - Obedience - the wise builder building according to God's Will
 
-Highlight one of Christ's purposes as being Prophet/Judge of Israel.
+4 Roles of Christ
+-----------------
+
+- Prophet
+- Judge
+- Priest
+- King
+
+Each one of these four had a significant role in Israel's history. Christ fulfills them all.
+
 
 > Jhn 9:39 KJV - And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.
 
