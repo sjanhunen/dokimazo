@@ -37,21 +37,25 @@ How tempting it is to think that Jesus, being God in flesh, had no need to learn
 
 > The Father judges no one, but has given all judgment to the Son ... he has given him authority to execute judgment, because he is the Son of Man. [Jhn 5:22-27 ESV]
 
-The judgment exercised by the Son is always by faith. That is, it is [based on what He hears][7] from the Father. Unlike the judgment of the Jewish leaders, His judgment is always based solidly on the Word of God in alignment with the Will of God.
+The Son always exercises his judgment by faith. That is, it is [based on what He hears][7] from the Father. Unlike the judgment of the Jewish leaders, His judgment is always based solidly on the Word of God in alignment with the Will of God.
 
 > I can do nothing on my own. As I hear, I judge, and my judgment is just, because I seek not my own will but the will of him who sent me. [Jhn 5:30 ESV]
 
-This close relationship between Father and Son illustrates three necessary aspects of any relationship:
+The close relationship between the Father and the Son illustrates three essential aspects of any relationship:
 
 1. Purpose - the Father gave the Son authority to give life and to judge
-2. Trust - the Son executed His authority through perfect faith in the Father's Word
-3. Obedience - the work that the Son did was in alignment with Father's will
+2. Trust - the Son executed His authority through faith in the Father's Word
+3. Faithfulness - the Son lived in perfect obedience to the Father's will
 
-This is summarized concisely by Jesus when he says
+These three - purpose, trust, and faithfulness - are now brought to a concise summary by Jesus.
 
 > I have come in my Father's name [Jhn 5:43 ESV]
 
-For Christ to come in His Father's name meant nothing less than Him fulfilling the purpose the Father had given Him through trust and obedience. It was the Father that had given Jesus all authority for His ministry and all power to do His works. The Jewish leaders refused to accept this fact. But here we have, in simple terms, the answer to their question.
+For Christ to come in His Father's name meant nothing less than Him fulfilling the purpose the Father had authorized for Him. This was accomplished through complete trust in the Father's word and faithfulness to the Father's will.
+
+
+TODO: Bring this back to the start nicely.
+
 
 [1]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=21&t=KJV#s=950023
 [2]: http://www.welcometohosanna.com/LIFE_OF_JESUS/036_Ministry16JourneyToJerusalem.htm
