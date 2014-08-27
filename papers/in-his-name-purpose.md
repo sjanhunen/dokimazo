@@ -11,6 +11,19 @@ Notice that Christ initiated the relationship. He found them, they didn't find H
 
 The Shepherd seeking out the lost sheep.
 
+The signs were for a specific reason.
+
+> These twelve Jesus sent out, instructing them, "Go nowhere among the Gentiles and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel. And proclaim as you go, saying, 'The kingdom of heaven is at hand.' Heal the sick, raise the dead, cleanse lepers, cast out demons..."
+
+
+- Matt 7:21-22 - not everyone who says Lord Lord
+- Luke 6:46 - the house built upon rock and the house built upon sand
+- Luke 9:1-4 - Jesus gave disciples authority and power
+- Mark 9:38-9:40
+- If devils are cast out by the spirit of God, the kingdom of heaven is at hand
+
+"You received without paying; give without pay."
+
 Christ on earth - the Messiah of Israel, the King of the Jews. This relationship had to be put right before the rest of the world could follow.
 
 > Rom 5:6 NASB - For while we were still helpless, at the right time Christ died for the ungodly.
