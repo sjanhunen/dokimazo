@@ -15,7 +15,9 @@ It is difficult to imagine a relationship without purpose.
 
 > Rom 8:28 ESV - And we know that for those who love God all things work together for good, for those who are called according to his purpose.
 
-Notice that Christ initiated the relationship. He found them, they didn't find Him. Some may struggle with putting relationship before faith, but the simple fact is that God seeks us, not the other way around. 
+Notice that Christ initiated the relationship. He found them; they didn't find Him. So often, the good news of the gospel is presented as an opportunity for us to invite Christ into our lives. But this is completely backwards. We don't invite Him, He invites us. He wants us to be a part of His purpose and His life. This is what happened for the disciples while He was on earth, and this is what is still happening with us today while Christ is in heaven.
+
+
 
 The Shepherd seeking out the lost sheep.
 
