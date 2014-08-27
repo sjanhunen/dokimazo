@@ -21,3 +21,9 @@ These did things "in the name" of Jesus but not according to the Father's will:
 > Mat 7:23 KJV - And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
 
 Question: How much of what we do in His name is merely building sand castles that will not last?
+
+> Eph 5:1 ESV - Therefore be imitators of God, as beloved children.
+
+> Eph 5:6 ESV - Let no one deceive you with empty words, for because of these things the wrath of God comes upon the sons of disobedience.
+
+> Eph 5:17 ESV - Therefore do not be foolish, but understand what the will of the Lord is.
