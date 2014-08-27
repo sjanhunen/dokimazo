@@ -1,4 +1,4 @@
-In His Name: Faith
+In His Name: Trust
 ==================
 
 Doing something "in the name of Jesus" implies doing something with all that His name stands for: the authority and power of Jesus. But how is this authority received? Is merely invoking His name all that is required?
