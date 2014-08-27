@@ -1,5 +1,5 @@
-In His Name: Purpose
-====================
+In His Name: Faithfulness
+=========================
 
 The signs were for a specific reason
 
@@ -19,6 +19,17 @@ These did things "in the name" of Jesus but not according to the Father's will:
 > Mat 7:21 KJV - Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.
 > Mat 7:22 KJV - Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?
 > Mat 7:23 KJV - And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
+
+Faithfulness as a theme in Colossians
+
+> Col 1:2 KJV - To the saints and faithful brethren in Christ which are at Colosse: Grace [be] unto you, and peace, from God our Father and the Lord Jesus Christ.
+
+> Col 1:7 KJV - As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;
+
+> Col 4:7 KJV - All my state shall Tychicus declare unto you, [who is] a beloved brother, and a faithful minister and fellowservant in the Lord:
+
+> Col 4:9 KJV - With Onesimus, a faithful and beloved brother, who is [one] of you. They shall make known unto you all things which [are done] here.
+
 
 Question: How much of what we do in His name is merely building sand castles that will not last?
 
