@@ -1,7 +1,7 @@
 In His Name: Purpose
 ====================
 
-So often the good news of the gospel is presented as an opportunity for us to invite Christ into our lives. This is completely upsidedown. It puts the power in our hands, when in fact [we are powerless][1] to do this. It makes it look like we seek Him when in fact He seeks us. He invites us to be a part of His life and His purpose.
+So often the good news of the gospel is presented as an opportunity for us to invite Christ into our lives. This is completely upsidedown. It makes it look like we have the power in our hands, when in fact [we are powerless][1] to do this. It makes it look like we seek Him when in fact He seeks us. He invites us to be a part of His life and His purpose.
 
 Christ illustrates this clearly in how He called His disciples to be a part of His earthly ministry.
 
