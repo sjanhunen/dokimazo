@@ -1,10 +1,14 @@
 In His Name: Purpose
 ====================
 
-Notice that Christ initiated the relationship. He found them; they didn't find Him. So often, the good news of the gospel is presented as an opportunity for us to invite Christ into our lives. But this is completely backwards. We don't invite Him, He invites us. He wants us to be a part of His purpose and His life. This is what happened for the disciples while He was on earth, and this is what is still happening with us today while Christ is in heaven.
+So often the good news of the gospel is presented as an opportunity for us to invite Christ into our lives. This is completely upsidedown. It puts the power in our hands, when in fact [we are powerless][1] to do this. It makes it look like we seek Him when in fact He seeks us. He invites us to be a part of His life and His purpose.
+
+Christ illustrates this clearly in how He called His disciples to be a part of His earthly ministry.
 
 > Mat 4:19 ESV - And he said to them, "Follow me, and I will make you fishers of men."
 
+Notice that Christ initiated the relationship. He found them; they didn't find Him. 
+This is what happened for the disciples while He was on earth, and this is what is still happening with us today while Christ is in heaven.
 
 A core purpose of Christ's ministry on earth was being a life-giving judge
 
@@ -24,7 +28,9 @@ The purpose started with Israel, and only after this was going to be extended ou
 
 > These twelve Jesus sent out, instructing them, "Go nowhere among the Gentiles and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel. And proclaim as you go, saying, 'The kingdom of heaven is at hand.' Heal the sick, raise the dead, cleanse lepers, cast out demons..."
 
-In Colossians, we read about Christ fulfilling a role that is way bigger than just 
+In Colossians, we read about Christ fulfilling a role that includes everything in the universe
+
+> Col 1:18 ESV - And he is the head of the body, the church. He is the beginning, the firstborn from the dead, that in everything he might be preeminent.
 
 > Col 2:9 NASB - For in Him all the fullness of Deity dwells in bodily form,
 
@@ -39,7 +45,7 @@ Look at the purpose of the church in Ephesians. Think of Ephesians as the purpos
 > Eph 1:11 ESV - In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will,
 
 
-Notice that the redemption is for a purpose!
+Notice that the redemption is always for a purpose. To present the gospel any other way is to present an incomplete gospel.
 
 > Eph 1:21 ESV - far above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in the one to come.
 
@@ -56,3 +62,5 @@ How close we are with Him as members of His body!
 
 
 How do you see Christ? What is your relationship to Him?
+
+[1]: http://www.blueletterbible.org/Bible.cfm?b=Rom&c=5&v=6&t=NASB#s=1051006
