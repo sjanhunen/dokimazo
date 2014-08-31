@@ -6,7 +6,9 @@ In His Name: Notes
 
 - Purpose - initiated by God, not by us
 - Trust - like a link between purpose and obedience
-- Obedience - the wise builder building according to God's Will
+- Faithfullness - the wise builder building according to God's Will
+
+Illustration: diagram of three circles - purpose, trust, faithfulness. The intersection of all 3 - in His name.
 
 4 Roles of Christ
 -----------------
@@ -21,9 +23,6 @@ Each one of these four had a significant role in Israel's history. Christ fulfil
 
 > Jhn 9:39 KJV - And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.
 
-You can't mix up the order here!
-
-
 - check on exorists for hire
 - add comment on freely you have received, freely give
 - The encounter with the religous leaders in Acts 4 is pretty insightful
@@ -34,8 +33,6 @@ Making Disciples of All Nations: compare Mat 28:19 with Acts 2:5 - isn't the foc
 
 Compare the authority in Acts with this:
 > Luk 4:18 KJV - The Spirit of the Lord [is] upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised,
-
-A Google image search on "In Jesus Name" 
 
 Looking at how the phrase "in the name of Jesus" is used in Acts, we see examples of the disciples doing exactly these things:
 
