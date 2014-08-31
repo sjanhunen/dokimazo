@@ -1,7 +1,7 @@
 In His Name: Purpose
 ====================
 
-So often the good news of the gospel is presented as an opportunity for us to invite Christ into our lives. This is completely upsidedown. It makes it look like we have the power in our hands, when in fact [we are powerless][1] to do this. It makes it look like we seek Him when in fact He seeks us. He invites us to be a part of His life and His purpose.
+So often the good news of the gospel is presented as an opportunity for us to invite Christ into our lives. This makes it seem as if we have the power to initiate this relationship. It suggest we are still somehow in control of our destiny. But this is completely upsidedown. In fact, we are [powerless][1] to do this. Our relationship with Christ is not initiated by [us first seeking Him][2]: He is the one that seeks out us. And He invites us to become part of His life and purpose.
 
 Christ illustrates this clearly in how He called His disciples to be a part of His earthly ministry.
 
@@ -40,10 +40,10 @@ This is way bigger than Israel and the earth.
 
 Look at the purpose of the church in Ephesians. Think of Ephesians as the purpose book and Colossians as the faithfulness book.
 
+> Eph 1:7 ESV - In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace,
+> Eph 1:8 ESV - which he lavished upon us, in all wisdom and insight
 > Eph 1:9 ESV - making known to us the mystery of his will, according to his purpose, which he set forth in Christ
 > Eph 1:10 ESV - as a plan for the fullness of time, to unite all things in him, things in heaven and things on earth.
-> Eph 1:11 ESV - In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will,
-
 
 Notice that the redemption is always for a purpose. To present the gospel any other way is to present an incomplete gospel.
 
@@ -51,7 +51,7 @@ Notice that the redemption is always for a purpose. To present the gospel any ot
 
 Name above every name!
 
-How close we are with Him as members of His body!
+How close we are with Him as members of His body! Think about how close the disciples were and how close we are as members of His body.
 
 
 
