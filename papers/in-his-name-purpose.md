@@ -64,3 +64,4 @@ How close we are with Him as members of His body! Think about how close the disc
 How do you see Christ? What is your relationship to Him?
 
 [1]: http://www.blueletterbible.org/Bible.cfm?b=Rom&c=5&v=6&t=NASB#s=1051006
+[2]: http://www.blueletterbible.org/Bible.cfm?b=Rom&c=3&v=11&t=ESV#s=1049011
