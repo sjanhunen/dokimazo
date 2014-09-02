@@ -43,3 +43,26 @@ Looking at how the phrase "in the name of Jesus" is used in Acts, we see example
 In each of these cases, it is clear that real power is manifested in every application of the name of Jesus.
 
 Study usage of the word 'authority': http://www.blueletterbible.org/lang/lexicon/lexicon.cfm?page=2&strongs=G1849&t=KJV#lexResults
+
+A challenge to the authority of Jesus
+=====================================
+
+During His earthly ministry, Jesus faced numerous challenges to His authority from the Jewish religious leaders of the time. The people listening to His teaching realized there was something different about Him. His words had [authority][8] that was not present when the scribes taught. His works confirmed this with [manifestations of power][9]. No doubt the religious leaders were realizing this and beginning to get concerned about what this might mean for thier own positions. The tension is brought to a climax as Jesus teaches in the temple and is confronted by the leaders. The [scene unfolds][1] in Matthew 21:
+
+> Leaders: Who gave you the authority to do this?
+
+> Jesus: I have a question for you first. If you can answer it, I will answer yours.
+
+> Leaders (thinking silently): Where is he going with this?
+
+> Jesus: Who gave John the authority to baptize? Was it God or man?
+
+> Leaders (whispering amongst themselves): If we say God, he will ask us why we didn't listen to John. If we say man, the people will be angry with us since everybody believes he was sent by God.
+
+> Leaders (to Jesus): We cannot answer your question.
+
+> Jesus: I won't answer your question either.
+
+Just before this encounter, Jesus had entered the temple and purged it of the moneychangers. He was, as we might say, "cleaning house", because it had become something so very different from a house of prayer. He healed the blind and lame that came to Him in the Temple. The people saw this and praised God, but the chief priests and scribes resented it. Jesus was in the very building where these leaders would have commanded the most authority and respect, and yet, He was the one with authority. No doubt, their outrage was also mixed with genuine curiosity. How did this man, who seemed to come out of nowhere, just show up and take control? He walked into the Temple as if it were His own.
+
+Jesus does not answer the question except by asking another in return. He points these leaders at the ministry of John the baptist. Had they listened to Him, they would have had no need to ask this question. John was a [witness][10] for  the truth about who Jesus was. To find an answer to the question in the words of Jesus, we need to review an incident that took place outside the Temple on one of His [earlier visits][2] to Jerusalem, as recorded in John 5.
