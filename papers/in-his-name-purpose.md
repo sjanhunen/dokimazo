@@ -1,11 +1,12 @@
 In His Name: Purpose
 ====================
 
-So often the good news of the gospel is presented as an opportunity for us to invite Christ into our lives. This makes it seem as if we have the power to initiate this relationship. It suggest we are still somehow in control of our destiny. But this is completely upsidedown. In fact, we are [powerless][1] to do this. Our relationship with Christ is not initiated by [us first seeking Him][2]: He is the one that seeks out us. And He invites us to become part of His life and purpose.
+So often the good news of the gospel is presented as an opportunity for us to invite Christ into our lives, leaving us thinking we have the power to initiate this relationship. But this is completely upsidedown. In fact, we are [powerless][1] to do this. Our relationship with Christ is not initiated by [us first seeking Him][2]: He is the one that seeks out us. He invites us to become part of His life and purpose.
 
-We need to look no futher than the example of Christ calling His disciples to see this clearly.
+This is seen clearly in the example of Christ calling His disciples at the beginning of His earthly ministry. Walking by the Sea of Galilee, he encountered two brothers that were fishermen.
 
-> Mat 4:19 ESV - And he said to them, "Follow me, and I will make you fishers of men."
+> And he said to them, "Follow me, and I will make you fishers of men." [Mat 4:19 ESV]
+
 
 Notice that Christ initiated the relationship. He found them; they didn't find Him. 
 
