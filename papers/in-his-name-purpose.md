@@ -5,8 +5,13 @@ So often the good news of the gospel is presented as an opportunity for us to in
 
 This is seen clearly in the example of Christ calling His disciples at the beginning of His earthly ministry. Walking by the Sea of Galilee, he encountered two brothers that were fishermen.
 
-> And he said to them, "Follow me, and I will make you fishers of men." [Mat 4:19 ESV]
+> And he said to them, "Follow me, and I will make you fishers of men." And they straightway left [their] nets, and followed him. [Mat 4:19 ESV]
 
+Here it is Christ that extends the invitation. Peter and Andrew were busy about their day-to-day business when they were presented with an invitation to something much bigger and better. 
+
+We wonder what exactly went through their minds as they accepted the invitation.
+
+This wasn't about them finding help to improve their lives in some way.
 
 Notice that Christ initiated the relationship. He found them; they didn't find Him. 
 
@@ -27,7 +32,10 @@ The purpose started with Israel, and only after this was going to be extended ou
 > These twelve Jesus sent out, instructing them, "Go nowhere among the Gentiles and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel. And proclaim as you go, saying, 'The kingdom of heaven is at hand.' Heal the sick, raise the dead, cleanse lepers, cast out demons..."
 
 
-This is way bigger than Israel and the earth. Look at the purpose of the church in Ephesians. Think of Ephesians as the purpose book and Colossians as the faithfulness book.
+This is not to minimize the importance of redemption and forgiveness of sins in any way. In fact, this is to highlight the very reason for it.
+
+
+This is way bigger than Israel and the earth. Look at the purpose of the church in Ephesians. Think of Ephesians as the purpose book and Colossians as the faithfulness book. The part that the disciples were playing while Jesus was on earth was a small piece of a much larger plan.
 
 > Eph 1:7 ESV - In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace,
 
