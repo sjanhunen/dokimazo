@@ -7,13 +7,9 @@ This is seen clearly in the example of Christ calling His disciples at the begin
 
 > And he said to them, "Follow me, and I will make you fishers of men." And they straightway left [their] nets, and followed him. [Mat 4:19 ESV]
 
-Here it is Christ that extends the invitation. Peter and Andrew were busy about their day-to-day business when they were presented with an invitation to something much bigger and better. 
+Christ is the one who extended the offer here. He was the one that found Peter and Andrew, not the other way around. Not only did He invite them to followe Him, He hinted at the bigger purpose at work - becoming "fishers of men".
 
-We wonder what exactly went through their minds as they accepted the invitation.
-
-This wasn't about them finding help to improve their lives in some way.
-
-Notice that Christ initiated the relationship. He found them; they didn't find Him. 
+We may wonder what exactly went through their minds as they accepted the invitation.
 
 A core purpose of Christ's ministry on earth was being a life-giving judge
 
