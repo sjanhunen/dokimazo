@@ -7,9 +7,9 @@ This is seen clearly in the example of Christ calling His disciples at the begin
 
 > And he said to them, "Follow me, and I will make you fishers of men." And they straightway left [their] nets, and followed him. [Mat 4:19 ESV]
 
-Christ is the one who extended the offer here. He was the one that found Peter and Andrew, not the other way around. Not only did He invite them to followe Him, He hinted at the bigger purpose at work - becoming "fishers of men".
+Christ is the one who extended the offer here. He was the one that found Peter and Andrew, not the other way around. Not only did He invite them to followe Him, He hinted at the bigger purpose He had for them: becoming "fishers of men" for His kingdom. We can debate what exactly went through their minds as they accepted the invitation or what they may or may not have known about who Jesus was at that instant. But we cannot debate the simple fact that they accepted and followed.
 
-We may wonder what exactly went through their minds as they accepted the invitation.
+Christ shared His authority with those that followed both at the present and in the future.
 
 A core purpose of Christ's ministry on earth was being a life-giving judge
 
