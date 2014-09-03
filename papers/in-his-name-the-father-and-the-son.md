@@ -1,17 +1,17 @@
 In His Name: The Father and the Son
 ===================================
 
-A new introduction ...
+The authority of Jesus was something that was questioned by the Jewish religious leaders on multiple occasions. Often, He answered with [questions of His own][1] or by appealing to the [witness of others][2]. But one recorded encounter in the gospel of John contains perhaps the most direct justification of His authority in His own words.
 
-Beside the pool Bethesda, Jesus finds a lame man and commands him to get up, take his bed mat, and walk. The catch: this healing took place on the Sabbath. The Jews heard of this and promptly accused Jesus of breaking the Law of the Sabbath - first, by [healing on the Sabbath][5], and second, by commanding him to [carry his mat on the Sabbath][6].
+On one of the trips Jesus took to Jerusalem, He finds a lame man by the pool called Bethesda and heal him. He commands him to get up, take his bed mat, and walk. The catch is that this healing took place on the Sabbath. When the Jews heard of this they promptly accused Jesus of breaking the Law of the Sabbath - first, by [healing on the Sabbath][5], and second, by commanding the man to [carry his mat on the Sabbath][6].
 
-When confronted about this, Jesus doesn't enter into a discourse on the law or the sabbath. Instead, He simply speaks about His relationship with His father.
+When confronted about this, Jesus doesn't enter into a discourse on the law or the sabbath. Instead, He simply speaks about His relationship with His Father.
 
 > But Jesus answered them, "My Father is working until now, and I am working." [John 5:17 ESV]
 
 He makes clear the link to His Father and in doing so identifies Himself as the Son of God. If His "breaking of the Sabbath" were enough to anger these Jews, calling God His father takes things to a whole new level.
 
-But Jesus goes on to identify the source of all He did and the authority He held.
+But Jesus goes on to speak in detail of this relationship.
 
 > Jesus said to them, "Truly, truly, I say to you, the Son can do nothing of his own accord, but only what he sees the Father doing. For whatever the Father does, that the Son does likewise. For the Father loves the Son and shows him all that he himself is doing. And greater works than these will he show him, so that you may marvel. [John 5:19-20 ESV]
 
@@ -29,18 +29,17 @@ The close relationship between the Father and the Son illustrates three essentia
 2. Trust - the Son executed His authority through faith in the Father's Word
 3. Faithfulness - the Son lived in perfect obedience to the Father's will
 
-These three - purpose, trust, and faithfulness - are now brought to a concise summary by Jesus.
+All three of these are brought to a concise summary by Jesus Himself.
 
 > I have come in my Father's name [Jhn 5:43 ESV]
 
-For Christ to come in His Father's name meant nothing less than Him fulfilling the purpose the Father had authorized for Him. This was accomplished through complete trust in the Father's word and faithfulness to the Father's will.
-
+For Christ to come in His Father's name meant nothing less than Him fulfilling the purpose the Father had authorized for Him. This one statement is the answer to any question about His authority. 
 
 TODO: Bring this back to the start nicely.
 
 
-[1]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=21&t=KJV#s=950023
-[2]: http://www.welcometohosanna.com/LIFE_OF_JESUS/036_Ministry16JourneyToJerusalem.htm
+[1]: TBD
+[2]: TBD
 [3]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=5&t=ESV#s=934017
 [4]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=15&t=ESV#s=944009
 [5]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=12&t=ESV#s=941010 
