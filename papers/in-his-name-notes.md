@@ -1,6 +1,8 @@
 In His Name: Notes
 ==================
 
+"In His Name" - the words of a faithful servant
+
 3 keys in our relationship with Christ
 --------------------------------------
 
