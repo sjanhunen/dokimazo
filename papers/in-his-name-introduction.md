@@ -11,25 +11,22 @@ But what did Paul have in mind when he wrote these words in Colossians?
 
 This is all encompassing: it covers everything we do in both word and deed. If we get this wrong, our words and our actions will be built on the wrong foundation.
 
-The first clue to understanding should be the word "Lord". This is the word for master, or one in authority. The intention is not merely to include His name like a signature or endorsement, but to somehow invoke the authority behind His name.
+The first key to understanding "In His Name" is the word "Lord". This is the word for master, or one in authority. The intention here is not merely to include His name like a signature or an endorsement, but to somehow invoke the authority behind His name.
 
 This is clear in Philippians, where Paul writes
 
-> so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth,
-> and every tongue confess that Jesus Christ is Lord, to the glory of God the Father. [Phl 2:10 ESV]
+> so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father. [Phl 2:10 ESV]
 
-In other words, His name is used to represent His authority.
+In other words, His name is used to represent His authority as Lord.
 
-A second clue to understanding what it means to do something "in His name" comes from appreciating the example of Christ Himself. Backing up just a few verses we read
+The second key to understanding what it means to do something "in His name" comes from studying the example of Christ Himself. Backing up just a few verses we read
 
-> Have this attitude in yourselves which was also in Christ Jesus,
-> who, although He existed in the form of God, did not regard equality with God a thing to be grasped,
-> but emptied Himself, taking the form of a bond-servant, and being made in the likeness of men. [Phl 2:5-7 NASB]
+> Have this attitude in yourselves which was also in Christ Jesus, who, although He existed in the form of God, did not regard equality with God a thing to be grasped, but emptied Himself, taking the form of a bond-servant, and being made in the likeness of men. [Phl 2:5-7 NASB]
 
-Even though Christ was equal with God, it was the form of a servant that He took upon Himself when he ministered on earth in the flesh. And His obedience ultimately went as far as death on a cross. As a result of this faithful service it can be said
+Even though Christ was equal with God, it was the form of a servant that He took upon Himself when he ministered on earth in the flesh. And His obedience ultimately went as far as death on a cross. As a result of this faithful service Paul says
 
 > For this reason also, God highly exalted Him, and bestowed on Him the name which is above every name [Phl 2:9 NASB]
 
-In God's path to glory, the humbled servant precedes the exalted Lord. Understanding the authority of Christ and the relationship He had with the Father is essential to appreciating what it means to do something "in His name".
+In God's path to glory, the humbled servant precedes the exalted Lord. The more we understand the the relationship Christ had with His Father, the more we will appreciate what it means to do something "in His name".
 
 [1]: https://www.google.ca/search?q=in+jesus+name&tbm=isch

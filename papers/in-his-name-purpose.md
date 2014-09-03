@@ -1,7 +1,7 @@
 In His Name: Purpose
 ====================
 
-So often the good news of the gospel is presented as an opportunity for us to invite Christ into our lives, leaving us thinking we have the power to initiate this relationship. But this is completely upsidedown. In fact, we are [powerless][1] to do this. Our relationship with Christ is not initiated by [us first seeking Him][2]: He is the one that seeks out us. He invites us to become part of His life and purpose.
+So often the good news of the gospel is presented as an opportunity for us to invite Christ into our lives. This may leave us thinking we have the power to initiate this relationship. But this is completely upsidedown. In fact, we are [powerless][1] to do this. Our relationship with Christ is not initiated by [us first seeking Him][2]: He is the one that seeks out us. He invites us to become part of His life and purpose.
 
 This is seen clearly in the example of Christ calling His disciples at the beginning of His earthly ministry. Walking by the Sea of Galilee, he encountered two brothers that were fishermen.
 
