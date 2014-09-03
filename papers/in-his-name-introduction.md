@@ -20,7 +20,7 @@ This is clear in Philippians, where Paul writes
 
 In other words, His name is used to represent His authority.
 
-A second clue to understanding what it means to do something "in His name" comes from appreciating how Christ received His authority. Backing up just a few verses we read
+A second clue to understanding what it means to do something "in His name" comes from appreciating the example of Christ Himself. Backing up just a few verses we read
 
 > Have this attitude in yourselves which was also in Christ Jesus,
 > who, although He existed in the form of God, did not regard equality with God a thing to be grasped,
@@ -30,6 +30,6 @@ Even though Christ was equal with God, it was the form of a servant that He took
 
 > For this reason also, God highly exalted Him, and bestowed on Him the name which is above every name [Phl 2:9 NASB]
 
-In God's path to glory, the humbled servant precedes the exalted Lord. For us to enter into a true understanding of what it means to do something in the authority of His name, we must first understand the mindset and authority of Christ Himself.
+In God's path to glory, the humbled servant precedes the exalted Lord. Understanding the authority of Christ and the relationship He had with the Father is essential to appreciating what it means to do something "in His name".
 
 [1]: https://www.google.ca/search?q=in+jesus+name&tbm=isch
