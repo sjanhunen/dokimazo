@@ -66,3 +66,9 @@ During His earthly ministry, Jesus faced numerous challenges to His authority fr
 Just before this encounter, Jesus had entered the temple and purged it of the moneychangers. He was, as we might say, "cleaning house", because it had become something so very different from a house of prayer. He healed the blind and lame that came to Him in the Temple. The people saw this and praised God, but the chief priests and scribes resented it. Jesus was in the very building where these leaders would have commanded the most authority and respect, and yet, He was the one with authority. No doubt, their outrage was also mixed with genuine curiosity. How did this man, who seemed to come out of nowhere, just show up and take control? He walked into the Temple as if it were His own.
 
 Jesus does not answer the question except by asking another in return. He points these leaders at the ministry of John the baptist. Had they listened to Him, they would have had no need to ask this question. John was a [witness][10] for  the truth about who Jesus was. To find an answer to the question in the words of Jesus, we need to review an incident that took place outside the Temple on one of His [earlier visits][2] to Jerusalem, as recorded in John 5.
+
+[1]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=21&t=KJV#s=950023
+[2]: http://www.welcometohosanna.com/LIFE_OF_JESUS/036_Ministry16JourneyToJerusalem.htm
+[8]: http://www.blueletterbible.org/Bible.cfm?b=Mat&c=7&t=ESV#s=936028
+[9]: http://www.blueletterbible.org/Bible.cfm?b=Mar&c=1&t=ESV#s=958027
+[10]: http://www.blueletterbible.org/Bible.cfm?b=Jhn&c=5&t=ESV#s=1002032
