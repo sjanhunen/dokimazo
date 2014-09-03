@@ -1,9 +1,7 @@
 #!/bin/sh
 
-# Downloads and unzips Greek NT texts from
-#   http://koti.24.fi/jusalak/GreekNT/NTTexts.htm
-# A useful reference: 
-#   http://koti.24.fi/jusalak/GreekNT/Layman'sGuideEnglish.PDF
+# See http://www.byztxt.com/
+# The links below are broken
 
 texts="BP05FNL TR-PRSD ELZPRSD ANT-PRSD WH27PRSD"
 mkdir -p texts
