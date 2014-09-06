@@ -1,7 +1,16 @@
 In His Name: Notes
 ==================
 
-"In His Name" - the words of a faithful servant
+Concluding Thoughts
+-------------------
+
+During the gospels and Acts period, purpose was focused on Israel. That was the revealed plan. But Paul opens up a much bigger purpose in what is revealed in Ephesians.
+
+> To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ, and to bring to light for everyone what is the plan of the mystery hidden for ages in God who created all things, so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places. This was according to the eternal purpose that he has realized in Christ Jesus our Lord [Eph 8:8-10 ESV]
+
+We find our purpose in following Christ. It's sometimes good to step back a bit and ponder this "bigger picture". This will cause us to appreciate our redemption even more.
+
+This is way bigger than Israel and the earth. Look at the purpose of the church in Ephesians. Think of Ephesians as the purpose book and Colossians as the faithfulness book. The part that the disciples were playing while Jesus was on earth was a small piece of a much larger plan.
 
 3 keys in our relationship with Christ
 --------------------------------------
@@ -47,7 +56,7 @@ In each of these cases, it is clear that real power is manifested in every appli
 Study usage of the word 'authority': http://www.blueletterbible.org/lang/lexicon/lexicon.cfm?page=2&strongs=G1849&t=KJV#lexResults
 
 A challenge to the authority of Jesus
-=====================================
+-------------------------------------
 
 During His earthly ministry, Jesus faced numerous challenges to His authority from the Jewish religious leaders of the time. The people listening to His teaching realized there was something different about Him. His words had [authority][8] that was not present when the scribes taught. His works confirmed this with [manifestations of power][9]. No doubt the religious leaders were realizing this and beginning to get concerned about what this might mean for thier own positions. The tension is brought to a climax as Jesus teaches in the temple and is confronted by the leaders. The [scene unfolds][1] in Matthew 21:
 
