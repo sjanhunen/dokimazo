@@ -15,7 +15,7 @@ After finding and gathering the twelve together, Christ gave them the authority 
 
 The experience or credentials of the twelve did not qualify them for this authority. 
 
-The works that we see the twelve and others doing during the gospels and book of Acts are possible because of the authority given for this purpose. The authority in proclaiming the kingdom that He shared with His disciples was in anticipation of the future realization of that kingdom on earth, when they would rule together in that kingdom.
+The works that we see the twelve and others doing during the gospels and book of Acts are possible because of the authority given for this purpose. The authority in proclaiming the kingdom that He shared with His disciples was in anticipation of the future realization of that kingdom on earth, when they would rule together in that kingdom. The preaching of the Kingdom was always about a specific plan that God had for Isral.
 
 > Jesus said to them, "Truly, I say to you, in the new world, when the Son of Man will sit on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel. [Mat 19:28 ESV]
 
@@ -23,13 +23,12 @@ This emphasis on Purpose is not to minimize the importance of redemption and for
 
 > In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace, which he lavished upon us, in all wisdom and insight making known to us the mystery of his will, according to his purpose, which he set forth in Christ as a plan for the fullness of time, to unite all things in him, things in heaven and things on earth. [Eph 1:7-10 ESV]
 
-Redemption, forgiveness, and grace all come together according to His purpose. To present the good news without His purpose is to present an incomplete gospel. The preaching of the Kingdom was always about a specific plan that God had for Isral. This is important, but it is only a piece of the "bigger picture".
-
-When we become part of Christ's purpose, we share in His authority in some way. Christ's authority extends far above and beyond the earthly sphere.
+Redemption, forgiveness, and grace all come together according to His purpose. To present the good news without His purpose is to present an incomplete gospel. When we become part of Christ's purpose, we share in His authority in some way. 
 
 > far above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in the one to come. And he put all things under his feet and gave him as head over all things to the church, which is his body, the fullness of him who fills all in all.
 [Eph 1:21-23 ESV]
 
+Christ's authority extends far above and beyond the earthly sphere and is far bigger than rule over the twelve tribes or the earth.
 
 Notes
 -----
