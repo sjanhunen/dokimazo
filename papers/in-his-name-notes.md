@@ -4,6 +4,12 @@ In His Name: Notes
 Concluding Thoughts
 -------------------
 
+Think about how the presentation of the Gospel is so often backwards. 
+
+In fact the bar for salvation is so very low that human nature resists the humility it requires. The bar for faithful service is so very high that it cannot be reached except without His mighty power.
+
+Day to day relationships. He that is faithful in the least is faithful in the most.
+
 During the gospels and Acts period, purpose was focused on Israel. That was the revealed plan. But Paul opens up a much bigger purpose in what is revealed in Ephesians.
 
 > To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ, and to bring to light for everyone what is the plan of the mystery hidden for ages in God who created all things, so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places. This was according to the eternal purpose that he has realized in Christ Jesus our Lord [Eph 8:8-10 ESV]

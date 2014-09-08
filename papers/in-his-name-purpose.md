@@ -11,7 +11,7 @@ Christ is the one who extended the offer. He was the one that found Peter and An
 
 After finding and gathering the twelve together, Christ gave them the authority for their ministry, much like the Father had given Him authority for His.
 
-> And he called the twelve together and gave them power and authority over all demons and to cure diseases, and he sent them out to proclaim the kingdom of God and to heal. [Luke 9:1-2 ESV]
+And he called to him his twelve disciples and gave them authority over unclean spirits, to cast them out, and to heal every disease and every affliction. [Mat 10:1 ESV]
 
 The experience or credentials of the twelve did not qualify them for this authority. 
 
