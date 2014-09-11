@@ -14,6 +14,15 @@ These did things "in the name" of Jesus but not according to the Father's will:
 - Mark 9:38-9:40
 - If devils are cast out by the spirit of God, the kingdom of heaven is at hand
 
+When we become part of Christ's purpose, we share in His authority in some way. 
+
+> far above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in the one to come. And he put all things under his feet and gave him as head over all things to the church, which is his body, the fullness of him who fills all in all.
+[Eph 1:21-23 ESV]
+
+Christ's authority extends far above and beyond the earthly sphere and is far bigger than rule over the twelve tribes or the earth.
+
+Key point: redemption is always for a purpose. And that purpose involves sharing in the authority of Christ.
+
 Faithfulness as a theme in Colossians
 
 > Col 1:2 KJV - To the saints and faithful brethren in Christ which are at Colosse: Grace [be] unto you, and peace, from God our Father and the Lord Jesus Christ.
