@@ -1,17 +1,15 @@
 In His Name: Trust
 ==================
 
-The name of Jesus is a recurring theme throughout the book of Acts. In this book, we read about preaching, healing, and deliverance, all done "in His name". This book is a testimony of the authority that Christ gave to His followers, it is a book of works done "in His name".
+The book of Acts is a testimony of the authority that Christ gave to His followers. In it we read about preaching, healing, and deliverance, all done "in His name". The Acts of the Apostles it is a book of works done "in His name". Two specific instances of invoking the name of Jesus stand out in great contrast. One of these is found later in the book in chapter 19.
 
-In this book, two accounts of the "name of Jesus" stand out in great contrast. One of these is found later in the book in chapter 19.
-
-> Then some of the itinerant Jewish exorcists undertook to invoke the name of the Lord Jesus over those who had evil spirits, saying, "I adjure you by the Jesus whom Paul proclaims." Seven sons of a Jewish high priest named Sceva were doing this.
+> Then some of the itinerant Jewish exorcists undertook to invoke the name of the Lord Jesus over those who had evil spirits, saying, "I adjure you by the Jesus whom Paul proclaims." Seven sons of a Jewish high priest named Sceva were doing this. [ref]
 
 The term exorcist was applied to those who followed a formulaic approach to casting out deamons as a profession [ref check]. Typically this would be done by either finding out the name of the evil spirit and commanding it to leave by name, or invoking the name of a higher power to command it to leave.  These exorcists, no doubt, had seen the powerful signs wrought through the name of Jesus and desired to apply this higher power to their own handiwork. The results were certainly not what they had in mind.
 
-> But the evil spirit answered them, "Jesus I know, and Paul I recognize, but who are you?" And the man in whom was the evil spirit leaped on them, mastered all of them and overpowered them, so that they fled out of that house naked and wounded.
+> But the evil spirit answered them, "Jesus I know, and Paul I recognize, but who are you?" And the man in whom was the evil spirit leaped on them, mastered all of them and overpowered them, so that they fled out of that house naked and wounded. [ref]
 
-In this case, the name of Jesus was invoked but authority was totally lacking. The results were devistating. These men were trying to use something that didn't belong to them.
+In this case, the name of Jesus was invoked but authority was totally lacking. The results were devistating. These men were trying to use something that didn't belong to them. The problem certainly wasn't that Jesus hadn't made the authority available. We see Paul doing exactly this a bit earlier in the book [ref].
 
 And we find them doing exactly these things in the book of Acts. This authority extended further than just the immediate 12 disciples, as we can see Jesus explaining in Mark
 
@@ -32,4 +30,4 @@ There are three components to Peter's explanation of the healing of the lame man
 - The power - the healing was not done by Peter nor was it a result of Peter's faith. This was the power of the Son of God at work.
 - The source - faith was ultimately given from the Father, but it was through the Son. ("flesh and blood hath not revelaed this" and also see Mat 11:27)
 
-Three direct recorded invocations of the name of Jesus in Acts. First Peter, Second Paul, and thrid the sourcers.
+Some type of a summary.
