@@ -9,13 +9,13 @@ The term exorcist was applied to those who followed a formulaic approach to cast
 
 > But the evil spirit answered them, "Jesus I know, and Paul I recognize, but who are you?" And the man in whom was the evil spirit leaped on them, mastered all of them and overpowered them, so that they fled out of that house naked and wounded. [ref]
 
-In this case, the name of Jesus was invoked but authority was totally lacking. The results were devistating. These men were trying to use something that didn't belong to them. The problem certainly wasn't that Jesus hadn't made the authority available. We see Paul doing exactly this a bit earlier in the book [ref].
+The name of Jesus was invoked but authority was totally lacking, and the results were devistating. These men were trying to use something that didn't belong to them. The problem certainly wasn't that Jesus hadn't made the authority available to His followers. Paul doing exactly this a bit earlier in the book [ref].
 
 And we find them doing exactly these things in the book of Acts. This authority extended further than just the immediate 12 disciples, as we can see Jesus explaining in Mark
 
 > And these signs will accompany those who believe: in my name they will cast out demons; they will speak in new tongues; they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; they will lay their hands on the sick, and they will recover." [Mark 16:17-18]
 
-The critical link here is the fact that "these signs" follow out of belief. It is by faith that this authority and power is received. This is not a mere belief in the existence of Jesus, but a convinction of who He really is. When Jesus asked Peter  "But who do you say that I am?" [Mar 8:29 ESV], Peter's response was not "a good teacher" or "a propher" but simply "You are the Christ." Peter knew that Christ was the Messiah, the Anointed One, the Son of God.
+The critical link here is the fact that "these signs" follow out of belief. It is by faith that this authority is received. This is not a mere belief in the existence of Jesus, but a convinction of who He really is. When Jesus asked Peter  "But who do you say that I am?" [Mar 8:29 ESV], Peter's response was not "a good teacher" or "a propher" but simply "You are the Christ." Peter knew that Christ was the Messiah, the Anointed One, the Son of God.
 
 The fact that the name of Jesus must be invoked by faith is summed up concisely in Acts 3, when Peter is explaining the healing of the lame man to the crowd at the temple
 
@@ -30,4 +30,4 @@ There are three components to Peter's explanation of the healing of the lame man
 - The power - the healing was not done by Peter nor was it a result of Peter's faith. This was the power of the Son of God at work.
 - The source - faith was ultimately given from the Father, but it was through the Son. ("flesh and blood hath not revelaed this" and also see Mat 11:27)
 
-Some type of a summary.
+Some type of a summary. Any links to trust in Eph or Col?
