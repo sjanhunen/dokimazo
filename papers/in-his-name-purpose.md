@@ -13,11 +13,11 @@ After finding and gathering the twelve together, Christ gave them the authority 
 
 > And he called to him his twelve disciples and gave them authority over unclean spirits, to cast them out, and to heal every disease and every affliction. [Mat 10:1 ESV]
 
-The experience or credentials of the twelve did not qualify them for this authority. 
-
-The works that we see the twelve and others doing during the gospels and book of Acts are possible because of the authority given for this purpose. The authority in proclaiming the kingdom that He shared with His disciples was in anticipation of the future realization of that kingdom on earth, when they would rule together in that kingdom. The preaching of the Kingdom was always about a specific plan that God had for Isral.
+The works that we see the twelve and others doing during the gospels and book of Acts are possible because of the authority given for this purpose. The authority in proclaiming the kingdom that He shared with His disciples was in anticipation of the future realization of that kingdom on earth, when they would rule together in that kingdom. 
 
 > Jesus said to them, "Truly, I say to you, in the new world, when the Son of Man will sit on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel. [Mat 19:28 ESV]
+
+The preaching of the Kingdom was always about a specific plan that God had for Isral.
 
 This emphasis on purpose is not to minimize the importance of redemption and forgiveness in any way. In fact, this serves to highlight the very necessity of it. In Ephesians, we see just how interconnected redemption and purpose truly are.
 
@@ -25,7 +25,6 @@ This emphasis on purpose is not to minimize the importance of redemption and for
 
 Redemption, forgiveness, and grace all come together according to His purpose. To present the good news without His purpose is to present an incomplete gospel.
 
-Long before Christ ever invited Peter to follow Him, Israel was redeemed from Egypt. Without this redemption from bondage, long before in history, it would have been impossible for Peter to be fishing on the Sea of Galilee, ready for this encounder with Jesus. 
 
 When it comes to purpose and redemption, there can be no doubt that God makes the first move.
 

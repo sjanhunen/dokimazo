@@ -1,6 +1,7 @@
 In His Name: Faithfulness
 =========================
 
+
 Key point: redemption is always for a purpose. And that purpose involves sharing in the authority of Christ.
 
 When we become part of Christ's purpose, we share in His authority in some way. 
