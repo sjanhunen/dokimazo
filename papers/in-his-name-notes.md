@@ -4,7 +4,19 @@ In His Name: Notes
 Concluding Thoughts
 -------------------
 
-Think about how the presentation of the Gospel is so often backwards. 
+Faithfulness as a theme in Colossians
+
+> Col 1:2 KJV - To the saints and faithful brethren in Christ which are at Colosse: Grace [be] unto you, and peace, from God our Father and the Lord Jesus Christ.
+
+> Col 1:7 KJV - As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;
+
+> Col 4:7 KJV - All my state shall Tychicus declare unto you, [who is] a beloved brother, and a faithful minister and fellowservant in the Lord:
+
+> Col 4:9 KJV - With Onesimus, a faithful and beloved brother, who is [one] of you. They shall make known unto you all things which [are done] here.
+
+We can't truly do things in His name without understanding the will of God.
+
+Christ's authority extends far above and beyond the earthly sphere and is far bigger than rule over the twelve tribes or the earth.
 
 In fact the bar for salvation is so very low that human nature resists the humility it requires. The bar for faithful service is so very high that it cannot be reached except without His mighty power.
 
@@ -16,14 +28,7 @@ During the gospels and Acts period, purpose was focused on Israel. That was the 
 
 We find our purpose in following Christ. It's sometimes good to step back a bit and ponder this "bigger picture". This will cause us to appreciate our redemption even more.
 
-This is way bigger than Israel and the earth. Look at the purpose of the church in Ephesians. Think of Ephesians as the purpose book and Colossians as the faithfulness book. The part that the disciples were playing while Jesus was on earth was a small piece of a much larger plan.
-
-3 keys in our relationship with Christ
---------------------------------------
-
-- Purpose - initiated by God, not by us
-- Trust - like a link between purpose and obedience
-- Faithfullness - the wise builder building according to God's Will
+This is way bigger than Israel and the earth. Look at the purpose of the church in Ephesians. Think of Ephesians as the purpose book and Colossians as the faithfulness book. The part that the disciples were playing while Jesus was on earth was a small piece of a much larger plan
 
 Illustration: diagram of three circles - purpose, trust, faithfulness. The intersection of all 3 - in His name.
 

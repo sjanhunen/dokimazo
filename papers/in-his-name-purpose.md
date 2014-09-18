@@ -25,9 +25,5 @@ This emphasis on purpose is not to minimize the importance of redemption and for
 
 Redemption, forgiveness, and grace all come together according to His purpose. To present the good news without His purpose is to present an incomplete gospel.
 
-
 When it comes to purpose and redemption, there can be no doubt that God makes the first move.
 
-> Giving thanks to the Father who has qualified us to be partakers of the inheritance of the saints in the light. He has delivered us from the power of darkness and conveyed [us] into the kingdom of the Son of His love, in whom we have redemption through His blood, the forgiveness of sins. [Col 1:12-14 NKJV]
-
-It is always God that qualifies for the authority that He gives. Redemption is always for a purpose - it looks forward to inheritance and authority. Tie back to "in His Name".
