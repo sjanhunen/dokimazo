@@ -31,15 +31,3 @@ Faith and knowledge are not the end goal, but they are an absolutely essential m
 
 > For you may be sure of this, that everyone who is sexually immoral or impure, or who is covetous (that is, an idolater), has no inheritance in the kingdom of Christ and God. [Eph 5:5 ESV]
 
-Made meet for the inheritance versus taking hold of the inheritance.
-In Colossians, we read how we have been made able to partake of the inheritance. This reward is received.
-
-> Giving thanks to the Father who has qualified us to be partakers of the inheritance of the saints in the light. He has delivered us from the power of darkness and conveyed [us] into the kingdom of the Son of His love, in whom we have redemption through His blood, the forgiveness of sins. [Col 1:12-14 NKJV]
-
-Inheritance is mentioned twice in Colossians. First, it is the Father that qualifies us for the inheritance. And then we receive the reward of the inheritance. 
-
-> Whatever you do, work heartily, as for the Lord and not for men, 24 knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ. 25 For the wrongdoer will be paid back for the wrong he has done, and there is no partiality.
-
-It is always God that qualifies for the authority that He gives. Redemption is always for a purpose - it looks forward to inheritance and authority. 
-
-Between these two references to inheritance stand the admonition to do "everything in the name of the Lord Jesus". These are the words of a faithful servant.
