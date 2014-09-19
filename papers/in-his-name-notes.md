@@ -32,6 +32,12 @@ This is way bigger than Israel and the earth. Look at the purpose of the church 
 
 Illustration: diagram of three circles - purpose, trust, faithfulness. The intersection of all 3 - in His name.
 
+Think about Jacob and Esau and what God hates. Squandering what He has given for a purpose.
+
+Bring it back to redemption for a purpose. And that purpose involves sharing in the authority and inheritance of Christ.
+
+Think about how the disciples got caught up in arguing about future leadership positions.
+
 4 Roles of Christ
 -----------------
 

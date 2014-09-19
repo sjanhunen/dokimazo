@@ -25,5 +25,7 @@ This emphasis on purpose is not to minimize the importance of redemption and for
 
 Redemption, forgiveness, and grace all come together according to His purpose. To present the good news without His purpose is to present an incomplete gospel.
 
+Need to talk about inheritance and authority here?
+
 When it comes to purpose and redemption, there can be no doubt that God makes the first move.
 
