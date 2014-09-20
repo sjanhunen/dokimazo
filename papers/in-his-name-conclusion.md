@@ -1,41 +1,32 @@
 In His Name: Conclusion
 =======================
 
-"In His Name" is a phrase of authority. When Christ came "in the name" of His Father, it was the Father's authority and power backing His ministry. When we do something "in the name of the Lord Jesus", we are participating in the authority and power of Christ.
+Returning to the theme verse once again, we still have to examine the second part of the verse.
 
-But beyond being a phrase of authority, "in His name" is a phrase of relationship. When Christ explained the authority He had, he began by speaking of His relationship with His Father. This was the source of all His authority.
+> And whatever you do, in word or deed, do everything in the name of the Lord Jesus, giving thanks to God the Father through him. [Col 3:17 ESV]
 
-A relationthip is founded upon purpose. God is the one who seeks us according to His purpose, not the other way around. For a relationship to develop there must be trust. Trust in Christ's resurrection is central to the gospel. Faithfulness takes trust to the end goal of God's purpose.
+What does giving thanks have to do with doing everything "in the name of the Lord Jesus"? Why does Paul mention this here? Looking back to the first chapter of Colossians, we find our answer.
 
-Illustration: diagram of three circles - purpose, trust, faithfulness. The intersection of all 3 - in His name.
+> Giving thanks to the Father who has qualified us to be partakers of the inheritance of the saints in the light. He has delivered us from the power of darkness and conveyed [us] into the kingdom of the Son of His love, in whom we have redemption through His blood, the forgiveness of sins. [Col 1:12-14 NKJV]
 
-Faithfulness as a theme in Colossians
+It is always God that qualifies those He calls. The disciples were not called because of their credentials and neither are we. Wihout redemption, inheritance is impossible.
 
-> Col 1:2 To the saints and faithful brethren 
-> Col 1:7 Epaphras ... a faithful minister of Christ;
-> Col 4:7 Tychicus ... a beloved brother, and a faithful minister
-> Col 4:9 Onesimus, a faithful and beloved brother
+Inheritance is mentioned twice in Colossians. First, it is the Father that qualifies us for the inheritance. The second mention is regarding the work we do to receive the reward of the inheritance. 
+
+> Whatever you do, work heartily, as for the Lord and not for men, 24 knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ. For the wrongdoer will be paid back for the wrong he has done, and there is no partiality. [Col 3:]
 
 Made meet for the inheritance versus taking hold of the inheritance.
 In Colossians, we read how we have been made able to partake of the inheritance. This reward is received.
 
-> Giving thanks to the Father who has qualified us to be partakers of the inheritance of the saints in the light. He has delivered us from the power of darkness and conveyed [us] into the kingdom of the Son of His love, in whom we have redemption through His blood, the forgiveness of sins. [Col 1:12-14 NKJV]
+Think about the difference in receiving or not receiving. Compare to Israel in the wilderness.
 
-Inheritance is mentioned twice in Colossians. First, it is the Father that qualifies us for the inheritance. And then we receive the reward of the inheritance. 
+> For you may be sure of this, that everyone who is sexually immoral or impure, or who is covetous (that is, an idolater), has no inheritance in the kingdom of Christ and God. [Eph 5:5 ESV]
 
-> Whatever you do, work heartily, as for the Lord and not for men, 24 knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ. 25 For the wrongdoer will be paid back for the wrong he has done, and there is no partiality.
-
-It is always God that qualifies for the authority that He gives. Redemption is always for a purpose - it looks forward to inheritance and authority. 
-
-Between these two references to inheritance stand the admonition to do "everything in the name of the Lord Jesus". These are the words of a faithful servant.
-
-Day to day relationships. He that is faithful in the least is faithful in the most.
-
-During the gospels and Acts period, purpose was focused on Israel. That was the revealed plan. But Paul opens up a much bigger purpose in what is revealed in Ephesians.
+Between these two references to inheritance stands the admonition to do "everything in the name of the Lord Jesus". 
 
 
 
-Think about Jacob and Esau and what God hates. Squandering what He has given for a purpose.
+The the phrase "in His name" is that of a faithful servant.
 
-Think about how the disciples got caught up in arguing about future leadership positions.
 
+Our relationthip with Christ in founded upon purpose. It is the Father's purpose, not ours. God makes the first move and we respond with trust. Only through faith can we ultimately be faithful to the 

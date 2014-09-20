@@ -4,6 +4,12 @@ In His Name: Notes
 Concluding Thoughts
 -------------------
 
+
+Think about Jacob and Esau and what God hates. Squandering what He has given for a purpose.
+
+Think about how the disciples got caught up in arguing about future leadership positions.
+
+
 Faithfulness as a theme in Colossians
 
 > Col 1:2 KJV - To the saints and faithful brethren in Christ which are at Colosse: Grace [be] unto you, and peace, from God our Father and the Lord Jesus Christ.
