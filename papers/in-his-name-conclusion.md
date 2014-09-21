@@ -18,11 +18,9 @@ Inheritance is mentioned twice in Colossians. First, it is the Father that quali
 Made meet for the inheritance versus taking hold of the inheritance.
 In Colossians, we read how we have been made able to partake of the inheritance. This reward is received.
 
-Think about the difference in receiving or not receiving. Compare to Israel in the wilderness.
-
-> For you may be sure of this, that everyone who is sexually immoral or impure, or who is covetous (that is, an idolater), has no inheritance in the kingdom of Christ and God. [Eph 5:5 ESV]
-
 Between these two references to inheritance stands the admonition to do "everything in the name of the Lord Jesus". 
+
+Abounding in good works and increasing in the knowledge of God.
 
 
 
