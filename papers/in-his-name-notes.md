@@ -1,6 +1,11 @@
 In His Name: Notes
 ==================
 
+Parallels Between 2 Timothy 2 and Matthew 7
+-------------------------------------------
+
+The parallels are striking. Which reward is Paul speaking of in 2 Tim 2?
+
 Concluding Thoughts
 -------------------
 
@@ -43,6 +48,21 @@ Think about Jacob and Esau and what God hates. Squandering what He has given for
 Bring it back to redemption for a purpose. And that purpose involves sharing in the authority and inheritance of Christ.
 
 Think about how the disciples got caught up in arguing about future leadership positions.
+
+
+Will of God in Ephesians
+-------------------------
+
+In Ephesians, Paul has something to say about wisdom and foolishness that resonates with the lesson of the wise and foolish builders.
+
+> See then that you walk circumspectly, not as fools but as wise, 16 redeeming the time, because the days are evil. 17 Therefore do not be unwise, but understand what the will of the Lord [is]. [Eph 5:15-17 NKJV]
+
+If God's will were something so unfathomable that it could not be summarized in an understandable way, there is no way Paul could make this statement. Looking at the start of this chapter, we get more of the context behind what Paul means when he says "will of the Lord". 
+
+> Therefore be imitators of God, as beloved children. And walk in love, as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God. [Eph 5:1-2 ESV]
+
+Faith and knowledge are not the end goal, but they are an absolutely essential means to walking in the will of God. Walking in wisdom is only possible with the wisdom that comes by faith.
+
 
 4 Roles of Christ
 -----------------
