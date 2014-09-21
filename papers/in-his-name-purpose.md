@@ -7,7 +7,7 @@ This is seen clearly in the example of Christ calling His disciples as He began 
 
 > And he said to them, "Follow me, and I will make you fishers of men." And they straightway left [their] nets, and followed him. [Mat 4:19 ESV]
 
-Christ is the one who extended the offer. He was the one that found Peter and Andrew, not the other way around. Not only did He invite them to follow Him, He hinted at the bigger purpose He had for them: becoming "fishers of men" for His kingdom. We can debate what exactly went through their minds as they accepted the invitation or what they may or may not have known about who Jesus was at that instant. But we cannot debate the simple fact that they accepted and followed. Their trust in Jesus began here as they took their first steps with Him.
+Christ is the one who extended the offer. He was the one that found Peter and Andrew, not the other way around. Not only did He invite them to follow Him, He hinted at the bigger purpose He had for them: becoming "fishers of men" for His kingdom. We may ponder what exactly went through their minds as they accepted the invitation or what they may or may not have known about Jesus at that instant. But we cannot debate the simple fact that they accepted and followed. Their trust in Jesus began here as they took their first steps with Him.
 
 After finding and gathering the twelve together, Christ gave them the authority for their ministry, much like the Father had given Him authority for His.
 
@@ -17,15 +17,10 @@ The works that we see the twelve and others doing during the gospels and book of
 
 > Jesus said to them, "Truly, I say to you, in the new world, when the Son of Man will sit on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel. [Mat 19:28 ESV]
 
-The preaching of the Kingdom was always about a specific plan that God had for Isral.
+This emphasis on purpose is not to minimize the importance of redemption in any way. In fact, the regeneration and the new world that Jesus speaks of here is completely impossible without redemption.
 
-This emphasis on purpose is not to minimize the importance of redemption and forgiveness in any way. In fact, this serves to highlight the very necessity of it. In Ephesians, we see just how interconnected redemption and purpose truly are.
+In Ephesians, Paul brings redemption and purpose together when he is summarizing God's plan for the fullness of time.
 
 > In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace, which he lavished upon us, in all wisdom and insight making known to us the mystery of his will, according to his purpose, which he set forth in Christ as a plan for the fullness of time, to unite all things in him, things in heaven and things on earth. [Eph 1:7-10 ESV]
 
-Redemption, forgiveness, and grace all come together according to His purpose. To present the good news without His purpose is to present an incomplete gospel.
-
-Need to talk about inheritance and authority here?
-
-When it comes to purpose and redemption, there can be no doubt that God makes the first move.
-
+Redemption, forgiveness, and grace all come together according to the Father's purpose. To present the good news without His purpose is to present an incomplete gospel. Just as Christ invited His disciples to follow Him in His earthly ministry, He is inviting us to be a part of what He is doing in His heavenly ministry. 
