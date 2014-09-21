@@ -17,7 +17,7 @@ The works that we see the twelve and others doing during the gospels and book of
 
 > Jesus said to them, "Truly, I say to you, in the new world, when the Son of Man will sit on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel. [Mat 19:28 ESV]
 
-This emphasis on purpose is not to minimize the importance of redemption in any way. In fact, the regeneration and the new world that Jesus speaks of here is completely impossible without redemption.
+This emphasis on purpose is not to minimize the importance of redemption in any way. In fact, the regeneration and the new world that Jesus speaks of here are completely impossible without redemption.
 
 In Ephesians, Paul brings redemption and purpose together when he is summarizing God's plan for the fullness of time.
 
