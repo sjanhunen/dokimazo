@@ -12,15 +12,17 @@ The Greatest Commandment
 - Heart & soul versus mind & body
 - Knowledge vs acknowledge
 - Hebrew vs Greek thought: "I think therefore I am" 
+- The primary contrast is heart vs mind and what we can learn about it
 
-Israel's First Three Kings
-==========================
+Two Kings
+=========
 
-Illustrations from the lives of Saul, David, Solomon
+Illustrations from the lives of David & Solomon
 
-Saul - outward approval
 David - man after God's own heart
-Solomon - incredible wisdom
+Solomon - gave his heart over to the pursuit of wisdom and knowledge
+
+Compare the prayers of these two kings. What did they ask God for?
 
 The Greatest Prayer
 ===================
@@ -28,7 +30,9 @@ The Greatest Prayer
 Q: Is the central prayer in Ephesians the only prayer that specificaly talks about Christ dwelling in our hearts?
 
 - Paul's prayer: heart, love of Christ, knowledge that exceeds knowledge
+- The one thing that Paul felt was most important to pray about
 - The context of "The Mystery" and Acts + temple changes (which side of the line?)
-- Doing everything heartily
-
-
+- The one and best thing we can ask for is Christ dwelling in our hearts. Isn't this infinitely better than everything else? But we tend to grasp after knowledge instead of this.
+- The fear of the Lord is the beginning of wisdom.
+- Paul isn't praying so much for academic wisdom as he is praying for a heart after God.
+- Doing everything heartily means doing it from the heart!
