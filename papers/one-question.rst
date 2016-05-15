@@ -42,9 +42,18 @@ Three Kings
 
 Illustrations from the lives of David & Solomon
 
-Saul - external conformance, but didn't "get it"
-Solomon - gave his heart over to the pursuit of wisdom and knowledge
-David - the only one described as a man after God's own heart
+Saul
+----
+external conformance, but didn't "get it"
+
+Solomon
+-------
+gave his heart over to the pursuit of wisdom and knowledge
+
+David
+-----
+
+the only one described as a man after God's own heart
 
 Compare the prayers of these two kings. What did they ask God for? What did they pray for?
 
