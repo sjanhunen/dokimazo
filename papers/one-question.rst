@@ -1,9 +1,20 @@
 One Question
 ============
 
-If you could have been around Jesus when He was on the earth and had the opportunity to ask Him one question, what would it be?
+If you had the opportunity to meet God face to face and ask one question, what would it be? 
 
-Example from Mark 12. Three questions asked.
+In Mark 12, we read about three different religious leaders of Israel that had this opportunity. One was a Pharisee, one was a Sadducee, and one was a Scribe. Based on what is recorded, it's unlikely that any of these men actually thought this was their chance to ask God a question. But their inability to perceive this does not change the fact that they were talking with the God of Israel, the One whom they thought they were serving.
+
+Comment on the perspective difference: they saw him as an up and coming leader and a threat. We know Him as the Son of God. This difference leads to quite the ironic encounter.
+
+The leaders were well aware that Jesus was speaking out against them. They wanted to arrest Him, but couldn't due to the popularity that Jesus had among the people. So they decided on a different strategy: trying to trap Him with His own words. Put another way: they decided to try to trick God by asking Him hard questions.
+
+First up is the Pharisee. 
+
+The next question comes from a Sadducee.
+
+The final question comes from a Scribe. This one really is approaching a good question.
+
 
 The Greatest Commandment
 ========================
