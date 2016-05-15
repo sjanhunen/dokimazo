@@ -9,12 +9,20 @@ Comment on the perspective difference: they saw him as an up and coming leader a
 
 The leaders were well aware that Jesus was speaking out against them. They wanted to arrest Him, but couldn't due to the popularity that Jesus had among the people. So they decided on a different strategy: trying to trap Him with His own words. Put another way: they decided to try to trick God by asking Him hard questions.
 
+The Pharisee
+------------
+
 First up is the Pharisee. 
+
+The Sadducee
+------------
 
 The next question comes from a Sadducee.
 
-The final question comes from a Scribe. This one really is approaching a good question.
+The Scribe
+----------
 
+The final question comes from a Scribe. This one really is approaching a good question.
 
 The Greatest Commandment
 ========================
@@ -23,17 +31,22 @@ The Greatest Commandment
 - Heart & soul versus mind & body
 - Knowledge vs acknowledge
 - Hebrew vs Greek thought: "I think therefore I am" 
-- The primary contrast is heart vs mind and what we can learn about it
 
-Two Kings
-=========
+Main Point:
+- Loving God starts with the heart.
+- Engaging just the mind won't do
+- Going through the motions won't do
+
+Three Kings
+===========
 
 Illustrations from the lives of David & Solomon
 
-David - man after God's own heart
+Saul - external conformance, but didn't "get it"
 Solomon - gave his heart over to the pursuit of wisdom and knowledge
+David - the only one described as a man after God's own heart
 
-Compare the prayers of these two kings. What did they ask God for?
+Compare the prayers of these two kings. What did they ask God for? What did they pray for?
 
 The Greatest Prayer
 ===================
