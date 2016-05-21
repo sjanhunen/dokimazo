@@ -16,17 +16,22 @@ In Mark 12, we read about three different religious leaders of Israel that had t
 The Pharisee
 ------------
 
-The Pharisee's question was focused on a political issue. They were using this to try to trap Jesus.
+The Pharisee's question was focused on a political issue. This sect was so zealous about following the law, that they added significant layers of tradition to it in their attempt to avoid breakging it.
+
+Ironically, they were the most religious but also the farthest from the heart of what God intended.
+
+
+They were using this to try to trap Jesus.
 
 The Sadducee
 ------------
 
-The Sadducee's question included a doctrinal concept that they didn't believe in.
+The Sadducee's question was a debate about doctrine.
 
 The Scribe
 ----------
 
-The Scribe's question was really the only question that came down to something moral.
+The Scribe's question came the closest to the Word of God.
 
 Christ acknowledges that this was a good question.
 
@@ -36,11 +41,12 @@ The Greatest Commandment
 
 .. sidebar:: Main Points
 
-   - If God isn't our focal point, the only alternative is self
-   - Paul describes two barriers to belief caused by wrong focus
+   - The greatest commandment starts with the heart and flows outward
    - What we focus on is where our treasure is
    - What we talk about flows directly out of our heart
-   - God wants the heart, because that is where it all starts
+   - True faith is from the heart, which goes much deeper than religion or reason
+
+What does it mean to love God with all of your heart and soul and mind and strength? 
 
 To really understand the greatest commandment, we need to understand the words used.
 
@@ -50,10 +56,23 @@ When Christ quotes Deut to the Scribe, he adds a word that isn't present in the 
 
 The heart is closely linked to what we focus on. Must explore this in more depth. If Christ isn't center, the only alternative is self.
 
-  
-- The Jew wanted a sign, but saw the cross as weak "show me the power"
-- The Greek wanted wisdom, but saw the cross as foolish "convince me with your logical arguments"
 
+Main Passages:
+- Mark 12
+- Deut 4
+- Matt 6
+- Matt 12:34
+
+This relationship between heart (where your treasure is) and mouth (what flows out of that) is clearly seen in passages that speak of salvation. For example, Paul says in Romans 10
+
+    9 That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.
+    10 For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.
+
+Belief with the heart is truly different from reasoning with the mind  or from participating in religion. Both religion and reason easily become avenues for the elevation of the creature above the creator. Faith acknowledges God as God.
+
+Paul shares the barriers to faith that the Jews and Greeks had at the time. Without faith, the cross appeared to be a symbol of weakness to the Jew. And to thr Greek it was follishness; it didn't make sense.
+
+But with faith, the cross is seen as the power of God (the greatest sign) and the wisdom of God.
 
 
 Three Kings
