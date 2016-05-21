@@ -1,67 +1,104 @@
+.. SVG Edit looks like a powerful tool that I can use to generate my diagrams (https://github.com/SVG-Edit/svgedit)
+
+
 One Question
 ============
 
 If you had the opportunity to meet God face to face and ask one question, what would it be? 
 
-In Mark 12, we read about three different religious leaders of Israel that had this opportunity. One was a Pharisee, one was a Sadducee, and one was a Scribe. Based on what is recorded, it's unlikely that any of these men actually thought this was their chance to ask God a question. But their inability to perceive this does not change the fact that they were talking with the God of Israel, the One whom they thought they were serving. It's fun for us to watch the situatoin unfold with this knowledge. They saw him as an up and coming leader and a threat. We know Him as the Son of God. This difference leads to quite the ironic encounter. The leaders were well aware that Jesus was speaking out against them. They wanted to arrest Him, but couldn't due to the popularity that Jesus had among the people. So they decided on a different strategy: trying to trap Him with His own words. Put another way: they decided to try to trick God by asking Him hard questions.
+In Mark 12, we read about three different religious leaders of Israel that had this opportunity. One was a Pharisee, one was a Sadducee, and one was a Scribe. Based on what is recorded, it's unlikely that any of these men actually thought this was their chance to ask God a question. But their inability to perceive this does not change the fact that they were talking with the God of Israel, the One whom they thought they were serving. It's fun for us to watch the situation unfold with this knowledge. They saw him as an up and coming leader and a threat. We know Him as the Son of God. This difference leads to quite the ironic encounter. The leaders were well aware that Jesus was speaking out against them. They wanted to arrest Him, but couldn't due to the popularity that Jesus had among the people. So they decided on a different strategy: trying to trap Him with His own words. Put another way: they decided to try to trick God by asking Him hard questions.
+
+.. sidebar:: Main Points
+
+	- If we focus on the wrong things, the truth becomes unrecognizable
+
 
 The Pharisee
 ------------
 
-First up is the Pharisee. 
+The Pharisee's question was focused on a political issue. They were using this to try to trap Jesus.
 
 The Sadducee
 ------------
 
-The next question comes from a Sadducee.
+The Sadducee's question included a doctrinal concept that they didn't believe in.
 
 The Scribe
 ----------
 
-The final question comes from a Scribe. This one really is approaching a good question.
+The Scribe's question was really the only question that came down to something moral.
+
+Christ acknowledges that this was a good question.
 
 The Greatest Commandment
 ========================
 
-- Terms heart, soul, mind, strength in Mark and Deut
-- Heart & soul versus mind & body
-- Paul's commentary on the barriers to belief
-  - The Jew wanted a sign, but saw the cross as weak (show me the power)
-  - The Greek wanted wisdom, but saw the cross as foolish (convince me with your logical arguments)
-- Hebrew vs Greek thought: "I think therefore I am" 
-- Knowledge vs acknowledge
 
-Main Point:
+.. sidebar:: Main Points
 
-- Loving God with all the soul must start with the heart
-- We can stumble at the external manifestations
-- We can stumble at the intellectual level
-- God wants us to want the same things He wants
+   - If God isn't our focal point, the only alternative is self
+   - Paul describes two barriers to belief caused by wrong focus
+   - What we focus on is where our treasure is
+   - What we talk about flows directly out of our heart
+   - God wants the heart, because that is where it all starts
+
+To really understand the greatest commandment, we need to understand the words used.
+
+It's significant that "heart" and "soul" are two of the three words used in Deuteronomy, because they can be easily misunderstood. Mainstream use today is almost backwards from the Hebrew view of these.
+
+When Christ quotes Deut to the Scribe, he adds a word that isn't present in the Hebrew. Specifically, he adds the word "mind".
+
+The heart is closely linked to what we focus on. Must explore this in more depth. If Christ isn't center, the only alternative is self.
+
+  
+- The Jew wanted a sign, but saw the cross as weak "show me the power"
+- The Greek wanted wisdom, but saw the cross as foolish "convince me with your logical arguments"
+
+
 
 Three Kings
 ===========
 
-Illustrations from the lives of David & Solomon
+Illustrations from the lives of David & Solomon. Where was their treasure? What did they talk about and what did they pray about?
 
 Saul
 ----
+
+.. sidebar:: Main Points
+
+   - Saul had a focus on the external that led him down the road of jealously and hatred
+
 external conformance, but didn't "get it"
 
 Solomon
 -------
+
+.. sidebar:: Main Points
+
+   - Solomon's pursuit of wisdom led him astray in some ways
+
 gave his heart over to the pursuit of wisdom and knowledge
 
 David
 -----
 
-the only one described as a man after God's own heart
+.. sidebar:: Main Points
 
-Compare the prayers of these two kings. What did they ask God for? What did they pray for?
+   - David's focus on God's heart kept him on track despite many failures
+
+the only one described as a man after God's own heart
 
 The Greatest Prayer
 ===================
 
-Q: Is the central prayer in Ephesians the only prayer that specificaly talks about Christ dwelling in our hearts?
+.. sidebar:: Main Points
+
+   - Christ dwelling in our hearts is the single most important thing we can ask for
+   - God reveals mysteries to us so we can understand His heart, not so we can explain complex Bible passages
+   - Christ's obedience to the Father was the wisdom and power of God. He wanted what God wanted.
+   - Doing everything heartily means doing it from the heart!
+
+Is the central prayer in Ephesians the only prayer that specifically talks about Christ dwelling in our hearts?
 
 - Paul's prayer: heart, love of Christ, knowledge that exceeds knowledge
 - The one thing that Paul felt was most important to pray about
@@ -69,8 +106,3 @@ Q: Is the central prayer in Ephesians the only prayer that specificaly talks abo
 - The one act of Christ's ministry: wanting exactly what the Father wanted. This was more than the suffering of the Cross itself (think back to more than burnt offerings and sacrifices)
 - The fear of the Lord is the beginning of wisdom.
 - Paul isn't praying for academic wisdom as he is praying for a heart after God.
-
-Main Point:
-
- - God reveals mysteries to us so we can understand His heart, not so we can explain complex Bible passages
- - Doing everything heartily means doing it from the heart!
