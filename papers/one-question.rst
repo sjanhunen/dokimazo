@@ -6,22 +6,20 @@ One Question
 
 If you had the opportunity to meet God face to face and ask one question, what would it be? 
 
-In Mark 12, we read about three different religious leaders of Israel that had this opportunity. One was a Pharisee, one was a Sadducee, and one was a Scribe. Based on what is recorded, it's unlikely that any of these men actually thought this was their chance to ask God a question. But their inability to perceive this does not change the fact that they were talking with the God of Israel, the One whom they thought they were serving. It's fun for us to watch the situation unfold with this knowledge. They saw him as an up and coming leader and a threat. We know Him as the Son of God. This difference leads to quite the ironic encounter. The leaders were well aware that Jesus was speaking out against them. They wanted to arrest Him, but couldn't due to the popularity that Jesus had among the people. So they decided on a different strategy: trying to trap Him with His own words. Put another way: they decided to try to trick God by asking Him hard questions.
+When Christ was walking on the earth, three religious leaders from the nation of Israel unknowingly each had this very opportunity. This encounter is recorded in scripture in Mark 12. When we look back upon this with a full understanding of who Jesus is, it's actually a very ironc scene.
+
+These leaders of the time saw Him as an up and coming leader and a threat. We know Him as the Son of God. The leaders were well aware that Jesus was speaking out against them. They wanted to arrest Him, but couldn't due to the popularity that Jesus had among the people. So they decided on a different strategy: trying to trap Him with His own words. Put another way: they decided to try to trick God by asking Him hard questions.
+
 
 .. sidebar:: Main Points
 
-	- If we focus on the wrong things, the truth becomes unrecognizable
+   There is significant wisdom behind each of the answers Christ gives. He takes what was intended to be a trap and turns it into powerful teaching. 
 
 
 The Pharisee
 ------------
 
 The Pharisee's question was focused on a political issue. This sect was so zealous about following the law, that they added significant layers of tradition to it in their attempt to avoid breakging it.
-
-Ironically, they were the most religious but also the farthest from the heart of what God intended.
-
-
-They were using this to try to trap Jesus.
 
 The Sadducee
 ------------
@@ -31,20 +29,22 @@ The Sadducee's question was a debate about doctrine.
 The Scribe
 ----------
 
-The Scribe's question came the closest to the Word of God.
+The Scribe's question was about the law.
 
-Christ acknowledges that this was a good question.
+Christ acknowledges that this was a good question. In His answer, Christ points out that everything in fact all the law and the prophets hang on loving God with all the heart, mind, soul, and strength.
+
+This was the only One to walk the face of the earth that actually kept the greatest commandment.
 
 The Greatest Commandment
 ========================
 
-
 .. sidebar:: Main Points
 
-   - The greatest commandment starts with the heart and flows outward
-   - What we focus on is where our treasure is
-   - What we talk about flows directly out of our heart
-   - True faith is from the heart, which goes much deeper than religion or reason
+   - The focal point of the ministry of Jesus was the heart. 
+   - The greatest commandment illustrates this:
+     - What we focus on is where our treasure is
+     - What we talk about flows directly out of our heart
+   - True faith (as opposed to religion or reason) is always about the heart
 
 What does it mean to love God with all of your heart and soul and mind and strength? 
 
@@ -67,6 +67,8 @@ This relationship between heart (where your treasure is) and mouth (what flows o
 
     9 That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.
     10 For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.
+
+This is a direct answer to honouring God with your lips but having your heart very far from Him (Isa 29:13). Christ quotes this in Matthew. Theory: The ministry Christ had with Israel was actually a heart-focused ministry. That's why it looked so radically different than the religion and the reason of the day. It was so different, it was unrecognizable to many people. The signs that Christ did were to confirm the promises given in the prophets, but His real work was focused on the heart.
 
 Belief with the heart is truly different from reasoning with the mind  or from participating in religion. Both religion and reason easily become avenues for the elevation of the creature above the creator. Faith acknowledges God as God.
 
