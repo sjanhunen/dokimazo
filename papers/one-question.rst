@@ -4,25 +4,40 @@
 One Question
 ============
 
-If you had the opportunity to meet God face to face and ask one question, what would it be? 
+If you had the opportunity to meet God face to face and ask for one thing, what would it be? Would it be a special request? An answer to a puzzle in the Bible? I'm sure we've all thought of something at one time or another.
 
-When Christ was walking on the earth, three religious leaders from the nation of Israel unknowingly each had this very opportunity. This encounter is recorded in scripture in Mark 12. When we look back upon this with a full understanding of who Jesus is, it's actually a very ironc scene.
+During Christ's earthly ministry, three religious leaders from the nation of Israel unknowingly each had this very opportunity. This encounter recorded in Mark 12 develops into an ironic scene when we look back upon it with a full understanding of who Jesus is and what His message was about.
 
-These leaders of the time saw Him as an up and coming leader and a threat. We know Him as the Son of God. The leaders were well aware that Jesus was speaking out against them. They wanted to arrest Him, but couldn't due to the popularity that Jesus had among the people. So they decided on a different strategy: trying to trap Him with His own words. Put another way: they decided to try to trick God by asking Him hard questions.
+The leaders of the time saw Jesus as an up and coming threat. His teaching was powerful in a way that theirs wasn't. He was gaining popularity with the people. And he repeatedly called them out for their hypocrisy. They wanted to act forcefully against Jesus, but they feared the people. So they devised a different strategy: they decided to try to trap Jesus using His own words. If they could get Him to say something outrageous or blasphemous, they could use this to finally act against Him.
 
+These guys had gotten so disoriented and distorted in their perception of reality that they were about to try to trap the very God (manifested in human form) that they thought they were serving. They really had no idea what they were walking into. They are about to encounter the Truth.
 
 .. sidebar:: Main Points
 
-   There is significant wisdom behind each of the answers Christ gives. He takes what was intended to be a trap and turns it into powerful teaching. 
+   In order for you to be able to truly give something to God, not only do you have to know His word and His power, you have to love Him with all of your heart, and mind, and soul, and strength.
 
 
 The Pharisee
 ------------
 
-The Pharisee's question was focused on a political issue. This sect was so zealous about following the law, that they added significant layers of tradition to it in their attempt to avoid breakging it.
+The first question came from a group formed of two different sects, the Pharisees and the Herodians. The Pharisees were a highly religious sect so zealous about keeping the law that they wrapped layer upon layer of tradition around to it in their attempt to avoid breaking it. Where they ended up was so far removed from the heart of God that they were just serving themselves.
+
+The Herodians where a group distinct from the Pharisees and Sadducees that most scholars believe were very friendly to Herod the Great. In other words, they were a Jewish political party that supported the rule of Herod as King. They would have normally been at odds with the Pharisees over this political difference, but they united in their attempt to trap Jesus.
+
+The question they ask was simple: "is it lawful to pay tribue to Caesar?"
+
+Is it lawful would be a reference to Mosaic law.
+
+I think the Pharisee was anticipating a simple "yes" or "no" answer to this question. Christ answered neither.
+
+Christ proposes two "renderings" in His answer. The reality is that they really weren't doing either. I don't think He was talking about the coin when He said to render to God the things that are God's. It's more about the heart intent.
+
+The Pharisee was religiously tithing ten percent of everything he owned. But was he actually giving anything to God?
 
 The Sadducee
 ------------
+
+Next up was the question from the Sadducee.
 
 The Sadducee's question was a debate about doctrine.
 
