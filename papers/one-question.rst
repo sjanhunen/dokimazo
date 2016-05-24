@@ -30,16 +30,14 @@ Is it lawful would be a reference to Mosaic law.
 
 I think the Pharisee was anticipating a simple "yes" or "no" answer to this question. Christ answered neither.
 
-Christ proposes two "renderings" in His answer. The reality is that they really weren't doing either. I don't think He was talking about the coin when He said to render to God the things that are God's. It's more about the heart intent.
+Christ proposes two "renderings" in His answer. The reality is that they really weren't doing either. Rendering to God the things that are Gods isn't primarily about coins. I believe Christ was talking about the intent of the heart.
 
 The Pharisee was religiously tithing ten percent of everything he owned. But was he actually giving anything to God?
 
 The Sadducee
 ------------
 
-Next up was the question from the Sadducee.
-
-The Sadducee's question was a debate about doctrine.
+Next up was the question from the Sadducee. This question centered around the doctrine of resurrection.
 
 The Scribe
 ----------
@@ -55,15 +53,18 @@ The Greatest Commandment
 
 .. sidebar:: Main Points
 
-   - The focal point of the ministry of Jesus was the heart. 
-   - The greatest commandment illustrates this:
-     - What we focus on is where our treasure is
-     - What we talk about flows directly out of our heart
-   - True faith (as opposed to religion or reason) is always about the heart
+   - The focal point of the ministry of Jesus was the heart for it is the source out from which everything flows
+   - True faith (as opposed to religion or reason) is always from the heart
 
-What does it mean to love God with all of your heart and soul and mind and strength? 
+If we are going to truly appreciate the greatest commandment, we need to understand the words used. What are the key words? Christ said we are to love God with all of our "heart", "soul", "mind", and "strength".
 
-To really understand the greatest commandment, we need to understand the words used.
+First and foremost, there is the word love. This is the word `agape`, the word that is used to describe God's sacrificial, giving love. The love that led the Father to give His only begotten Son for the world. So when we love God, we give our heart, our soul, our mind, and our strength to Him.
+
+An important thing to keep in mind is the fact that when Christ uses these words, He's actually quoting from the Old Testament. The parallel passage is found in Deut 6:5
+
+   And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.
+
+The phrase "heart and soul" is used numerous times throughout Deut. It really suggests that those two words really were used to describe the complete person.
 
 It's significant that "heart" and "soul" are two of the three words used in Deuteronomy, because they can be easily misunderstood. Mainstream use today is almost backwards from the Hebrew view of these.
 
@@ -71,10 +72,11 @@ When Christ quotes Deut to the Scribe, he adds a word that isn't present in the 
 
 The heart is closely linked to what we focus on. Must explore this in more depth. If Christ isn't center, the only alternative is self.
 
+  - What we focus on is where our treasure is
+  - What we talk about flows directly out of our heart
+
 
 Main Passages:
-- Mark 12
-- Deut 4
 - Matt 6
 - Matt 12:34
 
@@ -83,46 +85,29 @@ This relationship between heart (where your treasure is) and mouth (what flows o
     9 That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.
     10 For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.
 
-This is a direct answer to honouring God with your lips but having your heart very far from Him (Isa 29:13). Christ quotes this in Matthew. Theory: The ministry Christ had with Israel was actually a heart-focused ministry. That's why it looked so radically different than the religion and the reason of the day. It was so different, it was unrecognizable to many people. The signs that Christ did were to confirm the promises given in the prophets, but His real work was focused on the heart.
+This is a direct answer to honoring God with your lips but having your heart very far from Him (Isa 29:13). Christ quotes this in Matthew. Theory: The ministry Christ had with Israel was actually a heart-focused ministry. That's why it looked so radically different than the religion and the reason of the day. It was so different, it was unrecognizable to many people. The signs that Christ did were to confirm the promises given in the prophets, but His real work was focused on the heart.
 
 Belief with the heart is truly different from reasoning with the mind  or from participating in religion. Both religion and reason easily become avenues for the elevation of the creature above the creator. Faith acknowledges God as God.
 
-Paul shares the barriers to faith that the Jews and Greeks had at the time. Without faith, the cross appeared to be a symbol of weakness to the Jew. And to thr Greek it was follishness; it didn't make sense.
+Paul shares the barriers to faith that the Jews and Greeks had at the time. Without faith, the cross appeared to be a symbol of weakness to the Jew. And to the Greek it was foolishness; it didn't make sense.
 
 But with faith, the cross is seen as the power of God (the greatest sign) and the wisdom of God.
 
+The ministry of Christ was really about the heart of Israel. He was the mediator of the New Covenant and His goal was to prepare them for this role.
 
-Three Kings
-===========
+David: A Man After God's Own Heart
+==================================
 
-Illustrations from the lives of David & Solomon. Where was their treasure? What did they talk about and what did they pray about?
+David stands out among the first 3 kings of Israel. He is the only one described as being a man after God's own heart. What can we learn from his life?
 
-Saul
-----
-
-.. sidebar:: Main Points
-
-   - Saul had a focus on the external that led him down the road of jealously and hatred
-
-external conformance, but didn't "get it"
-
-Solomon
--------
-
-.. sidebar:: Main Points
-
-   - Solomon's pursuit of wisdom led him astray in some ways
-
-gave his heart over to the pursuit of wisdom and knowledge
-
-David
------
+Where was his treasure? What did he talk about in his prayers?
 
 .. sidebar:: Main Points
 
    - David's focus on God's heart kept him on track despite many failures
+   - Saul had a focus on the external that led him down the road of jealously and hatred
+   - Solomon's pursuit of wisdom led him astray in some ways
 
-the only one described as a man after God's own heart
 
 The Greatest Prayer
 ===================
@@ -133,6 +118,8 @@ The Greatest Prayer
    - God reveals mysteries to us so we can understand His heart, not so we can explain complex Bible passages
    - Christ's obedience to the Father was the wisdom and power of God. He wanted what God wanted.
    - Doing everything heartily means doing it from the heart!
+
+Compare the covenants to the Mystery. The Mystery is really about an even bigger purpose than any covenant. Think about what is said about the heart in both. Which is more? Which is greater? Who is being witnessed to with the Mystery versus Israel's role as priests?
 
 Is the central prayer in Ephesians the only prayer that specifically talks about Christ dwelling in our hearts?
 
