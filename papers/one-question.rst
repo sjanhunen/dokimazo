@@ -66,6 +66,8 @@ An important thing to keep in mind is the fact that when Christ uses these words
 
 The phrase "heart and soul" is used numerous times throughout Deut. It really suggests that those two words really were used to describe the complete person.
 
+If we are going to truly appreciate the greatest commandment, we need to understand the words used. What are the key words? We are to love God with all of our "heart", "soul", "mind", and "strength". An important thing to keep in mind is the fact that when Christ uses these words, He's actually quoting from the Old Testament. The parallel passage is found in Deut 4.
+
 It's significant that "heart" and "soul" are two of the three words used in Deuteronomy, because they can be easily misunderstood. Mainstream use today is almost backwards from the Hebrew view of these.
 
 When Christ quotes Deut to the Scribe, he adds a word that isn't present in the Hebrew. Specifically, he adds the word "mind".
