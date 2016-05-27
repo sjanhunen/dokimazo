@@ -16,6 +16,8 @@ These guys had gotten so disoriented and distorted in their perception of realit
 
    In order for you to be able to truly give something to God, not only do you have to know His word and His power, you have to love Him with all of your heart, and mind, and soul, and strength.
 
+   Each of these three leaders were missing something from the complete picture.
+
 
 The Pharisee
 ------------
@@ -30,7 +32,7 @@ Is it lawful would be a reference to Mosaic law.
 
 I think the Pharisee was anticipating a simple "yes" or "no" answer to this question. Christ answered neither.
 
-Christ proposes two "renderings" in His answer. The reality is that they really weren't doing either. Rendering to God the things that are Gods isn't primarily about coins. I believe Christ was talking about the intent of the heart.
+Christ proposes two "renderings" in His answer. The reality is that they really weren't doing either. Rendering to God the things that are Gods isn't primarily about coins. I believe Christ was talking about the intent of the heart. As the Word made flesh, Christ was discerning the hearts of the people He ministered to (Heb 4:12).
 
 The Pharisee was religiously tithing ten percent of everything he owned. But was he actually giving anything to God?
 
@@ -53,33 +55,34 @@ The Greatest Commandment
 
 .. sidebar:: Main Points
 
-   - The focal point of the ministry of Jesus was the heart for it is the source out from which everything flows
+   - The focal point of the ministry of Jesus was the heart: it is the source out from which everything flows
    - True faith (as opposed to religion or reason) is always from the heart
 
-If we are going to truly appreciate the greatest commandment, we need to understand the words used. What are the key words? Christ said we are to love God with all of our "heart", "soul", "mind", and "strength".
+If we are to truly grasp the greatest commandment, we need to understand the key words used. What are these key words? Christ said we are to *love* God with all of our *heart*, *soul*, *mind*, and *strength*.
 
-First and foremost, there is the word love. This is the word `agape`, the word that is used to describe God's sacrificial, giving love. The love that led the Father to give His only begotten Son for the world. So when we love God, we give our heart, our soul, our mind, and our strength to Him.
+First and foremost is the commandment to *love* God. This is the word `agape`, the word that is used to describe God's sacrificial, giving love. The love that led the Father to give His only begotten Son for the world. Loving God isn't just some feeling or idea, it requires sacrifice. We must give our heart, our soul, our mind, and our strength to Him.
 
-An important thing to keep in mind is the fact that when Christ uses these words, He's actually quoting from the Old Testament. The parallel passage is found in Deut 6:5
+But what does it mean to love with one's heart and soul or mind and strength? In Mark 12, Christ is actually quoting an Old Testament passage found in Deuteronomy 6:5
 
    And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.
 
+The first word we will look at is the word *soul*. The challenge understanding this word today is that fact that the common meaning of this word is colored heavily by Greek philosophy going all the way back to Plato. Plato's concept of the soul was that it was the immortal part of you that is distinct from your body. The soul survives death and then carries on, reincarnated in another body.
+
+This stands in stark contrast to the Hebrew concept for soul found in the Old Testament. The Hebrew word for soul is *nephesh*. TBD.
+
+So loving God with all of your soul means loving Him as a complete creature.
+
+What about the word heart? This is the Hebrew word *lebab*. The *heart* is really the innermost part of your being.
+
 The phrase "heart and soul" is used numerous times throughout Deut. It really suggests that those two words really were used to describe the complete person.
 
-If we are going to truly appreciate the greatest commandment, we need to understand the words used. What are the key words? We are to love God with all of our "heart", "soul", "mind", and "strength". An important thing to keep in mind is the fact that when Christ uses these words, He's actually quoting from the Old Testament. The parallel passage is found in Deut 4.
-
-It's significant that "heart" and "soul" are two of the three words used in Deuteronomy, because they can be easily misunderstood. Mainstream use today is almost backwards from the Hebrew view of these.
-
-When Christ quotes Deut to the Scribe, he adds a word that isn't present in the Hebrew. Specifically, he adds the word "mind".
-
-The heart is closely linked to what we focus on. Must explore this in more depth. If Christ isn't center, the only alternative is self.
-
-  - What we focus on is where our treasure is
-  - What we talk about flows directly out of our heart
+What's missing in this passage that is found in Mark? *Heart* and *soul* and *strength* (or might) are all present. But the word *mind* is absent. Why is that significant? 
 
 
-Main Passages:
-- Matt 6
+Main Passages for development of key points:
+- Matt 6:21
+- Luke 6:45-49
+- Matt 15:8-11
 - Matt 12:34
 
 This relationship between heart (where your treasure is) and mouth (what flows out of that) is clearly seen in passages that speak of salvation. For example, Paul says in Romans 10
@@ -88,6 +91,12 @@ This relationship between heart (where your treasure is) and mouth (what flows o
     10 For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.
 
 This is a direct answer to honoring God with your lips but having your heart very far from Him (Isa 29:13). Christ quotes this in Matthew. Theory: The ministry Christ had with Israel was actually a heart-focused ministry. That's why it looked so radically different than the religion and the reason of the day. It was so different, it was unrecognizable to many people. The signs that Christ did were to confirm the promises given in the prophets, but His real work was focused on the heart.
+
+The heart is closely linked to what we focus on. Must explore this in more depth. If Christ isn't center, the only alternative is self.
+
+  - What we focus on is where our treasure is
+  - What we talk about flows directly out of our heart
+
 
 Belief with the heart is truly different from reasoning with the mind  or from participating in religion. Both religion and reason easily become avenues for the elevation of the creature above the creator. Faith acknowledges God as God.
 
@@ -109,6 +118,8 @@ Where was his treasure? What did he talk about in his prayers?
    - David's focus on God's heart kept him on track despite many failures
    - Saul had a focus on the external that led him down the road of jealously and hatred
    - Solomon's pursuit of wisdom led him astray in some ways
+
+Bring in Romans to show the transition that takes place from Romans 7 to Romans 8. David asked God to create a clean heart in him.
 
 
 The Greatest Prayer
