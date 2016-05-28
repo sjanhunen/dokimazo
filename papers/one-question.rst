@@ -62,22 +62,35 @@ If we are to truly grasp the greatest commandment, we need to understand the key
 
 First and foremost is the commandment to *love* God. This is the word `agape`, the word that is used to describe God's sacrificial, giving love. The love that led the Father to give His only begotten Son for the world. Loving God isn't just some feeling or idea, it requires sacrifice. We must give our heart, our soul, our mind, and our strength to Him.
 
-But what does it mean to love with one's heart and soul or mind and strength? In Mark 12, Christ is actually quoting an Old Testament passage found in Deuteronomy 6:5
+But what does it mean to love with one's heart and soul? In Mark 12, Christ is actually quoting an Old Testament passage found in Deuteronomy 6:5
 
    And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.
 
-The first word we will look at is the word *soul*. The challenge understanding this word today is that fact that the common meaning of this word is colored heavily by Greek philosophy going all the way back to Plato. Plato's concept of the soul was that it was the immortal part of you that is distinct from your body. The soul survives death and then carries on, reincarnated in another body.
+The challenge in understanding the word *soul* today is that fact that the common meaning of this word is colored heavily by Greek philosophy going all the way back to Plato. Plato's concept of the soul was that it was the immortal part of you that is distinct from your body. In fact, it is as if the soul is trapped inside the body. Upon death, the soul leaves the body and carries on in existance. Many of the Greek concepts of the soul have influenced popular Christian doctrine.
 
-This stands in stark contrast to the Hebrew concept for soul found in the Old Testament. The Hebrew word for soul is *nephesh*. TBD.
+This stands in stark contrast to the Hebrew concept for soul found in the Old Testament. The Hebrew word for soul is *nephesh*. We can get a pretty clear picture of the meaning of this word by looking at the first few occurrences of this word found in the creation account in Genesis. Interestingly enough, the first three appearances of this word are not even in reference to human beings:
 
-So loving God with all of your soul means loving Him as a complete creature.
+   21 And God created great whales, and every living creature[H5315] that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that [it was] good.
+   
+   24 And God said, Let the earth bring forth the living creature[H5315] after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.
+   
+   30 And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein [there is] life,[H5315] [I have given] every green herb for meat: and it was so.
+
+The souls referred to here are living creatures that are in the water, on the land, and in the sky. In other words, fish, cattle, and birds. In its fullest sense, the soul is a reference to the complete creature. When we reach Adam (a human being), we read:
+
+   7 And the LORD God formed man [of] the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.[H5315]
+
+In other words, when God combined the body formed from dust with the breath or spirit He breathed into Adam, the result was a living creature.
+
+Another challenge with the word soul is the fact that it can be used figuratively. Even though soul includes the entire living creature, it can be used figuratively to refer to only parts of the creature. For example, you will come across passages in Scripture that speak of a soul rejoicing or soul being troubled. This would be a figurative use of the word soul, where the word for the whole creature is used to represent an emotion or feeling that is in fact deep inside that creature. But if you really think about this, most things that are buried deep inside usually have a way of affecting the entire creature.
+
+So loving God with all of your soul doesn't mean loving Him with some immaterial piece of you that is inside your body but separate from your body. It means loving God with the entire creature that He has made you to be. It is actually all encompassing.
 
 What about the word heart? This is the Hebrew word *lebab*. The *heart* is really the innermost part of your being.
 
 The phrase "heart and soul" is used numerous times throughout Deut. It really suggests that those two words really were used to describe the complete person.
 
 What's missing in this passage that is found in Mark? *Heart* and *soul* and *strength* (or might) are all present. But the word *mind* is absent. Why is that significant? 
-
 
 Main Passages for development of key points:
 - Matt 6:21
