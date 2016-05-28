@@ -88,6 +88,11 @@ So loving God with all of your soul doesn't mean loving Him with some immaterial
 
 What about the word heart? This is the Hebrew word *lebab*. The *heart* is really the innermost part of your being.
 
+Look at word counts for 'heart':
+
+- Does Deut contain the most references in all OT books?
+- Does Jesus use this word more than mind, body, soul?
+
 The phrase "heart and soul" is used numerous times throughout Deut. It really suggests that those two words really were used to describe the complete person.
 
 What's missing in this passage that is found in Mark? *Heart* and *soul* and *strength* (or might) are all present. But the word *mind* is absent. Why is that significant? 
@@ -105,19 +110,12 @@ This relationship between heart (where your treasure is) and mouth (what flows o
 
 This is a direct answer to honoring God with your lips but having your heart very far from Him (Isa 29:13). Christ quotes this in Matthew. Theory: The ministry Christ had with Israel was actually a heart-focused ministry. That's why it looked so radically different than the religion and the reason of the day. It was so different, it was unrecognizable to many people. The signs that Christ did were to confirm the promises given in the prophets, but His real work was focused on the heart.
 
-The heart is closely linked to what we focus on. Must explore this in more depth. If Christ isn't center, the only alternative is self.
-
+The heart determines what we focus on:
+  
   - What we focus on is where our treasure is
   - What we talk about flows directly out of our heart
 
-
-Belief with the heart is truly different from reasoning with the mind  or from participating in religion. Both religion and reason easily become avenues for the elevation of the creature above the creator. Faith acknowledges God as God.
-
-Paul shares the barriers to faith that the Jews and Greeks had at the time. Without faith, the cross appeared to be a symbol of weakness to the Jew. And to the Greek it was foolishness; it didn't make sense.
-
-But with faith, the cross is seen as the power of God (the greatest sign) and the wisdom of God.
-
-The ministry of Christ was really about the heart of Israel. He was the mediator of the New Covenant and His goal was to prepare them for this role.
+The ministry of Christ was really about the heart of Israel. He was the mediator of the New Covenant and His goal was to prepare them for this role by starting with the heart.
 
 David: A Man After God's Own Heart
 ==================================
@@ -144,6 +142,8 @@ The Greatest Prayer
    - God reveals mysteries to us so we can understand His heart, not so we can explain complex Bible passages
    - Christ's obedience to the Father was the wisdom and power of God. He wanted what God wanted.
    - Doing everything heartily means doing it from the heart!
+
+Discuss key points of Old Covenant, New Covenant, and Mystery. How does the heart fit into all of these. How has the structure of a relationshop with God changed?
 
 Compare the covenants to the Mystery. The Mystery is really about an even bigger purpose than any covenant. Think about what is said about the heart in both. Which is more? Which is greater? Who is being witnessed to with the Mystery versus Israel's role as priests?
 
