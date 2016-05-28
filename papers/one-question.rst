@@ -66,7 +66,12 @@ But what does it mean to love with one's heart and soul? In Mark 12, Christ is a
 
    And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.
 
-The challenge in understanding the word *soul* today is that fact that the common meaning of this word is colored heavily by Greek philosophy going all the way back to Plato. Plato's concept of the soul was that it was the immortal part of you that is distinct from your body. In fact, it is as if the soul is trapped inside the body. Upon death, the soul leaves the body and carries on in existance. Many of the Greek concepts of the soul have influenced popular Christian doctrine.
+To fully understand the greatest commandment we need to dig into the meaning of these Hebrew words.
+
+The Soul
+--------
+
+The challenge in understanding the word *soul* today is that fact that the common meaning of this word is colored heavily by Greek philosophy going all the way back to Plato. Plato's concept of the soul was that it was the immortal part of you that is distinct from your body. In fact, it is as if the soul is trapped inside the body. Upon death, the soul leaves the body and carries on in existence. Many of the Greek concepts of the soul have influenced popular Christian doctrine.
 
 This stands in stark contrast to the Hebrew concept for soul found in the Old Testament. The Hebrew word for soul is *nephesh*. We can get a pretty clear picture of the meaning of this word by looking at the first few occurrences of this word found in the creation account in Genesis. Interestingly enough, the first three appearances of this word are not even in reference to human beings:
 
@@ -76,7 +81,7 @@ This stands in stark contrast to the Hebrew concept for soul found in the Old Te
    
    30 And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein [there is] life,[H5315] [I have given] every green herb for meat: and it was so.
 
-The souls referred to here are living creatures that are in the water, on the land, and in the sky. In other words, fish, cattle, and birds. In its fullest sense, the soul is a reference to the complete creature. When we reach Adam (a human being), we read:
+The souls referred to here are living creatures that are in the water, on the land, and in the sky. In other words they are fish, cattle, and birds. In its fullest sense, the soul is a reference to the complete creature, and it is definitely not limited to humans. When we reach Adam (a human being), we read:
 
    7 And the LORD God formed man [of] the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.[H5315]
 
@@ -86,22 +91,33 @@ Another challenge with the word soul is the fact that it can be used figurativel
 
 So loving God with all of your soul doesn't mean loving Him with some immaterial piece of you that is inside your body but separate from your body. It means loving God with the entire creature that He has made you to be. It is actually all encompassing.
 
-What about the word heart? This is the Hebrew word *lebab*. The *heart* is really the innermost part of your being.
+The Heart
+---------
 
-Look at word counts for 'heart':
+What can we say about the heart? When we think of this word, its natural for us to think of a bodily organ that pumps blood. But the Hebrew words *leb* and *lebab*, which are translated *heart* in the Old Testament, literally mean the innermost part of something. So you will see them used in such phrases as "the *heart* of the sea" or the "the *midst* of heaven".
 
-- Does Deut contain the most references in all OT books?
-- Does Jesus use this word more than mind, body, soul?
+When applied to human beings, the *heart* represents the innermost part or central part of your soul. Life is described, in Proverbs 4:23, as flowing out of the heart:
 
-The phrase "heart and soul" is used numerous times throughout Deut. It really suggests that those two words really were used to describe the complete person.
+   Keep thy heart with all diligence; for out of it [are] the issues of life.
 
-What's missing in this passage that is found in Mark? *Heart* and *soul* and *strength* (or might) are all present. But the word *mind* is absent. Why is that significant? 
+Another way to say this is that the heart is like the fountain of life in a person, the place out from which life flows.
 
-Main Passages for development of key points:
+Illustrations on this from ministry of Christ:
+
 - Matt 6:21
 - Luke 6:45-49
 - Matt 15:8-11
 - Matt 12:34
+
+Look at word counts for 'heart':
+
+- Psalms is the winner with 133!
+- Deut is one of the top books in the OT with 49!
+- Does Jesus use this word more than mind, body, soul?
+
+A brief "Cole's notes" edition of Deut would be helpful here. It will culminate with chapter 30. Deut 30:6 looks forward to the New Covenant. The cutting here is not in the flesh but in the heart. This is the only way to truly love God with all your heart and soul.
+
+The circumcision of the flesh was part of the law. But the cutting of the heart was what God was really after. I believe that "circumcision of the heart" was the real theme of the ministry of Christ while He was on earth. His teaching and ministry was focused on the heart because everything else flows out from there.
 
 This relationship between heart (where your treasure is) and mouth (what flows out of that) is clearly seen in passages that speak of salvation. For example, Paul says in Romans 10
 
@@ -117,6 +133,19 @@ The heart determines what we focus on:
 
 The ministry of Christ was really about the heart of Israel. He was the mediator of the New Covenant and His goal was to prepare them for this role by starting with the heart.
 
+
+Heart & Soul
+------------
+
+The phrase "heart and soul" is used numerous times throughout Deut. It really suggests that those two words really were used to describe the complete person.
+
+See might or strength really as an amplifier, not so much as a distinct thing to talk about. It is how you love God with heart & soul.
+
+The Mind
+--------
+
+What's missing in this passage that is found in Mark? *Heart* and *soul* and *strength* (or might) are all present. But the word *mind* is absent. Why is that significant?
+
 David: A Man After God's Own Heart
 ==================================
 
@@ -129,6 +158,9 @@ Where was his treasure? What did he talk about in his prayers?
    - David's focus on God's heart kept him on track despite many failures
    - Saul had a focus on the external that led him down the road of jealously and hatred
    - Solomon's pursuit of wisdom led him astray in some ways
+
+Deut 17:17-20: This describes a king after God's heart is wisdom that Solomon didn't follow
+
 
 Bring in Romans to show the transition that takes place from Romans 7 to Romans 8. David asked God to create a clean heart in him.
 
