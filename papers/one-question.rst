@@ -144,6 +144,8 @@ The circumcision of the flesh was part of the law. But the cutting of the heart 
 
 Matt 15:8-11: Honour with lips, but heart far from God. Vain worship. How much of Christianity today is vain worship? How much of what we do is vain worship?
 
+The Pharisees, in their attempt to not break the law of God, added layer upon layer of protection around the law until it became almost unrecognizable. But none of this dealt with the source of the problem. Actually, the fact that so many layers were required to achieve a form out outward conformance is actually a testament to just how bad the problem was. Christ came to deal with the problem at its source. If the problem is deal with at the source, the law will be naturally fulfilled without effort. And none of the extra layers will be required. 
+
 This is a direct answer to honoring God with your lips but having your heart very far from Him (Isa 29:13). Christ quotes this in Matthew. Theory: The ministry Christ had with Israel was actually a heart-focused ministry. That's why it looked so radically different than the religion and the reason of the day. It was so different, it was unrecognizable to many people. The signs that Christ did were to confirm the promises given in the prophets, but His real work was focused on the heart.
 
 The ministry of Christ was really about the heart of Israel. He was the mediator of the New Covenant and His goal was to prepare them for this role by starting with the heart.
