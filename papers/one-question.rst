@@ -116,7 +116,7 @@ So loving God with all of your soul doesn't mean loving Him with some immaterial
 The Heart
 ---------
 
-What can we say about the heart? When we think of this word, its natural for us to imagine a bodily organ that pumps blood. But the Hebrew words *leb* and *lebab*, which are translated *heart* in the Old Testament, literally mean the innermost part of something. So you will see these words used in such phrases as "the *heart* of the sea" or the "the *midst* of heaven".
+When we think of this word, its natural for us to imagine a bodily organ that pumps blood. But the Hebrew words *leb* and *lebab*, which are translated *heart* in the Old Testament, literally mean the innermost part of something. So you will see these words used in such phrases as "the *heart* of the sea" or the "the *midst* of heaven".
 
 When *leb* or *lebab* are spoken of in the human context, the *heart* represents the innermost part or central part of your soul. Life is described, in Proverbs 4:23, as flowing out of the heart:
 
@@ -124,7 +124,9 @@ When *leb* or *lebab* are spoken of in the human context, the *heart* represents
 
 Another way to say this is that the heart is like the fountain of life in a person, the place out from which the activities and actions of life flow.
 
-This understanding of the heart as the source of the activity of the soul is found throughout the teaching of Jesus. At one point the Pharasees were giving Him a hard time for not washing His hands before eating as was their custom. [Consider bringing in the brief question and His answer]. Christ used this as a moment for teaching (Mat 15:17-20):
+This understanding of the heart as the source of the activity of the soul is found throughout the teaching of Jesus. At one point the Pharasees were giving Him a hard time for not washing His hands before eating as was their custom. [Consider bringing in the brief question and His answer]. 
+
+Christ used this as a moment for teaching (Mat 15:17-20):
 
    "Do you not yet understand that whatever enters the mouth goes into the stomach and is eliminated? But those things which proceed out of the mouth come from the heart, and they defile a man. For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies. These are [the things] which defile a man, but to eat with unwashed hands does not defile a man."
    
@@ -134,83 +136,82 @@ In the Sermon on the Mount in Matthew 5, Christ focuses on the importance of the
 - You have heard it said, "don't commit adultry". But anyone who lusts has committed adultry in their heart.
 - And so on
 
-The law identified and punished the sinful external action, because that was its domain. But Christ came to deal with the root of all sinful actions: the heart. His ministry was a ministry focused on the heart. The healing and the feeding that He did was secondary to this. The Sermon on the Mount was a sermon about the heart. He didn't come to set aside the law, He came to deal with the problem at the source. In fact, this is the only way that the law can be truly fulfilled.
+The Pharisees, in their attempt to not break the law of God, added layer upon layer of protection around the law until it became almost unrecognizable. But none of this dealt with the source of the problem. Actually, the fact that so many layers were required to achieve a form out outward conformance is actually a testament to just how bad the problem was. Christ came to deal with the problem at its source. If the problem is deal with at the source, the law will be naturally fulfilled without effort. And none of the extra layers will be required. 
 
-Luke 6:45-49: the parable of the wise and foolish builder. Who is the rock? Christ (or His Spirit) Where is the rock? (In your heart).
+The law identified and punished the sinful external action, because that was its domain. But Christ came to deal with the root of all sinful actions: the heart. His ministry was a ministry focused on the heart. The healing and the feeding that He did was secondary to this. The Sermon on the Mount was a sermon about the heart. He didn't come to set aside the law, He came to deal with the problem at the source. In fact, this is the only way that the law can be truly fulfilled.
 
 A brief "Cole's notes" edition of Deut would be helpful here. It will culminate with chapter 30. Deut 30:6 looks forward to the New Covenant. The cutting here is not in the flesh but in the heart. This is the only way to truly love God with all your heart and soul.
 
 The circumcision of the flesh was part of the law. But the cutting of the heart was what God was really after. I believe that "circumcision of the heart" was the real theme of the ministry of Christ while He was on earth. His teaching and ministry was focused on the heart because everything else flows out from there.
 
-Matt 15:8-11: Honour with lips, but heart far from God. Vain worship. How much of Christianity today is vain worship? How much of what we do is vain worship?
+Luke 6:45-49: the parable of the wise and foolish builder. Who is the rock? Christ (or His Spirit) Where is the rock? (In your heart).
 
-The Pharisees, in their attempt to not break the law of God, added layer upon layer of protection around the law until it became almost unrecognizable. But none of this dealt with the source of the problem. Actually, the fact that so many layers were required to achieve a form out outward conformance is actually a testament to just how bad the problem was. Christ came to deal with the problem at its source. If the problem is deal with at the source, the law will be naturally fulfilled without effort. And none of the extra layers will be required. 
+Matt 15:8-11: Honour with lips, but heart far from God. Vain worship. How much of Christianity today is vain worship? How much of what we do is vain worship?
 
 This is a direct answer to honoring God with your lips but having your heart very far from Him (Isa 29:13). Christ quotes this in Matthew. Theory: The ministry Christ had with Israel was actually a heart-focused ministry. That's why it looked so radically different than the religion and the reason of the day. It was so different, it was unrecognizable to many people. The signs that Christ did were to confirm the promises given in the prophets, but His real work was focused on the heart.
 
-The ministry of Christ was really about the heart of Israel. He was the mediator of the New Covenant and His goal was to prepare them for this role by starting with the heart.
 
 A Man After God's Own Heart
 ===========================
 
-We can't be looking at the heart in like this without considering the example of someone who was called out as being a "man after God's own heart." Of course, I am speaking of King David. 
+.. sidebar:: Main Points
 
-Burnt offerings have a way of coming up again and again. This time, Israel is in war with the Phiistines and is running scared. The prophet Samuel is delayed. Samuel is supposed to come and offer a sacrifice. Saul was supposed to wait for Samuel, but he got impatient and offered it himeslf. What is the significance of this act of disobedience? Expand upon it.
+   David, despite his many failure, was seeking God from the heart. He didn't run from the conviction of sin, he embraced it. His heart was broken, not hardened. He desired what only God can give, a clean heart filled with His spirit.
 
-In response to this disobedience, Samuel tells Saul point blank that God is going to replace him as king. The Lord was going to find someone after His own heart. He was speacking, of course, of David.
+   A broken heart is an open heart. Christ came to heal the brokenhearted.
 
-Later in chapter 15, after another act of disobedience, Samuel says this to Saul:
+No study of the heart would be complete without considering the example of someone who was called out in the Bible as being a "man after God's own heart." This is none other than David. Why did David get this title?
 
-[1Sa 15:22-23 NKJV] 22 So Samuel said: "Has the LORD [as great] delight in burnt offerings and sacrifices, As in obeying the voice of the LORD? Behold, to obey is better than sacrifice, [And] to heed than the fat of rams. 23 For rebellion [is as] the sin of witchcraft, And stubbornness [is as] iniquity and idolatry. Because you have rejected the word of the LORD, He also has rejected you from [being] king."
+It was in Saul's disobedience that the Lord said he would seek out a king that was after His own heart. In other words, Samuel is saying to Saul that you don't really get it. Your heart is not where it needs to be when it comes to obeying the Lord. Saul just didn't get what obeying the Lord was about. Externally, he had a lot going for him. But he was disobedient to the Lord. I believe he was disobedient because he didn't "get it" in his heart. And so the Lord ultimately replaced him with David as king.
 
-Saul just didn't get what obeying the Lord was about. Externally, he had a lot going for him. But he was disobedient to the Lord. I believe he was disobedient because he didn't "get it" in his heart. And so the Lord ultimately replaced him with David as king.
-
-David committed some pretty serious sins. Thinking of the big two, he committed both murder and adultery. How could God call a murderer and an adulterer someone after His own heart? I believe this is becuase David "got it" in a way that Saul never did. We can understand this by looking at how David responsed to sin.
-
-David's Response to Sin
------------------------
-
-How did he respond when confronted with His sin? He understood it was about the heart!
+David committed some pretty serious sins. Thinking of the big two, he committed both murder and adultery. How could God call a murderer and an adulterer someone after His own heart? I believe this is because David "got it" in a way that Saul never did. We can understand this by looking at how David responded to sin.
 
 Psalm 51 is David's response after being confronted with his serious sin.
 
    [Psa 51:2-4, 6, 10, 16-17 KJV] 2 Wash me throughly from mine iniquity, and cleanse me from my sin. 3 For I acknowledge my transgressions: and my sin [is] ever before me. 4 Against thee, thee only, have I sinned, and done [this] evil in thy sight: that thou mightest be justified when thou speakest, [and] be clear when thou judgest. ... 6 Behold, thou desirest truth in the inward parts: and in the hidden [part] thou shalt make me to know wisdom. ... 10 Create in me a clean heart, O God; and renew a right spirit within me. ... 16 For thou desirest not sacrifice; else would I give [it]: thou delightest not in burnt offering. 17 The sacrifices of God [are] a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
 
-When David acknowledged his sin, he didn't go make a burnt offering to God. He went straight to the heart of the problem, his own heart.
+David's encounter with the truth resulted in a broken spirit and a broken heart. When David acknowledged his sin, he didn't go make a burnt offering to God. He acknowledged that he just couldn't do it without God's help: that is what God wanted more than burnt offerings. This is something God did not despise. David asked for something that only God could provide. His answer is found in Christ:
 
-Where was his treasure? What did he talk about in his prayers?
+[Isa 61:1 KJV] 1 The Spirit of the Lord GOD [is] upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to [them that are] bound;
 
-Psalm 119:11 - God's Word in the heart.
+This is how Christ described His own ministry. His ministry was to those who were broken under the Old Covenant. 
 
-Psalm 129:23 - "Search me and know my heart"
+The opposite of a broken heart is a hard heart. The only way the nation of Israel will fulfill the purpose God has for them is through a broken heart, not a hard heart. Christ encountered this many times with the religious and the leaders. This is completely opposite to what God wants.
 
-Paul's Response to Sin
-----------------------
+Being broken means you are open to God, not closed off. Do you want to try to keep Him out or let Him in? Will you let Him search your heart?
+Psalm 129:23 - "Search me and know my heart". David is saying, God my heart is open to you.
 
-Bring in Romans to show the transition that takes place from Romans 7 to Romans 8. Response to sin is, again, key.
+The cry of David's heart was answered in the Son of David, Jesus Christ.
 
-God wants us to acknowledge that at the very core of who we are, we want things and we do things that aren't right. It's so easy to deny this or to run from this. It's so easy to build layers of self serving religion around this. But when we acknowledge the truth and we let Him in to do the heart surgery, things are so much better.
 
 The Greatest Prayer
 ===================
 
-.. sidebar:: Main Points
+.. sidebar:: Main Point
 
-   - Christ dwelling in our hearts is the single most important thing we can ask for
-   - God reveals mysteries to us so we can understand His heart, not so we can explain complex Bible passages
-   - Christ's obedience to the Father was the wisdom and power of God. He wanted what God wanted.
-   - Doing everything heartily means doing it from the heart!
+   Relationship with God has always been about the heart. Since everything in the soul flows out from the heart, so God wants to start there.
 
-Compare the covenants to the Mystery. The Mystery is really about an even bigger purpose than any covenant. Think about what is said about the heart in both. Which is more? Which is greater? Who is being witnessed to with the Mystery versus Israel's role as priests? God wants a heart-to-heart relationship not just with the pepole of the New Covenant, but with people from all nations. If you really think about it, the nation of Israel was intended to serve all other nations and be an example. When we get to Ephesians, Paul is addressing people that were "strangers from the covenants". And what is at the core of his message?
+   We need a broken (or opened) heart to fulfill the purpose that God has for us. Asking Him to fill our hearts really is the greatest thing we can pray for.
+
+All of the scriptures we have examined so far have had Israel in the central position. In fact, even though we looked at the Gospels, these are really extensions of the Old Covenant. But God has a purpose that is way bigger than just the nation of Israel. He has a purpose that's scope is way wider than merely the earth. But I believe He is looking for those with a broken heart.
+
+God wants a heart to heart relationship people from all nations. Israel wasn't the only nation that struggled with hardened hearts:
+
+   [Eph 4:18 KJV] 18 Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness[G4457] of their heart:
+
+The word blindness is also translated "hardness". It means a covering over something.
 
 Is the central prayer in Ephesians the only prayer that specifically talks about Christ dwelling in our hearts?
 
 - Paul's prayer: heart, love of Christ, knowledge that exceeds knowledge
 - The one thing that Paul felt was most important to pray about
 - The one and best thing we can ask for is Christ dwelling in our hearts. Isn't this infinitely better than everything else? But we tend to grasp after knowledge instead of this.
-- The one act of Christ's ministry: wanting exactly what the Father wanted. This was more than the suffering of the Cross itself (think back to more than burnt offerings and sacrifices)
-- The fear of the Lord is the beginning of wisdom.
-- Paul isn't praying for academic wisdom as he is praying for a heart after God.
-- What kind of witness to the principalities and power was the perfect love and obedience that Christ showed from His heart?
 
-Even though the scene of the cross was done in the wide open for everyone to see, at that exact time, nobody really knew what it was about or just how far reaching the implications would be. When we look back on that event, it all begins to make sense. I wonder if something similar might happen in our lives. Think about how Christ said to do your good works in secret.
+The one act of Christ's ministry: wanting exactly what the Father wanted. This was more than the suffering of the Cross itself (think back to more than burnt offerings and sacrifices). What kind of witness to the principalities and power was the perfect love and obedience that Christ showed from His heart?
+
+Even though the scene of the cross was done in the wide open for everyone to see, at that exact time, nobody really knew what it was about or just how far reaching the implications would be. When we look back on that event, it all begins to make sense. I wonder if something similar might happen in our lives. Think about how Christ said to do your good works in secret. The Mystery of God's will was the unspoken aspect of the cross. It was known between the Father and the Son, but it was kept as a secret between them until God saw fit to reveal it through Paul. Think about the things accomplished through the work of Christ on the cross:
+
+- God reveals mysteries to us so we can understand His heart, not so we can explain complex Bible passages
+- Christ's obedience to the Father was the wisdom and power of God. He wanted what God wanted.
+- Knowing the love of Christ is being in tune with the heart of God. 
+- Doing everything heartily means doing it from the heart so that it can include the whole soul.
