@@ -94,47 +94,46 @@ So loving God with all of your soul doesn't mean loving Him with some immaterial
 The Heart
 ---------
 
-What can we say about the heart? When we think of this word, its natural for us to think of a bodily organ that pumps blood. But the Hebrew words *leb* and *lebab*, which are translated *heart* in the Old Testament, literally mean the innermost part of something. So you will see them used in such phrases as "the *heart* of the sea" or the "the *midst* of heaven".
+What can we say about the heart? When we think of this word, its natural for us to imagine a bodily organ that pumps blood. But the Hebrew words *leb* and *lebab*, which are translated *heart* in the Old Testament, literally mean the innermost part of something. So you will see these words used in such phrases as "the *heart* of the sea" or the "the *midst* of heaven".
 
-When applied to human beings, the *heart* represents the innermost part or central part of your soul. Life is described, in Proverbs 4:23, as flowing out of the heart:
+When *leb* or *lebab* are spoken of in the human context, the *heart* represents the innermost part or central part of your soul. Life is described, in Proverbs 4:23, as flowing out of the heart:
 
    Keep thy heart with all diligence; for out of it [are] the issues of life.
 
-Another way to say this is that the heart is like the fountain of life in a person, the place out from which life flows.
+Another way to say this is that the heart is like the fountain of life in a person, the place out from which the activities and actions of life flow.
 
-Illustrations on this from ministry of Christ:
+This understanding of the heart as the source of the activity of the soul is found throughout the teaching of Jesus. At one point the Pharasees were giving Him a hard time for not washing His hands before eating as was their custom. [Consider bringing in the brief question and His answer]. Christ used this as a moment for teaching (Mat 15:17-20):
 
-- Matt 6:21
-- Luke 6:45-49
-- Matt 15:8-11
-- Matt 12:34
+   "Do you not yet understand that whatever enters the mouth goes into the stomach and is eliminated? But those things which proceed out of the mouth come from the heart, and they defile a man. For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies. These are [the things] which defile a man, but to eat with unwashed hands does not defile a man."
+   
+In the Sermon on the Mount in Matthew 5, Christ focuses on the importance of the heart in a series of contrasts where He says "you have heard it said" in the law, "but I say unto you". For example: 
 
-Look at word counts for 'heart':
+- You have heard it said, "don't murder". But anyone who is anngry without cause will be treated as if they had murdered.
+- You have heard it said, "don't commit adultry". But anyone who lusts has committed adultry in their heart.
+- And so on
 
-- Psalms is the winner with 133!
-- Deut is one of the top books in the OT with 49!
-- Does Jesus use this word more than mind, body, soul?
+The law identified and punished the sinful external action, because that was its domain. But Christ came to deal with the root of all sinful actions: the heart. His ministry was a ministry focused on the heart. The healing and the feeding that He did was secondary to this. The Sermon on the Mount was a sermon about the heart. He didn't come to set aside the law, He came to deal with the problem at the source. In fact, this is the only way that the law can be truly fulfilled.
+
+Luke 6:45-49: the parable of the wise and foolish builder. Who is the rock? Christ (or His Spirit) Where is the rock? (In your heart).
 
 A brief "Cole's notes" edition of Deut would be helpful here. It will culminate with chapter 30. Deut 30:6 looks forward to the New Covenant. The cutting here is not in the flesh but in the heart. This is the only way to truly love God with all your heart and soul.
 
 The circumcision of the flesh was part of the law. But the cutting of the heart was what God was really after. I believe that "circumcision of the heart" was the real theme of the ministry of Christ while He was on earth. His teaching and ministry was focused on the heart because everything else flows out from there.
 
-This relationship between heart (where your treasure is) and mouth (what flows out of that) is clearly seen in passages that speak of salvation. For example, Paul says in Romans 10
-
-    9 That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.
-    10 For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.
+Matt 15:8-11: Honour with lips, but heart far from God. Vain worship. How much of Christianity today is vain worship? How much of what we do is vain worship?
 
 This is a direct answer to honoring God with your lips but having your heart very far from Him (Isa 29:13). Christ quotes this in Matthew. Theory: The ministry Christ had with Israel was actually a heart-focused ministry. That's why it looked so radically different than the religion and the reason of the day. It was so different, it was unrecognizable to many people. The signs that Christ did were to confirm the promises given in the prophets, but His real work was focused on the heart.
-
-The heart determines what we focus on:
-  
-  - What we focus on is where our treasure is
-  - What we talk about flows directly out of our heart
 
 The ministry of Christ was really about the heart of Israel. He was the mediator of the New Covenant and His goal was to prepare them for this role by starting with the heart.
 
 Heart & Soul
 ------------
+
+Look at word counts for 'heart':
+- Psalms is the winner with 133!
+- Deut is one of the top books in the OT with 49!
+- Does Jesus use this word more than mind, body, soul?
+
 
 The phrase "heart and soul" is used numerous times throughout Deut. It really suggests that those two words really were used to describe the complete person.
 
@@ -154,19 +153,16 @@ David: A Man After God's Own Heart
 
 David stands out among the first 3 kings of Israel. He is the only one described as being a man after God's own heart. What can we learn from his life?
 
+David's Response to Sin
+-----------------------
+
 Where was his treasure? What did he talk about in his prayers?
+How did he respond when confronted with His sin? He understood it was about the heart!
 
-.. sidebar:: Main Points
-
-   - David's focus on God's heart kept him on track despite many failures
-   - Saul had a focus on the external that led him down the road of jealously and hatred
-   - Solomon's pursuit of wisdom led him astray in some ways
-
-Deut 17:17-20: This describes a king after God's heart is wisdom that Solomon didn't follow
-
+Paul's Response to Sin
+----------------------
 
 Bring in Romans to show the transition that takes place from Romans 7 to Romans 8. David asked God to create a clean heart in him.
-
 
 The Greatest Prayer
 ===================
@@ -178,8 +174,6 @@ The Greatest Prayer
    - Christ's obedience to the Father was the wisdom and power of God. He wanted what God wanted.
    - Doing everything heartily means doing it from the heart!
 
-Discuss key points of Old Covenant, New Covenant, and Mystery. How does the heart fit into all of these. How has the structure of a relationshop with God changed?
-
 Compare the covenants to the Mystery. The Mystery is really about an even bigger purpose than any covenant. Think about what is said about the heart in both. Which is more? Which is greater? Who is being witnessed to with the Mystery versus Israel's role as priests?
 
 Is the central prayer in Ephesians the only prayer that specifically talks about Christ dwelling in our hearts?
@@ -190,3 +184,5 @@ Is the central prayer in Ephesians the only prayer that specifically talks about
 - The one act of Christ's ministry: wanting exactly what the Father wanted. This was more than the suffering of the Cross itself (think back to more than burnt offerings and sacrifices)
 - The fear of the Lord is the beginning of wisdom.
 - Paul isn't praying for academic wisdom as he is praying for a heart after God.
+- What kind of witness to the principalities and power was the perfect love and obedience that Christ showed from His heart?
+- Even though the scene of the cross was done in the wide open for everyone to see, at that exact time, nobody really knew what it was about or just how far reaching the implications would be. When we look back on that event, it all begins to make sense.
