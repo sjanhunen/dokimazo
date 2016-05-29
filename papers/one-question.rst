@@ -153,11 +153,19 @@ The ministry of Christ was really about the heart of Israel. He was the mediator
 A Man After God's Own Heart
 ===========================
 
-David stands out among the first 3 kings of Israel. He is the only one described as being a man after God's own heart. What can we learn from his life?
+We can't be looking at the heart in like this without considering the example of someone who was called out as being a "man after God's own heart." Of course, I am speaking of King David. 
 
-Saul was told he would be replaced with someone after the heart of God.
+Burnt offerings have a way of coming up again and again. This time, Israel is in war with the Phiistines and is running scared. The prophet Samuel is delayed. Samuel is supposed to come and offer a sacrifice. Saul was supposed to wait for Samuel, but he got impatient and offered it himeslf. What is the significance of this act of disobedience? Expand upon it.
 
-On the surface, David committed some pretty serious sins. Thinking of the big two, he committed both murder and adultery. How could God call a murderer and an adulterer someone after His own heart.
+In response to this disobedience, Samuel tells Saul point blank that God is going to replace him as king. The Lord was going to find someone after His own heart. He was speacking, of course, of David.
+
+Later in chapter 15, after another act of disobedience, Samuel says this to Saul:
+
+[1Sa 15:22-23 NKJV] 22 So Samuel said: "Has the LORD [as great] delight in burnt offerings and sacrifices, As in obeying the voice of the LORD? Behold, to obey is better than sacrifice, [And] to heed than the fat of rams. 23 For rebellion [is as] the sin of witchcraft, And stubbornness [is as] iniquity and idolatry. Because you have rejected the word of the LORD, He also has rejected you from [being] king."
+
+Saul just didn't get what obeying the Lord was about. Externally, he had a lot going for him. But he was disobedient to the Lord. I believe he was disobedient because he didn't "get it" in his heart. And so the Lord ultimately replaced him with David as king.
+
+David committed some pretty serious sins. Thinking of the big two, he committed both murder and adultery. How could God call a murderer and an adulterer someone after His own heart? I believe this is becuase David "got it" in a way that Saul never did. We can understand this by looking at how David responsed to sin.
 
 David's Response to Sin
 -----------------------
@@ -168,14 +176,20 @@ Psalm 51 is David's response after being confronted with his serious sin.
 
    [Psa 51:2-4, 6, 10, 16-17 KJV] 2 Wash me throughly from mine iniquity, and cleanse me from my sin. 3 For I acknowledge my transgressions: and my sin [is] ever before me. 4 Against thee, thee only, have I sinned, and done [this] evil in thy sight: that thou mightest be justified when thou speakest, [and] be clear when thou judgest. ... 6 Behold, thou desirest truth in the inward parts: and in the hidden [part] thou shalt make me to know wisdom. ... 10 Create in me a clean heart, O God; and renew a right spirit within me. ... 16 For thou desirest not sacrifice; else would I give [it]: thou delightest not in burnt offering. 17 The sacrifices of God [are] a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
 
+When David acknowledged his sin, he didn't go make a burnt offering to God. He went straight to the heart of the problem, his own heart.
+
 Where was his treasure? What did he talk about in his prayers?
 
 Psalm 119:11 - God's Word in the heart.
+
+Psalm 129:23 - "Search me and know my heart"
 
 Paul's Response to Sin
 ----------------------
 
 Bring in Romans to show the transition that takes place from Romans 7 to Romans 8. Response to sin is, again, key.
+
+God wants us to acknowledge that at the very core of who we are, we want things and we do things that aren't right. It's so easy to deny this or to run from this. It's so easy to build layers of self serving religion around this. But when we acknowledge the truth and we let Him in to do the heart surgery, things are so much better.
 
 The Greatest Prayer
 ===================
@@ -187,7 +201,7 @@ The Greatest Prayer
    - Christ's obedience to the Father was the wisdom and power of God. He wanted what God wanted.
    - Doing everything heartily means doing it from the heart!
 
-Compare the covenants to the Mystery. The Mystery is really about an even bigger purpose than any covenant. Think about what is said about the heart in both. Which is more? Which is greater? Who is being witnessed to with the Mystery versus Israel's role as priests?
+Compare the covenants to the Mystery. The Mystery is really about an even bigger purpose than any covenant. Think about what is said about the heart in both. Which is more? Which is greater? Who is being witnessed to with the Mystery versus Israel's role as priests? God wants a heart-to-heart relationship not just with the pepole of the New Covenant, but with people from all nations. If you really think about it, the nation of Israel was intended to serve all other nations and be an example. When we get to Ephesians, Paul is addressing people that were "strangers from the covenants". And what is at the core of his message?
 
 Is the central prayer in Ephesians the only prayer that specifically talks about Christ dwelling in our hearts?
 
@@ -198,4 +212,5 @@ Is the central prayer in Ephesians the only prayer that specifically talks about
 - The fear of the Lord is the beginning of wisdom.
 - Paul isn't praying for academic wisdom as he is praying for a heart after God.
 - What kind of witness to the principalities and power was the perfect love and obedience that Christ showed from His heart?
-- Even though the scene of the cross was done in the wide open for everyone to see, at that exact time, nobody really knew what it was about or just how far reaching the implications would be. When we look back on that event, it all begins to make sense.
+
+Even though the scene of the cross was done in the wide open for everyone to see, at that exact time, nobody really knew what it was about or just how far reaching the implications would be. When we look back on that event, it all begins to make sense. I wonder if something similar might happen in our lives. Think about how Christ said to do your good works in secret.
