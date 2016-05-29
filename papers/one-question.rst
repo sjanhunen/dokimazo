@@ -133,16 +133,19 @@ The heart determines what we focus on:
 
 The ministry of Christ was really about the heart of Israel. He was the mediator of the New Covenant and His goal was to prepare them for this role by starting with the heart.
 
-
 Heart & Soul
 ------------
 
 The phrase "heart and soul" is used numerous times throughout Deut. It really suggests that those two words really were used to describe the complete person.
 
-See might or strength really as an amplifier, not so much as a distinct thing to talk about. It is how you love God with heart & soul.
+Looking over Christ's own words, it's clear that the focus of His ministry is on the heart and soul. We need only to look right within the book of Mark to see a clear pattern. Jesus uses each of the words in his teaching the following number of times:
 
-The Mind
---------
+- Heart: 8x
+- Soul: 8x
+- Mind: 1x (only in the quotation from Deut)
+- Strength: 1x (only in the quotation from Deut)
+
+See might or strength really as an amplifier, not so much as a distinct thing to talk about. It is how you love God with heart & soul.
 
 What's missing in this passage that is found in Mark? *Heart* and *soul* and *strength* (or might) are all present. But the word *mind* is absent. Why is that significant?
 
