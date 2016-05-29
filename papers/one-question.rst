@@ -148,21 +148,32 @@ This is a direct answer to honoring God with your lips but having your heart ver
 
 The ministry of Christ was really about the heart of Israel. He was the mediator of the New Covenant and His goal was to prepare them for this role by starting with the heart.
 
-David: A Man After God's Own Heart
-==================================
+A Man After God's Own Heart
+===========================
 
 David stands out among the first 3 kings of Israel. He is the only one described as being a man after God's own heart. What can we learn from his life?
+
+Saul was told he would be replaced with someone after the heart of God.
+
+On the surface, David committed some pretty serious sins. Thinking of the big two, he committed both murder and adultery. How could God call a murderer and an adulterer someone after His own heart.
 
 David's Response to Sin
 -----------------------
 
-Where was his treasure? What did he talk about in his prayers?
 How did he respond when confronted with His sin? He understood it was about the heart!
+
+Psalm 51 is David's response after being confronted with his serious sin.
+
+   [Psa 51:2-4, 6, 10, 16-17 KJV] 2 Wash me throughly from mine iniquity, and cleanse me from my sin. 3 For I acknowledge my transgressions: and my sin [is] ever before me. 4 Against thee, thee only, have I sinned, and done [this] evil in thy sight: that thou mightest be justified when thou speakest, [and] be clear when thou judgest. ... 6 Behold, thou desirest truth in the inward parts: and in the hidden [part] thou shalt make me to know wisdom. ... 10 Create in me a clean heart, O God; and renew a right spirit within me. ... 16 For thou desirest not sacrifice; else would I give [it]: thou delightest not in burnt offering. 17 The sacrifices of God [are] a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
+
+Where was his treasure? What did he talk about in his prayers?
+
+Psalm 119:11 - God's Word in the heart.
 
 Paul's Response to Sin
 ----------------------
 
-Bring in Romans to show the transition that takes place from Romans 7 to Romans 8. David asked God to create a clean heart in him.
+Bring in Romans to show the transition that takes place from Romans 7 to Romans 8. Response to sin is, again, key.
 
 The Greatest Prayer
 ===================
