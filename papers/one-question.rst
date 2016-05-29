@@ -62,11 +62,33 @@ If we are to truly grasp the greatest commandment, we need to understand the key
 
 First and foremost is the commandment to *love* God. This is the word `agape`, the word that is used to describe God's sacrificial, giving love. The love that led the Father to give His only begotten Son for the world. Loving God isn't just some feeling or idea, it requires sacrifice. We must give our heart, our soul, our mind, and our strength to Him.
 
+Heart & Soul
+------------
+
 But what does it mean to love with one's heart and soul? In Mark 12, Christ is actually quoting an Old Testament passage found in Deuteronomy 6:5
 
    And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.
 
 To fully understand the greatest commandment we need to dig into the meaning of these Hebrew words.
+
+Look at word counts for 'heart':
+- Psalms is the winner with 133!
+- Deut is one of the top books in the OT with 49!
+- Does Jesus use this word more than mind, body, soul?
+
+
+The phrase "heart and soul" is used numerous times throughout Deut. It really suggests that those two words really were used to describe the complete person.
+
+Looking over Christ's own words, it's clear that the focus of His ministry is on the heart and soul. We need only to look right within the book of Mark to see a clear pattern. Jesus uses each of the words in his teaching the following number of times:
+
+- Heart: 8x
+- Soul: 8x
+- Mind: 1x (only in the quotation from Deut)
+- Strength: 1x (only in the quotation from Deut)
+
+See might or strength really as an amplifier, not so much as a distinct thing to talk about. It is how you love God with heart & soul.
+
+What's missing in this passage that is found in Mark? *Heart* and *soul* and *strength* (or might) are all present. But the word *mind* is absent. Why is that significant?
 
 The Soul
 --------
@@ -125,28 +147,6 @@ Matt 15:8-11: Honour with lips, but heart far from God. Vain worship. How much o
 This is a direct answer to honoring God with your lips but having your heart very far from Him (Isa 29:13). Christ quotes this in Matthew. Theory: The ministry Christ had with Israel was actually a heart-focused ministry. That's why it looked so radically different than the religion and the reason of the day. It was so different, it was unrecognizable to many people. The signs that Christ did were to confirm the promises given in the prophets, but His real work was focused on the heart.
 
 The ministry of Christ was really about the heart of Israel. He was the mediator of the New Covenant and His goal was to prepare them for this role by starting with the heart.
-
-Heart & Soul
-------------
-
-Look at word counts for 'heart':
-- Psalms is the winner with 133!
-- Deut is one of the top books in the OT with 49!
-- Does Jesus use this word more than mind, body, soul?
-
-
-The phrase "heart and soul" is used numerous times throughout Deut. It really suggests that those two words really were used to describe the complete person.
-
-Looking over Christ's own words, it's clear that the focus of His ministry is on the heart and soul. We need only to look right within the book of Mark to see a clear pattern. Jesus uses each of the words in his teaching the following number of times:
-
-- Heart: 8x
-- Soul: 8x
-- Mind: 1x (only in the quotation from Deut)
-- Strength: 1x (only in the quotation from Deut)
-
-See might or strength really as an amplifier, not so much as a distinct thing to talk about. It is how you love God with heart & soul.
-
-What's missing in this passage that is found in Mark? *Heart* and *soul* and *strength* (or might) are all present. But the word *mind* is absent. Why is that significant?
 
 David: A Man After God's Own Heart
 ==================================
