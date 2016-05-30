@@ -172,12 +172,14 @@ David's encounter with the truth led to a broken spirit and a broken heart. When
 
 This is how Christ described His own ministry. His ministry was to those who were the brokenhearted under the Old Covenant. The cry of David's heart was answered in the Son of David, Jesus Christ. A broken heart is an open heart. Psalm 129:23 - "Search me and know my heart". David is saying, God my heart is open to you.
 
+Old Covenant: The Law was an encounter with the Word of God. More than burnt offerings and sacrifices, the Lord desired a broken heart and a broken spirit. In fact, this was the intended outcome of the Law. The alternative outcome was a blinded, hardened heart that wasn't touched by God. Only two responses are possible to the Law: being broken or being blinded.
+
+New Covenant: The very best the Law could do is "break your heart". But, thankfully, Christ came for those with a broken heart. That's what His ministry was all about. When God puts His Spirit and His Law into the hearts of the New Covenant people, Israel will be the nation that God always wanted. All the other nations of the world will take notice of this incredible nation.
+
 Unfortunately for the nation of Israel, not many had a heart like David's. They had opportunities to repent time and again. God was incredibly patient with them. 
 But most of Israel had the opposite of a broken heart: a hardened heart. The only way the nation of Israel will fulfill the purpose God has for them is through a broken heart, not a hard heart.
 
-The great irony is that the one nation that was supposed to be a light and an example stumbled and was hardened. 
-
-Someday, as the prophet Zechariah says, they will look on the one that they pierced and they will understand. Their heart will be opened to Him.
+The great irony is that the one nation that was supposed to be a light and an example stumbled and was hardened. Someday, as the prophet Zechariah says, they will look on the one that they pierced and they will understand. Their heart will be opened to Him.
 
 
 The Greatest Prayer
@@ -185,15 +187,11 @@ The Greatest Prayer
 
 .. sidebar:: Main Point
 
-   Relationship with God has always been about the heart. The Mystery is worked out through the heart.
+   Relationship with God has always been about the heart and it is today more than ever.
 
    Our hearts must be opened and filled in order for us to fulfill the purpose that God has for us. Asking Him to fill our open hearts really is the greatest thing we can pray for.
 
-Recap how God's work with people has always centered around the heart. See my journal to fill this in:
-
-1. Old Covenant - a broken heart open to God
-2. New Covenant - Spirit and law written in the heart
-3. The Mystery - Christ dwelling in the heart
+Even though Israel is in a blinded, hardened state now, God has an incredible plan He is working out through the heart of people from all nations. Paul is speaking specifically about this in the book of Ephesians.
 
 Need to figure out how to tie in the Mystery revelation with the heart. God is accomplishing something big by focusing on the heart, quite apart from any laws and covenants. Today, God is using people out of all nations who have none of the advantages that Israel had. He is working through their hearts. It's not about one nation being above all others, but about all nations together (with Christ dwelling in their hearts) serving God.
 
@@ -206,6 +204,8 @@ The word blindness is also translated "hardness". It means a covering over somet
 I think the greatest prayer is recorded in Eph 3:
 
    [Eph 3:14-19 NKJV] 14 For this reason I bow my knees to the Father of our Lord Jesus Christ, 15 from whom the whole family in heaven and earth is named, 16 that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man, 17 that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love, 18 may be able to comprehend with all the saints what [is] the width and length and depth and height-- 19 to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.
+
+I believe this is really what is at the center of the Mystery. The covenants are all about how God gets one special nation to the point of serving all other nations and being an example to them. The Mystery is about Christ dwelling in the hearts of all nations and all nations without distinction serving Him and being an example to the heavenly leadership.
 
 - Paul's prayer: heart, love of Christ, knowledge that exceeds knowledge
 - It's not the law in our hearts, but it's Christ, the one who fulfills the law (and so much more), dwelling in our hearts
