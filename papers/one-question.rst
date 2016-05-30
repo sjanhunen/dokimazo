@@ -4,33 +4,44 @@
 One Question
 ============
 
-If you had the opportunity to meet God face to face and ask for one thing, what would it be? Would it be a special request? An answer to a puzzle in the Bible? I'm sure we've all thought of something at one time or another.
+If you had the opportunity to walk up to Jesus while he was in the flesh on the earth and ask Him one question, what would it be? Would it be a special request? An answer to a puzzling or challenging passage in the Bible? I'm sure we've all thought of something like this at one time or another.
 
-During Christ's earthly ministry, three religious leaders from the nation of Israel unknowingly each had this very opportunity. This encounter recorded in Mark 12 develops into an ironic scene when we look back upon it with a full understanding of who Jesus is and what His message was about.
+During Christ's earthly ministry, three religious leaders from the nation of Israel actually had this very opportunity. Now I don't think that, from their perspective, they looked at it this way. In fact, these leaders saw Jesus as an up and coming threat. His teaching was powerful in a way that theirs wasn't. He was gaining popularity with the people. And he had repeatedly called them out for their hypocrisy.
 
-The leaders of the time saw Jesus as an up and coming threat. His teaching was powerful in a way that theirs wasn't. He was gaining popularity with the people. And he repeatedly called them out for their hypocrisy. They wanted to act forcefully against Jesus, but they feared the people. So they devised a different strategy: they decided to try to trap Jesus using His own words. If they could get Him to say something outrageous or blasphemous, they could use this to finally act against Him.
+They wanted to act forcefully against Him, but they were afraid the people. So they devised a strategy: trying to trap Jesus using His own words. If they could ask Him hard questions and get Him to say something outrageous or blasphemous, then they would have him in their trap.
 
-These guys had gotten so disoriented and distorted in their perception of reality that they were about to try to trap the very God (manifested in human form) that they thought they were serving. They really had no idea what they were walking into. They are about to encounter the Truth.
+Looking back on this from our perspective, this is actually a pretty ironic or even comic scene. The person they are about to question is the "Word of God made flesh" (John 1:14). The Word of God made flesh: sharper than a two-edge sword, a discerner of the thoughts and intents of the heart (Heb 4:12). It just strikes me that trying to trick somebody like that is a bad idea.
 
-I actually believe that these guys, while they were trying to entangle the Lord, actually asked Him questions that they themselves were struggling with.
+What's amazing about this scene recorded in Mark 12 is how Jesus takes something that was intended as a trap and uses it for powerful teaching in a way that I had never considered before.
 
+TBD: I actually believe that these guys, while they were trying to entangle the Lord, actually asked Him questions that they themselves were struggling with.
 
-The Pharisee
-------------
+The Pharisees & Herodians
+-------------------------
 
-The first question came from a group formed of two different sects, the Pharisees and the Herodians. The Pharisees were a highly religious sect so zealous about keeping the law that they wrapped layer upon layer of tradition around to it in their attempt to avoid breaking it. Where they ended up was so far removed from the heart of God that they were just serving themselves.
+The first question came from a group that was actually formed of two different sects, the Pharisees and the Herodians. The Pharisees were a highly religious sect so zealous about keeping the law that they wrapped layer upon layer of tradition around to it in their attempt to avoid breaking it. They ended up was so far removed from the heart of God that the law.
 
-The Herodians where a group distinct from the Pharisees and Sadducees that most scholars believe were very friendly to Herod the Great. In other words, they were a Jewish political party that supported the rule of Herod as King. They would have normally been at odds with the Pharisees over this political difference, but they united in their attempt to trap Jesus.
+The Herodians where a group distinct from the Pharisees and Sadducees that most scholars believe were very friendly to Herod the Great. In other words, they were a Jewish political party that supported the rule of Herod as King. They would have normally been at odds with the Pharisees over political differences, but they united with them in their attempt to trap Jesus.
 
-The question they ask was simple: "is it lawful to pay tribue to Caesar?"
+They first attempt to butter up and flatter Jesus, and then they get around to asking their question:
 
-Is it lawful would be a reference to Mosaic law.
+   [Mar 12:14-15 KJV] 14 And when they were come, they say unto him, Master, we know that thou art true, and carest for no man: for thou regardest not the person of men, but teachest the way of God in truth: Is it lawful to give tribute to Caesar, or not? 15 Shall we give, or shall we not give? But he, knowing their hypocrisy, said unto them, Why tempt ye me? bring me a penny, that I may see [it].
 
-I think the Pharisee was anticipating a simple "yes" or "no" answer to this question. Christ answered neither.
+To understand where this question is coming from, we need to appreciate how the Pharisees approached tithing. Under the law of Moses, each tribe of Israel other than the tribe of Levi was required to pay ten percent to help support the tribe of Priests in their service of the nation. In other words, this was a divinely-instituted tax system.
 
-Christ proposes two "renderings" in His answer. The reality is that they really weren't doing either. Rendering to God the things that are Gods isn't primarily about coins. I believe Christ was talking about the intent of the heart. As the Word made flesh, Christ was discerning the hearts of the people He ministered to (Heb 4:12).
+The Pharisees made tithing much more than this: they would give a tenth of their mint, of their dill, of their spices, and so on. They became obsessed with giving a tenth of everything. They built an elaborate system around this. They stared to think that worshiping God was about tithing.
 
-The Pharisee was religiously tithing ten percent of everything he owned. But was he actually giving anything to God?
+When they ask whether it's *lawful* to pay tax, they aren't referring to the law of Rome, they are referring to the law of Moses. In other words, they were asking "does the Law of God require us to pay our taxes". They framed this question expecting a simple "yes" or "no" answer, knowing they had laid the trap.
+
+But of course, Christ saw through this and gave them an extremely insightful answer:
+
+   [Mar 12:16-17 KJV] 16 And they brought [it]. And he saith unto them, Whose [is] this image and superscription? And they said unto him, Caesar's. 17 And Jesus answering said unto them, Render to Caesar the things that are Caesar's, and to God the things that are God's. And they marvelled at him.
+
+At a surface level, it would be easy to look at this answer and think that Christ simply avoided the trap and told the Pharisees to keep giving their tithes and keep paying their taxes. But I believe the Word of God is sharper than that and cuts deeper than that.
+
+Christ knew what was going on in their heart, and this is what I believe he was discerning about them: "you may be tithing ten percent of everything you have, but you've actually given nothing to God. You may be paying your taxes, but deep down you hate doing it, and you are no better than someone who doesn't pay their tax". Or put another way "if you truly gave God what He wanted, you wouldn't have so much trouble giving Caesar some tax money that has his face stamped on it."
+
+So, really, it all comes down to the question of "what does God want"? We'll get to the answer, but we have to keep reading.
 
 The Sadducee
 ------------
