@@ -39,19 +39,30 @@ But of course, Christ saw through this and gave them an extremely insightful ans
 
 At a surface level, it would be easy to look at this answer and think that Christ simply avoided the trap and told the Pharisees to keep giving their tithes and keep paying their taxes. But I believe the Word of God is sharper than that and cuts deeper than that.
 
-Christ knew what was going on in their heart, and this is what I believe he was discerning about them: "you may be tithing ten percent of everything you have, but you've actually given nothing to God. You may be paying your taxes, but deep down you hate doing it, and you are no better than someone who doesn't pay their tax". Or put another way "if you truly gave God what He wanted, you wouldn't have so much trouble giving Caesar some tax money that has his face stamped on it."
+Christ knew what was going on in their heart, and this is what I believe he was discerning about them: "you may be tithing ten percent of everything you have, but you've actually given nothing to God. You may be paying your taxes, but deep down you hate doing it, and you are no different than someone who doesn't pay their taxes". Or put another way "if you truly gave God what He wanted, you wouldn't have so much trouble giving Caesar some tax money that has his face stamped on it."
 
-So, really, it all comes down to the question of "what does God want"? We'll get to the answer, but we have to keep reading.
+So, really, it all comes down to the question of "what does God want"? We'll get to the answer, but we have to work our way through the next two questions.
 
 The Sadducee
 ------------
 
-Next up was the question from the Sadducee. This question centered around the doctrine of resurrection.
+The next question came from a Sadducee. The Sadducees were a religious sect that were opposed to all the added traditions of the Pharisees that wasn't found in the Torah. They believed strongly that the written Word was the only authoritative source for doctrine. They also happened to deny the truth of resurrection. This, and many other disagreements put them at odds with the Pharisees, so they were probably glad to see the Pharisees put in their place with the first question.
+
+They came to Jesus with a hypothetical question about resurrection that involved seven brothers that each first married, and then died soon thereafter. The catch was that they all married the same woman in sequence:
+
+   [Mar 12:23-24 KJV] 23 In the resurrection therefore, when they shall rise, whose wife shall she be of them? for the seven had her to wife.
+
+With discernment, Christ identified the source of their difficulty:
+
+   [Mar 12:24-25 KJV] 24 And Jesus answering said unto them, Do ye not therefore err, because ye know not the scriptures, neither the power of God? 25 For when they shall rise from the dead, they neither marry, nor are given in marriage; but are as the angels which are in heaven.
+
+They wouldn't have ever gotten to this hypothetical question if they had truly known the scriptures and believed the power of God.
+
 
 The Scribe
 ----------
 
-The Scribe's question was about the law.
+Finally, seeing how well Jesus had answered the Sadducee, a Scribe decided to ask a skill testing question.
 
 Christ acknowledges that this was a good question. In His answer, Christ points out that everything in fact all the law and the prophets hang on loving God with all the heart, mind, soul, and strength.
 
