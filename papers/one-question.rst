@@ -66,36 +66,37 @@ Finally, seeing how well Jesus had answered the Sadducee, a Scribe decided to as
 
 Christ acknowledges that this was a good question. In His answer, Christ points out that everything in fact all the law and the prophets hang on loving God with all the heart, mind, soul, and strength.
 
+   [Mar 12:29-31 KJV] 29 And Jesus answered him, The first of all the commandments [is], Hear, O Israel; The Lord our God is one Lord: 30 And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength: this [is] the first commandment. 31 And the second [is] like, [namely] this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these.
+
 This was the only One to walk the face of the earth that actually kept the greatest commandment.
 
 The Greatest Commandment
 ========================
 
-.. sidebar:: Main Points
+Notice that the Scribe had asked which commandment was the *first* commandment. This was first as in rank or place. Christ answered this and also included the second most important commandment along side. There is no commandment greater or larger in scope or importance than these two.
 
-   - The focal point of the ministry of Jesus was the heart: it is the source out from which everything flows
-   - True faith (as opposed to religion or reason) is always from the heart
-
-If we are to truly grasp the greatest commandment, we need to understand the key words used. What are these key words? Christ said we are to *love* God with all of our *heart*, *soul*, *mind*, and *strength*.
-
-First and foremost is the commandment to *love* God. This is the word `agape`, the word that is used to describe God's sacrificial, giving love. The love that led the Father to give His only begotten Son for the world. Loving God isn't just some feeling or idea, it requires sacrifice. We must give our heart, our soul, our mind, and our strength to Him.
+Both of these commandments are about *love*: first loving God and then loving other people. And they are related: loving God leads to loving other people. And this love is not a feeling or emotion, it is service and sacrifice. The word for *love* is the same word used in John 3:16 "for God so *loved* the word that He *gave*". So loving with the heart, mind, soul, and strength is giving from the heart, mind, soul, and strength.
 
 Heart & Soul
 ------------
 
-But what does it mean to love with one's heart and soul? In Mark 12, Christ is actually quoting an Old Testament passage found in Deuteronomy 6:5
+As we look at this commandment, we will see that the key words for loving God are actually heart and soul. And if we distill that down to its core, it really is all about the heart.
 
-   And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.
+To see this, we need to go back to the passage in the Old Testament that Christ was quoting in Mark, Deuteronomy 6:5
 
-To fully understand the greatest commandment we need to dig into the meaning of these Hebrew words.
+
+   [Deu 6:4-6 NKJV] 4 "Hear, O Israel: The LORD our God, the LORD [is] one! 5 "You shall love the LORD your God with all your heart, with all your soul, and with all your strength. 6 "And these words which I command you today shall be in your heart.
+
+What's missing in this passage that is found in Mark? *Heart* and *soul* and *strength* (or might) are all present. But the word *mind* is absent. Why is that significant?
+
+See might or strength really as an amplifier, not so much as a distinct thing to talk about. It is how you love God with heart & soul.
+
+The phrase "heart and soul" is used numerous times throughout Deut. It really suggests that those two words really were used to describe the complete person.
 
 Look at word counts for 'heart':
 - Psalms is the winner with 133!
 - Deut is one of the top books in the OT with 49!
 - Does Jesus use this word more than mind, body, soul?
-
-
-The phrase "heart and soul" is used numerous times throughout Deut. It really suggests that those two words really were used to describe the complete person.
 
 Looking over Christ's own words, it's clear that the focus of His ministry is on the heart and soul. We need only to look right within the book of Mark to see a clear pattern. Jesus uses each of the words in his teaching the following number of times:
 
@@ -103,10 +104,6 @@ Looking over Christ's own words, it's clear that the focus of His ministry is on
 - Soul: 8x
 - Mind: 1x (only in the quotation from Deut)
 - Strength: 1x (only in the quotation from Deut)
-
-See might or strength really as an amplifier, not so much as a distinct thing to talk about. It is how you love God with heart & soul.
-
-What's missing in this passage that is found in Mark? *Heart* and *soul* and *strength* (or might) are all present. But the word *mind* is absent. Why is that significant?
 
 The Soul
 --------
