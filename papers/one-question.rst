@@ -64,18 +64,20 @@ The Scribe
 
 Finally, seeing how well Jesus had answered the Sadducee, a Scribe decided to ask a skill testing question.
 
+Point out how Scribes approached the law...with categorizes and rankings.
+
 Christ acknowledges that this was a good question. In His answer, Christ points out that everything in fact all the law and the prophets hang on loving God with all the heart, mind, soul, and strength.
 
    [Mar 12:29-31 KJV] 29 And Jesus answered him, The first of all the commandments [is], Hear, O Israel; The Lord our God is one Lord: 30 And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength: this [is] the first commandment. 31 And the second [is] like, [namely] this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these.
 
-This was the only One to walk the face of the earth that actually kept the greatest commandment.
+The Pharisees added to God's Word. The Saducees took away from God's Word. The Scribes spent time trying to organize, categorize, and rank all of the commandments found in the Word of God.
+
+Christ cut through all of this to get to the heart of the matter.
 
 The Greatest Commandment
 ========================
 
-Notice that the Scribe had asked which commandment was the *first* commandment. This was first as in rank or place. Christ answered this and also included the second most important commandment along side. There is no commandment greater or larger in scope or importance than these two.
-
-Both of these commandments are about *love*: first loving God and then loving other people. And they are related: loving God leads to loving other people. And this love is not a feeling or emotion, it is service and sacrifice. The word for *love* is the same word used in John 3:16 "for God so *loved* the word that He *gave*". So loving with the heart, mind, soul, and strength is giving from the heart, mind, soul, and strength.
+Both of these commandments Christ highlights are about *love*: first loving God and then loving other people. And they are related: loving God leads to loving other people. And this love is not a feeling or emotion, it is service and sacrifice. The word for *love* is the same word used in John 3:16 "for God so *loved* the word that He *gave*". So loving with the heart, mind, soul, and strength is giving to Him from the heart, mind, soul, and strength.
 
 Heart & Soul
 ------------
@@ -207,16 +209,6 @@ The Greatest Prayer
 
    Our hearts must be opened and filled in order for us to fulfill the purpose that God has for us. Asking Him to fill our open hearts really is the greatest thing we can pray for.
 
-Even though Israel is in a blinded, hardened state now, God has an incredible plan He is working out through the heart of people from all nations. Paul is speaking specifically about this in the book of Ephesians.
-
-Need to figure out how to tie in the Mystery revelation with the heart. God is accomplishing something big by focusing on the heart, quite apart from any laws and covenants. Today, God is using people out of all nations who have none of the advantages that Israel had. He is working through their hearts. It's not about one nation being above all others, but about all nations together (with Christ dwelling in their hearts) serving God.
-
-Israel wasn't the only nation that struggled with hardened hearts:
-
-   [Eph 4:18 KJV] 18 Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness[G4457] of their heart:
-
-The word blindness is also translated "hardness". It means a covering over something.
-
 I think the greatest prayer is recorded in Eph 3:
 
    [Eph 3:14-19 NKJV] 14 For this reason I bow my knees to the Father of our Lord Jesus Christ, 15 from whom the whole family in heaven and earth is named, 16 that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man, 17 that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love, 18 may be able to comprehend with all the saints what [is] the width and length and depth and height-- 19 to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.
@@ -227,6 +219,21 @@ I believe this is really what is at the center of the Mystery. The covenants are
 - It's not the law in our hearts, but it's Christ, the one who fulfills the law (and so much more), dwelling in our hearts
 - God reveals mysteries to us so we can understand His heart, not so we can explain complex Bible passages
 - Knowing the love of Christ is being in tune with the heart of God. 
+
+
+God's work with Israel was just one piece of a much bigger puzzle. Israel was to be a light and an example to all other nations. They would look at them with with law written in their hearts and say "I want that." But God is going to accomplish something similar but even bigger with all nations together without distinction when Christ is dwelling in their hearts. The heavenly rulers will look at a body formed from all nations with Christ as head and see the wisdom of God.
+
+Even though Israel is in a blinded, hardened state now, God has an incredible plan He is working out through the heart of people from all nations. Paul is speaking specifically about this in the book of Ephesians.
+
+If I understand all mysteries but don't have love, I am nothing.
+
+
+Israel wasn't the only nation that struggled with hardened hearts:
+
+   [Eph 4:18 KJV] 18 Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness[G4457] of their heart:
+
+The word blindness is also translated "hardness". It means a covering over something.
+
 - Doing everything heartily means doing it from the heart so that it can include the whole soul.
 - It's not what we do. It's not even how we do it. Really, it's why we do what we do. That's really getting to the heart of the matter.
 
