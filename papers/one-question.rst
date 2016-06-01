@@ -174,6 +174,8 @@ A Man After God's Own Heart
 
    David, despite his many failure, was seeking God from the heart. He didn't run from the conviction of sin, he embraced it. His heart was broken, not hardened. He desired what only God can give, a clean heart filled with His spirit.
 
+When we looked at the words heart and soul, we saw that in the Hebrew Old Testament, the book of Psalms had more references to *heart* than any other book.
+
 No study of the heart would be complete without considering the example of someone who was called out in the Bible as being a "man after God's own heart." This is none other than David. Why did David get this title?
 
 It was in Saul's disobedience that the Lord said he would seek out a king that was after His own heart. In other words, Samuel is saying to Saul that you don't really get it. Your heart is not where it needs to be when it comes to obeying the Lord. Saul just didn't get what obeying the Lord was about. Externally, he had a lot going for him. But he was disobedient to the Lord. I believe he was disobedient because he didn't "get it" in his heart. And so the Lord ultimately replaced him with David as king.
@@ -189,6 +191,8 @@ David's encounter with the truth led to a broken spirit and a broken heart. When
    [Isa 61:1 KJV] 1 The Spirit of the Lord GOD [is] upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to [them that are] bound;
 
 This is how Christ described His own ministry. His ministry was to those who were the brokenhearted under the Old Covenant. The cry of David's heart was answered in the Son of David, Jesus Christ. A broken heart is an open heart. Psalm 129:23 - "Search me and know my heart". David is saying, God my heart is open to you.
+
+David would identify with Romans 7. And he was longing for Romans 8.
 
 Old Covenant: The Law was an encounter with the Word of God. More than burnt offerings and sacrifices, the Lord desired a broken heart and a broken spirit. In fact, this was the intended outcome of the Law. The alternative outcome was a blinded, hardened heart that wasn't touched by God. Only two responses are possible to the Law: being broken or being blinded.
 
@@ -209,6 +213,8 @@ The Greatest Prayer
 
    Our hearts must be opened and filled in order for us to fulfill the purpose that God has for us. Asking Him to fill our open hearts really is the greatest thing we can pray for.
 
+God's work with Israel was just one piece of a much bigger puzzle. Israel was to be a light and an example to all other nations. They would look at them with with law written in their hearts and say "I want that." But God is going to accomplish something similar but even bigger with all nations together without distinction when Christ is dwelling in their hearts. The heavenly rulers will look at a body formed from all nations with Christ as head and see the wisdom of God.
+
 I think the greatest prayer is recorded in Eph 3:
 
    [Eph 3:14-19 NKJV] 14 For this reason I bow my knees to the Father of our Lord Jesus Christ, 15 from whom the whole family in heaven and earth is named, 16 that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man, 17 that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love, 18 may be able to comprehend with all the saints what [is] the width and length and depth and height-- 19 to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.
@@ -220,13 +226,11 @@ I believe this is really what is at the center of the Mystery. The covenants are
 - God reveals mysteries to us so we can understand His heart, not so we can explain complex Bible passages
 - Knowing the love of Christ is being in tune with the heart of God. 
 
-
-God's work with Israel was just one piece of a much bigger puzzle. Israel was to be a light and an example to all other nations. They would look at them with with law written in their hearts and say "I want that." But God is going to accomplish something similar but even bigger with all nations together without distinction when Christ is dwelling in their hearts. The heavenly rulers will look at a body formed from all nations with Christ as head and see the wisdom of God.
-
 Even though Israel is in a blinded, hardened state now, God has an incredible plan He is working out through the heart of people from all nations. Paul is speaking specifically about this in the book of Ephesians.
 
 If I understand all mysteries but don't have love, I am nothing.
 
+If we aren't careful, we can end up adding to what God has said, or taking away from what He has said, or just organizing, soring, and raking what He has said. True Bible study isn't about any of those things. True Bible study is letting God fill our hearts and getting to know Him.
 
 Israel wasn't the only nation that struggled with hardened hearts:
 
