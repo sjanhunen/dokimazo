@@ -80,30 +80,27 @@ Both of these commandments are about *love*: first loving God and then loving ot
 Heart & Soul
 ------------
 
-As we look at this commandment, we will see that the key words for loving God are actually heart and soul. And if we distill that down to its core, it really is all about the heart.
-
-To see this, we need to go back to the passage in the Old Testament that Christ was quoting in Mark, Deuteronomy 6:5
-
+As we look more closely at the commandment, we will see that heart and soul are actually key words to understanding. And they are, in fact, closely related. To see this, we need to go back to the passage in Deuteronomy that Christ was quoting in Mark:
 
    [Deu 6:4-6 NKJV] 4 "Hear, O Israel: The LORD our God, the LORD [is] one! 5 "You shall love the LORD your God with all your heart, with all your soul, and with all your strength. 6 "And these words which I command you today shall be in your heart.
 
-What's missing in this passage that is found in Mark? *Heart* and *soul* and *strength* (or might) are all present. But the word *mind* is absent. Why is that significant?
+The first question to ask is: which word is missing here that was present in Mark? *Heart* and *soul* and *strength* (or might) are all present. But the word *mind* is absent. Now why is this significant?
 
-See might or strength really as an amplifier, not so much as a distinct thing to talk about. It is how you love God with heart & soul.
+We must keep in mind that Deuteronomy was written long before Mark, and it was written from a Hebrew perspective. The people that Jesus was addressing in Mark had the influence of Greek philosophers like Plato for several hundred years. To Plato, the mind was a big deal. In fact, he believed that one could arrive at ultimate or absolute truth through use of the mind or the intellect. The mind was so elevated that is was a god. The mind was viewed as the immortal part of the soul.
 
-The phrase "heart and soul" is used numerous times throughout Deut. It really suggests that those two words really were used to describe the complete person.
+But all of this is contrary to a true Scriptural understanding of the mind. Scripture teaches that the heart is a deeper part of the person that actually steers the rational mind. In Romans chapter 1, Paul describes the sad path of nations that resisted the truth of God and went after idols. First, it starts with them failing to glorify God as God (Rom 1:21). That sounds a lot like the greatest commandment. This resulted in their foolish heart being darkened. Finally, God gave them over to a reprobate mind (Rom 1:28). Not glorifying God led to a darkened heart which led to a reprobate mind. The heart actually steered the mind off course.
 
-Look at word counts for 'heart':
-- Psalms is the winner with 133!
-- Deut is one of the top books in the OT with 49!
-- Does Jesus use this word more than mind, body, soul?
-
-Looking over Christ's own words, it's clear that the focus of His ministry is on the heart and soul. We need only to look right within the book of Mark to see a clear pattern. Jesus uses each of the words in his teaching the following number of times:
+I believe that Christ was acknowledging the importance of the mind as part of a complete person, but I don't believe it was a major focus of his teaching. You can see this quite easily by looking at how many times he actually uses the word. If we were to look at the words Christ spoke in the book of Mark, this is what we would find.
 
 - Heart: 8x
 - Soul: 8x
 - Mind: 1x (only in the quotation from Deut)
-- Strength: 1x (only in the quotation from Deut)
+
+So I think it's fair to say Christ focused on the heart and soul in His teaching because he speaks about them  8 times more frequently than the mind in the book of Mark.
+
+Looking at the book of Deuteronomy, it's filled with references to the heart. In fact, out of all the books in the Old Testament, it's one of the top books about the heart with 49 references to 'heart'. But the book of Psalms does beat it out with 133 reference. Out of those 49 references to heart in Deuteronomy, ten of them are actually the phrase "heart and soul." This is very fitting seeing that there are ten commandments, and they can be summed up by loving God with all of your heart and your soul.
+
+See might or strength really as an amplifier, not so much as a distinct thing to talk about. It is how you love God with heart & soul.
 
 The Soul
 --------
