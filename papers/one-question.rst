@@ -174,13 +174,9 @@ A Man After God's Own Heart
 
    David, despite his many failure, was seeking God from the heart. He didn't run from the conviction of sin, he embraced it. His heart was broken, not hardened. He desired what only God can give, a clean heart filled with His spirit.
 
-When we looked at the words heart and soul, we saw that in the Hebrew Old Testament, the book of Psalms had more references to *heart* than any other book.
+When we looked at the words heart and soul, we saw that in the Hebrew Old Testament, the book of Psalms had more references to *heart* than any other book. It's not entirely surprising that "a man after God's own heart" (as David is known in Acts 13:22) would write a lot about the heart. What can we lean about the heart from David?
 
-No study of the heart would be complete without considering the example of someone who was called out in the Bible as being a "man after God's own heart." This is none other than David. Why did David get this title?
-
-It was in Saul's disobedience that the Lord said he would seek out a king that was after His own heart. In other words, Samuel is saying to Saul that you don't really get it. Your heart is not where it needs to be when it comes to obeying the Lord. Saul just didn't get what obeying the Lord was about. Externally, he had a lot going for him. But he was disobedient to the Lord. I believe he was disobedient because he didn't "get it" in his heart. And so the Lord ultimately replaced him with David as king.
-
-David committed some pretty serious sins. Thinking of the big two, he committed both murder and adultery. How could God call a murderer and an adulterer someone after His own heart? I believe this is because David "got it" in a way that Saul never did. We can understand this by looking at how David responded to sin.
+First of all, David actually committed some pretty big sins. He committed adultery and then murder in an attempt to cover it up. How could someone like this be said to have a heart "after God's own heart." David had many failures, but I believe the answer to this lies in how he responded when he was confronted with his sin.
 
 Psalm 51 is David's response after being confronted with his serious sin.
 
