@@ -182,22 +182,23 @@ Psalm 51 is David's response after being confronted with his serious sin.
 
    [Psa 51:2-4, 6, 10, 16-17 KJV] 2 Wash me throughly from mine iniquity, and cleanse me from my sin. 3 For I acknowledge my transgressions: and my sin [is] ever before me. 4 Against thee, thee only, have I sinned, and done [this] evil in thy sight: that thou mightest be justified when thou speakest, [and] be clear when thou judgest. ... 6 Behold, thou desirest truth in the inward parts: and in the hidden [part] thou shalt make me to know wisdom. ... 10 Create in me a clean heart, O God; and renew a right spirit within me. ... 16 For thou desirest not sacrifice; else would I give [it]: thou delightest not in burnt offering. 17 The sacrifices of God [are] a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
 
-David's encounter with the truth led to a broken spirit and a broken heart. When David acknowledged his sin, he didn't go make a burnt offering to God. He acknowledged that he just couldn't do it without God's help: that is what God wanted more than burnt offerings. This is something God does not despise. David asked for something that only God could provide. What David is asking for can only be answered in Christ:
+David's encounter with the truth of his failure led to a broken spirit and a broken heart. David knew that what God was really after wasn't the burnt offerings and the sacrifices.
+
+When David acknowledged his sin, he didn't just go make a burnt offering to God. He acknowledged the source of the problem. This is something God does not despise.
+
+Old Covenant: The Law was an encounter with the Word of God. More than burnt offerings and sacrifices, the Lord desired a broken heart and a broken spirit. In fact, this was the intended outcome of the Law.
+
+David asked for something that only God could provide. What David is asking for can only be answered in Christ:
 
    [Isa 61:1 KJV] 1 The Spirit of the Lord GOD [is] upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to [them that are] bound;
 
 This is how Christ described His own ministry. His ministry was to those who were the brokenhearted under the Old Covenant. The cry of David's heart was answered in the Son of David, Jesus Christ. A broken heart is an open heart. Psalm 129:23 - "Search me and know my heart". David is saying, God my heart is open to you.
 
-David would identify with Romans 7. And he was longing for Romans 8.
-
-Old Covenant: The Law was an encounter with the Word of God. More than burnt offerings and sacrifices, the Lord desired a broken heart and a broken spirit. In fact, this was the intended outcome of the Law. The alternative outcome was a blinded, hardened heart that wasn't touched by God. Only two responses are possible to the Law: being broken or being blinded.
-
 New Covenant: The very best the Law could do is "break your heart". But, thankfully, Christ came for those with a broken heart. That's what His ministry was all about. When God puts His Spirit and His Law into the hearts of the New Covenant people, Israel will be the nation that God always wanted. All the other nations of the world will take notice of this incredible nation.
 
-Unfortunately for the nation of Israel, not many had a heart like David's. They had opportunities to repent time and again. God was incredibly patient with them. 
-But most of Israel had the opposite of a broken heart: a hardened heart. The only way the nation of Israel will fulfill the purpose God has for them is through a broken heart, not a hard heart.
+The only alternative outcome was a blinded, hardened heart that wasn't touched by God. Only two responses are possible to the Law: being broken or being blinded.
 
-The great irony is that the one nation that was supposed to be a light and an example stumbled and was hardened. Someday, as the prophet Zechariah says, they will look on the one that they pierced and they will understand. Their heart will be opened to Him.
+Unfortunately for the nation of Israel, not many had a heart like David's. They had opportunities to repent time and again. God was incredibly patient with them. But most of Israel had the opposite of a broken heart: a hardened heart. The only way the nation of Israel will fulfill the purpose God has for them is through a broken heart, not a hard heart. Christ told the Pharisees that if they would have believed Moses they would have believed Him. In other words, they really didn't get what the law was about.
 
 
 The Greatest Prayer
@@ -209,34 +210,42 @@ The Greatest Prayer
 
    Our hearts must be opened and filled in order for us to fulfill the purpose that God has for us. Asking Him to fill our open hearts really is the greatest thing we can pray for.
 
-God's work with Israel was just one piece of a much bigger puzzle. Israel was to be a light and an example to all other nations. They would look at them with with law written in their hearts and say "I want that." But God is going to accomplish something similar but even bigger with all nations together without distinction when Christ is dwelling in their hearts. The heavenly rulers will look at a body formed from all nations with Christ as head and see the wisdom of God.
+Let's stop for a moment and ask a question. What does God really want? Why would God so patiently work with one nation for thousands of years despite their blindness and hard heart? What was He accomplishing in all of this?
 
-I think the greatest prayer is recorded in Eph 3:
+Israel was to be a light and an example to all other nations. They would look at them with with law written in their hearts and say "I want that." Israel would be a living, breathing, walking, talking example of what God's heart looked like. God was going to use them to educate and teach all other nations.
+
+But even though Israel has failed in many ways due to the blindness of their heart, has God stopped teaching the nations with their example? If he can through failure, just imagine we He will be able to do when one day, He puts a new heart and a new spirit in that nation. What will that look like?
+
+Let's go back to our question: What does God really want?
+
+Does God only work with one nation? God's work with Israel was just one piece of a much bigger puzzle.  The only reason Israel was above all other nations was to serve and teach. If you want to be first, you need to become the servant of all.
+
+But God is going to accomplish something similar but even bigger with all nations together without distinction when Christ is dwelling in their hearts. The heavenly rulers will look at a body formed from all nations with Christ as head and see the wisdom of God.
+
+Three things:
+
+1. Working on a purpose that involves all nations without distinction.
+2. God is using the nations together to be an example to the heavenly rulers.
+3. It all starts with the heart.
+
+Nations together:
+
+   [Eph 3:6 KJV] 6 That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:
+
+Example to heavenly rulers:
+
+   [Eph 3:8-11 KJV] 8 Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; 9 And to make all [men] see what [is] the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: 10 To the intent that now unto the principalities and powers in heavenly [places] might be known by the church the manifold wisdom of God, 11 According to the eternal purpose which he purposed in Christ Jesus our Lord:
+
+This is how its going to happen:
 
    [Eph 3:14-19 NKJV] 14 For this reason I bow my knees to the Father of our Lord Jesus Christ, 15 from whom the whole family in heaven and earth is named, 16 that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man, 17 that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love, 18 may be able to comprehend with all the saints what [is] the width and length and depth and height-- 19 to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.
 
-I believe this is really what is at the center of the Mystery. The covenants are all about how God gets one special nation to the point of serving all other nations and being an example to them. The Mystery is about Christ dwelling in the hearts of all nations and all nations without distinction serving Him and being an example to the heavenly leadership.
 
-- Paul's prayer: heart, love of Christ, knowledge that exceeds knowledge
-- It's not the law in our hearts, but it's Christ, the one who fulfills the law (and so much more), dwelling in our hearts
-- God reveals mysteries to us so we can understand His heart, not so we can explain complex Bible passages
-- Knowing the love of Christ is being in tune with the heart of God. 
+The one act of Christ's ministry: wanting exactly what the Father wanted. This was more than the suffering of the Cross itself (think back to more than burnt offerings and sacrifices).
 
-Even though Israel is in a blinded, hardened state now, God has an incredible plan He is working out through the heart of people from all nations. Paul is speaking specifically about this in the book of Ephesians.
+God is calling people out of all nations to be a living, breathing, walking, talking example of what God's heart looks like.
 
-If I understand all mysteries but don't have love, I am nothing.
 
-If we aren't careful, we can end up adding to what God has said, or taking away from what He has said, or just organizing, soring, and raking what He has said. True Bible study isn't about any of those things. True Bible study is letting God fill our hearts and getting to know Him.
+If we lose sight of this, we can end up adding to what God has said, or taking away from what He has said, or just organizing, soring, and raking what He has said. True Bible study isn't about any of those things. True Bible study is letting God fill our hearts and getting to know Him. In Corinthians, Paul says "If I understand all mysteries but don't have love, I am nothing".
 
-Israel wasn't the only nation that struggled with hardened hearts:
-
-   [Eph 4:18 KJV] 18 Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness[G4457] of their heart:
-
-The word blindness is also translated "hardness". It means a covering over something.
-
-- Doing everything heartily means doing it from the heart so that it can include the whole soul.
-- It's not what we do. It's not even how we do it. Really, it's why we do what we do. That's really getting to the heart of the matter.
-
-The one act of Christ's ministry: wanting exactly what the Father wanted. This was more than the suffering of the Cross itself (think back to more than burnt offerings and sacrifices). What kind of witness to the principalities and power was the perfect love and obedience that Christ showed from His heart?
-
-Even though the scene of the cross was done in the wide open for everyone to see, at that exact time, nobody really knew what it was about or just how far reaching the implications would be. When we look back on that event, it all begins to make sense. I wonder if something similar might happen in our lives. Think about how Christ said to do your good works in secret. The Mystery of God's will was the unspoken aspect of the cross. It was known between the Father and the Son, but it was kept as a secret between them until God saw fit to reveal it through Paul.
+It's not what we do. It's not even how we do it. Really, it's why we do what we do. That's really getting to the heart of the matter. Christ dwelling in your heart is the best life and biggest witness you can possibly have.
