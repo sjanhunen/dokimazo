@@ -210,22 +210,22 @@ The Greatest Prayer
 
    Our hearts must be opened and filled in order for us to fulfill the purpose that God has for us. Asking Him to fill our open hearts really is the greatest thing we can pray for.
 
-Let's stop for a moment and ask a question. What does God really want? Why would God so patiently work with one nation for thousands of years despite their blindness and hard heart? What was He accomplishing in all of this?
+Let's stop for a moment and ask a question. What does God really want? Why would God so patiently work with one nation for thousands of years despite their blindness and hard heart? What was He trying to accomplish in all of this?
 
-Israel was to be a light and an example to all other nations. They would look at them with with law written in their hearts and say "I want that." Israel would be a living, breathing, walking, talking example of what God's heart looked like. God was going to use them to educate and teach all other nations.
+God wanted Israel was to be a light and an example to all other nations. Israel would be a living, breathing, walking, talking example of what God's heart looked like. God was going to use them to educate and teach the world, both through actions and words. 
 
-But even though Israel has failed in many ways due to the blindness of their heart, has God stopped teaching the nations with their example? If he can through failure, just imagine we He will be able to do when one day, He puts a new heart and a new spirit in that nation. What will that look like?
+But even though Israel failed in many ways due to the blindness of their heart, has God stopped teaching the nations with their example? Just look at what we have been learning through their example. If he can do this through failure, just imagine what He will be able to do when, one day, He puts a new heart and a new spirit in that nation. What will that look like?
 
 Let's go back to our question: What does God really want?
 
-Does God only work with one nation? God's work with Israel was just one piece of a much bigger puzzle.  The only reason Israel was above all other nations was to serve and teach. If you want to be first, you need to become the servant of all.
+Does God only work with one nation? Of course not. God's work with Israel was just one piece of a much bigger puzzle.  The only reason Israel was above all other nations was to serve and teach. If you want to be first, you need to become the servant of all.  God is and is planning to use Israel to minister to the world.
 
 But God is going to accomplish something similar but even bigger with all nations together without distinction when Christ is dwelling in their hearts. The heavenly rulers will look at a body formed from all nations with Christ as head and see the wisdom of God.
 
 Three things:
 
-1. Working on a purpose that involves all nations without distinction.
-2. God is using the nations together to be an example to the heavenly rulers.
+1. Working on a purpose that involves all nations together without distinction.
+2. God is using these nations together to be an example and to teach.
 3. It all starts with the heart.
 
 Nations together:
