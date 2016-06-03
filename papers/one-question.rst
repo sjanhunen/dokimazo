@@ -4,7 +4,7 @@
 One Question
 ============
 
-If you had the opportunity to walk up to Jesus while he was in the flesh on the earth and ask Him one question, what would it be? Would it be a special request? An answer to a puzzling or challenging passage in the Bible? I'm sure we've all thought of something like this at one time or another.
+If you had the opportunity to walk up to God manifested in the flesh on the earth and ask Him one question, what would it be? Would it be a special request? An answer to a puzzling or challenging passage in the Bible? I'm sure we've all thought of something like this at one time or another.
 
 During Christ's earthly ministry, three religious leaders from the nation of Israel actually had this very opportunity. Now I don't think that, from their perspective, they looked at it this way. In fact, these leaders saw Jesus as an up and coming threat. His teaching was powerful in a way that theirs wasn't. He was gaining popularity with the people. And he had repeatedly called them out for their hypocrisy.
 
@@ -14,7 +14,6 @@ Looking back on this from our perspective, this is actually a pretty ironic or e
 
 What's amazing about this scene recorded in Mark 12 is how Jesus takes something that was intended as a trap and uses it for powerful teaching in a way that I had never considered before.
 
-TBD: I actually believe that these guys, while they were trying to entangle the Lord, actually asked Him questions that they themselves were struggling with.
 
 The Pharisees & Herodians
 -------------------------
@@ -46,47 +45,52 @@ So, really, it all comes down to the question of "what does God want"? We'll get
 The Sadducee
 ------------
 
-The next question came from a Sadducee. The Sadducees were a religious sect that were opposed to all the added traditions of the Pharisees that wasn't found in the Torah. They believed strongly that the written Word was the only authoritative source for doctrine. They also happened to deny the truth of resurrection. This, and many other disagreements put them at odds with the Pharisees, so they were probably glad to see the Pharisees put in their place with the first question.
+The next question came from a Sadducee. The Sadducees were a religious sect that were opposed to all the added traditions of the Pharisees that weren't found in the Torah. They believed strongly that the written Word was the only authoritative source for doctrine. They also happened to deny the truth of resurrection. This, and other disagreements, put them at odds with the Pharisees. Sp they were probably glad to see the Pharisees put in their place with the first question.
 
-They came to Jesus with a hypothetical question about resurrection that involved seven brothers that each first married, and then died soon thereafter. The catch was that they all married the same woman in sequence:
+The Sadducee came to Jesus with a hypothetical question about the doctrine of resurrection that involved seven brothers that had each married, and then died soon thereafter. The catch here was that they all married the same woman in succession:
 
    [Mar 12:23-24 KJV] 23 In the resurrection therefore, when they shall rise, whose wife shall she be of them? for the seven had her to wife.
 
-With discernment, Christ identified the source of their difficulty:
+How could resurrection ever take place, they were thinking, if you have a scenereo like this. Of course, Christ knew there was no real problem here and pointed out the source of their difficulty:
 
    [Mar 12:24-25 KJV] 24 And Jesus answering said unto them, Do ye not therefore err, because ye know not the scriptures, neither the power of God? 25 For when they shall rise from the dead, they neither marry, nor are given in marriage; but are as the angels which are in heaven.
 
-They wouldn't have ever gotten to this hypothetical question if they had truly known the scriptures and believed the power of God.
-
+Had they truly known the Scriptures and the power of God, they would have never even had the hypothetical difficulity.
 
 The Scribe
 ----------
 
-Finally, seeing how well Jesus had answered the Sadducee, a Scribe decided to ask a skill testing question.
+Finally, seeing how well Jesus had answered the Sadducee, a Scribe decided to ask a skill testing question. The Scribes were the keepers and teachers of the Law. They liked to sort, categorize, organize, and study the commandments. Perhaps they even got into debates over which commandments were most important.
 
-Point out how Scribes approached the law...with categorizes and rankings.
 
-Christ acknowledges that this was a good question. In His answer, Christ points out that everything in fact all the law and the prophets hang on loving God with all the heart, mind, soul, and strength.
+   [Insert Scribes question]
+
+Christ answers this simply and directly with insight that actually applies to all three questions:
 
    [Mar 12:29-31 KJV] 29 And Jesus answered him, The first of all the commandments [is], Hear, O Israel; The Lord our God is one Lord: 30 And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength: this [is] the first commandment. 31 And the second [is] like, [namely] this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these.
 
-The Pharisees added to God's Word. The Saducees took away from God's Word. The Scribes spent time trying to organize, categorize, and rank all of the commandments found in the Word of God.
+I believe this is actually the answer all three needed to hear. It's one thing to read, teach, and debate the Words of God. But its an entirely different thing to understand and want the heart of God that is behind those words. For your heart to be on the same page as God's heart. That's a totally different experience.
 
-Christ cut through all of this to get to the heart of the matter.
+All three of these leaders had access to the same Words of God. But for them, it seems it was more about the words than the heart. The Pharisees added to the Word. The Saducees took away from the Word. The Scribes spent time trying to organize, categorize, and rank the Words.
+
+Out of the three, it seems that the Scribe is touched in some way by Christ's answer
+
+   [Insert Christ's answer here]
+
 
 The Greatest Commandment
 ========================
 
-Both of these commandments Christ highlights are about *love*: first loving God and then loving other people. And they are related: loving God leads to loving other people. And this love is not a feeling or emotion, it is service and sacrifice. The word for *love* is the same word used in John 3:16 "for God so *loved* the word that He *gave*". So loving with the heart, mind, soul, and strength is giving to Him from the heart, mind, soul, and strength.
+The greatest commandment is about *love*: first and foremost loving God, and then loving other people. And they are related: loving God leads to loving other people. This love is not a feeling or emotion, it is service and sacrifice. The word for *love* is the same word used in John 3:16 "for God so *loved* the word that He *gave*". So loving with the heart, soul, mind, and strength is serving Him with the heart, soul, mind, and strength.
 
 Heart & Soul
 ------------
 
-As we look more closely at the commandment, we will see that heart and soul are actually key words to understanding. And they are, in fact, closely related. To see this, we need to go back to the passage in Deuteronomy that Christ was quoting in Mark:
+It turns out that heart and soul are actually the real key words to understanding. And they are, in fact, closely related. To see this, we need to go back to the passage in Deuteronomy that Christ was quoting in Mark:
 
    [Deu 6:4-6 NKJV] 4 "Hear, O Israel: The LORD our God, the LORD [is] one! 5 "You shall love the LORD your God with all your heart, with all your soul, and with all your strength. 6 "And these words which I command you today shall be in your heart.
 
-The first question to ask is: which word is missing here that was present in Mark? *Heart* and *soul* and *strength* (or might) are all present. But the word *mind* is absent. Now why is this significant?
+Which word is missing here that was present in Mark? *Heart* and *soul* and *strength* (or might) are all present. But the word *mind* is absent. Why is this significant?
 
 We must keep in mind that Deuteronomy was written long before Mark, and it was written from a Hebrew perspective. The people that Jesus was addressing in Mark had the influence of Greek philosophers like Plato for several hundred years. To Plato, the mind was a big deal. In fact, he believed that one could arrive at ultimate or absolute truth through use of the mind or the intellect. The mind was so elevated that is was a god. The mind was viewed as the immortal part of the soul.
 
