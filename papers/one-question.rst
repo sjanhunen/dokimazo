@@ -86,32 +86,34 @@ The greatest commandment is about *love*: first and foremost loving God, and the
 Heart & Soul
 ------------
 
-It turns out that heart and soul are actually the real key words to understanding. And they are, in fact, closely related. To see this, we need to go back to the passage in Deuteronomy that Christ was quoting in Mark:
+It turns out that heart and soul are actually the real key words to understanding the greatest commandment. And they are, in fact, closely related. To see this, we need to go back to the passage in Deuteronomy that Christ was quoting in Mark:
 
    [Deu 6:4-6 NKJV] 4 "Hear, O Israel: The LORD our God, the LORD [is] one! 5 "You shall love the LORD your God with all your heart, with all your soul, and with all your strength. 6 "And these words which I command you today shall be in your heart.
 
 Which word is missing here that was present in Mark? *Heart* and *soul* and *strength* (or might) are all present. But the word *mind* is absent. Why is this significant?
 
-We must keep in mind that Deuteronomy was written long before Mark, and it was written from a Hebrew perspective. The people that Jesus was addressing in Mark had the influence of Greek philosophers like Plato for several hundred years. To Plato, the mind was a big deal. In fact, he believed that one could arrive at ultimate or absolute truth through use of the mind or the intellect. The mind was so elevated that is was a god. The mind was viewed as the immortal part of the soul.
+We must keep in mind that Deuteronomy was written long before Mark, and it was written from a Hebrew perspective. The people that Jesus was addressing in Mark were living in a culture that had been influenced by Greek philosophers like Plato for hundreds of years. And to Plato, the mind was a big deal. In fact, he believed that one could arrive at ultimate or absolute truth through use of the mind or the intellect. The mind was so elevated that it had practically become a god. The mind was viewed as a central part of the immortal soul.
 
-But all of this is contrary to a true Scriptural understanding of the mind. Scripture teaches that the heart is a deeper part of the person that actually steers the rational mind. In Romans chapter 1, Paul describes the sad path of nations that resisted the truth of God and went after idols. First, it starts with them failing to glorify God as God (Rom 1:21). That sounds a lot like the greatest commandment. This resulted in their foolish heart being darkened. Finally, God gave them over to a reprobate mind (Rom 1:28). Not glorifying God led to a darkened heart which led to a reprobate mind. The heart actually steered the mind off course.
+But all of this is contrary to a true Scriptural understanding of the mind. Scripture teaches that the heart is the deepest part of the person. And it is actually the heart that steers the rational mind. In Romans chapter 1, Paul describes the sad path of nations that resisted the truth of God and went after idols. It started when those nations failed to glorify God as God (Rom 1:21). This resulted in their foolish heart being darkened. Finally, God gave them over to a reprobate mind that led to all sorts of activities not in line with the heart of God (Rom 1:28). Not glorifying God led to a darkened heart which led to a reprobate mind. The heart actually steered the mind off course.
 
-I believe that Christ was acknowledging the importance of the mind as part of a complete person, but I don't believe it was a major focus of his teaching. You can see this quite easily by looking at how many times he actually uses the word. If we were to look at the words Christ spoke in the book of Mark, this is what we would find.
+Christ acknowledges the importance of the rational mind as part of a complete person, but I don't believe it was the major focus of his teaching. You can see this quite easily by looking at how many times he actually uses the word. Just looking at the words spoken by Christ in the book of Mark uncovers the following:
 
 - Heart: 8x
 - Soul: 8x
 - Mind: 1x (only in the quotation from Deut)
 
-So I think it's fair to say Christ focused on the heart and soul in His teaching because he speaks about them  8 times more frequently than the mind in the book of Mark.
+It's fair to say that Christ focused on the heart and soul in His teaching. He speaks about them 8 times more frequently than the mind throughout the book of Mark.
 
-Looking at the book of Deuteronomy, it's filled with references to the heart. In fact, out of all the books in the Old Testament, it's one of the top books about the heart with 49 references to 'heart'. But the book of Psalms does beat it out with 133 reference. Out of those 49 references to heart in Deuteronomy, ten of them are actually the phrase "heart and soul." This is very fitting seeing that there are ten commandments, and they can be summed up by loving God with all of your heart and your soul.
+Looking back at the book of Deuteronomy, it turns out it's filled with references to the heart. In fact, out of all the books in the Old Testament, it's one of the top books about the heart with 49 references to 'heart' (the book of Psalms does beat it out with 133 reference). Imagine that, a book of Moses that's a book on the heart.
 
-See might or strength really as an amplifier, not so much as a distinct thing to talk about. It is how you love God with heart & soul.
+Out of those 49 references to heart in Deuteronomy, ten of them are actually the phrase "heart and soul." This is very fitting seeing that there are ten commandments. And the whole law can be summed up by loving God with all of your heart and your soul.
+
+TODO: See might or strength really as an amplifier, not so much as a distinct thing to talk about. It is how you love God with heart & soul.
 
 The Soul
 --------
 
-The challenge in understanding the word *soul* today is that fact that the common meaning of this word is colored heavily by Greek philosophy going all the way back to Plato. Plato's concept of the soul was that it was the immortal part of you that is distinct from your body. In fact, it is as if the soul is trapped inside the body. Upon death, the soul leaves the body and carries on in existence. Many of the Greek concepts of the soul have influenced popular Christian doctrine.
+The challenge in understanding the word *soul* is that fact that the common meaning of this word is colored heavily by Greek philosophy going all the way back, once again, to philosophers like Plato. Plato's concept of the soul was that it was the immortal part of you that is distinct from your body. It was as if it were the "real you" trapped in a body. Upon death, the soul leaves the body and carries on in existence.
 
 This stands in stark contrast to the Hebrew concept for soul found in the Old Testament. The Hebrew word for soul is *nephesh*. We can get a pretty clear picture of the meaning of this word by looking at the first few occurrences of this word found in the creation account in Genesis. Interestingly enough, the first three appearances of this word are not even in reference to human beings:
 
@@ -121,15 +123,17 @@ This stands in stark contrast to the Hebrew concept for soul found in the Old Te
    
    30 And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein [there is] life,[H5315] [I have given] every green herb for meat: and it was so.
 
-The souls referred to here are living creatures that are in the water, on the land, and in the sky. In other words they are fish, cattle, and birds. In its fullest sense, the soul is a reference to the complete creature, and it is definitely not limited to humans. When we reach Adam (a human being), we read:
+The souls referred to here are living creatures that are in the water, on the land, and in the sky. In other words they are fish, cattle, and birds. This word is used to describe the complete creature, and it is definitely not limited to humans.
+
+When we reach the creation of Adam (a human being), we read:
 
    7 And the LORD God formed man [of] the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.[H5315]
 
-In other words, when God combined the body formed from dust with the breath or spirit He breathed into Adam, the result was a living creature.
+In other words, when God combined the body formed from dust with the breath or spirit He breathed into Adam, the result was a living creature or a living soul.
 
-Another challenge with the word soul is the fact that it can be used figuratively. Even though soul includes the entire living creature, it can be used figuratively to refer to only parts of the creature. For example, you will come across passages in Scripture that speak of a soul rejoicing or soul being troubled. This would be a figurative use of the word soul, where the word for the whole creature is used to represent an emotion or feeling that is in fact deep inside that creature. But if you really think about this, most things that are buried deep inside usually have a way of affecting the entire creature.
+One challenge with the word soul is the fact that it can be used figuratively. Even though soul includes the entire living creature, it can be used figuratively to refer to only parts of the creature. For example, you will come across passages in Scripture that speak of a soul rejoicing or soul being troubled. This would be a figurative use of the word soul, where the word for the whole person is used to represent an internal emotion or feeling. But eventually, most things that are buried deep inside usually have a way of affecting the entire person.
 
-So loving God with all of your soul doesn't mean loving Him with some immaterial piece of you that is inside your body but separate from your body. It means loving God with the entire creature that He has made you to be. It is actually all encompassing.
+So loving God with all of your soul doesn't mean loving Him with some piece of you that is inside your body but separate from your body. It means loving God with the entire creature that He has made you to be. It is actually all encompassing.
 
 The Heart
 ---------
@@ -138,7 +142,7 @@ The Heart
 
    Christ taught that the heart is the source out from which everything flows. A heart that is filled with the spirit of Christ is like building on the rock. The works will weather the storm. If you want to serve God, it must be from the heart.
 
-When we think of this word, its natural for us to imagine a bodily organ that pumps blood. But the Hebrew words *leb* and *lebab*, which are translated *heart* in the Old Testament, literally mean the innermost part of something. So you will see these words used in such phrases as "the *heart* of the sea" or the "the *midst* of heaven".
+When we think of this word, its natural for us to imagine a bodily organ that pumps blood. But the Hebrew words *leb* and *lebab*, which are translated *heart* in the Old Testament, literally mean the innermost part of something.  you will see these words used in such phrases as "the *heart* of the sea" or the "the *midst* of heaven".
 
 When *leb* or *lebab* are spoken of in the human context, the *heart* represents the innermost part or central part of your soul. Life is described, in Proverbs 4:23, as flowing out of the heart:
 
@@ -146,30 +150,26 @@ When *leb* or *lebab* are spoken of in the human context, the *heart* represents
 
 Another way to say this is that the heart is like the fountain of life in a person, the place out from which the activities and actions of life flow.
 
-This understanding of the heart as the source of the activity of the soul is found throughout the teaching of Jesus. At one point the Pharasees were giving Him a hard time for not washing His hands before eating as was their custom. [Consider bringing in the brief question and His answer]. 
+This understanding of the heart as the source of the activity of the soul is found throughout the teaching of Jesus. At one point the Pharasees were giving Him a hard time for not washing His hands before eating as was their custom. [Consider bringing in the brief question and His answer].
 
-Christ used this as a moment for teaching (Mat 15:17-20):
+Christ has a marvelous way of taking a question or situation that is really superficial and turning it around to teach something much deeper. His teaching to the Pharisees can be found in Mat 15:17-20:
 
    "Do you not yet understand that whatever enters the mouth goes into the stomach and is eliminated? But those things which proceed out of the mouth come from the heart, and they defile a man. For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies. These are [the things] which defile a man, but to eat with unwashed hands does not defile a man."
    
-In the Sermon on the Mount in Matthew 5, Christ focuses on the importance of the heart in a series of contrasts where He says "you have heard it said" in the law, "but I say unto you". For example: 
+In the Sermon on the Mount in Matthew 5, Christ zeros in on the heart in a series of alternating contrasts between the letter of the law and the heart desire of God that was behind the law:
 
-- You have heard it said, "don't murder". But anyone who is angry without cause will be treated as if they had murdered.
-- You have heard it said, "don't commit adultery". But anyone who lusts has committed adultery in their heart.
-- And so on
+- You have heard it said, "don't murder". This is the domain of the law. The external action.
+- But I say unto you: anyone who is angry without cause will be treated as if they had murdered.
 
-The Pharisees, in their attempt to not break the law of God, added layer upon layer of protection around the law until it became almost unrecognizable. But none of this dealt with the source of the problem. Actually, the fact that so many layers were required to achieve a form out outward conformance is actually a testament to just how bad the problem was. Christ came to deal with the problem at its source. If the problem is deal with at the source, the law will be naturally fulfilled without effort. And none of the extra layers will be required. 
+- You have heard it said: "don't commit adultery".
+- But I say unto you: anyone who lusts has committed adultery in their heart.
 
-The law identified and punished the sinful external action, because that was its domain. But Christ came to deal with the root of all sinful actions: the heart. His ministry was a ministry focused on the heart. The healing and the feeding that He did was secondary to this. The Sermon on the Mount was a sermon about the heart. He didn't come to set aside the law, He came to deal with the problem at the source. In fact, this is the only way that the law can be truly fulfilled.
+The Pharisees, in their attempt to not break the letter of law of God, added layer upon layer of protection around the law until it became almost unrecognizable. But none of this dealt with the source of the problem, the heart. The fact that so many layers were required to achieve a form out outward conformance is actually a testament to just how bad the heart problem was. Christ came to deal with the problem at its source. If the problem is deal with here, the law will be fulfilled as a natural outcome.
 
-A brief "Cole's notes" edition of Deut would be helpful here. It will culminate with chapter 30. Deut 30:6 looks forward to the New Covenant. The cutting here is not in the flesh but in the heart. This is the only way to truly love God with all your heart and soul.
-
-The circumcision of the flesh was part of the law. But the cutting of the heart was what God was really after. I believe that "circumcision of the heart" was the real theme of the ministry of Christ while He was on earth. His teaching and ministry was focused on the heart because everything else flows out from there.
-
+Any true service or worship rendered to God must flow out from the heart.
 Luke 6:43-49: the parable of the wise and foolish builder. Who is the rock? Christ (or His Spirit) Where is the rock? (In your heart). This is what serving God and pleasing God is all about.
 
-The ministry Christ had with Israel was actually a heart-focused ministry. That's why it looked so radically different than the religion and the reason of the day. It was so different, it was unrecognizable to many people. The signs that Christ did were to confirm the promises given in the prophets, but His real work was focused on the heart.
-
+The ministry that Christ had with Israel was actually a heart-focused ministry. That's why it looked so radically different from the religion and the reason of the day. The great miracles He did were all secondary to this. The signs that Christ did were to confirm the promises given in the prophets. He didn't come to set aside the law, He came to deal with the problem at the source. Only then can the law can be truly fulfilled. Not as a way to become righteous, but because of righteousness. 
 
 A Man After God's Own Heart
 ===========================
@@ -200,6 +200,7 @@ This is how Christ described His own ministry. His ministry was to those who wer
 
 New Covenant: The very best the Law could do is "break your heart". But, thankfully, Christ came for those with a broken heart. That's what His ministry was all about. When God puts His Spirit and His Law into the hearts of the New Covenant people, Israel will be the nation that God always wanted. All the other nations of the world will take notice of this incredible nation.
 
+Deut 30:6 looks forward to the New Covenant. The cutting here is not in the flesh but in the heart. This is the only way to truly love God with all your heart and soul. The circumcision of the flesh was part of the law. But the cutting of the heart was what God was really after. I believe that "circumcision of the heart" was the real theme of the ministry of Christ while He was on earth. His teaching and ministry was focused on the heart because everything else flows out from there.
 The only alternative outcome was a blinded, hardened heart that wasn't touched by God. Only two responses are possible to the Law: being broken or being blinded.
 
 Unfortunately for the nation of Israel, not many had a heart like David's. They had opportunities to repent time and again. God was incredibly patient with them. But most of Israel had the opposite of a broken heart: a hardened heart. The only way the nation of Israel will fulfill the purpose God has for them is through a broken heart, not a hard heart. Christ told the Pharisees that if they would have believed Moses they would have believed Him. In other words, they really didn't get what the law was about.
@@ -248,7 +249,6 @@ This is how its going to happen:
 The one act of Christ's ministry: wanting exactly what the Father wanted. This was more than the suffering of the Cross itself (think back to more than burnt offerings and sacrifices).
 
 God is calling people out of all nations to be a living, breathing, walking, talking example of what God's heart looks like.
-
 
 If we lose sight of this, we can end up adding to what God has said, or taking away from what He has said, or just organizing, soring, and raking what He has said. True Bible study isn't about any of those things. True Bible study is letting God fill our hearts and getting to know Him. In Corinthians, Paul says "If I understand all mysteries but don't have love, I am nothing".
 
