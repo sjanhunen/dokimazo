@@ -178,33 +178,26 @@ A Man After God's Own Heart
 
    David, despite his many failure, was seeking God from the heart. He didn't run from the conviction of sin, he embraced it. His heart was broken, not hardened. He desired what only God can give, a clean heart filled with His spirit.
 
-When we looked at the words heart and soul, we saw that in the Hebrew Old Testament, the book of Psalms had more references to *heart* than any other book. It's not entirely surprising that "a man after God's own heart" (as David is known in Acts 13:22) would write a lot about the heart. What can we lean about the heart from David?
+When we looked at the words heart and soul, we saw that in the Hebrew Old Testament, the book of Psalms had more references to *heart* than any other book. It's not entirely surprising that David, "a man after God's own heart" (1 Sam 13:14, Acts 13:22), would write a lot about the heart. What can we lean about the heart from David?
 
-First of all, David actually committed some pretty big sins. He committed adultery and then murder in an attempt to cover it up. How could someone like this be said to have a heart "after God's own heart." David had many failures, but I believe the answer to this lies in how he responded when he was confronted with his sin.
+David actually make some pretty bad mistakes during his life. He first committed adultery and then saw to it that the husband of the woman he slept with was killed in battle. His sin didn't just take place in his heart, it carried right through to the external action. How could someone like this be said to have a heart "after God's own heart?"
 
-Psalm 51 is David's response after being confronted with his serious sin.
+Psalm 51 records David's response to God after the prophet Nathan came to him to confront him about his sin:
 
    [Psa 51:2-4, 6, 10, 16-17 KJV] 2 Wash me throughly from mine iniquity, and cleanse me from my sin. 3 For I acknowledge my transgressions: and my sin [is] ever before me. 4 Against thee, thee only, have I sinned, and done [this] evil in thy sight: that thou mightest be justified when thou speakest, [and] be clear when thou judgest. ... 6 Behold, thou desirest truth in the inward parts: and in the hidden [part] thou shalt make me to know wisdom. ... 10 Create in me a clean heart, O God; and renew a right spirit within me. ... 16 For thou desirest not sacrifice; else would I give [it]: thou delightest not in burnt offering. 17 The sacrifices of God [are] a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
 
-David's encounter with the truth of his failure led to a broken spirit and a broken heart. David knew that what God was really after wasn't the burnt offerings and the sacrifices.
+David's encounter with the truth of his failure resulted in a broken spirit and a broken heart. David knew that what God was really after wasn't burnt offerings and sacrifices. Yes, those were part of serving God under the law, but the actual objective of the law was to bring about an awareness of sin that leads to a broken and a contrite heart. This is something God does not despise.
 
-When David acknowledged his sin, he didn't just go make a burnt offering to God. He acknowledged the source of the problem. This is something God does not despise.
+The cry of David's heart in Psalm 51 is answered 1000 years later in the Son of David. At the start of His earthly ministry, Christ went into a synagogue one sabbath, opened the book of Isaiah, and read this:
 
-Old Covenant: The Law was an encounter with the Word of God. More than burnt offerings and sacrifices, the Lord desired a broken heart and a broken spirit. In fact, this was the intended outcome of the Law.
+   [Isa 61:1-2 KJV] 1 The Spirit of the Lord GOD [is] upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to [them that are] bound; To proclaim the acceptable year of the LORD.
 
-David asked for something that only God could provide. What David is asking for can only be answered in Christ:
+This is Christ saying to Israel, for those of you that have had your heart broken by the law, I am here for you. For those of you that are in bondage, I will set you free. This is what will enable you to become what God has always wanted you to be. 
 
-   [Isa 61:1 KJV] 1 The Spirit of the Lord GOD [is] upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to [them that are] bound;
+The ministry of Christ wasn't really about healing the sick and feeding the hungry. Yes, those were signs that He did, but those were to prove that He was the one who could heal your heart and feed your soul. But for that to be possible, you had to be open to Him, like David was. A broken heart is an opened heart.
 
-This is how Christ described His own ministry. His ministry was to those who were the brokenhearted under the Old Covenant. The cry of David's heart was answered in the Son of David, Jesus Christ. A broken heart is an open heart. Psalm 129:23 - "Search me and know my heart". David is saying, God my heart is open to you.
-
-New Covenant: The very best the Law could do is "break your heart". But, thankfully, Christ came for those with a broken heart. That's what His ministry was all about. When God puts His Spirit and His Law into the hearts of the New Covenant people, Israel will be the nation that God always wanted. All the other nations of the world will take notice of this incredible nation.
-
-Deut 30:6 looks forward to the New Covenant. The cutting here is not in the flesh but in the heart. This is the only way to truly love God with all your heart and soul. The circumcision of the flesh was part of the law. But the cutting of the heart was what God was really after. I believe that "circumcision of the heart" was the real theme of the ministry of Christ while He was on earth. His teaching and ministry was focused on the heart because everything else flows out from there.
-The only alternative outcome was a blinded, hardened heart that wasn't touched by God. Only two responses are possible to the Law: being broken or being blinded.
-
-Unfortunately for the nation of Israel, not many had a heart like David's. They had opportunities to repent time and again. God was incredibly patient with them. But most of Israel had the opposite of a broken heart: a hardened heart. The only way the nation of Israel will fulfill the purpose God has for them is through a broken heart, not a hard heart. Christ told the Pharisees that if they would have believed Moses they would have believed Him. In other words, they really didn't get what the law was about.
-
+Unfortunately for the nation of Israel, not many people had a heart like David's. As a nation, they rejected their Messiah. They had opportunities to repent time and again. God was incredibly patient with them. But most of Israel had the opposite of a broken heart: a blinded, heardened heart. Mention Acts 28:28.
+Has God given up? No way! Quote from Zech.
 
 The Greatest Prayer
 ===================
