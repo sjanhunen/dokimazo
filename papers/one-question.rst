@@ -12,7 +12,7 @@ They wanted to act forcefully against Him, but they were afraid the people. So t
 
 Looking back on this from our perspective, this is actually a pretty ironic or even comic scene. The person they are about to question is the "Word of God made flesh" (John 1:14). The Word of God made flesh: sharper than a two-edge sword, a discerner of the thoughts and intents of the heart (Heb 4:12). It just strikes me that trying to trick somebody like that is a bad idea.
 
-What's amazing about this scene recorded in Mark 12 is how Jesus takes something that was intended as a trap and uses it for powerful teaching in a way that I had never considered before.
+What's amazing about this scene recorded in Mark 12 is how Jesus takes something that was intended as a trap and uses it for powerful teaching. He takes surface level questions and turns them around to teach something much deeper.
 
 
 The Pharisees & Herodians
@@ -180,23 +180,27 @@ A Man After God's Own Heart
 
 When we looked at the words heart and soul, we saw that in the Hebrew Old Testament, the book of Psalms had more references to *heart* than any other book. It's not entirely surprising that David, "a man after God's own heart" (1 Sam 13:14, Acts 13:22), would write a lot about the heart. What can we lean about the heart from David?
 
-David actually make some pretty bad mistakes during his life. He first committed adultery and then saw to it that the husband of the woman he slept with was killed in battle. His sin didn't just take place in his heart, it carried right through to the external action. How could someone like this be said to have a heart "after God's own heart?"
+David actually make some pretty bad mistakes during his life. He first committed adultery and then saw to it that the husband of the woman he slept with was killed in battle. This sin didn't just take place in his heart, it carried right through to the external action. How could someone like this be said to have a heart "after God's own heart?"
 
 Psalm 51 records David's response to God after the prophet Nathan came to him to confront him about his sin:
 
    [Psa 51:2-4, 6, 10, 16-17 KJV] 2 Wash me throughly from mine iniquity, and cleanse me from my sin. 3 For I acknowledge my transgressions: and my sin [is] ever before me. 4 Against thee, thee only, have I sinned, and done [this] evil in thy sight: that thou mightest be justified when thou speakest, [and] be clear when thou judgest. ... 6 Behold, thou desirest truth in the inward parts: and in the hidden [part] thou shalt make me to know wisdom. ... 10 Create in me a clean heart, O God; and renew a right spirit within me. ... 16 For thou desirest not sacrifice; else would I give [it]: thou delightest not in burnt offering. 17 The sacrifices of God [are] a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
 
-David's encounter with the truth of his failure resulted in a broken spirit and a broken heart. David knew that what God was really after wasn't burnt offerings and sacrifices. Yes, those were part of serving God under the law, but the actual objective of the law was to bring about an awareness of sin that leads to a broken and a contrite heart. This is something God does not despise.
+When the Word of God encounters the heart of someone, there really are only two options: the heart can be blinded and hardened through resistance or that heart can be broken. David's encounter with the truth of his failure resulted in a broken spirit and a broken heart. David knew that what God was really after wasn't burnt offerings and sacrifices. Yes, those were part of serving God under the law, but the actual objective of the law was to bring about an awareness of sin that leads to a broken and a contrite heart. This is something God does not despise.
 
 The cry of David's heart in Psalm 51 is answered 1000 years later in the Son of David. At the start of His earthly ministry, Christ went into a synagogue one sabbath, opened the book of Isaiah, and read this:
 
    [Isa 61:1-2 KJV] 1 The Spirit of the Lord GOD [is] upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to [them that are] bound; To proclaim the acceptable year of the LORD.
 
-This is Christ saying to Israel, for those of you that have had your heart broken by the law, I am here for you. For those of you that are in bondage, I will set you free. This is what will enable you to become what God has always wanted you to be. 
+This is Christ saying to Israel: for those of you that have had your heart broken by the law, I am here for you. For those of you that are in bondage , I will set you free. I am here so you can become what God has always wanted you to be.
 
-The ministry of Christ wasn't really about healing the sick and feeding the hungry. Yes, those were signs that He did, but those were to prove that He was the one who could heal your heart and feed your soul. But for that to be possible, you had to be open to Him, like David was. A broken heart is an opened heart.
+God's purpose for Israel was for them to be a light and an example to all other nations on the earth. Israel would be a living, breathing, walking, talking example of what God's heart looked like. God is going to use them to educate and teach the world about Him.
 
-Unfortunately for the nation of Israel, not many people had a heart like David's. As a nation, they rejected their Messiah. They had opportunities to repent time and again. God was incredibly patient with them. But most of Israel had the opposite of a broken heart: a blinded, heardened heart. Mention Acts 28:28.
+The ministry of Christ wasn't really about healing the sick and feeding the hungry. Yes, those were signs that He did, but those were to prove that He was the one who could truly heal the heart and feed the soul. For that to be possible, you had to be open to Him, like David was. A broken heart is an open heart.
+
+Unfortunately for the nation of Israel, not many people had a heart like David's. Insted of a broken heart, they had a blind and a hard heart. Throughout the book of Acts, God is trying to reach the heart of Israel who had rejected their own Messiash.
+
+They had opportunities to repent time and again. God was incredibly patient with them. But most of Israel had the opposite of a broken heart: a blinded, heardened heart. Mention Acts 28:28.
 Has God given up? No way! Quote from Zech.
 
 The Greatest Prayer
@@ -208,41 +212,20 @@ The Greatest Prayer
 
    Our hearts must be opened and filled in order for us to fulfill the purpose that God has for us. Asking Him to fill our open hearts really is the greatest thing we can pray for.
 
-Let's stop for a moment and ask a question. What does God really want? Why would God so patiently work with one nation for thousands of years despite their blindness and hard heart? What was He trying to accomplish in all of this?
-
-God wanted Israel was to be a light and an example to all other nations. Israel would be a living, breathing, walking, talking example of what God's heart looked like. God was going to use them to educate and teach the world, both through actions and words. 
-
-But even though Israel failed in many ways due to the blindness of their heart, has God stopped teaching the nations with their example? Just look at what we have been learning through their example. If he can do this through failure, just imagine what He will be able to do when, one day, He puts a new heart and a new spirit in that nation. What will that look like?
-
-Let's go back to our question: What does God really want?
-
-Does God only work with one nation? Of course not. God's work with Israel was just one piece of a much bigger puzzle.  The only reason Israel was above all other nations was to serve and teach. If you want to be first, you need to become the servant of all.  God is and is planning to use Israel to minister to the world.
-
-But God is going to accomplish something similar but even bigger with all nations together without distinction when Christ is dwelling in their hearts. The heavenly rulers will look at a body formed from all nations with Christ as head and see the wisdom of God.
-
-Three things:
-
-1. Working on a purpose that involves all nations together without distinction.
-2. God is using these nations together to be an example and to teach.
-3. It all starts with the heart.
-
-Nations together:
-
-   [Eph 3:6 KJV] 6 That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:
-
-Example to heavenly rulers:
+Has the blindness and hardness of the heart of Israel prevented God from moving forward in His purposes with the nations? Towards the end of his ministry, the Apostle Paul sheds some light on this in the book of Ephesians.
 
    [Eph 3:8-11 KJV] 8 Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; 9 And to make all [men] see what [is] the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: 10 To the intent that now unto the principalities and powers in heavenly [places] might be known by the church the manifold wisdom of God, 11 According to the eternal purpose which he purposed in Christ Jesus our Lord:
 
-This is how its going to happen:
+Throughout the book of Acts, Paul was focused on reaching the heart of the nation of Israel. Even when he was working with other nations, he was doing it as a way to ultimately reach Israel. What Paul is talking about here is specifically reaching the heart of all nations without distinction. This wasn't an afterthought of God. This was always His purpose from the beginning, but it was a hidden purpose. In His wisdom, God used the blindness of Israel as a way to bring this purpose to the forefront.
+
+What does Paul want everyone to see? The Fellowship of the Mystery. What is this fellowship. Paul goes on to immediately pray about this, and I believe he defines this fellowship in his prayer.
 
    [Eph 3:14-19 NKJV] 14 For this reason I bow my knees to the Father of our Lord Jesus Christ, 15 from whom the whole family in heaven and earth is named, 16 that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man, 17 that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love, 18 may be able to comprehend with all the saints what [is] the width and length and depth and height-- 19 to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.
 
+When we look at the word fellowship, it's natural to think of horizontal fellowship. Fellowship we have with fellow believers. But I think the fellowship being described here is a vertical fellowship: this is how God fellowships with us. It's Christ dwelling in our hearts. This isn't about knowing about the love of Christ with our mind, this is knowing the love of Christ at such a level that we want the same things He wants from our hearts.
 
-The one act of Christ's ministry: wanting exactly what the Father wanted. This was more than the suffering of the Cross itself (think back to more than burnt offerings and sacrifices).
+This fellowship isn't about the law of God being written in the heart of one nation, this is about Christ dwelling in the hearts of all nations. This isn't about one nation being an example to teach the other nations of the earth. This is about all nations together being an example and teaching the heavenly rulers and authorities about the wisdom of God.
 
-God is calling people out of all nations to be a living, breathing, walking, talking example of what God's heart looks like.
-
-If we lose sight of this, we can end up adding to what God has said, or taking away from what He has said, or just organizing, soring, and raking what He has said. True Bible study isn't about any of those things. True Bible study is letting God fill our hearts and getting to know Him. In Corinthians, Paul says "If I understand all mysteries but don't have love, I am nothing".
+If we lose sight of the heart of the fellowship of the mystery, the traps of the Pharisee, the Saducee, and the Scribe don't lie far away. How easily we can end up adding to what God has said, or taking away from what He has said, or just organizing, soring, dividing, and raking what He has said. True Bible study is getting to know God at such a level that He fills our hearts. If we understand The Mystery and don't have love, we really are nothing, because the entire point of the Mystery is love.
 
 It's not what we do. It's not even how we do it. Really, it's why we do what we do. That's really getting to the heart of the matter. Christ dwelling in your heart is the best life and biggest witness you can possibly have.
