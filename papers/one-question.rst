@@ -10,14 +10,12 @@ During Christ's earthly ministry, three religious leaders from the nation of Isr
 
 They wanted to act forcefully against Him, but they were afraid the people. So they devised a strategy: trying to trap Jesus using His own words. If they could ask Him hard questions and get Him to say something outrageous or blasphemous, then they would have him in their trap.
 
-Looking back on this from our perspective, this is actually a pretty ironic or even comic scene. The person they are about to question is the "Word of God made flesh" (John 1:14). The Word of God made flesh: sharper than a two-edge sword, a discerner of the thoughts and intents of the heart (Heb 4:12). It just strikes me that trying to trick somebody like that is a bad idea.
+Looking back on this from our perspective, this is actually a pretty ironic. The person they are about to question is the "Word of God made flesh" (John 1:14). The Word of God made flesh: sharper than a two-edge sword, a discerner of the thoughts and intents of the heart (Heb 4:12). Trying to to trick this person is a bad idea. But Christ skillfully takes something that was intended as a trap and uses it for powerful teaching.
 
-What's amazing about this scene recorded in Mark 12 is how Jesus takes something that was intended as a trap and uses it for powerful teaching.
+The Pharisees
+-------------
 
-The Pharisees & Herodians
--------------------------
-
-The first question came from a group that was actually formed of two different sects, the Pharisees and the Herodians. The Pharisees were a highly religious sect so zealous about keeping the law that they wrapped layer upon layer of tradition around to it in their attempt to avoid breaking it. They ended up was so far removed from the heart of God that the law.
+The first question came from the Pharisees. The Pharisees were a highly religious sect so zealous about keeping the law that they wrapped layer upon layer of tradition around to it in their attempt to avoid breaking it. They ended up was so far removed from the heart of God that the law.
 
 They first attempt to butter up and flatter Jesus, and then they get around to asking their question:
 
@@ -119,78 +117,80 @@ So loving God with all of your soul doesn't mean loving Him with some piece of y
 The Heart
 ---------
 
-When we think of this word, its natural for us to imagine a bodily organ that pumps blood. But the Hebrew words *leb* and *lebab*, which are translated *heart* in the Old Testament, literally mean the innermost part of something.  you will see these words used in such phrases as "the *heart* of the sea" or the "the *midst* of heaven".
+When we think of this word, its natural to imagine a bodily organ that pumps blood. But the Hebrew words *leb* and *lebab*, which are translated *heart* in the Old Testament, literally mean the innermost part of something. These words used in such phrases as "the *heart* of the sea" or the "the *midst* of heaven".
 
-When *leb* or *lebab* are spoken of in the human context, the *heart* represents the innermost part or central part of your soul. Life is described, in Proverbs 4:23, as flowing out of the heart:
+When heart is spoken of in the human context, it represents the innermost part or central part of your soul. Life is described, in Proverbs 4:23, as flowing out of the heart:
 
    Keep thy heart with all diligence; for out of it [are] the issues of life.
 
-Another way to say this is that the heart is like the fountain your life flows out of. It drives the very activities and actions of life.
+The heart is like the fountain your life flows out of. It drives the very activities and actions of life.
 
 This understanding of the heart as the source of the activity of the soul is found throughout the teaching of Christ. At one point the Pharasees were giving Him a difficult time for not washing His hands before eating as was their tradition. Christ has a marvelous way of taking a question or situation that is really superficial and turning it around to teach something much deeper.
 
    [Mat 15:17-20 KJV] 17 Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught? 18 But those things which proceed out of the mouth come forth from the heart; and they defile the man. 19 For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies: 20 These are [the things] which defile a man: but to eat with unwashen hands defileth not a man.
 
-In other words, you're worried about being made unclean by your dirty hands. What about your sinful heart? All of the evil that proceeds out of that is defiling you. And no amount of washing will make you clean from that.
+The Pharasees were worrying about being made unclean by dirty hands. That was only a surface level cleanness. Tt was their heart that was really making them unclean. And no amount of washing would cleanse that part of them.
 
-In the Sermon on the Mount in Matthew 5, Christ zeros in on the heart in a series of alternating contrasts between the letter of the law and the Spirit of God that was behind the law:
+In the Sermon on the Mount in Matthew 5, Christ zeros in on the heart in a series of alternating contrasts between the letter of the law and the Spirit of God that was behind the law. He says, in effect:
 
-- You have heard it said: don't murder. This is the letter of the law. But I say unto you: anyone who is angry without cause will be treated as if they had murdered. This is the Spirit behind the law.
+   You have heard it said: don't murder. This is the letter of the law. But I say unto you: anyone who is angry without cause has committed murder in his heart. This is the Spirit behind the law.
 
-- You have heard it said: don't commit adultery. This is the letter of the law. But I say unto you: anyone who lusts has committed adultery in his heart. This is the Spirit behind the law.
+   You have heard it said: don't commit adultery. This is the letter of the law. But I say unto you: anyone who lusts has committed adultery in his heart. This is the Spirit behind the law.
 
-The Pharisees, in their attempt to not break the letter of law of God, added layer upon layer of protection around the law until it became almost unrecognizable. But none of this dealt with the source of the problem, the heart. The fact that so many layers were required to achieve a form out outward conformance is actually a testament to just how bad the heart problem was. Christ came to deal with the problem at its source. If the problem is deal with here, fulfilling the letter of the law will be a natural outcome.
+The Pharisees, in their attempt to not break the letter of law of God, added layer upon layer of protection around the law until it became almost unrecognizable. But none of this dealt with the source of the problem, the heart. The fact that so many layers were required to achieve a form out outward conformance is actually a testament to just how bad the heart problem was. Christ came to deal with the problem at its source. If the problem is deal with at the source, fulfilling the letter of the law will be a natural outcome.
 
-Any true service or worship rendered to God must flow out from the heart.
-Luke 6:43-49: the parable of the wise and foolish builder. Who is the rock? Christ (or His Spirit) Where is the rock? (In your heart). This is what serving God and pleasing God is all about.
+Any works that are acceptable to God and will stand the test always flow out of a heart that is led by His Word. This is what Christ is getting at in the parable of the wise and foolish builders.
 
-The ministry that Christ had with Israel was actually a heart-focused ministry. That's why it looked so radically different from the religion and the reason of the day. The great miracles He did were all secondary to this. The signs that Christ did were to confirm the promises given in the prophets. He didn't come to set aside the law, He came to deal with the problem at the source. Only then can the law can be truly fulfilled. Not as a way to become righteous, but because of righteousness. 
+   [Luk 6:45-49 KJV] 45 A good man out of the good treasure of his heart bringeth forth that which is good; and an evil man out of the evil treasure of his heart bringeth forth that which is evil: for of the abundance of the heart his mouth speaketh. 46 And why call ye me, Lord, Lord, and do not the things which I say? 47 Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like: 48 He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock. 49 But he that heareth, and doeth not, is like a man that without a foundation built an house upon the earth; against which the stream did beat vehemently, and immediately it fell; and the ruin of that house was great.
+
+Who is the rock in this parable? It is the Word of God. But more importantly, where is the rock? The wise builder dug deep and laid a foundation. This was no mere surface encounter with the Word. This was an encounter with the Word at the deepest level. The rock is the heart filled and led by the Word of God. This is what serving God is all about.
+
+The ministry that Christ had with Israel was a heart-focused ministry. That's why it looked so radically different from the religion and the reason of the day. The great miracles He did were all secondary to this. The signs that Christ did were to confirm the promises given in the prophets. He didn't come to set aside the law, He came to deal with the problem at the source. Only then can the law can be truly fulfilled. Not as a way to become righteous, but because of righteousness. 
 
 A Man After God's Own Heart
 ===========================
 
 When we looked at the words heart and soul, we saw that in the Hebrew Old Testament, the book of Psalms had more references to *heart* than any other book. It's not entirely surprising that David, "a man after God's own heart" (1 Sam 13:14, Acts 13:22), would write a lot about the heart. What can we lean about the heart from David?
 
-David actually make some pretty bad mistakes during his life. He first committed adultery and then saw to it that the husband of the woman he slept with was killed in battle. This sin didn't just take place in his heart, it carried right through to the external action. How could someone like this be said to have a heart "after God's own heart?"
+David actually make some pretty bad mistakes during his life. He first committed adultery and then saw to it that the husband of the woman he slept with was killed in battle. This sin didn't just take place in his heart, it carried right through to the external action. How could someone like this be said to have a heart "after God's own heart?" The answer to this lies in David's response to his sin.
 
 Psalm 51 records David's response to God after the prophet Nathan came to him to confront him about his sin:
 
    [Psa 51:2-4, 6, 10, 16-17 KJV] 2 Wash me throughly from mine iniquity, and cleanse me from my sin. 3 For I acknowledge my transgressions: and my sin [is] ever before me. 4 Against thee, thee only, have I sinned, and done [this] evil in thy sight: that thou mightest be justified when thou speakest, [and] be clear when thou judgest. ... 6 Behold, thou desirest truth in the inward parts: and in the hidden [part] thou shalt make me to know wisdom. ... 10 Create in me a clean heart, O God; and renew a right spirit within me. ... 16 For thou desirest not sacrifice; else would I give [it]: thou delightest not in burnt offering. 17 The sacrifices of God [are] a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
 
-When the Word of God encounters the heart of someone, there really are only two options: the heart can be blinded and hardened through resistance or that heart can be broken. David's encounter with the truth of his failure resulted in a broken spirit and a broken heart. David knew that what God was really after wasn't burnt offerings and sacrifices. Yes, those were part of serving God under the law, but the actual objective of the law was to bring about an awareness of sin that leads to a broken and a contrite heart. This is something God does not despise.
+When the sinful heart encounters the Word of God, there really are only two options: that heart can be blinded and hardened through resistance or that heart can be broken. David's encounter with the truth of his failure resulted in a broken spirit and a broken heart. David knew that what God was really after in the law wasn't burnt offerings and sacrifices. Yes, those were part of serving God under the law, but the actual objective of the law was to bring about an awareness of sin that leads to a broken and a contrite heart. This is something God will never despise.
 
 The cry of David's heart in Psalm 51 is answered 1000 years later in the Son of David. At the start of His earthly ministry, Christ went into a synagogue one sabbath, opened the book of Isaiah, and read this:
 
    [Isa 61:1-2 KJV] 1 The Spirit of the Lord GOD [is] upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to [them that are] bound; To proclaim the acceptable year of the LORD.
 
-This is Christ saying to Israel: for those of you that have had your heart broken by the law, I am here for you. For those of you that are in bondage , I will set you free. I am here so you can become what God has always wanted you to be.
+Christ is saying to Israel: for those of you that have had your heart broken by the law, I am here for you. For those of you that are in bondage , I will set you free. I am here so you can become what God has always wanted you to be.
 
-God's purpose for Israel was for them to be a light and an example to all other nations on earth. Israel would be a living, breathing, walking, talking example of what God's heart looked like. God is going to use them to educate and teach the world about Him.
+God's wanted Israel to be a light and an example to all other nations on earth. Israel was to be a living, breathing, walking, talking example of what God's heart looked like. They were to educate and to teach the world about Him.
 
-The ministry of Christ wasn't about healing the sick and feeding the hungry. Yes, those were signs that He did, but those were to prove that He was the one who could truly heal the heart and feed the soul. For that to be possible, you had to be open to Him, like David was. A broken heart is an open heart.
+The ministry of Christ wasn't about healing the sick and feeding the hungry. Yes, those were signs that He did, but these signs were given to prove that He was the one who could truly heal the heart and feed the soul. For that to be possible, you had to be open to Him, like David was. A broken heart is a heart open to Him.
 
-Unfortunately for the nation of Israel, not many people had a heart like David's. Insted of a broken heart, they had a blind and a hard heart. Throughout the book of Acts, God is trying to reach the heart of Israel who had rejected their own Messiash.
-
-They had opportunities to repent time and again. God was incredibly patient with them. But most of Israel had the opposite of a broken heart: a blinded, heardened heart. Mention Acts 28:28.
-Has God given up? No way! Quote from Zech.
+Unfortunately, not many in the nation Israel had a heart like David's. Instead of being broken, they became blinded and hardened. Book of Acts is the story of God trying to reach the hard heart of Israel who had rejected their own Messiah. The book of Acts ends with Israel in blindness. Not blindness for ever, but blindness until one day God prepares their hearts to look upon the one they have pierced and mourn. Blindness until one day they have a heart like David's.
 
 The Greatest Prayer
 ===================
 
-Has the blindness and hardness of the heart of Israel prevented God from moving forward in His purposes with the nations? Towards the end of his ministry, the Apostle Paul sheds some light on this in the book of Ephesians.
+Has the blindness and hardness of the heart of Israel prevented God from moving forward in His purposes? Late in his ministry, the Apostle Paul sheds some light on this in the book of Ephesians.
 
    [Eph 3:8-11 KJV] 8 Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; 9 And to make all [men] see what [is] the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: 10 To the intent that now unto the principalities and powers in heavenly [places] might be known by the church the manifold wisdom of God, 11 According to the eternal purpose which he purposed in Christ Jesus our Lord:
 
-Throughout the book of Acts, Paul was focused on reaching the heart of the nation of Israel. Even when he was working with other nations, he was doing it as a way to ultimately reach Israel. What Paul is talking about here is specifically reaching the heart of all nations without distinction. This wasn't an afterthought of God. This was always His purpose from the beginning, but it was a hidden purpose. In His wisdom, God used the blindness of Israel as a way to bring this purpose to the forefront.
+Throughout the book of Acts, Paul was focused on reaching the heart of this one nation. Even when he was working with other nations, he was doing it as a way to ultimately reach the heart of Israel. 
 
-What does Paul want everyone to see? The Fellowship of the Mystery. What is this fellowship. Paul goes on to immediately pray about this, and I believe he defines this fellowship in his prayer.
+What Paul is talking about here is specifically reaching the heart of all nations together without distinction. This purpose wasn't an afterthought of God in response to the blindness of Israel. This was always His purpose from the beginning, but it was a hidden purpose. In His wisdom, God used the blindness of Israel as a way to bring this purpose to the forefront.
+
+What does Paul want everyone to see? He is speaking of the Fellowship of the Mystery. What is this fellowship? I believe the answer to this lies in the Paul that Paul immediately goes on to pray:
 
    [Eph 3:14-19 NKJV] 14 For this reason I bow my knees to the Father of our Lord Jesus Christ, 15 from whom the whole family in heaven and earth is named, 16 that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man, 17 that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love, 18 may be able to comprehend with all the saints what [is] the width and length and depth and height-- 19 to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.
 
-When we look at the word fellowship, it's natural to think of horizontal fellowship. Fellowship we have with fellow believers. But I think the fellowship being described here is a vertical fellowship: this is how God fellowships with us. It's Christ dwelling in our hearts. This isn't about knowing about the love of Christ with our mind, this is knowing the love of Christ at such a level that we want the same things He wants from our hearts.
+The word fellowship is the Greek word *koinonia*. This is the same word used in the book of Corinthians for communion. The Jewish believer came together to remember the body and blood of the Lord. Was this communion about the closeness of these believers fellowshipping with each other? I think it led to that, but it was fundamentally about fellowship and closeness with Christ.
+
+What Paul is praying for us to see here is the communion of the Mystery. This is about constant communion with God through Christ dwelling in our hearts. There is something special here that is at a level that God had never before revealed. This isn't about knowing about the love of Christ with our mind, this is knowing the love of Christ in our heart at such a level that we want the same things He wants. Remembering him isn't something we come together to do around a meal, it's something that fills every aspect of our life.
 
 This fellowship isn't about the law of God being written in the heart of one nation, this is about Christ dwelling in the hearts of all nations. This isn't about one nation being an example to teach the other nations of the earth. This is about all nations together being an example and teaching the heavenly rulers and authorities about the wisdom of God.
 
-If we lose sight of the heart of the fellowship of the mystery, the traps of the Pharisee, the Saducee, and the Scribe don't lie far away. How easily we can end up adding to what God has said, or taking away from what He has said, or just organizing, soring, dividing, and raking what He has said. True Bible study is getting to know God at such a level that He fills our hearts. If we understand The Mystery and don't have love, we really are nothing, because the entire point of the Mystery is love.
-
-It's not what we do. It's not even how we do it. Really, it's why we do what we do. That's really getting to the heart of the matter. Christ dwelling in your heart is the best life and biggest witness you can possibly have.
+If we lose sight of the heart of the fellowship of the mystery, the traps of the Pharisee, the Sadducee, and the Scribe don't lie very far away. True Bible study is getting to know God at such a level that He fills our hearts with the love of Christ. If we understand The Mystery and don't have love, we really are nothing, because the entire point of the Mystery is the love. If we could ask God only one thing, it would be this. This is a prayer that when spoken from a broken heart won't go unanswered.
