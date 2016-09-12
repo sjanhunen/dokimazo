@@ -11,6 +11,10 @@ I like to think of the Bible as a gigantic pizzle, where each verse forms a sing
 
 What is the picture on the box of the Bible? Another way we might ask this question is: what is the unifying theme of the book? Let's take a quick look at the first and last books of the Bible to see if we can find any hints!
 
+Sometimes a piece seems 
+
+For the crowd here today, we are going to be looking at some pretty familar pieces. But I would like to test out wheter some of these pieces perhaps fit togheter better maybe just a little differently than you might have considered before.
+
 Introduce Adam and Christ as the pictures on the box. One is but a shadow of the other.
 
 - Paul draws out significant parallels and contrasts between Adam and Christ
@@ -29,11 +33,11 @@ When we are studying the Bible and putting the pieces together, we should ask ou
 
 A few of the puzzle pieces that I've been thinking about recently are found at the end of Galations chapter 3:
 
-	Gal 3:26-29.
+	[Gal 3:26-29 NKJV] 26 For you are all sons of God through faith in Christ Jesus. 27 For as many of you as were baptized into Christ have put on Christ. 28 There is neither Jew nor Greek, there is neither slave nor free, there is neither male nor female; for you are all one in Christ Jesus. 29 And if you [are] Christ's, then you are Abraham's seed, and heirs according to the promise.
 
 If you read these verses in isolatoin, it really does sound like Paul is saying that anyone who has faith in Christ is considered a child of Abraham. But is this really what he is saying? 
 
-Bring in the Jewish prayer Paul is answering here. Even if you are not physically related to Abraham, you can be a child of him in spirit.
+
 
 To build out the picture on the box, we're going to look at three key words that help us understand God's purpose in Chirst: bride, husband, and body. This is the picture on the box and we can use the parallels between Adam and Christ to test out how things fit together.
 
@@ -41,36 +45,65 @@ To build out the picture on the box, we're going to look at three key words that
 The Bride
 =========
 
-The first question I want to ask is what does it mean to be "Abraham's seed"? 
-To help answer this, let's turn to something that Christ said himself in John 9.
+To understand what Paul is talking about in Galations chapter 3, we need to notice a a couple of points. First, being a son of God is through faith in Christ Jesus ("sons of God through faith in Christ" v26). Second, physical or fleshly distinctions do not create advantages or divisions within Christ (v28).
 
-- Flesh vs Spirit
-- Abraham's seed vs Abraham's seed
+What do I mean by this? Paul is doing something special in v28 that would be easy to miss. Paul, being a good Jew would very well know about a series of twelve blessings that would be recited each morning by a faithful Jewish man (is there a name for this?) Three of these go like this:
 
-- There is no doubt that Abraham's seed wasn't just about a physical, family relationship with Abraham during the Acts period (Galations 3:27-29)
-- Jesus makes a very clear distinction between these two levels of Abraham's seed in John 8 when he is speaking to the Jews
+	"Blessed are you, Hashem, King of the Universe, for not having made me a Gentile."
+
+	"Blessed are you, Hashem, King of the Universe, for not having made me a slave."
+
+	"Blessed are you, Hashem, King of the Universe, for not having made me a woman."
+
+When we look at these statements through our western 21st century lens, they come across as potentially sexist and racist. But I don't believe that is the intent behind this series of blessings. Rather than these statements being about a Jewish man gloating in his superiority (which they may have been for some), I think these statements are about a Jewish man acknowledging the high bar of service to God given to him under the law.
+
+To explain this concept of blessing and service, we need to trace right back to the creation of Eve. This is where comparing the various puzzle pieces can really help us.
+
+First put Eve prop on table. How was Eve created? She was taken out of Adam. Put down Adam prop. Why was Eve created? To help Adam.
+
+Then introduce the "All Nations" prop. How was Israel created? A single nation was separated out of all the other nations through someone called Abraham. Put down the "Children of Abraham" prop. Why was Israel created? To be a blessing to all the other nations and to serve God. And I think that Israel will actually be a helper for all the other nations some day, but not until this serving God part is actualy figured out. [Bring in suitable quotes from Genesis here]
+
+Need to be strategic about placing props on one vs two (separate chairs).
+
+The promise to Eve about the seed parallels the promise to Abraham about seed
+
+Bring in the concept of mitzvahs and the service of God. The Gentile had no requirements in this regard. 
+
+But when Paul is talking about the seed or children of Abraham, he isn't talking about this nation of Israel is he. But he is talking about some kind of "Children of Abraham". Bring out the second Children of Abraham prop.
+
+What Paul is really saying is when it comes to these children of Abraham he is discussion, it's not about the flesh or specific blood lines and any advantages or disadvantages that may come by that. It is about the Spirit, and it is received through faith. 
+
+- It's not about the Old Covenant, it's about the New Covenant.
+
 - Abraham's seed is about a purpose or calling that is based upon faith
 
-- Abraham's seed, new Jerusalem, the Bride are somehow all related and all point to the permanent stuff rather than the temporary
-- The parallels between old/earthly and new/heavenly that Paul cites in Galations
+- Abraham's seed, new Jerusalem, the Bride are all related and all point to the permanent stuff rather than the temporary
+- Review quickly all the parallels that Paul cites in Galations. Mention briefly how Christ himself discusses children of Abraham vs children of Abraham too in John 8.
+- The sand of the sea vs stars of the sky
+
+- The earthly children represent the wife of the Old Covenant. The heavenly children represent the bride of the New Covenant.
 
 - In the OT (Old Covenant), the seed of Abraham was known as the wife. In the NT (New Covenant), the seed of Abraham is know as the bride. Note that the New Covenant is not yet fully realized.
 
 - The physical difference and separation between Israel and the Nations was really meant to symbolize a bigger purpose taking place in Christ
 
-During the Acts period, God was illustrating to the nation of Israel that Abraham's seed wasn't just about being physically related to Abraham. He was especially doing this through the ministry of the Apostle Paul.
-
 Paul specifically calls out those he is ministering to in Corinthians as a "bride": 2 Cor 11:2
 
 	[2Co 11:2 NKJV] 2 For I am jealous for you with godly jealousy. For I have betrothed you to one husband, that I may present [you as] a chaste virgin to Christ.
 
-- Just as Eve was taken out of (separated from) Adam for a special purpose, the nation of Israel was taken out of all nations with a special purpose
-- The Bride is an outcalling from Christ with a purpose
-- The sand of the sea vs stars of the sky
-- Abraham's seed in the spirit is about calling and purpose, not about fleshly relationships
-- The promise to Eve about the seed parallels the promise to Abraham about seed
+The Corinthian church, much like the Galation church, had a mix of Jews and Gentiles.
 
 - The physical nation of Israel is an imperfect picture of the perfect bride that God is forming as part of the new creation. Being an Isralite does not automatically translate into being a part of the Bride.
+
+During the Acts period, God was illustrating to the nation of Israel that Abraham's seed wasn't just about being physically related to Abraham. He was especially doing this through the ministry of the Apostle Paul.
+
+
+
+[Jhn 3:12 KJV] 12 If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you [of] heavenly things?
+
+- "God is able of these stones to raise up Children unto Abraham" (Luke 3:8)
+
+Future Study: Is Phil 3 restating some of the same things that Paul says in Gal 3? This would be a good study and worth a close look. 
 
 The Husband 
 ===========
@@ -98,6 +131,11 @@ What hints do we see in Eph that Paul is specifically speaking about a calling t
 The husband is a calling out of Christ with a purpose.
 
 So a big secret revealed in Ephesians: the husband is actually formed out of a calling of believers with Christ as head.
+
+Something to consider in a recap:
+- Blessed through the Children of Abraham
+- Blessed with the Children of Abraham
+- Blessed outside of the Children of Abraham
 
 
 The Body of Christ
@@ -158,8 +196,16 @@ Could it be that Eph 1-3 has the theme of the creation of the new person in Chri
 
 - We need to very carefully evaluate what the new person in Ephesians refers to. I believe it makes a lot of sense that this includes more than just a husband.
 
+The New Person
+==============
+
+Is anthropology just the study of men?
+
+
 The Picture
 ===========
+
+- Bring out the point that the picture on the box is Christ and the new person that is being formed in him.
 
 - Consider a recap of purpose of God visually. Start with Adam/Eve and extend to nations. Then extend to heavenly callings in Christ. End with new anthropos.
 
@@ -168,6 +214,5 @@ The Picture
 - This earthly picture is marred and distorted, but through God's plan of redemption, this picture is being corrected and will one day be put right
 - Our lives are a chance to foreshadow the new anthropos. Our walk will determine how well we reflect this future reality in our present lives.
 - Paul suggests that our marriage relationships today can reflect the relationship between Christ as the head (husband) and the body of the husband (wife).
-
 
 Possibility: close with the question of what is the new anthropos.
