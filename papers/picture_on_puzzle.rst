@@ -3,15 +3,16 @@ The Puzzle
 
 What's the largest jigsaw puzzle you have ever put together? 500 pieces? 1000 pieces? 10,000 pieces?
 
+
+
+I like to think of the Bible as a gigantic pizzle, where each verse forms a single piece. So it's kind of like a big jig-saw puzzle with 31,120 little pieces in total. The pieces are organized into smaller bags called books. There are 66 of these in the Old Testament, and NN of these in the New Testament.
+
 How do you put together a large puzzle? You look at the picture on the box?
 
 Sometimes if a piece doesn't fit, you have to put the entire puzzle together and just see the missing place where it fits.
 
-I like to think of the Bible as a gigantic pizzle, where each verse forms a single piece. So it's kind of like a big jig-saw puzzle with 31,120 little pieces in total. The pieces are organized into smaller bags called books. There are 66 of these in the Old Testament, and NN of these in the New Testament.
-
 What is the picture on the box of the Bible? Another way we might ask this question is: what is the unifying theme of the book? Let's take a quick look at the first and last books of the Bible to see if we can find any hints!
 
-Sometimes a piece seems 
 
 For the crowd here today, we are going to be looking at some pretty familar pieces. But I would like to test out wheter some of these pieces perhaps fit togheter better maybe just a little differently than you might have considered before.
 
@@ -37,17 +38,20 @@ A few of the puzzle pieces that I've been thinking about recently are found at t
 
 If you read these verses in isolatoin, it really does sound like Paul is saying that anyone who has faith in Christ is considered a child of Abraham. But is this really what he is saying? 
 
-
-
-To build out the picture on the box, we're going to look at three key words that help us understand God's purpose in Chirst: bride, husband, and body. This is the picture on the box and we can use the parallels between Adam and Christ to test out how things fit together.
-
-
 The Bride
 =========
 
-To understand what Paul is talking about in Galations chapter 3, we need to notice a a couple of points. First, being a son of God is through faith in Christ Jesus ("sons of God through faith in Christ" v26). Second, physical or fleshly distinctions do not create advantages or divisions within Christ (v28).
+The first thing to notice in these versus is that a major theme is Christ. In just these four verses, we the the phrases
 
-What do I mean by this? Paul is doing something special in v28 that would be easy to miss. Paul, being a good Jew would very well know about a series of twelve blessings that would be recited each morning by a faithful Jewish man (is there a name for this?) Three of these go like this:
+- "in Christ Jesus"
+- "into Christ"
+- "put on Christ"
+
+What Paul is talking about here has more to do with Christ than it does with Abraham. And there is a relationship between the two: being a son of God through faith in Christ is what is required to be Abraham's seed.
+
+being a son of God is through faith in Christ Jesus ("sons of God through faith in Christ" v26). Second, physical or fleshly distinctions do not create advantages or divisions within Christ (v28).
+
+Paul is doing something special in v28 that would be easy to miss. Paul, being a good Jew would very well know about a series of twelve blessings that would be recited each morning by a faithful Jewish man (is there a name for this?) Three of these go like this:
 
 	"Blessed are you, Hashem, King of the Universe, for not having made me a Gentile."
 
@@ -55,23 +59,22 @@ What do I mean by this? Paul is doing something special in v28 that would be eas
 
 	"Blessed are you, Hashem, King of the Universe, for not having made me a woman."
 
+	http://www.beingjewish.com/kresel/shelo.html
+
 When we look at these statements through our western 21st century lens, they come across as potentially sexist and racist. But I don't believe that is the intent behind this series of blessings. Rather than these statements being about a Jewish man gloating in his superiority (which they may have been for some), I think these statements are about a Jewish man acknowledging the high bar of service to God given to him under the law.
 
-To explain this concept of blessing and service, we need to trace right back to the creation of Eve. This is where comparing the various puzzle pieces can really help us.
+Bring in the concept of mitzvahs and the service of God under the Old Covenant. The Gentile had no requirements in this regard. Slaves had only a few. Women had more. Men had the most. This had to do with the service of God. But this was limited to the works of the flesh.
+
+Why was Israel created as a nation in the first place? To explain this concept of blessing and service, we need to trace right back to the creation of Eve. This is where comparing the various puzzle pieces can really help us.
 
 First put Eve prop on table. How was Eve created? She was taken out of Adam. Put down Adam prop. Why was Eve created? To help Adam.
 
-Then introduce the "All Nations" prop. How was Israel created? A single nation was separated out of all the other nations through someone called Abraham. Put down the "Children of Abraham" prop. Why was Israel created? To be a blessing to all the other nations and to serve God. And I think that Israel will actually be a helper for all the other nations some day, but not until this serving God part is actualy figured out. [Bring in suitable quotes from Genesis here]
+Then introduce the "All Nations" prop. How was Israel created? A single nation was separated out of all the other nations through someone called Abraham. Put down the "Children of Abraham" prop. Why was Israel created? To be a blessing to all the other nations and to serve God. And I think that Israel will actually be a helper for all the other nations some day, but not until this serving God part is actualy figured out. [Bring in suitable quotes from Genesis here]. Need to be strategic about placing props on one vs two (separate chairs).
 
-Need to be strategic about placing props on one vs two (separate chairs).
 
-The promise to Eve about the seed parallels the promise to Abraham about seed
+But when Paul is talking about the seed or children of Abraham, he isn't talking about the Old Covenant or the law. Because to be a part of that required circumcision for a proselite. The works and the service (the miBut he is talking about some kind of "Children of Abraham". Bring out the second Children of Abraham prop.
 
-Bring in the concept of mitzvahs and the service of God. The Gentile had no requirements in this regard. 
-
-But when Paul is talking about the seed or children of Abraham, he isn't talking about this nation of Israel is he. But he is talking about some kind of "Children of Abraham". Bring out the second Children of Abraham prop.
-
-What Paul is really saying is when it comes to these children of Abraham he is discussion, it's not about the flesh or specific blood lines and any advantages or disadvantages that may come by that. It is about the Spirit, and it is received through faith. 
+What Paul is really saying is when it comes to these children of Abraham he is discussion, it's not about the flesh or specific blood lines and any advantages or disadvantages that may come by that. It is about the Spirit, and it is received through faith. The promise and the blessings are the spirit poured out to do the work of God.
 
 - It's not about the Old Covenant, it's about the New Covenant.
 
@@ -85,8 +88,6 @@ What Paul is really saying is when it comes to these children of Abraham he is d
 
 - In the OT (Old Covenant), the seed of Abraham was known as the wife. In the NT (New Covenant), the seed of Abraham is know as the bride. Note that the New Covenant is not yet fully realized.
 
-- The physical difference and separation between Israel and the Nations was really meant to symbolize a bigger purpose taking place in Christ
-
 Paul specifically calls out those he is ministering to in Corinthians as a "bride": 2 Cor 11:2
 
 	[2Co 11:2 NKJV] 2 For I am jealous for you with godly jealousy. For I have betrothed you to one husband, that I may present [you as] a chaste virgin to Christ.
@@ -96,6 +97,8 @@ The Corinthian church, much like the Galation church, had a mix of Jews and Gent
 - The physical nation of Israel is an imperfect picture of the perfect bride that God is forming as part of the new creation. Being an Isralite does not automatically translate into being a part of the Bride.
 
 During the Acts period, God was illustrating to the nation of Israel that Abraham's seed wasn't just about being physically related to Abraham. He was especially doing this through the ministry of the Apostle Paul.
+
+Under the Old Covenant, one had to become a proselite to be blessed with Israel. But under the New Covenant, one required faith to be blessed with Abraham.
 
 
 
@@ -140,6 +143,8 @@ Something to consider in a recap:
 
 The Body of Christ
 ==================
+
+Both Jews and Gentiles according to the flesh are part of the husband and the bride. But the husband and the bride are very different.
 
 Uniqueness of Paul in his teaching on Adam and Christ:
 - Paul the only author that uses "body" in a symbolic sense to refer to "Body of Christ"
