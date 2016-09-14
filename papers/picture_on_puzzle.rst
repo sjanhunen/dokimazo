@@ -3,55 +3,38 @@ The Puzzle
 
 What's the largest jigsaw puzzle you have ever put together? 500 pieces? 1000 pieces? 10,000 pieces?
 
-
-
 I like to think of the Bible as a gigantic pizzle, where each verse forms a single piece. So it's kind of like a big jig-saw puzzle with 31,120 little pieces in total. The pieces are organized into smaller bags called books. There are 66 of these in the Old Testament, and NN of these in the New Testament.
 
-How do you put together a large puzzle? You look at the picture on the box?
-
-Sometimes if a piece doesn't fit, you have to put the entire puzzle together and just see the missing place where it fits.
+How do you put together a large puzzle? You look at the picture on the box? Sometimes if a piece doesn't fit, you have to put the entire puzzle together and just see the missing place where it fits.
 
 What is the picture on the box of the Bible? Another way we might ask this question is: what is the unifying theme of the book? Let's take a quick look at the first and last books of the Bible to see if we can find any hints!
 
-
 For the crowd here today, we are going to be looking at some pretty familar pieces. But I would like to test out wheter some of these pieces perhaps fit togheter better maybe just a little differently than you might have considered before.
-
-Introduce Adam and Christ as the pictures on the box. One is but a shadow of the other.
-
-- Paul draws out significant parallels and contrasts between Adam and Christ
-- Contrasts, death, and resurrection on 1 Cor 15
-- The emphasis on "one man" in Rom 5
-
-- Adam was created in the image of God in Genesis
-- A temporary picture of something permament
-- The earthly as a shadow of the heavenly (Col 2:17)
-- Christ is the image of God in Revelation
-- Linkage between the sacrifice in Genesis and the Lamb in Revelation
-- The "lamb" in Genesis foreshadows the "Lamb" in Revelation
-- The picture on the puzzle box
-
-When we are studying the Bible and putting the pieces together, we should ask ourselves the question "what does this teach us about Christ?"
 
 A few of the puzzle pieces that I've been thinking about recently are found at the end of Galations chapter 3:
 
 	[Gal 3:26-29 NKJV] 26 For you are all sons of God through faith in Christ Jesus. 27 For as many of you as were baptized into Christ have put on Christ. 28 There is neither Jew nor Greek, there is neither slave nor free, there is neither male nor female; for you are all one in Christ Jesus. 29 And if you [are] Christ's, then you are Abraham's seed, and heirs according to the promise.
 
-If you read these verses in isolatoin, it really does sound like Paul is saying that anyone who has faith in Christ is considered a child of Abraham. But is this really what he is saying? 
+	[Eph 2:11-14 KJV] 11 Wherefore remember, that ye [being] in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands; 12 That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world: 13 But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ. 14 For he is our peace, who hath made both one, and hath broken down the middle wall of partition [between us];
+
+
+If we look at just these few verses together, doesn't it really look like they are talking about exactly the same thing?
+
+It really does sound like Paul is saying that anyone who has faith in Christ is considered a child of Abraham. But is this really what he is saying? 
 
 The Bride
 =========
 
-The first thing to notice in these versus is that a major theme is Christ. In just these four verses, we the the phrases
+The first thing to notice in these versus is that the major theme is Christ. In just these four verses, we read the phrases
 
 - "in Christ Jesus"
 - "into Christ"
 - "put on Christ"
+- "one in Christ Jesus"
 
-What Paul is talking about here has more to do with Christ than it does with Abraham. And there is a relationship between the two: being a son of God through faith in Christ is what is required to be Abraham's seed.
+And then Paul concludes with "if you are Christ's" you are "Abraham's seed". Being a child of Abraham here has more to do with faith in Christ than it does with Abraham. And here in Christ, physical or fleshly distinctions do not create advantages or divisions. This is illustrated in a unique way in v28 that would be easy to miss.
 
-being a son of God is through faith in Christ Jesus ("sons of God through faith in Christ" v26). Second, physical or fleshly distinctions do not create advantages or divisions within Christ (v28).
-
-Paul is doing something special in v28 that would be easy to miss. Paul, being a good Jew would very well know about a series of twelve blessings that would be recited each morning by a faithful Jewish man (is there a name for this?) Three of these go like this:
+Paul, being a good Jew would very well know about a series of twelve blessings that would be recited each morning by a faithful Jewish man (is there a name for this?) Three of these go like this:
 
 	"Blessed are you, Hashem, King of the Universe, for not having made me a Gentile."
 
@@ -72,21 +55,11 @@ First put Eve prop on table. How was Eve created? She was taken out of Adam. Put
 Then introduce the "All Nations" prop. How was Israel created? A single nation was separated out of all the other nations through someone called Abraham. Put down the "Children of Abraham" prop. Why was Israel created? To be a blessing to all the other nations and to serve God. And I think that Israel will actually be a helper for all the other nations some day, but not until this serving God part is actualy figured out. [Bring in suitable quotes from Genesis here]. Need to be strategic about placing props on one vs two (separate chairs).
 
 
-But when Paul is talking about the seed or children of Abraham, he isn't talking about the Old Covenant or the law. Because to be a part of that required circumcision for a proselite. The works and the service (the miBut he is talking about some kind of "Children of Abraham". Bring out the second Children of Abraham prop.
+But when Paul is talking about the seed or children of Abraham, he isn't talking about the Old Covenant or the law. Because to be a part of that required circumcision to become a proselite. He isn't talking about some kind of "Child of Abraham".
 
-What Paul is really saying is when it comes to these children of Abraham he is discussion, it's not about the flesh or specific blood lines and any advantages or disadvantages that may come by that. It is about the Spirit, and it is received through faith. The promise and the blessings are the spirit poured out to do the work of God.
+Bring out the second "Child of Abraham" prop. Question: is there any hint in the scripture that Abraham might have two lines of descendants like this?
 
-- It's not about the Old Covenant, it's about the New Covenant.
-
-- Abraham's seed is about a purpose or calling that is based upon faith
-
-- Abraham's seed, new Jerusalem, the Bride are all related and all point to the permanent stuff rather than the temporary
-- Review quickly all the parallels that Paul cites in Galations. Mention briefly how Christ himself discusses children of Abraham vs children of Abraham too in John 8.
-- The sand of the sea vs stars of the sky
-
-- The earthly children represent the wife of the Old Covenant. The heavenly children represent the bride of the New Covenant.
-
-- In the OT (Old Covenant), the seed of Abraham was known as the wife. In the NT (New Covenant), the seed of Abraham is know as the bride. Note that the New Covenant is not yet fully realized.
+- The sand of the sea vs stars of the sky. Earthly Jerusalem vs Heavenly Jerusalem.
 
 Paul specifically calls out those he is ministering to in Corinthians as a "bride": 2 Cor 11:2
 
@@ -94,13 +67,24 @@ Paul specifically calls out those he is ministering to in Corinthians as a "brid
 
 The Corinthian church, much like the Galation church, had a mix of Jews and Gentiles.
 
-- The physical nation of Israel is an imperfect picture of the perfect bride that God is forming as part of the new creation. Being an Isralite does not automatically translate into being a part of the Bride.
-
-During the Acts period, God was illustrating to the nation of Israel that Abraham's seed wasn't just about being physically related to Abraham. He was especially doing this through the ministry of the Apostle Paul.
+What Paul is really saying is when it comes to these children of Abraham he is discussion, it's not about the flesh or specific blood lines and any advantages or disadvantages that may come by that. It is about the Spirit, and it is received through faith. The promise and the blessings are the spirit poured out to do the work of God.
 
 Under the Old Covenant, one had to become a proselite to be blessed with Israel. But under the New Covenant, one required faith to be blessed with Abraham.
 
+- It's not about the Old Covenant, it's about the New Covenant.
+- Abraham's seed is about a purpose or calling that is based upon faith
+- Abraham's seed, new Jerusalem, the Bride are all related and all point to the permanent stuff rather than the temporary
+- Review quickly all the parallels that Paul cites in Galations.
 
+Mention briefly how Christ himself discusses children of Abraham vs children of Abraham too in John 8.
+
+- The earthly children represent the wife of the Old Covenant. The heavenly children represent the bride of the New Covenant.
+
+- In the OT (Old Covenant), the seed of Abraham was known as the wife. In the NT (New Covenant), the seed of Abraham is know as the bride. Note that the New Covenant is not yet fully realized.
+
+- The physical nation of Israel is an imperfect picture of the perfect bride that God is forming as part of the new creation. Being an Isralite does not automatically translate into being a part of the Bride.
+
+During the Acts period, God was illustrating to the nation of Israel that Abraham's seed wasn't just about being physically related to Abraham. He was especially doing this through the ministry of the Apostle Paul.
 
 [Jhn 3:12 KJV] 12 If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you [of] heavenly things?
 
@@ -138,11 +122,24 @@ So a big secret revealed in Ephesians: the husband is actually formed out of a c
 Something to consider in a recap:
 - Blessed through the Children of Abraham
 - Blessed with the Children of Abraham
-- Blessed outside of the Children of Abraham
+- Blessed apart from the Children of Abraham
 
 
 The Body of Christ
 ==================
+
+A few more puzzle pieces:
+
+	[1Co 12:4, 7, 12-13 KJV] 4 Now there are diversities of gifts, but the same Spirit. ... 7 But the manifestation of the Spirit is given to every man to profit withal. ... 12 For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also [is] Christ. 13 For by one Spirit are we all baptized into one body, whether [we be] Jews or Gentiles, whether [we be] bond or free; and have been all made to drink into one Spirit.
+	[1Co 12:27 KJV] 27 Now ye are the body of Christ, and members in particular.
+
+	[Eph 4:7, 11-12 KJV] 7 But unto every one of us is given grace according to the measure of the gift of Christ. ... 11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; 12 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:
+	[Eph 5:30 KJV] 30 For we are members of his body,[G4983] of his flesh, and of his bones.
+
+
+Spiritual gifts are clearly mentioned in both 1 Cor 12 and Eph 4. The body of Christ is also clearly mentioned.
+
+If these were the only verses in the Bible, we would have to conclude they are talking about the same thing. 
 
 Both Jews and Gentiles according to the flesh are part of the husband and the bride. But the husband and the bride are very different.
 
@@ -170,54 +167,32 @@ Books of Paul that discuss mystery:
 - Isn't it fair to say that both the husband and the bride are bodies of Christ. This word is used very specifically in both cases.
 - It's almost as if the body of Christ is a joined-together body
 
-- Could it be, that the new anthropos spoken of in Ephesians is actually this joined-together body of husband and bride? They are distinct bodies and different callings, but I do believe that God will ultimately in His time, bring His purposes together in Christ.
-- Does it not make sense that anthropos includes both the male and the female aspect.
-- A new person is formed when husband and bride are brought together.
-- When Christ is all in all, can there be any distinction between male or female, Jew or Greek, bond or free. Don't Gal 3:28 and Col 3:11 both find fulfillment here in the new anthropos?
-- The Christ (the last Adam) and the old anthropos contrasted in 1 Cor 15:47
-- What books in the Bible specifically speak of the "new anthropos"?
-- As part of our walk, we are instructed to reflect that we are a part of this new person (Eph 4:22-24)
+The virgin in 2 Cor is espoused, but the wedding hasn't happened yet. According to this source, being espoused is just as legally binding under Jewish law as the marriage ceremony:
 
-Ephesians 1-3 is specifically revealing the new person (anthropos) that brings together the purposes of God:
+http://www.ndtime.net/jewish_wedding_traditions_marriage_customs_espoused_wife.htm
 
-- Eph 1:10: God's plan to unite all things in Him
-- Eph 2:14: made both one - God is making one flesh out of two in Christ through the spirit, much like he did with Adam and Eve in the flesh. When these two are combined, it's not one tacked onto the other, but the two together creating something entirely new. In other words, the new anthropos.
-- Is "both" in Eph 2 referring primarily to people according to the flesh or to purposes according to calling? Does the difference between Israel and Nations disappear in the restored earth?
-- Eph 2:15 shows that God is making one new person (anthropos) in Christ.
-- Eph 3:15: of whom every family is named in heaven and earth
-- Eph 2:16: what does the "one body" include? The new anthropos? It's possible that body could refer to the husband, to the bride, or to the resulting combination of the two.
-- Eph 3:6: The word syssomos only appears in Eph 3:6. What God is creating here is a joint-body, where both have access to the Father by the same spirit. This is a very significant piece of the puzzle. Is the joint body in Ephesians speaking about only the husband, or is the join body actually something new that God creates when he joins the husband and bride in His ultimate purpose of the ages?
-- Eph 2:19 - together citizens (only in Ephesians)
-- What other joint / together words do we find in Ephesians???
-- Look back at Genesis 1:26. Is mankind in this verse anthropos? (see ""One Flesh"--Eph. 5.22-24, 5.31: Marriage and the New Creation")
+Both Gal and Eph can take full force when we realize both of these callings can only be realized in the person of Christ. They are related, but they are different roles with different purposes and different bodies.
 
-We find the creation of the new person in Ephesians, much like we find the creation of the old person in Genesis. The word "anthropos" appears 9x throughout Ephesians.
+In Eph we read we are members of his body, and flesh, and bones. 
 
-Both Gal and Eph can take full force when we realize both of these callings can only be realized in the person of Christ. They are related, but they are different roles with different purposes.
+Was not Eve taken out of Adam her husband? How is the bride formed?
 
-Could it be that Eph 1-3 has the theme of the creation of the new person in Christ that is the culmination of God's purpose. Eph 4-6 is specifically outlining our calling as the husband within that new person.
+[Gal 4:19 KJV] 19 My little children, of whom I travail in birth again until Christ be formed in you,
 
 - The great or greatest mystery in Eph 5 takes us back to Genesis. How many other times is this passage quoted in scripture? Why is this significant? Is leaving father and mother and becoming one flesh kind of like what happens in Christ to those that are called?
 
 - We need to very carefully evaluate what the new person in Ephesians refers to. I believe it makes a lot of sense that this includes more than just a husband.
 
-The New Person
-==============
-
-Is anthropology just the study of men?
-
-
-The Picture
-===========
+- When I read some of the verses in Eph 1-3, I begin to think it's possible they they don't just refer to the husband alone, but that they may refer to the bringing together of both of these callings one day in Christ.
 
 - Bring out the point that the picture on the box is Christ and the new person that is being formed in him.
+- Adam and Eve, the Nations and Israel are really shadows of this ultimate reality.
 
-- Consider a recap of purpose of God visually. Start with Adam/Eve and extend to nations. Then extend to heavenly callings in Christ. End with new anthropos.
+- Adam was created in the image of God in Genesis
+- A temporary picture of something permament
+- The earthly as a shadow of the heavenly (Col 2:17)
+- Christ is the image of God in Revelation
 
-- The first anthropos and all that flows out of him are but a picture of the last Adam, the new anthropos
-- Adam was the name for both Adam/Eve together at one point before the fall.
 - This earthly picture is marred and distorted, but through God's plan of redemption, this picture is being corrected and will one day be put right
-- Our lives are a chance to foreshadow the new anthropos. Our walk will determine how well we reflect this future reality in our present lives.
-- Paul suggests that our marriage relationships today can reflect the relationship between Christ as the head (husband) and the body of the husband (wife).
 
-Possibility: close with the question of what is the new anthropos.
+- Adam was the name for both Adam/Eve together at one point before the fall. Perhaps that is a foreshadow of some future ages in God's plan.
