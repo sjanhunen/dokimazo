@@ -101,14 +101,13 @@ Future Study: Is Phil 3 restating some of the same things that Paul says in Gal 
 The Husband 
 ===========
 
-What's missing from the picture? Who does the bride ultimately get married to? A husband!
+When we look at this picture as someone who is not a Jew, not part of these covenants, it looks like there are two ways to be blessed: blessed with Israel according to the flesh, and blessed with Abraham by faith.
 
-Why was Israel created as a nation in the first place? To explain this concept of blessing and service, we need to trace right back to the creation of Eve. This is where comparing the various puzzle pieces can really help us.
+But is this the whole picture? What could be missing from this picture?
 
-First put Eve prop on table. How was Eve created? She was taken out of Adam. Put down Adam prop. Why was Eve created? To help Adam.
+To answer this, we need to go right back to Adam to understand how and why Israel was created in the first place. In Genesis, God started by creating Adam first. How was Eve created? She was taken out of Adam. Put down Eve prop. Why was Eve created? To help Adam. There was no help found for him at that point.
 
-
-Then introduce the "All Nations" prop. How was Israel created? A single nation was separated out of all the other nations through someone called Abraham. Put down the "Children of Abraham" prop. Why was Israel created? To be a blessing to all the other nations and to serve God. And I think that Israel will actually be a helper for all the other nations some day, but not until this serving God part is actualy figured out. [Bring in suitable quotes from Genesis here]. Need to be strategic about placing props on one vs two (separate chairs).
+Explan how Adam symbolizes all people and nations. Then introduce the "All Nations" prop. How was Israel created? A single nation was separated out of all the other nations through someone called Abraham. Put down the "Children of Abraham" prop. Why was Israel created? To be a blessing to all the other nations and to serve God. And I think that Israel will actually be a helper for all the other nations some day, but not until this serving God part is actualy figured out. [Bring in suitable quotes from Genesis here]. Need to be strategic about placing props on one vs two (separate chairs).
 
 
 Paul specifically calls out those he is ministering to in Ephesians as a husband:
