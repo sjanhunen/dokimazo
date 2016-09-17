@@ -11,19 +11,64 @@ What is the picture on the box of the Bible? Another way we might ask this quest
 
 For the crowd here today, we are going to be looking at some pretty familar pieces. But I would like to test out wheter some of these pieces perhaps fit togheter better maybe just a little differently than you might have considered before.
 
-A few of the puzzle pieces that I've been thinking about recently are found at the end of Galations chapter 3 and then in Eph 2:
+Today I brought a few of the puzzle pieces that I've been thinking about recently. In fact, I have been thinking about these for quite a long time and I still find them to be a challenging set of verses to understand:
 
-	[Gal 3:26-29 NKJV] 26 For you are all sons of God through faith in Christ Jesus. 27 For as many of you as were baptized into Christ have put on Christ. 28 There is neither Jew nor Greek, there is neither slave nor free, there is neither male nor female; for you are all one in Christ Jesus. 29 And if you [are] Christ's, then you are Abraham's seed, and heirs according to the promise.
+	[1Co 12:4, 7, 12-13 KJV] 4 Now there are diversities of gifts, but the same Spirit. ... 7 But the manifestation of the Spirit is given to every man to profit withal. ... 12 For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also [is] Christ. 13 For by one Spirit are we all baptized into one body, whether [we be] Jews or Gentiles, whether [we be] bond or free; and have been all made to drink into one Spirit.
+	[1Co 12:27 KJV] 27 Now ye are the body of Christ, and members in particular.
 
-	[Eph 2:11-14 KJV] 11 Wherefore remember, that ye [being] in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands; 12 That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world: 13 But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ. 14 For he is our peace, who hath made both one, and hath broken down the middle wall of partition [between us];
+	[Eph 4:7, 11-12 KJV] 7 But unto every one of us is given grace according to the measure of the gift of Christ. ... 11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; 12 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:
+	[Eph 5:30 KJV] 30 For we are members of his body,[G4983] of his flesh, and of his bones.
 
+These passages are both written by the Apostle Paul. They are both written to churches that had believing Gentiles (in other words, these passages were definitely not written just to believing Jews). Paul mentions gifts in both passages. And most importantly, Paul refers to the "body of Christ in each passage."
+
+To the Corinthians, Paul says:
+
+	[1Co 12:27 KJV] 27 Now ye are the body of Christ, and members in particular.
+
+And to the Epheians, Paul says: 
+
+	for the edifying of the body of Christ:
+	[Eph 5:30 KJV] 30 For we are members of his body,[G4983] of his flesh, and of his bones.
 
 If we look at just these few verses together, doesn't it really look like they are talking about exactly the same thing?
 
-It really does sound like Paul is saying that anyone who has faith in Christ is considered a child of Abraham. But is this really what he is saying? 
+If these were the only verses in the Bible, we would have to conclude they are talking about the same thing. 
+
+Uniqueness of Paul in his teaching on Adam and Christ:
+- Paul the only author that uses "body" in a symbolic sense to refer to "Body of Christ"
+- Paul plays a significant role in teaching on Mystery in scripture
+
+The books that Paul teaches on the body of Christ:
+- Romans
+- 1 Corinthians
+- Ephesians
+- Colossians
+- Hebrews?
+
+Books of Paul that discuss mystery:
+- Romans
+- 1 Corinthians
+- Ephesians
+- Colossians
+- 1 Timothy
+- 2 Thessalonians
+
 
 The Bride
 =========
+
+We're going to start our investigaion of the body of Christ by looking at another challenging term in scripture: "child of Abraham" or "Abraham's seed" as it may be translated. Why would we look at this term? It's an example of a term that's used in Scripture with multiple levels of meaning. And it ultimately will shed some light on the Body of Christ.
+
+Christ himeself used this term in John 8 when he got into a debate with the Pharasees over who was actually a child of Abraham.
+
+- The sand of the sea vs stars of the sky. Earthly Jerusalem vs Heavenly Jerusalem.
+
+
+Paul sheds more light on this in Galations:
+
+	[Gal 3:26-29 NKJV] 26 For you are all sons of God through faith in Christ Jesus. 27 For as many of you as were baptized into Christ have put on Christ. 28 There is neither Jew nor Greek, there is neither slave nor free, there is neither male nor female; for you are all one in Christ Jesus. 29 And if you [are] Christ's, then you are Abraham's seed, and heirs according to the promise.
+
+It really does sound like Paul is saying that anyone who has faith in Christ is considered a child of Abraham. But is this really what he is saying? 
 
 The first thing to notice about these verses in Gal 3 is that the major theme is Christ. In just these four verses, we read the phrases
 
@@ -64,8 +109,6 @@ In this section, simply put down the two "Children of Abraham" props. Discussion
 But when Paul is talking about the seed or children of Abraham, he isn't talking about the Old Covenant or the law. Because to be a part of that required circumcision to become a proselite. He isn't talking about some kind of "Child of Abraham".
 
 Bring out the second "Child of Abraham" prop. Question: is there any hint in the scripture that Abraham might have two lines of descendants like this?
-
-- The sand of the sea vs stars of the sky. Earthly Jerusalem vs Heavenly Jerusalem.
 
 Paul specifically calls out those he is ministering to in Corinthians as a "bride": 2 Cor 11:2
 
@@ -141,39 +184,9 @@ Something to consider in a recap:
 The Body of Christ
 ==================
 
-A few more puzzle pieces:
-
-	[1Co 12:4, 7, 12-13 KJV] 4 Now there are diversities of gifts, but the same Spirit. ... 7 But the manifestation of the Spirit is given to every man to profit withal. ... 12 For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also [is] Christ. 13 For by one Spirit are we all baptized into one body, whether [we be] Jews or Gentiles, whether [we be] bond or free; and have been all made to drink into one Spirit.
-	[1Co 12:27 KJV] 27 Now ye are the body of Christ, and members in particular.
-
-	[Eph 4:7, 11-12 KJV] 7 But unto every one of us is given grace according to the measure of the gift of Christ. ... 11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; 12 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:
-	[Eph 5:30 KJV] 30 For we are members of his body,[G4983] of his flesh, and of his bones.
-
-
-Spiritual gifts are clearly mentioned in both 1 Cor 12 and Eph 4. The body of Christ is also clearly mentioned.
-
-If these were the only verses in the Bible, we would have to conclude they are talking about the same thing. 
 
 Both Jews and Gentiles according to the flesh are part of the husband and the bride. But the husband and the bride are very different.
 
-Uniqueness of Paul in his teaching on Adam and Christ:
-- Paul the only author that uses "body" in a symbolic sense to refer to "Body of Christ"
-- Paul plays a significant role in teaching on Mystery in scripture
-
-The books that Paul teaches on the body of Christ:
-- Romans
-- 1 Corinthians
-- Ephesians
-- Colossians
-- Hebrews?
-
-Books of Paul that discuss mystery:
-- Romans
-- 1 Corinthians
-- Ephesians
-- Colossians
-- 1 Timothy
-- 2 Thessalonians
 
 - When Paul is teaching about the bride or virgin (2 Cor 11:2), he clearly refers to those believers as part of the body of Christ (1 Cor 12:13)
 - Paul also clearly refers to the husband as the body of Christ in Eph.
@@ -183,6 +196,8 @@ Books of Paul that discuss mystery:
 The virgin in 2 Cor is espoused, but the wedding hasn't happened yet. According to this source, being espoused is just as legally binding under Jewish law as the marriage ceremony:
 
 http://www.ndtime.net/jewish_wedding_traditions_marriage_customs_espoused_wife.htm
+
+So, the espoused bride was legally treated as if she was married to her husband. There were really just some formalities that had to take place later.
 
 Both Gal and Eph can take full force when we realize both of these callings can only be realized in the person of Christ. They are related, but they are different roles with different purposes and different bodies.
 
@@ -199,6 +214,8 @@ Was not Eve taken out of Adam her husband? How is the bride formed?
 - We need to very carefully evaluate what the new person in Ephesians refers to. I believe it makes a lot of sense that this includes more than just a husband.
 
 - When I read some of the verses in Eph 1-3, I begin to think it's possible they they don't just refer to the husband alone, but that they may refer to the bringing together of both of these callings one day in Christ.
+
+- Eve was taken out of Adam when he slept. This could very well be a symbol of death and resurrection. After the resurrection, God brought the bride to Adam.
 
 - Bring out the point that the picture on the box is Christ and the new person that is being formed in him.
 - Adam and Eve, the Nations and Israel are really shadows of this ultimate reality.
