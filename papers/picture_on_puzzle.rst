@@ -139,6 +139,10 @@ If you want to be blessed under the old covenant with that seed of Abraham, you 
 
 The Corinthian church, much like the Galation church, had a mix of Jews and Gentiles. And the gifts of the spirit were poured out on both, quite irrespectively of whether they were physically circumcised or not. To partake in the blessings of the Bride (the children of Abraham), it wasn't enough to be a descendant of Abraham. Faith was required. God allowed the outsiders (the Gentiles) to partake in these blessings of Abraham (without being circumcised) to help illustrate this point.
 
+.. note::
+
+	By the end of this section, the "All Nations", "Abraham's Descendants", and "Bride" props will be set up.
+
 The Husband 
 ===========
 
@@ -149,9 +153,7 @@ The Husband
 	- Paul speaks very specifically about a calling that is forming the perfect husband
 	- Ephesians specifically speaks of Blessings that we get to enjoy, but these are not the blessings of Abraham, these are the Blessings of Christ Himself
 
-We're looking at this picture as someone who is not a Jew, not part of these covenants, it looks like there are two ways to be blessed: blessed with Israel according to the flesh, and blessed with Abraham by faith.
-
-But is this the whole picture? What could be missing from this picture?
+We're looking at this picture as someone who is not a Jew, not part of these covenants, it looks like there are two ways to be blessed: blessed with Israel according to the flesh, and blessed with Abraham by faith. But is this the whole picture? What pieces might be missing from this picture?
 
 To answer this, we need to go right back to Adam to understand how and why Israel was created in the first place. In Genesis, God started by creating Adam first. How was Eve created? She was taken out of Adam. Put down Eve prop. Why was Eve created? To help Adam. There was no help found for him at that point. Together, they formed the first couple.
 
@@ -179,13 +181,7 @@ The husband is a calling out of Christ with a purpose.
 
 So a big secret revealed in Ephesians: the husband is actually formed out of a calling of believers with Christ as head.
 
-The blessing and the promise in Eph 1 is different than the blessing and promise given to Abraham.
-
-
-Something to consider in a recap:
-- Blessed through the Children of Abraham
-- Blessed with the Children of Abraham
-- Blessed apart from the Children of Abraham
+The blessing and the promise in Eph 1 is different than the blessing and promise given to Abraham. These are the blessings of Christ Himself. Instead of being blessed with faithful Abraham, we are blessed in the heavenly places in Christ.
 
 
 The Body of Christ
