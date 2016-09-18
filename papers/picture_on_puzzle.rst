@@ -148,48 +148,79 @@ The Husband
 
 .. sidebar:: Key Points
 
-	- If the only pieces we had available were about the children of Abraham, were would we look for blessing
+	- If the only pieces we had available were about the children of Abraham, where would we look for blessing
 	- But The bride is only half of the picture we are trying to understand
 	- Paul speaks very specifically about a calling that is forming the perfect husband
 	- Ephesians specifically speaks of Blessings that we get to enjoy, but these are not the blessings of Abraham, these are the Blessings of Christ Himself
 
-We're looking at this picture as someone who is not a Jew, not part of these covenants, it looks like there are two ways to be blessed: blessed with Israel according to the flesh, and blessed with Abraham by faith. But is this the whole picture? What pieces might be missing from this picture?
+Looking at this picture as an outsider, someone who is not a Jew, it looks like there are two ways to tap into God's blessing. Under the Old Covenant, it was possible to be blessed along with Israel by becoming a proscelyte. This required you to be circumcised and keep the law. And the best that could get you is the natural, earthly blessings of the law. While this was certainly good, it could never give eternal life. Under the New Covenant, God opened up the possibility of outsiders being blessed along side Abraham purely by faith. There was no circumcision required and no law to keep for these blessings. By faith, these Gentiles enjoyed eternal life and the same spiritual gifts that believing Isralites enjoyed. And these  blessings simply were not available under the Law. 
 
-To answer this, we need to go right back to Adam to understand how and why Israel was created in the first place. In Genesis, God started by creating Adam first. How was Eve created? She was taken out of Adam. Put down Eve prop. Why was Eve created? To help Adam. There was no help found for him at that point. Together, they formed the first couple.
+The question I want to ask is this: are we still missing some pieces or is this the full picture? If we want to receive blessings from God today, is the best that we can do being one of the children of Abraham? If this was the full picture, I guess I would have to say "yes". But it turns out there are a few more pieces we still have to look at. 
 
-Explan how Adam symbolizes all people and nations. How was Israel created? A single nation was separated out of all the other nations through someone called Abraham.  Why was Israel created? To be a blessing to all the other nations and to serve God. And I think that Israel will actually be a helper for all the other nations some day, but not until this serving God part is actualy figured out. [Bring in suitable quotes from Genesis here]. Need to be strategic about placing props on one vs two (separate chairs).
+The question that we have to be asking ourselves right now is: who is the husband of the bride?
 
-Paul specifically calls out those he is ministering to in Ephesians as a husband:
+	[2Co 11:2 NKJV] 2 For I am jealous for you with godly jealousy. For I have betrothed you to one husband, that I may present [you as] a chaste virgin to Christ.
 
-	[Eph 4:13 NKJV] 13 till we all come to the unity of the faith and of the knowledge of the Son of God, to a perfect man, to the measure of the stature of the fullness of Christ;
+.. note::
 
-The word for "husband" here is the same word Paul used in Corinthians when he was betrothing the "bride" to her husband. And every other time this word "man" appears in Ephesians, it is translated "husband". 
+	Put the prop labeled "Christ" down in the place of the husband.
 
-Verify this: We could translate this to say "into a perfect husband".
+There is something worth pointing out about this picture right now. Talk about how bride is formed of many believers. But as far as we can tell, the husband is formed by one, that is Christ Himself.
 
-The church of the husband is defined by the calling of God, not by divisions in the flesh or by man-made distinctions.
+In Ephesians 4, Paul has something significant to say about the husband.
 
-The word for "husband" first appears in Eph 4. This word appears seven times throughout the book of Ephesians, but only in chapters 4 and 5. Eph 4 defines our calling as being the perfect husband. I believe Eph 4 is the first place in the book where it is clear that Paul is actually talking about the husband. 
+	[Eph 4:1 NKJV] 1 I, therefore, the prisoner of the Lord, beseech you to walk worthy of the calling with which you were called,
 
-What hints do we see in Eph that Paul is specifically speaking about a calling that is forming a husband:
+Paul is starting this chapter by encouraging those that he is addressing to walk according to how God has called them. And just a few verses down, I believe he clearly illustrates this calling:
 
-- Eph 4:1,13 - walk worthy of your calling ... unto a perfect husband.
-- Eph 4:15 - grow up into Him, the head, fitly joined together
-- Eph 5:30 - we are members of His body, flesh, bones
+	[Eph 4:11-16 NKJV] 11 And He Himself gave some [to be] apostles, some prophets, some evangelists, and some pastors and teachers, 12 for the equipping of the saints for the work of ministry, for the edifying of the body of Christ, 13 till we all come to the unity of the faith and of the knowledge of the Son of God, to a perfect man, to the measure of the stature of the fullness of Christ; 
 
-The husband is a calling out of Christ with a purpose.
+There are two Greek words we need to look at very quickly before we can fully appreciate what Paul is really saying in verse 13. The word Paul uses here for "man" in the Greek is a word that can only refer to a male. In fact, it is the word that is used for "husband" in the Greek. This word appears seven times throughout the book of Ephesians, but only in chapters 4 and 5. Every other time it appears in Ephesians, it is translated "husband". The word "to" in the English translation of this verse is actually the word "eis" in the Greek. TBD research here.
 
-So a big secret revealed in Ephesians: the husband is actually formed out of a calling of believers with Christ as head.
+It would actually be quite reasonable to translate this verse like the following:
 
-The blessing and the promise in Eph 1 is different than the blessing and promise given to Abraham. These are the blessings of Christ Himself. Instead of being blessed with faithful Abraham, we are blessed in the heavenly places in Christ.
+	13 till we all come into the unity of the faith and of the knowledge of the Son of God, into a perfect husband, into the measure of the stature of the fullness of Christ; 
 
+Paul then continues by saying:
+
+	14 that we should no longer be children, tossed to and fro and carried about with every wind of doctrine, by the trickery of men, in the cunning craftiness of deceitful plotting, 15 but, speaking the truth in love, may grow up in all things into Him who is the head--Christ-- 16 from whom the whole body, joined and knit together by what every joint supplies, according to the effective working by which every part does its share, causes growth of the body for the edifying of itself in love.
+
+The picture that Paul is painting here is that of a body of believers togheter with Christ as head forming the perfect husband. And yes, the word for "husband" here is the same word Paul used in Corinthians when he was betrothing the "bride" to her husband.
+
+.. note::
+
+	At this point, turn around the "Christ" prop and reveal "Husband".
+
+Ephesians is the revelation of the perfect husband. Not just Himself. But Christ as head with a body of believers as part of the husband. And this body isn't made up of any particular outward distinctions. Mention Eph 2.
+
+The blessing and the promise in Eph 1 is different than the blessing and promise given to Abraham. I believe we are sharing in the blessings given by the Father to Christ Himself. Instead of being blessed with faithful Abraham, we are blessed in the heavenly places in Christ.
+
+	[Eph 1:3-4 NKJV] 3 Blessed [be] the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly [places] in Christ, 4 just as He chose us in Him before the foundation of the world, that we should be holy and without blame before Him in love,
+
+Every spiritual blessing is far greater than the blessings that we a part of the law. I believe every spiritual blessing in the heavenly places in Christ is even greater than being blessed with faithful Abraham.
 
 The Body of Christ
 ==================
 
+We started this study by looking at a couple of puzzle pieces that both spoke of the body of Christ.
 
-Both Jews and Gentiles according to the flesh are part of the husband and the bride. But the husband and the bride are very different.
+	[Eph 5:29-30 NKJV] 29 For no one ever hated his own flesh, but nourishes and cherishes it, just as the Lord [does] the church. 30 For we are members of His body, of His flesh and of His bones.
 
+Adam foreshadows or symbolizes Christ. In fact, in 1 Cor 15, Paul devotes a good amount of space to contrasting the first Adam with the last Adam, Jesus Christ. Understanding how Adam relates to Christ is essential.
+
+In setting up this picture, we have gone as far back as Abraham. To complete this picture, we need to go all the way back to the creation of Adam to see what we can learn about the whole picture.
+
+In Genesis 2 the creation of the first man and woman is recorded. Adam is created first when God forms him from the dust of the ground and breaths into him the breath of life. Adam spends a period of time alone. Not much is said about this time, but he is probably spending it taking care of the creation God has given to him and naming the various living creatures. But through all of this, he was alone so far as human companionship is concerned:
+
+	[Gen 2:20 NKJV] 20 So Adam gave names to all cattle, to the birds of the air, and to every beast of the field. But for Adam there was not found a helper comparable to him.
+
+In Genesis, God started by creating Adam first. How was Eve created? She was taken out of Adam. Put down Eve prop. Why was Eve created? To help Adam. There was no help found for him at that point. Together, they formed the first couple.
+
+Explan how Adam symbolizes all people and nations. How was Israel created? A single nation was separated out of all the other nations through someone called Abraham.  Why was Israel created? To be a blessing to all the other nations and to serve God. Ultimately, I believe it still is in God's plan to channel earthly blessings through Israel to all Nations, but that day hasn't come yet. And I think that's why God left open the possibility of other nations participating along side with Israel.
+
+And I think that Israel will actually be a helper for all the other nations some day, but not until this serving God part is actualy figured out. [Bring in suitable quotes from Genesis here]. Need to be strategic about placing props on one vs two (separate chairs).
+
+What are we going to do with this piece from Cor? We could put it on the side and ignore it. Or we could use it as an opportunity to dig deeper.
 
 - When Paul is teaching about the bride or virgin (2 Cor 11:2), he clearly refers to those believers as part of the body of Christ (1 Cor 12:13)
 - Paul also clearly refers to the husband as the body of Christ in Eph.
@@ -205,6 +236,8 @@ So, the espoused bride was legally treated as if she was married to her husband.
 Both Gal and Eph can take full force when we realize both of these callings can only be realized in the person of Christ. They are related, but they are different roles with different purposes and different bodies.
 
 Think about the significance of the fact that the Bride hasn't been formed yet. Adam existed for some time before Eve was taken out of Him. It is the same with Christ and His body. There are two distinct purposes that are formed out of Christ: the husband and the bride.
+
+Were Adam and Eve one body or two bodies. Or were they together one body with distinct purposes. In other words, they could both be different and somehow still be one body. Is that a possibility?
 
 In Eph we read we are members of his body, and flesh, and bones. 
 
