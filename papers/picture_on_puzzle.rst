@@ -197,35 +197,40 @@ The blessing and the promise in Eph 1 is different than the blessing and promise
 
 	[Eph 1:3-4 NKJV] 3 Blessed [be] the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly [places] in Christ, 4 just as He chose us in Him before the foundation of the world, that we should be holy and without blame before Him in love,
 
-Every spiritual blessing is far greater than the blessings that we a part of the law. I believe every spiritual blessing in the heavenly places in Christ is even greater than being blessed with faithful Abraham.
+Every spiritual blessing is far greater than the blessings that we a part of the law. I believe every spiritual blessing in the heavenly places in Christ is even greater and includes more than being blessed with faithful Abraham.
 
 The Body of Christ
 ==================
 
-We started this study by looking at a couple of puzzle pieces that both spoke of the body of Christ.
+We started this study by looking at a couple of puzzle pieces that both spoke of the body of Christ. One verse was in Corinthians and the other was in Ephesians. 
 
 	[Eph 5:29-30 NKJV] 29 For no one ever hated his own flesh, but nourishes and cherishes it, just as the Lord [does] the church. 30 For we are members of His body, of His flesh and of His bones.
 
-Adam foreshadows or symbolizes Christ. In fact, in 1 Cor 15, Paul devotes a good amount of space to contrasting the first Adam with the last Adam, Jesus Christ. Understanding how Adam relates to Christ is essential.
+Where does this verse fit? Explain how it fits into what we learned about in Eph. Explain the closeness. So this piece is speaking of the body of Christ, or the husband himself.
 
-In setting up this picture, we have gone as far back as Abraham. To complete this picture, we need to go all the way back to the creation of Adam to see what we can learn about the whole picture.
+.. note::
+
+	Puzzle piece for Ephesians is placed under the husband.
+
+But what about that verse from 1 Cor?
+
+	[1Co 12:27 KJV] 27 Now ye are the body of Christ, and members in particular.
+
+Explain who Paul is talking to in 1 Cor. It does not make sense that this would refer to the husband particularly since he is addressing the bride in these books. He's basically said you're not the husband, I want to present you to the husband. So as I see it, we can either brush this verse aside, or we can say that maybe Paul really does mean that the Bride is somehow also the body of Christ. How could this work?
+
+In setting up this picture, we have gone as far back as Abraham. To complete this picture, we need to go all the way back to the creation of Adam to see what we can learn about the whole picture. Adam foreshadows or symbolizes Christ. In fact, in 1 Cor 15, Paul devotes a good amount of space to contrasting the first Adam with the last Adam, Jesus Christ. Understanding how Adam relates to Christ is essential.
 
 In Genesis 2 the creation of the first man and woman is recorded. Adam is created first when God forms him from the dust of the ground and breaths into him the breath of life. Adam spends a period of time alone. Not much is said about this time, but he is probably spending it taking care of the creation God has given to him and naming the various living creatures. But through all of this, he was alone so far as human companionship is concerned:
 
 	[Gen 2:20 NKJV] 20 So Adam gave names to all cattle, to the birds of the air, and to every beast of the field. But for Adam there was not found a helper comparable to him.
 
-In Genesis, God started by creating Adam first. How was Eve created? She was taken out of Adam. Put down Eve prop. Why was Eve created? To help Adam. There was no help found for him at that point. Together, they formed the first couple.
+In Genesis, God started by creating Adam first. How was Eve created? She was taken out of Adam. Put down Eve prop. Why was Eve created? To help Adam. There was no help found for him at that point. Together, they formed the first human couple.
 
-Explan how Adam symbolizes all people and nations. How was Israel created? A single nation was separated out of all the other nations through someone called Abraham.  Why was Israel created? To be a blessing to all the other nations and to serve God. Ultimately, I believe it still is in God's plan to channel earthly blessings through Israel to all Nations, but that day hasn't come yet. And I think that's why God left open the possibility of other nations participating along side with Israel.
+Were Adam and Eve one body or two bodies?. Or were they together one body with distinct purposes. In other words, they could both be different and somehow still be one body. Is that a possibility?
 
-And I think that Israel will actually be a helper for all the other nations some day, but not until this serving God part is actualy figured out. [Bring in suitable quotes from Genesis here]. Need to be strategic about placing props on one vs two (separate chairs).
+It is also significant that the Bride hasn't been formed yet. Adam existed for some time before Eve was taken out of Him. It is the same with Christ and His body. There are two distinct purposes that are formed out of Christ: the husband and the bride. The husband is formed first in Christ Himself. But the Bride is in some way formed out of the husband, just like Eve was formed out of Adam.
 
-What are we going to do with this piece from Cor? We could put it on the side and ignore it. Or we could use it as an opportunity to dig deeper.
-
-- When Paul is teaching about the bride or virgin (2 Cor 11:2), he clearly refers to those believers as part of the body of Christ (1 Cor 12:13)
-- Paul also clearly refers to the husband as the body of Christ in Eph.
-- Isn't it fair to say that both the husband and the bride are bodies of Christ. This word is used very specifically in both cases.
-- It's almost as if the body of Christ is a joined-together body
+Discuss the difference between Adam's line "bone of my bone" and what Paul says in Eph 5, members of His bones. Will Christ (or the Lamb in revelatoin) one day say to His bride, this is bone of my bone.
 
 The virgin in 2 Cor is espoused, but the wedding hasn't happened yet. According to this source, being espoused is just as legally binding under Jewish law as the marriage ceremony:
 
@@ -233,34 +238,10 @@ http://www.ndtime.net/jewish_wedding_traditions_marriage_customs_espoused_wife.h
 
 So, the espoused bride was legally treated as if she was married to her husband. There were really just some formalities that had to take place later.
 
-Both Gal and Eph can take full force when we realize both of these callings can only be realized in the person of Christ. They are related, but they are different roles with different purposes and different bodies.
+Both Cor and Eph can take full force when we realize both of these callings can only be realized in the person of Christ. They are related, but they are different roles with different purposes and different bodies.
 
-Think about the significance of the fact that the Bride hasn't been formed yet. Adam existed for some time before Eve was taken out of Him. It is the same with Christ and His body. There are two distinct purposes that are formed out of Christ: the husband and the bride.
+End with the fact that the picture on the box is Christ and the new creation that is being formed in him. Adam and Eve, the Nations and Israel are really shadows of this ultimate reality. This earthly picture is marred and distorted, but through God's plan of redemption, this picture is being corrected and will one day be put right
 
-Were Adam and Eve one body or two bodies. Or were they together one body with distinct purposes. In other words, they could both be different and somehow still be one body. Is that a possibility?
+Ultimately, I believe it still is in God's plan to channel earthly blessings through Israel to all Nations, but that day hasn't come yet. And I think that's why God left open the possibility of other nations participating along side with Israel. And I think that Israel will actually be a helper for all the other nations some day, but not until this serving God part is actualy figured out. [Bring in suitable quotes from Genesis here]. Need to be strategic about placing props on one vs two (separate chairs).
 
-In Eph we read we are members of his body, and flesh, and bones. 
-
-Was not Eve taken out of Adam her husband? How is the bride formed?
-
-[Gal 4:19 KJV] 19 My little children, of whom I travail in birth again until Christ be formed in you,
-
-- The great or greatest mystery in Eph 5 takes us back to Genesis. How many other times is this passage quoted in scripture? Why is this significant? Is leaving father and mother and becoming one flesh kind of like what happens in Christ to those that are called?
-
-- We need to very carefully evaluate what the new person in Ephesians refers to. I believe it makes a lot of sense that this includes more than just a husband.
-
-- When I read some of the verses in Eph 1-3, I begin to think it's possible they they don't just refer to the husband alone, but that they may refer to the bringing together of both of these callings one day in Christ.
-
-- Eve was taken out of Adam when he slept. This could very well be a symbol of death and resurrection. After the resurrection, God brought the bride to Adam.
-
-- Bring out the point that the picture on the box is Christ and the new person that is being formed in him.
-- Adam and Eve, the Nations and Israel are really shadows of this ultimate reality.
-
-- Adam was created in the image of God in Genesis
-- A temporary picture of something permament
-- The earthly as a shadow of the heavenly (Col 2:17)
-- Christ is the image of God in Revelation
-
-- This earthly picture is marred and distorted, but through God's plan of redemption, this picture is being corrected and will one day be put right
-
-- Adam was the name for both Adam/Eve together at one point before the fall. Perhaps that is a foreshadow of some future ages in God's plan.
+But now with Israel on the side for the time being, we can enjoy being blessed not merely with faithful Abraham, but with Christ Himself as part of the husband.
