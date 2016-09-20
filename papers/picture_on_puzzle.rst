@@ -202,7 +202,7 @@ Every spiritual blessing is far greater than the blessings that we a part of the
 The Body of Christ
 ==================
 
-We started this study by looking at a couple of puzzle pieces that both spoke of the body of Christ. One verse was in Corinthians and the other was in Ephesians. 
+We started this study by looking at a couple of puzzle pieces that both spoke of the body of Christ. One verse was in Corinthians and the other was in Ephesians, where we read
 
 	[Eph 5:29-30 NKJV] 29 For no one ever hated his own flesh, but nourishes and cherishes it, just as the Lord [does] the church. 30 For we are members of His body, of His flesh and of His bones.
 
@@ -218,25 +218,25 @@ But what about that verse from 1 Cor?
 
 Explain who Paul is talking to in 1 Cor. It does not make sense that this would refer to the husband particularly since he is addressing the bride in these books. He's basically said you're not the husband, I want to present you to the husband. So as I see it, we can either brush this verse aside, or we can say that maybe Paul really does mean that the Bride is somehow also the body of Christ. How could this work?
 
+The virgin in 2 Cor is espoused, but the wedding hasn't happened yet. According to this source, being espoused is just as legally binding under Jewish law as the marriage ceremony:
+
+http://www.ndtime.net/jewish_wedding_traditions_marriage_customs_espoused_wife.htm
+
+So, the espoused bride was legally treated as if she was married to her husband. There were really just some formalities that had to take place later.
+
 In setting up this picture, we have gone as far back as Abraham. To complete this picture, we need to go all the way back to the creation of Adam to see what we can learn about the whole picture. Adam foreshadows or symbolizes Christ. In fact, in 1 Cor 15, Paul devotes a good amount of space to contrasting the first Adam with the last Adam, Jesus Christ. Understanding how Adam relates to Christ is essential.
 
 In Genesis 2 the creation of the first man and woman is recorded. Adam is created first when God forms him from the dust of the ground and breaths into him the breath of life. Adam spends a period of time alone. Not much is said about this time, but he is probably spending it taking care of the creation God has given to him and naming the various living creatures. But through all of this, he was alone so far as human companionship is concerned:
 
 	[Gen 2:20 NKJV] 20 So Adam gave names to all cattle, to the birds of the air, and to every beast of the field. But for Adam there was not found a helper comparable to him.
 
-In Genesis, God started by creating Adam first. How was Eve created? She was taken out of Adam. Put down Eve prop. Why was Eve created? To help Adam. There was no help found for him at that point. Together, they formed the first human couple.
+How was Eve created? She was taken out of Adam. [elaborate]. Put down Eve prop. Why was Eve created? To help Adam. There was no help found for him at that point. Eve was Adam's helper. Together, they formed the first human couple.
 
-Were Adam and Eve one body or two bodies?. Or were they together one body with distinct purposes. In other words, they could both be different and somehow still be one body. Is that a possibility?
+Now for a tricky question: Were Adam and Eve one body or two bodies?. Or were they together one body with distinct purposes. In other words, they could both be different and somehow still be one body. Is that a possibility?
 
 It is also significant that the Bride hasn't been formed yet. Adam existed for some time before Eve was taken out of Him. It is the same with Christ and His body. There are two distinct purposes that are formed out of Christ: the husband and the bride. The husband is formed first in Christ Himself. But the Bride is in some way formed out of the husband, just like Eve was formed out of Adam.
 
 Discuss the difference between Adam's line "bone of my bone" and what Paul says in Eph 5, members of His bones. Will Christ (or the Lamb in revelatoin) one day say to His bride, this is bone of my bone.
-
-The virgin in 2 Cor is espoused, but the wedding hasn't happened yet. According to this source, being espoused is just as legally binding under Jewish law as the marriage ceremony:
-
-http://www.ndtime.net/jewish_wedding_traditions_marriage_customs_espoused_wife.htm
-
-So, the espoused bride was legally treated as if she was married to her husband. There were really just some formalities that had to take place later.
 
 Both Cor and Eph can take full force when we realize both of these callings can only be realized in the person of Christ. They are related, but they are different roles with different purposes and different bodies.
 
