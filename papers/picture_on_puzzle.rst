@@ -3,19 +3,21 @@ The Puzzle
 
 What's the largest jigsaw puzzle you have ever put together? 500 pieces? 1000 pieces? 10,000 pieces?
 
-I like to think of studying the Bible as something like working on a gigantic pizzle. A really big puzzle with 31,120 little pieces in total. That's one piece for each verse. The pieces are organized into smaller bags called books. There are 66 of these in the Old Testament, and NN of these in the New Testament.
+I like to think of reading and studying the Bible as working on a big pizzle. A really big puzzle that has one piece for each verse. That's 31,120 pieces in total. When you're dealing with something this big, how do you fit the pieces together and know that they are in the right place? Based on my personal experience putting together puzzles, this is very difficult without some type of picture to look at. In other words, what is the puzzle. Sometimes if a piece doesn't fit, you have to put the entire puzzle together and just see the missing place where it fits. Having some concept of the picture on the box helps greatly 
 
-How do you put together a large puzzle? You look at the picture on the box. Sometimes if a piece doesn't fit, you have to put the entire puzzle together and just see the missing place where it fits. Having some concept of the picture on the box helps greatly 
+Haven't had a picture on my Bible since I had a picture Bible as a kid. Maybe look at some picture Bible examples. Who is the Bible about? The Bible is about a person. Looking at the first book, the first person we encounter is Adam. Looking at the last book Revelation, the last person we encounter 
 
-For the crowd here today, we are going to be looking at some pretty familar pieces. But I would like to test out wheter some of these pieces perhaps fit togheter better maybe just a little differently than you might have considered before.
 
-Today I brought a few of the puzzle pieces that I've been thinking about recently. In fact, I have been thinking about these for quite a long time and I still find them to be a challenging set of verses to understand:
+.. note::
+
+	Bring out puzzle prop with a few pieces for illustration.
+
+Today I brought a few of the puzzle pieces that I've been thinking about recently. In fact, I have been thinking about these for quite a long time and I still find them to be a challenging set of verses to understand. For the crowd here today, we are going to be looking at some pretty familar pieces.
 
 	[1Co 12:4, 7, 12-13 KJV] 4 Now there are diversities of gifts, but the same Spirit. ... 7 But the manifestation of the Spirit is given to every man to profit withal. ... 12 For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also [is] Christ. 13 For by one Spirit are we all baptized into one body, whether [we be] Jews or Gentiles, whether [we be] bond or free; and have been all made to drink into one Spirit.
 	[1Co 12:27 KJV] 27 Now ye are the body of Christ, and members in particular.
 
 	[Eph 4:7, 11-12 KJV] 7 But unto every one of us is given grace according to the measure of the gift of Christ. ... 11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; 12 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:
-	[Eph 5:30 KJV] 30 For we are members of his body,[G4983] of his flesh, and of his bones.
 
 These passages are both written by the Apostle Paul. They are both written to churches that had believing Gentiles (in other words, these passages were definitely not written just to believing Jews). Paul mentions gifts in both passages. And most importantly, Paul refers to the "body of Christ in each passage."
 
@@ -104,10 +106,11 @@ Paul, being a good Jew would very well know about a series of twelve blessings t
 
 When we look at these statements through our western 21st century lens, they come across as potentially racist and sexist. But I don't believe that is the intent behind this series of blessings. Rather than these statements being about a Jewish man gloating in his superiority (which they may have been for some), I think these statements are really about a Jewish man acknowledging the blessings that were a part of the law of Moses.
 
-Under the law, there were 613 commandments in total. If you were a free Jewish man, all of these commandments would apply to you. In other words, the full burden of the law was on your shoulders. If you were born a Jewish woman, God acknowledged the differences in roles between men and women, so fewer commandments applied. Even fewer for slaves. None for Gentiles, unless you became circumcised. I can see the Jewish mind thinking that more commandments implies more blessing. In other words, if you had more commandments to keep, you had the opportunity to get more blessing.
+Under the law, there were 613 commandments in total. If you were a free Jewish man, all of these commandments would apply to you. In other words, the full burden of the law was on your shoulders. If you were born a Jewish woman, God acknowledged through the law the differences in roles between men and women, so fewer commandments applied. Even fewer for slaves. None for Gentiles, unless you became circumcised.
 
-What Paul is talking about in Galations 3 is the Gentiles
-The blessings of Abraham are related to the promises made to Abraham. 
+Why would a Jewish man be thanking God for a greater burden under the law. I can see the Jewish mind thinking that more commandments implies more blessing. In other words, if you had more commandments to keep, you had the opportunity to get more blessing. Reference a quote from the law.
+
+When Paul speaks of being a descendant of Abraham, he has blessings in view:
 
 	[Gal 3:14 KJV] 14 That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.
 
@@ -135,7 +138,7 @@ What Paul is really saying is when it comes to these children of Abraham he is d
 
 	Bring in the all nations prop to discuss how outsiders could participate in blessings. 
 
-If you want to be blessed under the old covenant with that seed of Abraham, you have to keep the law. But when Paul is talking about the seed or children of Abraham, he isn't talking about the Old Covenant or the law. Because to be a part of that required circumcision to become a proselite. He isn't talking about that kind of "Child of Abraham". If you want to be blessed with Abraham under the new covenant, faith is your only ticket. Under the Old Covenant, one had to become a proselite to be blessed with Israel. But under the New Covenant, one required faith to be blessed with Abraham.
+If you want to be blessed under the old covenant with that seed of Abraham, you have to keep the law. But when Paul is talking about the seed or children of Abraham, he isn't talking about the Old Covenant or the law. Because to be a part of that required circumcision to become a proselite. He isn't talking about that kind of "Child of Abraham". If you want to be blessed with Abraham under the new covenant, faith is your only ticket. Under the Old Covenant, one had to become a proselite to be blessed with Israel. But under the New Covenant, one required faith to be blessed with Abraham. God was opening up the possibility of others from outside of Israel 
 
 The Corinthian church, much like the Galation church, had a mix of Jews and Gentiles. And the gifts of the spirit were poured out on both, quite irrespectively of whether they were physically circumcised or not. To partake in the blessings of the Bride (the children of Abraham), it wasn't enough to be a descendant of Abraham. Faith was required. God allowed the outsiders (the Gentiles) to partake in these blessings of Abraham (without being circumcised) to help illustrate this point.
 
@@ -165,7 +168,7 @@ The question that we have to be asking ourselves right now is: who is the husban
 
 	Put the prop labeled "Christ" down in the place of the husband.
 
-There is something worth pointing out about this picture right now. Talk about how bride is formed of many believers. But as far as we can tell, the husband is formed by one, that is Christ Himself.
+There is something worth pointing out about this picture right now. Talk about how bride is formed out of a group of believers. But as far as we can tell, the husband is formed by one, that is Christ Himself.
 
 In Ephesians 4, Paul has something significant to say about the husband.
 
@@ -197,7 +200,7 @@ The blessing and the promise in Eph 1 is different than the blessing and promise
 
 	[Eph 1:3-4 NKJV] 3 Blessed [be] the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly [places] in Christ, 4 just as He chose us in Him before the foundation of the world, that we should be holy and without blame before Him in love,
 
-Every spiritual blessing is far greater than the blessings that we a part of the law. I believe every spiritual blessing in the heavenly places in Christ is even greater and includes more than being blessed with faithful Abraham.
+Every spiritual blessing is far greater than the blessings that we a part of the law. I believe every spiritual blessing in the heavenly places in Christ is even greater and includes more than being blessed with faithful Abraham. These blessings can be no less amazing than what the children of Abraham enjoy, but they are specific to the role of the husband.
 
 The Body of Christ
 ==================
@@ -240,7 +243,9 @@ Discuss the difference between Adam's line "bone of my bone" and what Paul says 
 
 Both Cor and Eph can take full force when we realize both of these callings can only be realized in the person of Christ. They are related, but they are different roles with different purposes and different bodies.
 
-End with the fact that the picture on the box is Christ and the new creation that is being formed in him. Adam and Eve, the Nations and Israel are really shadows of this ultimate reality. This earthly picture is marred and distorted, but through God's plan of redemption, this picture is being corrected and will one day be put right
+End with the fact that the picture on the box is Christ and the new creation that is being formed in him. Adam and Eve, the Nations and Israel are really shadows of this ultimate reality. This earthly picture is marred and distorted, but through God's plan of redemption, this picture is being corrected and will one day be put right.
+
+Recap with how Isral was a helper for all other nations. Yes, they were to be a great nation. That was God's promise to Abraham. But they forgot that in order to be great, you need to be the servant of all. Those are the words of Christ to the descendants of Abraham.
 
 Ultimately, I believe it still is in God's plan to channel earthly blessings through Israel to all Nations, but that day hasn't come yet. And I think that's why God left open the possibility of other nations participating along side with Israel. And I think that Israel will actually be a helper for all the other nations some day, but not until this serving God part is actualy figured out. [Bring in suitable quotes from Genesis here]. Need to be strategic about placing props on one vs two (separate chairs).
 
