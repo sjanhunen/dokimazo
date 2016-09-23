@@ -126,7 +126,9 @@ Paul is a minister of the New Covenenat and draws the following contrasts:
 - ministration of death vs ministration of spirit
 - condemnation vs righteousness
 
-The law can at its best delay your death. And at its worse it can accelerate your death. If you kept all 613 commandments perfectly, the result would be a long and prosperous natural life. But the law itself could never actually give you life. It was the blessing of Abraham by faith that brought life, spirit, and righteousness. 
+The law can at its best delay your death. And at its worse it can accelerate your death. If you kept all 613 commandments perfectly, the result would be a long and prosperous natural life. But the law itself could never actually give you life. Not a single person throughout history has been made righteous and given eternal life by keeping the law. That's not because nobody could keep the law perfectly, it's simply because even when perfectly followed, the law simply cannot provide the blessings of the Spirit.
+
+It was the blessing of Abraham by faith that brought life, spirit, and righteousness. 
 
 Paul says something else in 2 Cor that will help us build up the picture. He specifically calls out those he is ministering to in Corinthians as a "bride":
 
@@ -140,19 +142,10 @@ As an able minister of the new covenant, Paul's goal is to present these believe
 
 What Paul is really saying is when it comes to these children of Abraham he is discussion, it's not about the flesh or specific blood lines and any advantages or disadvantages that may come by that. It is about the Spirit, and it is received through faith. The promise and the blessings are the spirit poured out to do the work of God.
 
-.. note::
-
-	Bring in the all nations prop to discuss how outsiders could participate in blessings. 
-
-If you want to be blessed under the old covenant with that seed of Abraham, you have to keep the law. But when Paul is talking about the seed or children of Abraham, he isn't talking about the Old Covenant or the law. Because to be a part of that required circumcision to become a proselite. He isn't talking about that kind of "Child of Abraham". If you want to be blessed with Abraham under the new covenant, faith is your only ticket. Under the Old Covenant, one had to become a proselite to be blessed with Israel. But under the New Covenant, one required faith to be blessed with Abraham. God was opening up the possibility of others from outside of Israel 
-
-The Corinthian church, much like the Galation church, had a mix of Jews and Gentiles. And the gifts of the spirit were poured out on both, quite irrespectively of whether they were physically circumcised or not. To partake in the blessings of the Bride (the children of Abraham), it wasn't enough to be a descendant of Abraham. Faith was required. God allowed the outsiders (the Gentiles) to partake in these blessings of Abraham (without being circumcised) to help illustrate this point.
 
 .. note::
 
-	By the end of this section, the "All Nations", "Abraham's Descendants", and "Bride" props will be set up.
-
-	Might make sense to have "Gentiles" behind "All Nations" and "Jews" behind "Abraham's Descendants"
+	By the end of this section, "Abraham's Descendants" and "Bride" props will be set up.
 
 The Husband 
 ===========
@@ -164,9 +157,15 @@ The Husband
 	- Paul speaks very specifically about a calling that is forming the perfect husband
 	- Ephesians specifically speaks of Blessings that we get to enjoy, but these are not the blessings of Abraham, these are the Blessings of Christ Himself
 
-Might make sense to mention why Paul was ministering to the Gentiles here.
+So far, we've been looking closely at Abraham's descendants, both in the literal (physical) sense and in the figurative (spiritual) sense. A key observation is that there were different blessings associated with both. The blessings of the law under the Old Covenant are limited to expanding or extending this natural life. But the ultimate end under the Old Covenant is still death. Eternal life is something that comes only through the Spirit. As we've seen, the blessings of the Spirit can only be received through faith. The is what the New Covenant is based on.
 
-Looking at this picture as an outsider, someone who is not a Jew, it looks like there are two ways to tap into God's blessing. Under the Old Covenant, it was possible to be blessed along with Israel by becoming a proscelyte. This required you to be circumcised and keep the law. And the best that could get you is the natural, earthly blessings of the law. While this was certainly good, it could never give eternal life. Under the New Covenant, God opened up the possibility of outsiders being blessed along side Abraham purely by faith. There was no circumcision required and no law to keep for these blessings. By faith, these Gentiles enjoyed eternal life and the same spiritual gifts that believing Isralites enjoyed. And these  blessings simply were not available under the Law. 
+If you wanted to enjoy the blessings of the Law, you have to keep the law. If you were not a Jew and not physically related to Abraham, you could still enjoy these blessings. The catch is that you needed to be circumcised and you had to observe the law. In other words, you would have to become a proscelyte. But no amount of law keeping or circumcision would open up the blessing of Abraham to you.
+
+.. note::
+
+	Bring in the all nations prop to discuss how outsiders could participate in blessings. 
+
+Might make sense to mention why Paul was ministering to the Gentiles here. God was proving a point to circumsized Israel. The blessings of Abraham cannot be had with circumcision and law keeping. In fact, one of the arguments Paul uses to support this is the fact that the promise of blessing to Israel and to all nations was made to Abraham. The Corinthian church, much like the Galation church, had a mix of Jews and Gentiles. And the gifts of the spirit were poured out on both, quite irrespectively of whether they were physically circumcised or not. To partake in the blessings of the Bride (the children of Abraham), it wasn't enough to be a descendant of Abraham. Faith was required. God allowed the outsiders (the Gentiles) to partake in these blessings of Abraham (without being circumcised) to help illustrate this point.
 
 The question I want to ask is this: are we still missing some pieces or is this the full picture? If we want to receive blessings from God today, is the best that we can do being one of the children of Abraham? If this was the full picture, I guess I would have to say "yes". But it turns out there are a few more pieces we still have to look at. 
 
@@ -198,19 +197,29 @@ Paul then continues by saying:
 
 	14 that we should no longer be children, tossed to and fro and carried about with every wind of doctrine, by the trickery of men, in the cunning craftiness of deceitful plotting, 15 but, speaking the truth in love, may grow up in all things into Him who is the head--Christ-- 16 from whom the whole body, joined and knit together by what every joint supplies, according to the effective working by which every part does its share, causes growth of the body for the edifying of itself in love.
 
-The picture that Paul is painting here is that of a body of believers togheter with Christ as head forming the perfect husband. And yes, the word for "husband" here is the same word Paul used in Corinthians when he was betrothing the "bride" to her husband.
+The picture that Paul is painting here is that of a body of believers togheter with Christ as head forming the perfect husband. The word for "husband" here is the same word Paul used in Corinthians when he was betrothing the "bride" to her husband. In other words, I think Paul is speaking about the husband that is part of that covenant relationship in Corinthians that the bride will be a part of some day.
 
 .. note::
 
 	At this point, turn around the "Christ" prop and reveal "Husband".
 
-Ephesians is the revelation of the perfect husband. Not just Himself. But Christ as head with a body of believers as part of the husband. And this body isn't made up of any particular outward distinctions. Mention Eph 2.
+Ephesians is the revelation of the perfect husband. This husband is not just Christ Himself. It is Christ as head with a body of believers as part of himself. And this body isn't made up of any particular outward distinctions. Mention Eph 2.
 
-The blessing and the promise in Eph 1 is different than the blessing and promise given to Abraham. I believe we are sharing in the blessings given by the Father to Christ Himself. Instead of being blessed with faithful Abraham, we are blessed in the heavenly places in Christ.
+Being a part of the husband's body is enjoying and partaking in the blessings of Christ Himself. This is what Paul says in the introduction to Ephesians in Chapter 1:
 
 	[Eph 1:3-4 NKJV] 3 Blessed [be] the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly [places] in Christ, 4 just as He chose us in Him before the foundation of the world, that we should be holy and without blame before Him in love,
 
-Every spiritual blessing is far greater than the blessings that we a part of the law. I believe every spiritual blessing in the heavenly places in Christ is even greater and includes more than being blessed with faithful Abraham. These blessings can be no less amazing than what the children of Abraham enjoy, but they are specific to the role of the husband.
+Remember the 12 blessings the faithful Jewish man would recite every morning? The blessing that Paul states here far superseeds The blessing and the promise in Eph 1 is different than the blessing and promise given to Abraham. The blessing here includes every spiritual blessing in the heavenlies in Christ.  Remember how Abraham was called and given blessings to go along with that calling? I believe what we are reading about in Eph 1 is about the calling of the Son of God Himself. In other words, it is God the Father calling the Son and blessing Him:
+
+	[Eph 1:18 NKJV] 18 the eyes of your understanding being enlightened; that you may know what is the hope of His calling, what are the riches of the glory of His inheritance in the saints,
+
+When was Abraham called? TBD years before the law. That puts it about TBD thousand years ago. When was Christ called? Before the foundation of the world. That's a long time before Abraham. Instead of being blessed with faithful Abraham, we are blessed in the heavenly places in Christ. Instead of tapping into the blessings associated with the calling of Abraham, we can tap into the blessings associated with the calling of Christ Himself. I believe every spiritual blessing in the heavenly places in Christ is even greater and includes more than being blessed with faithful Abraham. These blessings can be no less amazing than what the children of Abraham enjoy, but they are specific to the role of the husband. Mention how blessings can be enjoyed through covenant vs through being a part of Christ Himself.
+
+It wasn't until the revelation of the perfect husband that the ultimate picture of God's will was made complete.
+
+.. note::
+
+	By the end of this section, "Gentiles", "Israel", "Bride", and "Husband" props will be set up.
 
 The Body of Christ
 ==================
