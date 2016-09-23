@@ -3,16 +3,13 @@ The Puzzle
 
 What's the largest jigsaw puzzle you have ever put together? 500 pieces? 1000 pieces? 10,000 pieces?
 
-I like to think of reading and studying the Bible as working on a big pizzle. A really big puzzle that has one piece for each verse. That's 31,120 pieces in total. When you're dealing with something this big, how do you fit the pieces together and know that they are in the right place? Based on my personal experience putting together puzzles, this is very difficult without some type of picture to look at. In other words, what is the puzzle. Sometimes if a piece doesn't fit, you have to put the entire puzzle together and just see the missing place where it fits. Having some concept of the picture on the box helps greatly 
-
-Haven't had a picture on my Bible since I had a picture Bible as a kid. Maybe look at some picture Bible examples. Who is the Bible about? The Bible is about a person. Looking at the first book, the first person we encounter is Adam. Looking at the last book Revelation, the last person we encounter 
-
+I like to think of reading and studying the Bible as working on a big pizzle. A really big puzzle that has about 31,000 pieces. That's one piece for each verse. When you're dealing with something this big, how do you fit the pieces together and know that they are in the right place? Based on my personal experience putting together puzzles, this is very difficult without some type of picture to look at. In other words, you need to have at least some idea of what the puzzle is actually about. Sometimes figuring out where one piece really fits can be quite challenging. You can have it in a particular location and it can seem to fit, but it's not until you have the rest of the puzzle together that you see where it actually fits.
 
 .. note::
 
 	Bring out puzzle prop with a few pieces for illustration.
 
-Today I brought a few of the puzzle pieces that I've been thinking about recently. In fact, I have been thinking about these for quite a long time and I still find them to be a challenging set of verses to understand. For the crowd here today, we are going to be looking at some pretty familar pieces.
+Today I want to talk about a few of the verses I've been puzzling over recently. I think that these verses can be challenging to really fit in the right part of the picture. For the crowd here today, we are going to be looking at some pretty familar pieces.
 
 	[1Co 12:4, 7, 12-13 KJV] 4 Now there are diversities of gifts, but the same Spirit. ... 7 But the manifestation of the Spirit is given to every man to profit withal. ... 12 For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also [is] Christ. 13 For by one Spirit are we all baptized into one body, whether [we be] Jews or Gentiles, whether [we be] bond or free; and have been all made to drink into one Spirit.
 	[1Co 12:27 KJV] 27 Now ye are the body of Christ, and members in particular.
@@ -69,9 +66,9 @@ The Bride
 	- A Gentile could be blessed with Abraham through faith
 	- The blessings of the law could only delay death, only the blessing of faith could give life
 	
-There is an important phrase used in Scripture that will help shed some light on the body of Christ. This phrase appears translated a few different ways as "child of Abraham", "Abraham's descendant", or "Abraham's seed" depending on the translation and the exact Greek word used in the original.
+There is another phrase used in Scripture that will help shed important light on the body of Christ. This phrase may appear translated as "child of Abraham", "Abraham's descendant", or "Abraham's seed" depending upon the exact Greek word used in the original and on the English translation. What makes this phrase especially interesting is the fact that it is used both literally and figuratively.
 
-Christ himeself uses this phrase in John 8 in a discussion with the Jews. Both of them are using this phrase, but they mean something very different:
+Let's look at a discussion between Jesus and some Jews recorded in John 8, where this phrase is used both ways:
 
 	[Jhn 8:31-39 NKJV] 31 Then Jesus said to those Jews who believed Him, "If you abide in My word, you are My disciples indeed. 32 "And you shall know the truth, and the truth shall make you free." 33 They answered Him, "We are Abraham's descendants, and have never been in bondage to anyone. How [can] You say, 'You will be made free'?" 34 Jesus answered them, "Most assuredly, I say to you, whoever commits sin is a slave of sin. 35 "And a slave does not abide in the house forever, [but] a son abides forever. 36 "Therefore if the Son makes you free, you shall be free indeed. 37 "I know that you are Abraham's descendants, but you seek to kill Me, because My word has no place in you. 38 "I speak what I have seen with My Father, and you do what you have seen with your father." 39 They answered and said to Him, "Abraham is our father." Jesus said to them, "If you were Abraham's children, you would do the works of Abraham.
 
@@ -79,22 +76,22 @@ Christ himeself uses this phrase in John 8 in a discussion with the Jews. Both o
 
 	Set up the two "Children of Abraham" props on the separate chairs. Illustrate the following section by pointing at the relevant prop during discussion.
 
-Christ is acknowledging that these Jews were in fact related to Abraham physically ("Abraham's descendants"). But a physical relationship wasn't enough for them to be considered "Abraham's children." What, then, makes someone a "child of Abraham" in this sense?
+Notice what Christ is doing here. He is acknowledging that these Jews were in fact related to Abraham physically ("I know that you are Abraham's descendants"). But this physical relationship wasn't enough for them to be considered "Abraham's children." What Jesus is saying, in effect, is "yes, you are Abraham's descendants, but just because you are related to father Abraham doesn't mean that you are actually Abraham's children. I can just see the wheels turning in the mind of these Jews as they try to understand how they could not be their father's child. So what does make someone a "child of Abraham" in this sense?
 
-Paul talks significantly about the children of Abraham throughout the book of Galations. And then, in Galations chapter 3, Pauls says this:
+Paul talks significantly about the children of Abraham throughout the book of Galations. In chapter 3, he says this:
 
 	[Gal 3:26-29 NKJV] 26 For you are all sons of God through faith in Christ Jesus. 27 For as many of you as were baptized into Christ have put on Christ. 28 There is neither Jew nor Greek, there is neither slave nor free, there is neither male nor female; for you are all one in Christ Jesus. 29 And if you [are] Christ's, then you are Abraham's seed, and heirs according to the promise.
 
-The first thing to notice about these verses in Gal 3 is that the major theme is Christ. In just these four verses, we read the phrases
+ Notice how these verses are more about Christ than about Abraham:  
 
-- "in Christ Jesus"
-- "into Christ"
+- "faith in Christ Jesus"
+- "baptized into Christ"
 - "put on Christ"
 - "one in Christ Jesus"
 
-Paul then concludes with "if you are Christ's" you are "Abraham's seed". Being a true child of Abraham here has more to do with faith in Christ than it does with being physically related to Abraham. And here in Christ, the outward physical distinctions that we may see do not create and disadvantages or divisions.
+Paul concludes with "if you are Christ's" you are "Abraham's seed". So whether or not you are a Jew, you can be Abraham's child in Christ through faith. Being a true child of Abraham here is about faith, not about who your physical father. If Jesus shocked the Jews by informing them they were not Abraham's children, what Paul claims here would have completely blown their mind.
 
-Paul, being a good Jew would very well know about a series of twelve blessings that would be recited each morning by a faithful Jewish man (is there a name for this?) Three of these go like this:
+There is something else going on in these verses that would be easy to miss. Paul, being a good Jew would very well know about a series of blessings that would be recited each morning by a faithful Jewish man. There are twelve blessings in total, but three of these go like this:
 
 	"Blessed are you, Hashem, King of the Universe, for not having made me a Gentile."
 
@@ -104,29 +101,38 @@ Paul, being a good Jew would very well know about a series of twelve blessings t
 
 	http://www.beingjewish.com/kresel/shelo.html
 
-When we look at these statements through our western 21st century lens, they come across as potentially racist and sexist. But I don't believe that is the intent behind this series of blessings. Rather than these statements being about a Jewish man gloating in his superiority (which they may have been for some), I think these statements are really about a Jewish man acknowledging the blessings that were a part of the law of Moses.
+When we look at these statements through our western 21st century lens, they come across as potentially racist and sexist. But I don't believe that is the intent here. Rather than these statements being about a Jewish man gloating in his superiority (which they may have been for some), I think these statements are really about a Jewish man acknowledging the blessings that were a part of the law of Moses.
 
-Under the law, there were 613 commandments in total. If you were a free Jewish man, all of these commandments would apply to you. In other words, the full burden of the law was on your shoulders. If you were born a Jewish woman, God acknowledged through the law the differences in roles between men and women, so fewer commandments applied. Even fewer for slaves. None for Gentiles, unless you became circumcised.
+Under the law of Moses, there were 613 commandments in total. If you were born a free Jewish man, all of these commandments applied to you. In other words, the full burden of the law was on your shoulders. If you were born a Jewish woman, God acknowledged through the law the different roles men and women had. Women, in particiular, had a lot of responsibility in the home and with children, so fewer commandments applied to them. If you were a slave in a Jewish household, even fewer commandments applied to you. Finally, if you were not born a Jew, none of the law applied to you unless you were circumcised.
 
-Why would a Jewish man be thanking God for a greater burden under the law. I can see the Jewish mind thinking that more commandments implies more blessing. In other words, if you had more commandments to keep, you had the opportunity to get more blessing. Reference a quote from the law.
+Why would keeping more commandments be a good thing? Explain blesssing and cursing under the law. Explain the physical blessings.
 
-When Paul speaks of being a descendant of Abraham, he has blessings in view:
+So by thanking God for what he was not born as, the Jewish man is thanking God for the honour and blessing of serving God under the law. I could also see the Jewish mind thinking that more commandments implies more blessing. In other words, if you had more commandments to keep, you had the opportunity to get more blessing.
+
+Here in Galations, Paul is answering that series of blessings under the law with a better blessing (refer back to neither Jew nor Greek, etc.).
 
 	[Gal 3:14 KJV] 14 That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.
 
-And the blessing of Abraham is something different and far better than any of the physical blessings the law could give. In 2 Corinthians, Paul says that "the letter killeth, but the spirit giveth life". He refers to the law as the ministration of condemnation and death. The law can at its best delay your death. And at its worse it can accelerate your death. If you kept all 613 commandments perfectly, the result would be a long and prosperous natural life. But the law itself could never actually give you life.
+But the blessing of Abraham is something very different than the blessings under the law. In fact, it is something much better than the law.
+
+In 2 Corinthians, Paul draws a series of comparisons between the Old Covenant (the law) and something much better:
 
 	[2Co 3:6-9 KJV] 6 Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life. 7 But if the ministration of death, written [and] engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which [glory] was to be done away: 8 How shall not the ministration of the spirit be rather glorious? 9 For if the ministration of condemnation [be] glory, much more doth the ministration of righteousness exceed in glory.
 
-True eternal life could only come through the Spirit. And the gifts of the spirit were like a foretaste of something to come.
+Paul is a minister of the New Covenenat and draws the following contrasts:
 
-This may be a good place to illustrate some of the contrasts Paul highlights in Gal.
+- Old Covenant vs New Covenant
+- letter kills vs spirit gives life
+- ministration of death vs ministration of spirit
+- condemnation vs righteousness
 
-Finally, Paul specifically calls out those he is ministering to in Corinthians as a "bride": 2 Cor 11:2
+The law can at its best delay your death. And at its worse it can accelerate your death. If you kept all 613 commandments perfectly, the result would be a long and prosperous natural life. But the law itself could never actually give you life. It was the blessing of Abraham by faith that brought life, spirit, and righteousness. 
+
+Paul says something else in 2 Cor that will help us build up the picture. He specifically calls out those he is ministering to in Corinthians as a "bride":
 
 	[2Co 11:2 NKJV] 2 For I am jealous for you with godly jealousy. For I have betrothed you to one husband, that I may present [you as] a chaste virgin to Christ.
 
-As an able minister of the new covenant, Paul's goal is to present these believers (which include both Jews and Gentiles), as a "bride" prepared for her husband. 
+As an able minister of the new covenant, Paul's goal is to present these believers (which include both Jews and Gentiles), as a "bride" prepared for her husband. Abraham's children here get a special name to represent them.
 
 .. note::
 
@@ -146,6 +152,8 @@ The Corinthian church, much like the Galation church, had a mix of Jews and Gent
 
 	By the end of this section, the "All Nations", "Abraham's Descendants", and "Bride" props will be set up.
 
+	Might make sense to have "Gentiles" behind "All Nations" and "Jews" behind "Abraham's Descendants"
+
 The Husband 
 ===========
 
@@ -155,6 +163,8 @@ The Husband
 	- But The bride is only half of the picture we are trying to understand
 	- Paul speaks very specifically about a calling that is forming the perfect husband
 	- Ephesians specifically speaks of Blessings that we get to enjoy, but these are not the blessings of Abraham, these are the Blessings of Christ Himself
+
+Might make sense to mention why Paul was ministering to the Gentiles here.
 
 Looking at this picture as an outsider, someone who is not a Jew, it looks like there are two ways to tap into God's blessing. Under the Old Covenant, it was possible to be blessed along with Israel by becoming a proscelyte. This required you to be circumcised and keep the law. And the best that could get you is the natural, earthly blessings of the law. While this was certainly good, it could never give eternal life. Under the New Covenant, God opened up the possibility of outsiders being blessed along side Abraham purely by faith. There was no circumcision required and no law to keep for these blessings. By faith, these Gentiles enjoyed eternal life and the same spiritual gifts that believing Isralites enjoyed. And these  blessings simply were not available under the Law. 
 
