@@ -16,7 +16,7 @@ Today I want to talk about a few of the verses I've been puzzling over recently.
 
 	[Eph 4:7, 11-12 KJV] 7 But unto every one of us is given grace according to the measure of the gift of Christ. ... 11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; 12 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:
 
-These passages are both written by the Apostle Paul. They are both written to churches that had believing Gentiles (in other words, these passages were definitely not written just to believing Jews). Paul mentions gifts in both passages. And most importantly, Paul refers to the "body of Christ in each passage."
+These passages are both written by the Apostle Paul. They are both written to churches that had believing Gentiles (in other words, these passages were definitely not written just to believing Jews). Paul mentions gifts in both passages. And most importantly, Paul refers to the "body of Christ" in each passage.
 
 To the Corinthians, Paul says:
 
@@ -29,30 +29,12 @@ And to the Epheians, Paul says:
 
 If we look at just these few verses together, doesn't it really look like they are talking about exactly the same thing? In fact, if these were the only pieces we had to work with, we would probably conclude they are talking about exactly the same thing. 
 
-Uniqueness of Paul in his teaching on Adam and Christ:
-
-- Paul the only author that uses "body" in a figurative sense to refer to "Body of Christ"
-- We are concerned with the figurative use of body of Christ to refer to a group of called out believers in Christ. There is a word for "called out" in the Greek and it's the word translated "church" in our english. So "body of Christ" is a figurative reference to "church".
-- Paul plays a significant role in teaching on Mystery in scripture
-
-The books that Paul teaches on the body of Christ:
+Paul is the only author in the New Testament that uses "body" in this figurative sense to refer to "Body of Christ". The books that speak about "body of Christ" in this sense are limited to:
 
 - Romans
 - 1 Corinthians
 - Ephesians
 - Colossians
-- Hebrews?
-
-Books of Paul that discuss mystery:
-
-- Romans
-- 1 Corinthians
-- Ephesians
-- Colossians
-- 1 Timothy
-- 2 Thessalonians
-
-The mysteries that were revealed do seem to be related to the body of Christ. I believe Paul is an apostle that was given special insight into the body of Christ through the mysteries that were revealed to him. I also believe these insights are critical in helping us fit together the puzzle pieces in the Bible.
 
 The Bride
 =========
@@ -66,7 +48,7 @@ The Bride
 	- A Gentile could be blessed with Abraham through faith
 	- The blessings of the law could only delay death, only the blessing of faith could give life
 	
-There is another phrase used in Scripture that will help shed important light on the body of Christ. This phrase may appear translated as "child of Abraham", "Abraham's descendant", or "Abraham's seed" depending upon the exact Greek word used in the original and on the English translation. What makes this phrase especially interesting is the fact that it is used both literally and figuratively.
+	
 
 Let's look at a discussion between Jesus and some Jews recorded in John 8, where this phrase is used both ways:
 
@@ -76,7 +58,7 @@ Let's look at a discussion between Jesus and some Jews recorded in John 8, where
 
 	Set up the two "Children of Abraham" props on the separate chairs. Illustrate the following section by pointing at the relevant prop during discussion.
 
-Notice what Christ is doing here. He is acknowledging that these Jews were in fact related to Abraham physically ("I know that you are Abraham's descendants"). But this physical relationship wasn't enough for them to be considered "Abraham's children." What Jesus is saying, in effect, is "yes, you are Abraham's descendants, but just because you are related to father Abraham doesn't mean that you are actually Abraham's children. I can just see the wheels turning in the mind of these Jews as they try to understand how they could not be their father's child. So what does make someone a "child of Abraham" in this sense?
+Notice what Christ is doing here. He is acknowledging that these Jews were in fact related to Abraham physically ("I know that you are Abraham's descendants"). But this physical relationship wasn't enough for them to be considered "Abraham's children." What Jesus is saying, in effect, is "yes, you are Abraham's descendants, but just because you are related to father Abraham doesn't mean that you are actually Abraham's children. I can just see the wheels turning in the mind of these Jews as they try to understand how they could not be their father's child. So what does make someone a "child of Abraham" in this sense? Mention how he is mentioning son vs slave.
 
 Paul talks significantly about the children of Abraham throughout the book of Galations. In chapter 3, he says this:
 
@@ -107,7 +89,7 @@ Under the law of Moses, there were 613 commandments in total. If you were born a
 
 Why would keeping more commandments be a good thing? Explain blesssing and cursing under the law. Explain the physical blessings.
 
-So by thanking God for what he was not born as, the Jewish man is thanking God for the honour and blessing of serving God under the law. I could also see the Jewish mind thinking that more commandments implies more blessing. In other words, if you had more commandments to keep, you had the opportunity to get more blessing.
+So by thanking God for what he was not born as, the Jewish man is thanking God for the honour and blessing of serving God under the law. I could also see the Jewish mind thinking that more commandments implies more blessing. In other words, if you had more commandments to keep, you had the opportunity to get more blessing. But really, this service was more a form of slavery than freedom. In Galations, Paul specifically calls this "bondage".
 
 Here in Galations, Paul is answering that series of blessings under the law with a better blessing (refer back to neither Jew nor Greek, etc.).
 
@@ -128,20 +110,17 @@ Paul is a minister of the New Covenenat and draws the following contrasts:
 
 The law can at its best delay your death. And at its worse it can accelerate your death. If you kept all 613 commandments perfectly, the result would be a long and prosperous natural life. But the law itself could never actually give you life. Not a single person throughout history has been made righteous and given eternal life by keeping the law. That's not because nobody could keep the law perfectly, it's simply because even when perfectly followed, the law simply cannot provide the blessings of the Spirit.
 
-It was the blessing of Abraham by faith that brought life, spirit, and righteousness. 
+It was the blessing of Abraham by faith that brought life, spirit, and righteousness. The works of Abraham weren't the works of the law. It was simply believing believing God. What Paul is really saying is when it comes to these children of Abraham he is discussion, it's not about the flesh or specific blood lines and any advantages or disadvantages that may come by that. It is about the Spirit, and it is received through faith. The promise and the blessings are the spirit poured out to do the work of God.
 
-Paul says something else in 2 Cor that will help us build up the picture. He specifically calls out those he is ministering to in Corinthians as a "bride":
+Paul says something else in 2 Cor that will help us build up the picture. He introduces another figurative reference for our picture:
 
 	[2Co 11:2 NKJV] 2 For I am jealous for you with godly jealousy. For I have betrothed you to one husband, that I may present [you as] a chaste virgin to Christ.
 
-As an able minister of the new covenant, Paul's goal is to present these believers (which include both Jews and Gentiles), as a "bride" prepared for her husband. Abraham's children here get a special name to represent them.
+As an able minister of the new covenant, Paul's goal is to present these believers (which include both Jews and Gentiles), as a "virgin" betrothed to her future husband. Under the Old Covenant, the nation of Israel was often referred to as a "wife". And that Covenant relationship Israel had with God was compared to a marriage relationship. What Paul is anticipating here is the future fulfillment of the New Covenant when the future bride will be in covenant relationship with her husband.
 
 .. note::
 
 	Turn around Bride prop to reveal title. 
-
-What Paul is really saying is when it comes to these children of Abraham he is discussion, it's not about the flesh or specific blood lines and any advantages or disadvantages that may come by that. It is about the Spirit, and it is received through faith. The promise and the blessings are the spirit poured out to do the work of God.
-
 
 .. note::
 
@@ -163,7 +142,7 @@ If you wanted to enjoy the blessings of the Law, you have to keep the law. If yo
 
 .. note::
 
-	Bring in the all nations prop to discuss how outsiders could participate in blessings. 
+	Bring in the all nations prop to discuss how outsiders could participate in blessings. Turn around Abraham's children to show "Israel". 	
 
 Might make sense to mention why Paul was ministering to the Gentiles here. God was proving a point to circumsized Israel. The blessings of Abraham cannot be had with circumcision and law keeping. In fact, one of the arguments Paul uses to support this is the fact that the promise of blessing to Israel and to all nations was made to Abraham. The Corinthian church, much like the Galation church, had a mix of Jews and Gentiles. And the gifts of the spirit were poured out on both, quite irrespectively of whether they were physically circumcised or not. To partake in the blessings of the Bride (the children of Abraham), it wasn't enough to be a descendant of Abraham. Faith was required. God allowed the outsiders (the Gentiles) to partake in these blessings of Abraham (without being circumcised) to help illustrate this point.
 
@@ -187,15 +166,15 @@ Paul is starting this chapter by encouraging those that he is addressing to walk
 
 	[Eph 4:11-16 NKJV] 11 And He Himself gave some [to be] apostles, some prophets, some evangelists, and some pastors and teachers, 12 for the equipping of the saints for the work of ministry, for the edifying of the body of Christ, 13 till we all come to the unity of the faith and of the knowledge of the Son of God, to a perfect man, to the measure of the stature of the fullness of Christ; 
 
-There are two Greek words we need to look at very quickly before we can fully appreciate what Paul is really saying in verse 13. The word Paul uses here for "man" in the Greek is a word that can only refer to a male. In fact, it is the word that is used for "husband" in the Greek. This word appears seven times throughout the book of Ephesians, but only in chapters 4 and 5. Every other time it appears in Ephesians, it is translated "husband". The word "to" in the English translation of this verse is actually the word "eis" in the Greek. TBD research here.
+There are two Greek words we need to look at very quickly before we can fully appreciate what Paul is really saying in verse 13. The word Paul uses here for "man" in the Greek is a word that can only refer to a male. In fact, it is the word that is used for "husband" in the Greek. This word appears seven times throughout the book of Ephesians, but only in chapters 4 and 5. Every other time it appears in Ephesians, it is translated "husband".
 
 It would actually be quite reasonable to translate this verse like the following:
 
-	13 till we all come into the unity of the faith and of the knowledge of the Son of God, into a perfect husband, into the measure of the stature of the fullness of Christ; 
+	till we all come unto the unity of the faith and of the knowledge of the Son of God, unto a perfect husband, unto the measure of the stature of the fullness of Christ; 
 
 Paul then continues by saying:
 
-	14 that we should no longer be children, tossed to and fro and carried about with every wind of doctrine, by the trickery of men, in the cunning craftiness of deceitful plotting, 15 but, speaking the truth in love, may grow up in all things into Him who is the head--Christ-- 16 from whom the whole body, joined and knit together by what every joint supplies, according to the effective working by which every part does its share, causes growth of the body for the edifying of itself in love.
+	that we should no longer be children, tossed to and fro and carried about with every wind of doctrine, by the trickery of men, in the cunning craftiness of deceitful plotting, 15 but, speaking the truth in love, may grow up in all things into Him who is the head--Christ-- 16 from whom the whole body, joined and knit together by what every joint supplies, according to the effective working by which every part does its share, causes growth of the body for the edifying of itself in love.
 
 The picture that Paul is painting here is that of a body of believers togheter with Christ as head forming the perfect husband. The word for "husband" here is the same word Paul used in Corinthians when he was betrothing the "bride" to her husband. In other words, I think Paul is speaking about the husband that is part of that covenant relationship in Corinthians that the bride will be a part of some day.
 
@@ -228,15 +207,15 @@ The Body of Christ
 
 We started this study by looking at a couple of puzzle pieces that both spoke of the body of Christ. One verse was in Corinthians and the other was in Ephesians. In Ephesians we read:
 
-	[Eph 11-12 KJV] 11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; 12 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:
+	[Eph 4:11-12] And He Himself gave some [to be] apostles, some prophets, some evangelists, and some pastors and teachers, for the equipping of the saints for the work of ministry, for the edifying of the body of Christ,
 
 Looking at other parts of the book of Ephesians (including the very next verse), we saw that the body Paul is speaking of here is the husband, with Christ as head. Ephesians does not even contain the word for "bride" (check this). Paul never identifies believers in Ephesians as part of any body except for the body of Christ as husband.
 
 We also saw a verse in Corinthians that read like this:
 
-	[1Co 12:27 KJV] 27 Now ye are the body of Christ, and members in particular.
+	[1 Cor 12:27] Now you are the body of Christ, and members individually.
 
-Paul says to these very same believers in 2 Corinthians that they are the "Bride of Christ". So Paul says to the Ephesian believers "you're the body of Christ" and "you're forming the husband". And to the Corinthian believers he says "you're the body of Chirst" and "you're forming the Bride." The question is: how do we understand these statements together? Is there one body of Christ or are there two bodies of Christ? Or is the body of Christ just not quite as simple as me might have thought it to be.
+Paul says to these very same believers in 2 Corinthians that they are betroweth to become the "Bride of Christ". So Paul says to the Ephesian believers "you're the body of Christ" and "you're forming the husband". And to the Corinthian believers he says "you're the body of Chirst" and "you're forming the Bride." The question is: how do we understand these statements together? Is there one body of Christ or are there two bodies of Christ? Or is the body of Christ just not quite as simple as me might have thought it to be.
 
 Right now, we're lacking a piece of this overall picture that can provide insight. Christ is referred to by Paul as the "Last Adam". In other words, the first man Adam back in Genesis foreshadows or symbolizes Christ, the Last Adam. While Adam is definitely not a perfect reflection of Christ, there are clear parallels between the purpose of God that unfolds through Adam and the ultimate purpose that is revealed through Christ. 
 
@@ -250,20 +229,20 @@ The creation of the first Adam is recorded in Genesis 2. Adam is created when Go
 
 Why did God create Eve? So that Adam would have a helper. God knew that Adam needed a helper. How was Eve created?
 
-	[Verse where she is taken out of Adam]
-	[Verse on bone of my bone]
+	[Gen 2:21-22 NKJV] And the LORD God caused a deep sleep to fall on Adam, and he slept; and He took one of his ribs, and closed up the flesh in its place.
+Then the rib which the LORD God had taken from man He made into a woman, and He brought her to the man.
 
-So Eve was taken out from Adam, and the two of them together were the first human couple. Now for a question: were Adam and Eve one body or two bodies?. This isn't a trick question. If we consider this as literally as possible, the two of them started as one physical body. At first, there was only Adam. That's one body. But then, in God's time and according to God's purpose, Eve was formed from Adam. At this point, what started as one body became two bodies. God had a distinct and unique purpose for both man and woman.  
-
-Or were they together one body with distinct purposes. In other words, they could both be different and somehow still be one body. Is that a possibility?
-But in the end those two bodies do come together according to the will of God.
+So Eve was taken out from Adam, and the two of them together were the first human couple. Now for a question: were Adam and Eve one body or two bodies?. This isn't a trick question. If we consider this as literally as possible, the two of them started as one physical body. At first, there was only Adam. That's one body. But then, in God's time and according to God's purpose, Eve was formed from Adam. At this point, what started as one body became two bodies. God had a distinct and unique purpose for both man and woman. But God also had a purpose 
 
 Talk about Israel vs Nations and how they are foreshadowed by Adam. Recap with how Isral was a helper for all other nations. Yes, they were to be a great nation. That was God's promise to Abraham. But they forgot that in order to be great, you need to be the servant of all. Those are the words of Christ to the descendants of Abraham.
 
 Talk about Bride and Husband and how they are foreshadowed by Adam. Discuss the difference between Adam's line "bone of my bone" and what Paul says in Eph 5, members of His bones. Will Christ (or the Lamb in revelatoin) one day say to His bride, this is bone of my bone.
 
-End with the fact that the picture on the box is Christ and the new creation that is being formed in him. Adam and Eve, the Nations and Israel are really shadows of this ultimate reality. This earthly picture is marred and distorted, but through God's plan of redemption, this picture is being corrected and will one day be put right.
+	[Gen 2:23] And Adam said: "This [is] now bone of my bones And flesh of my flesh; She shall be called Woman, Because she was taken out of Man."
 
 Talk about difference between what Adam says to Eve and what Paul says.
 
 	[Eph 5:29-30 NKJV] 29 For no one ever hated his own flesh, but nourishes and cherishes it, just as the Lord [does] the church. 30 For we are members of His body, of His flesh and of His bones.
+
+End with the fact that the picture on the box is Christ and the new creation that is being formed in him. Adam and Eve, the Nations and Israel are really shadows of this ultimate reality. This earthly picture is marred and distorted, but through God's plan of redemption, this picture is being corrected and will one day be put right.
+
