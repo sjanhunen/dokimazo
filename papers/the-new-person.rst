@@ -3,6 +3,7 @@ The New Person
 
 Could it be that Eph 1-3 has the theme of the creation of the new person in Christ that is the culmination of God's purpose. Eph 4-6 is specifically outlining our calling as the husband within that new person.
 
+A full understanding of the 'new person' will require an understanding of the Husband, the Bride, and the word anthropos. How this is typified in Adam & Eve is significant.
 
 Is anthropology just the study of men?
 
@@ -14,7 +15,7 @@ Is anthropology just the study of men?
 - What books in the Bible specifically speak of the "new anthropos"?
 - As part of our walk, we are instructed to reflect that we are a part of this new person (Eph 4:22-24)
 
-Ephesians 1-3 is specifically revealing the new person (anthropos) that brings together the purposes of God:
+Ephesians 1-3 may be revealing the new person (anthropos) that brings together the manifold purposes of God:
 
 - Eph 1:10: God's plan to unite all things in Him
 - Eph 2:14: made both one - God is making one flesh out of two in Christ through the spirit, much like he did with Adam and Eve in the flesh. When these two are combined, it's not one tacked onto the other, but the two together creating something entirely new. In other words, the new anthropos.
@@ -29,4 +30,7 @@ Ephesians 1-3 is specifically revealing the new person (anthropos) that brings t
 
 We find the creation of the new person in Ephesians, much like we find the creation of the old person in Genesis. The word "anthropos" appears 9x throughout Ephesians.
 
-Consider very precisely the creation of Adam and Eve. How might it relate to Christ and the churches?
+His Calling versus Our Calling
+
+- Eph 1 is the revelation of "His Calling". Yes, we have a calling, but it is because we are a part of Him.
+- Eph 4 is where Paul specifically discusses our calling ("walk worthy of your calling"). It is here he specifically gets into the specifics of being a part of the Husband Himself.
