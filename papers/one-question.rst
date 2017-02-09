@@ -65,34 +65,34 @@ The Greatest Commandment
 
 The greatest commandment is about *love*: first and foremost loving God, and then loving other people. And they are related: loving God leads to loving other people.
 
-This love is not a feeling or emotion, it is service and sacrifice. The word for *love* is the same word used in John 3:16 "for God so *loved* the word that He *gave*". So loving with the heart, soul, mind, and strength is serving Him with the heart, soul, mind, and strength.
+This love is not a feeling or emotion. It is service and sacrifice. The word for *love* is the same word used in John 3:16 "for God so *loved* the word that He gave". So loving with the heart, soul, mind, and strength is giving to Him with the heart, soul, mind, and strength.
 
 Heart & Soul
 ------------
 
-It turns out that heart and soul are actually the real key words to understanding the greatest commandment. And they are, in fact, closely related. To see this, we need to go back to the passage in Deuteronomy that Christ was quoting in Mark:
+Heart and soul are the key words to understanding the greatest commandment. They are also closely related. To see this, we need to go back to the passage in Deuteronomy that Christ was quoting in Mark:
 
-   [Deu 6:4-6 KJV] 4 Hear, O Israel: The LORD our God [is] one LORD: 5 And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might. 6 And these words, which I command thee this day, shall be in thine heart:
+   [Deu 6:4-6 KJV] Hear, O Israel: The LORD our God [is] one LORD: And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might. And these words, which I command thee this day, shall be in thine heart:
 
-Which word is missing here that was present in Mark? *Heart* and *soul* and *strength* (or might) are all present. But the word *mind* is absent. Why is this significant?
+Which word is missing here that was present in Mark? *Heart* and *soul* and *strength* (or might, as it is translated here) are all present. But the word *mind* is absent. Why is this significant?
 
-We must keep in mind that Deuteronomy was written long before Mark, and it was written from a Hebrew perspective. The people that Jesus was addressing in Mark were living in a culture that had been influenced by Greek philosophers like Plato for hundreds of years. And to Plato, the mind was a big deal. In fact, he believed that one could arrive at ultimate or absolute truth through use of the mind or the intellect. The mind was so elevated that it had practically become a god. The mind was viewed as a central part of the immortal soul.
+We must keep in mind that Deuteronomy was written long before Mark and that it was written from a Hebrew perspective. The people that Jesus was addressing in Mark were living in a culture that had been influenced by Greek philosophers like Plato for hundreds of years. And to Plato, the mind was a big deal. In fact, he believed that one could arrive at ultimate or absolute truth through use of the mind or the intellect. The mind was so elevated that it had practically become a god. The mind was viewed as a central part of the immortal soul.
 
-But all of this is contrary to a true Scriptural understanding of the mind. Scripture teaches that the heart is the deepest part of the person. The heart is where our desires, our will, comes from. And it is actually the heart that steers the rational mind.
+But all of this is contrary to a true Scriptural understanding of the mind. Scripture teaches that the heart is the deepest part of the person. The heart is the ultimate point to which our desires, our will, can be traced. And it is actually the heart that steers the rational mind.
 
-In Romans chapter 1, Paul describes the sad path of nations that resisted the truth of God and went after idols. It started when those nations failed to glorify God as God (Rom 1:21). This resulted in their foolish heart being darkened. Finally, God gave them over to a reprobate mind that led to all sorts of activities not in line with the heart of God (Rom 1:28). Not glorifying God led to a darkened heart which led to a reprobate mind. The heart actually steered the mind off course.
+In Romans chapter 1, Paul describes the sad path of nations that resisted the truth of God and went after idols. It started when those nations failed to glorify God as God (Rom 1:21). This resulted in their foolish heart being darkened. Finally, God gave them over to a reprobate mind that led to all sorts of activities not in line with the heart of God (Rom 1:28). Not glorifying God led to a darkened heart which led to a reprobate mind. The heart  steered the mind off course.
 
-Christ acknowledges the importance of the rational mind as part of a complete person, but I don't believe it was the major focus of his teaching. You can see this quite easily by looking at how many times he actually uses the word. Just looking at the words spoken by Christ in the book of Mark uncovers the following:
+Christ acknowledges the importance of the rational mind as part of a complete person, but I don't believe it was the major focus of His teaching. You can see this quite easily by looking at how many times he actually uses the word. Just looking at the words spoken by Christ in the book of Mark reveals the following:
 
 - Heart: 8x
 - Soul: 8x
-- Mind: 1x (only in the quotation from Deut)
+- Mind: 1x (only in the above quotation from Deuteronomy)
 
 It's fair to say that Christ focused on the heart and soul in His teaching. He speaks about them 8 times more frequently than the mind throughout the book of Mark.
 
-Looking back at the book of Deuteronomy, it turns out it's filled with references to the heart. In fact, out of all the books in the Old Testament, it's one of the top books about the heart with 49 references to 'heart'. Imagine that, a book of Moses that's a book on the heart. The book of Psalms does beat it out with 133 reference.
+Looking back at the book of Deuteronomy, it turns out it's filled with references to the heart. In fact, out of all the books in the Old Testament, it's one of the top books about the heart with 49 references to 'heart'. Imagine a book of Moses that's actually a book on the heart. The book that takes the prize for heart is Psalms with 133 reference.
 
-Out of those 49 references to heart in Deuteronomy, ten of them are actually the phrase "heart and soul." This is very fitting seeing that there are ten commandments. And the whole law can be summed up by loving God with all of your heart and your soul.
+Out of the 49 references to heart in Deuteronomy, ten of them are actually the phrase "heart and soul." This is very fitting seeing that there are ten commandments. After all, the law can be summed up by loving God with all of your heart and your soul and loving others as a result.
 
 The Soul
 --------
