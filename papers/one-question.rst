@@ -97,21 +97,21 @@ Out of the 49 references to heart in Deuteronomy, ten of them are actually the p
 The Soul
 --------
 
-The challenge in understanding the word *soul* is that fact that the common meaning of this word is colored heavily by Greek philosophy going all the way back, once again, to philosophers like Plato. Plato's concept of the soul was that it was the immortal part of you that is distinct from your body. It was as if it were the "real you" trapped in a body. Upon death, the soul leaves the body and carries on in existence.
+The challenge in understanding the word *soul* is that fact that the meaning of this word is colored heavily by Greek philosophy going all the way back to philosophers like Plato. Plato's concept of the soul was an immortal part of a person, distinct from their body. This soul was the "real person" trapped inside a body. Upon death, the soul leaves the body and carries on in existence.
 
 This stands in stark contrast to the Hebrew concept for soul found in the Old Testament. The Hebrew word for soul is *nephesh*. We can get a pretty clear picture of the meaning of this word by looking at the first few occurrences of this word found in the creation account in Genesis 2.
 
-The first three appearances of this word are not even in reference to human beings. The souls referred to here are living creatures that are in the water, on the land, and in the sky. In other words they are fish, cattle, and birds. This word is used to describe the complete creature.
+The first three appearances of this word are not even in reference to human beings. The souls referred to here are living creatures that are in the water, on the land, and in the sky. They are fish, cattle, and birds. And this word is used to describe the complete creature, not just some part of the creature.
 
 When we reach the creation of Adam (a human being), we read:
 
-   [Gen 2:7 KJV] 7 And the LORD God formed man [of] the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
+   [Gen 2:7 KJV] And the LORD God formed man [of] the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
 
 In other words, when God combined the body formed from dust with the breath or spirit He breathed into Adam, the result was a living creature or a living soul.
 
-One challenge with the word soul is the fact that it can be used figuratively. Even though soul includes the entire living creature, it can be used figuratively to refer to only parts of the creature. For example, you will come across passages in Scripture that speak of a soul rejoicing or soul being troubled. This would be a figurative use of the word soul, where the word for the whole person is used to represent an internal emotion or feeling. But eventually, most things that are buried deep inside usually have a way of affecting the entire person.
+One challenge with the word soul is the fact that it can be used figuratively. Even though soul includes the entire living creature, it can be used figuratively to refer to only parts of the creature. For example, you will come across passages in Scripture that speak of a soul rejoicing or a soul being troubled. This is a figurative use of the word soul, where the word for the whole person is used to represent an internal emotion or feeling.
 
-So loving God with all of your soul doesn't mean loving Him with some piece of you that is inside your body but separate from your body. It means loving God with the entire creature that He has made you to be. It is actually all encompassing.
+Loving God with all of your soul doesn't mean loving Him with some piece of you that is inside your body but distinct from your body. It means loving God with the entire creature that He has made you to be. It is all encompassing.
 
 The Heart
 ---------
