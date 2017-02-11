@@ -116,19 +116,19 @@ Loving God with all of your soul doesn't mean loving Him with some piece of you 
 The Heart
 ---------
 
-When we think of this word, its natural to imagine a bodily organ that pumps blood. But the Hebrew words *leb* and *lebab*, which are translated *heart* in the Old Testament, literally mean the innermost part of something. These words used in such phrases as "the *heart* of the sea" or the "the *midst* of heaven".
+When we think of this word, its natural to imagine a bodily organ that pumps blood. But the Hebrew words *leb* and *lebab*, which are translated *heart* in the Old Testament, literally mean the innermost part of something. These words are used in such phrases as "the *heart* of the sea" or the "the *midst* of heaven".
 
-When heart is spoken of in the human context, it represents the innermost part or central part of your soul. Life is described, in Proverbs 4:23, as flowing out of the heart:
+When heart is spoken of in the human context, it represents the innermost or central part of your soul. Life is described, in Proverbs 4:23, as flowing out of the heart:
 
    Keep thy heart with all diligence; for out of it [are] the issues of life.
 
-The heart is like the fountain your life flows out of. It drives the very activities and actions of life.
+The heart is seen as the fountain your life flows out of. It drives the very activities and actions of life.
 
-This understanding of the heart as the source of the activity of the soul is found throughout the teaching of Christ. In a great moment of teaching, the Pharasees come to Christ and ask Him why he didn't wash His hands before eating as was their tradition. Christ has a marvelous way of taking such a surface-level question and turning it around to teach something much deeper.
+This understanding of the heart is found throughout the teaching of Christ. In a great moment of teaching, the Pharasees come to Christ and ask Him why he didn't wash His hands before eating, according to their tradition. Christ has a marvelous way of taking this surface-level question and turning it around to teach something much deeper.
 
-   [Mat 15:17-20 KJV] 17 Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught? 18 But those things which proceed out of the mouth come forth from the heart; and they defile the man. 19 For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies: 20 These are [the things] which defile a man: but to eat with unwashen hands defileth not a man.
+   [Mat 15:17-20 KJV] Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught? But those things which proceed out of the mouth come forth from the heart; and they defile the man. For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies: These are [the things] which defile a man: but to eat with unwashen hands defileth not a man.
 
-The Pharasees were worrying about being made unclean by dirty hands. That was only a surface level cleanness. It was their heart that was really making them unclean. And no amount of washing in water would cleanse that part of them.
+The Pharasees were worrying about being made unclean with dirty hands. But this was only a surface level cleanliness. It was their heart that was really making them unclean. And no amount of washing in water could cleanse that part.
 
 In the Sermon on the Mount in Matthew 5, Christ zeros in on the heart in a series of alternating contrasts between the letter of the law and the Spirit of God that was behind the law. He says, in effect:
 
@@ -136,13 +136,13 @@ In the Sermon on the Mount in Matthew 5, Christ zeros in on the heart in a serie
 
    You have heard it said: don't commit adultery. This is the letter of the law. But I say unto you: anyone who lusts has committed adultery in his heart. This is the Spirit behind the law.
 
-The Pharisees, in their attempt to not break the letter of law of God, added layer upon layer of protection around the law until it became almost unrecognizable. But none of this dealt with the source of the problem, the heart. The fact that so many layers were required to achieve a form out outward conformance is actually a testament to just how bad the heart problem was. Christ came to deal with the problem at its source. If the problem is deal with at the source, fulfilling the letter of the law will be a natural outcome.
+The Pharisees, in their attempt to not break the letter of law of God, added layer upon layer of protection around the law until it became almost unrecognizable. But none of this dealt with the source of the problem, the heart. The fact that so many laws were required to achieve a form of outward conformance is actually a testament to just how bad the heart problem was. Christ came to deal with the problem at its source. If the problem is deal with here, fulfilling the letter of the law will be a natural outcome.
 
-Any works that are acceptable to God and will stand the test always flow out of a heart that is led by His Word. This is what Christ is getting at in the parable of the wise and foolish builders.
+Any works that are acceptable to God always flow out of a heart that is led by His Word. This is what Christ is getting at in the parable of the wise and foolish builders.
 
-   [Luk 6:45-49 KJV] 45 A good man out of the good treasure of his heart bringeth forth that which is good; and an evil man out of the evil treasure of his heart bringeth forth that which is evil: for of the abundance of the heart his mouth speaketh. 46 And why call ye me, Lord, Lord, and do not the things which I say? 47 Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like: 48 He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock. 49 But he that heareth, and doeth not, is like a man that without a foundation built an house upon the earth; against which the stream did beat vehemently, and immediately it fell; and the ruin of that house was great.
+   [Luk 6:45-49 KJV] A good man out of the good treasure of his heart bringeth forth that which is good; and an evil man out of the evil treasure of his heart bringeth forth that which is evil: for of the abundance of the heart his mouth speaketh. And why call ye me, Lord, Lord, and do not the things which I say? Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like: He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock. But he that heareth, and doeth not, is like a man that without a foundation built an house upon the earth; against which the stream did beat vehemently, and immediately it fell; and the ruin of that house was great.
 
-Who is the rock in this parable? It is the Word of God. But more importantly, where is the rock? The wise builder dug deep and laid a foundation. This was no mere surface encounter with the Word. This was an encounter with the Word at the deepest level. The rock is the heart filled and led by the Word of God. This is what serving God is all about.
+Who or what is the rock in this parable? It is the Word of God. But more importantly, where is the rock? The wise builder dug deep and laid a foundation upon the rock. This was no mere surface encounter with the Word. This was an encounter with the Word at the deepest level. The heart filled with and led by the Word of God is what serving God is all about.
 
 A Man After God's Own Heart
 ===========================
