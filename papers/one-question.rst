@@ -172,13 +172,13 @@ Unfortunately, not many in the nation Israel had a heart like David's. Instead o
 The Greatest Prayer
 ===================
 
-Has the blindness and hardness of the heart of Israel prevented God from moving forward in His purposes? Late in his ministry, the Apostle Paul sheds some light on this in the book of Ephesians.
+Did the blindness and hardness of the heart of Israel prevent God from moving forward in His purposes? Late in his ministry, the Apostle Paul sheds some light on this in the book of Ephesians.
 
-   [Eph 3:8-11 KJV] 8 Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; 9 And to make all [men] see what [is] the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: 10 To the intent that now unto the principalities and powers in heavenly [places] might be known by the church the manifold wisdom of God, 11 According to the eternal purpose which he purposed in Christ Jesus our Lord:
+   [Eph 3:8-11 KJV] Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; And to make all [men] see what [is] the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: To the intent that now unto the principalities and powers in heavenly [places] might be known by the church the manifold wisdom of God, According to the eternal purpose which he purposed in Christ Jesus our Lord:
 
-Throughout the book of Acts, Paul was focused on reaching the heart of one nation, the nation of Israel. Even when he was working with other nations, he was doing it as a way to ultimately reach the heart of Israel. 
+Throughout the book of Acts, Paul was focused on reaching the heart of one nation, the nation of Israel. Even when he was ministering to other nations, he was using it as a way to ultimately reach the heart of Israel (Rom 11:13-14).
 
-What Paul is talking about here is specifically reaching the heart of all nations together without distinction. This purpose wasn't an afterthought of God in response to the blindness of Israel. This was always His purpose from the beginning, but it was a hidden purpose. In His wisdom, God used the blindness of Israel as a way to bring this purpose to the forefront.
+What Paul is talking about in Eph 3 is different. His ministry here is to "make all see" together without distinction the "fellowship of the mystery". This purpose wasn't merely God's response to the blindness of Israel. This was always His purpose from the beginning, but it was a hidden purpose. In His wisdom, God used the blindness of Israel as a way to bring this purpose right to the forefront.
 
 What does Paul want everyone to see? He is speaking of the Fellowship of the Mystery. What is this fellowship? I believe the answer to this lies in the Paul that Paul immediately goes on to pray:
 
