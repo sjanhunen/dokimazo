@@ -178,13 +178,17 @@ Did the blindness and hardness of the heart of Israel prevent God from moving fo
 
 Throughout the book of Acts, Paul was focused on reaching the heart of one nation, the nation of Israel. Even when he was ministering to other nations, he was using it as a way to ultimately reach the heart of Israel (Rom 11:13-14).
 
-What Paul is talking about in Eph 3 is different. His ministry here is to "make all see" together without distinction the "fellowship of the mystery". This purpose wasn't merely God's response to the blindness of Israel. This was always His purpose from the beginning, but it was a hidden purpose. In His wisdom, God used the blindness of Israel as a way to bring this purpose right to the forefront.
+What Paul is speaking about in Eph 3 is different. His ministry here is to "make all see" together without distinction the "fellowship of the mystery". This purpose wasn't merely God's response to the blindness of Israel. It was a hidden purpose of God planned right from the beginning. In His wisdom, God used the blindness of Israel as a way to bring this purpose right to the forefront.
 
-What does Paul want everyone to see? He is speaking of the Fellowship of the Mystery. What is this fellowship? I believe the answer to this lies in the Paul that Paul immediately goes on to pray:
+What does Paul want everyone to see? He calls it the "fellowship of the mystery". He expands on this in the prayer that follows:
 
-   [Eph 3:14-19 NKJV] 14 For this reason I bow my knees to the Father of our Lord Jesus Christ, 15 from whom the whole family in heaven and earth is named, 16 that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man, 17 that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love, 18 may be able to comprehend with all the saints what [is] the width and length and depth and height-- 19 to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.
+   [Eph 3:14-19 NKJV] For this reason I bow my knees to the Father of our Lord Jesus Christ, from whom the whole family in heaven and earth is named, that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man, that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love, may be able to comprehend with all the saints what [is] the width and length and depth and height--to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.
 
-The word fellowship is the Greek word *koinonia*. This is the same word used in the book of Corinthians for communion. The Jewish believer came together to remember the body and blood of the Lord. Was this communion about the closeness of these believers fellowshipping with each other? I think it led to that, but it was fundamentally about fellowship and closeness with Christ.
+Stopped here
+------------
+
+
+The word fellowship is the Greek word *koinonia*. This is the same word used in the book of Corinthians for communion. The believers came together to remember the body and blood of the Lord. Was this communion about the closeness of these believers fellowshipping with each other? I think it led to that, but it was fundamentally about fellowship and closeness with Christ.
 
 What Paul is praying for us to see here is the communion of the Mystery. This is about constant communion with God through Christ dwelling in our hearts. There is something special here that is at a level that God had never before revealed. This isn't about knowing about the love of Christ with our mind, this is knowing the love of Christ in our heart at such a level that we want the same things He wants. Remembering him isn't something we come together to do around a meal. Our very lives can be constant communion with God if he fills every aspect.
 
