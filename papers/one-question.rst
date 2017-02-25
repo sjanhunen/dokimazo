@@ -176,21 +176,20 @@ Did the blindness and hardness of the heart of Israel prevent God from moving fo
 
    [Eph 3:8-11 KJV] Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; And to make all [men] see what [is] the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: To the intent that now unto the principalities and powers in heavenly [places] might be known by the church the manifold wisdom of God, According to the eternal purpose which he purposed in Christ Jesus our Lord:
 
-Throughout the book of Acts, Paul was focused on reaching the heart of one nation, the nation of Israel. Even when he was ministering to other nations, he was using it as a way to ultimately reach the heart of Israel (Rom 11:13-14).
+Throughout the book of Acts, Paul was focused on reaching the heart of one nation, the nation of Israel (TBD citation from Acts). Even when he was ministering to other nations (i.e. the Gentiles), he was using it as a way to ultimately reach Israel (Rom 11:13-14).
 
-What Paul is speaking about in Eph 3 is different. His ministry here is to "make all see" together without distinction the "fellowship of the mystery". This purpose wasn't merely God's response to the blindness of Israel. It was a hidden purpose of God planned right from the beginning. In His wisdom, God used the blindness of Israel as a way to bring this purpose right to the forefront.
+But Paul's focus in the book of Ephesians is different. Paul is specifically addressing those that were outside the nation of Israel and strangers to the covenants (Eph 2:11-12). But the objective here is not to reach the nation of Israel. His objective is to "make all see" together without distinction this "fellowship of the mystery". The resulting outcome of this objective is the "manifold wisdom of God" being made known to heavenly rulers and powers. In other words, God is in some way working through the nations to teach something to heavenly beings. And this is something that was always a part of His  eternal purpose from the beginning.
 
-What does Paul want everyone to see? He calls it the "fellowship of the mystery". He expands on this in the prayer that follows:
+.. note::
+
+   The word fellowship is the Greek word *koinonia*. This is the same word used in the book of Corinthians for communion (1 Cor 10:16). These believers came together to remember the body and blood of Christ. The communion (or fellowship) here was fundamentally about the unity these believers shared with Christ under the New Covenant that His blood established (1 Cor 11:23-25).
+
+In the great prayer that forms the center of the book of Ephesians, Paul reveals the key to the fellowship of the Mystery:
 
    [Eph 3:14-19 NKJV] For this reason I bow my knees to the Father of our Lord Jesus Christ, from whom the whole family in heaven and earth is named, that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man, that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love, may be able to comprehend with all the saints what [is] the width and length and depth and height--to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.
 
-Stopped here
-------------
 
-
-The word fellowship is the Greek word *koinonia*. This is the same word used in the book of Corinthians for communion. The believers came together to remember the body and blood of the Lord. Was this communion about the closeness of these believers fellowshipping with each other? I think it led to that, but it was fundamentally about fellowship and closeness with Christ.
-
-What Paul is praying for us to see here is the communion of the Mystery. This is about constant communion with God through Christ dwelling in our hearts. There is something special here that is at a level that God had never before revealed. This isn't about knowing about the love of Christ with our mind, this is knowing the love of Christ in our heart at such a level that we want the same things He wants. Remembering him isn't something we come together to do around a meal. Our very lives can be constant communion with God if he fills every aspect.
+What Paul is praying for us to see here is the communion of the Mystery. This is about constant communion with God through Christ dwelling in our hearts. There is something special here that is at a level that God had never before revealed. This isn't about knowing about the love of Christ with our mind, this is knowing the love of Christ in our heart at such a level that we want the same things He wants. Our very lives can be constant communion with God if he fills every aspect.
 
 This fellowship isn't about the law of God being written in the heart of one nation, this is about Christ dwelling in the hearts of all nations. This isn't about one nation being an example to teach the other nations of the earth. This is about all nations together being an example and teaching the heavenly rulers and authorities about the wisdom of God.
 
