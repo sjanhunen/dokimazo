@@ -1,5 +1,4 @@
-One Question
-============
+= One Question
 
 If you had the opportunity to ask God one question face to face, what would it be? Would it be a special request? An answer to a puzzling or challenging passage in the Bible? I'm sure we've all thought of something like this at one time or another.
 
@@ -9,12 +8,13 @@ They wanted to act forcefully against Him, but they were afraid of the people. S
 
 Looking back on this from our perspective, this is actually a pretty ironic. The person they are about to question is the "Word of God made flesh" (John 1:14). The Word of God made flesh: sharper than a two-edge sword, and a discerner of the thoughts and intents of the heart (Heb 4:12). Trying to trick this person is a bad idea. But Christ skillfully takes something that was intended as a trap and uses it for powerful teaching.
 
-The Pharisees
--------------
+== The Pharisees
 
 The first question came from the Pharisees. The Pharisees were a highly religious sect so zealous about keeping the law that they wrapped layer upon layer of tradition around to it in their attempt to avoid breaking it. They ended up so far removed from the heart of God that the law really became unrecognizable.
 
-   [Mar 12:14-15 KJV] And when they were come, they say unto him, Master, we know that thou art true, and carest for no man: for thou regardest not the person of men, but teachest the way of God in truth: Is it lawful to give tribute to Caesar, or not? Shall we give, or shall we not give?
+____
+[Mar 12:14-15 KJV] And when they were come, they say unto him, Master, we know that thou art true, and carest for no man: for thou regardest not the person of men, but teachest the way of God in truth: Is it lawful to give tribute to Caesar, or not? Shall we give, or shall we not give?
+____
 
 They first attempt to butter up and flatter Jesus, and then they get around to asking their question. To understand where this question is coming from, we need to appreciate how the Pharisees approached tithing. Under the law of Moses, each tribe of Israel other than the tribe of Levi was required to pay ten percent to help support the tribe of Priests in their service of the nation. In other words, this was a divinely-instituted tax system.
 
@@ -24,7 +24,9 @@ When they ask whether it's *lawful* to pay tax, they aren't referring to the law
 
 But of course, Christ saw through this and gave them an extremely insightful answer:
 
-   [Mar 12:15-17 KJV] But he, knowing their hypocrisy, said unto them, Why tempt ye me? bring me a penny, that I may see [it]. And they brought [it]. And he saith unto them, Whose [is] this image and superscription? And they said unto him, Caesar's. And Jesus answering said unto them, Render to Caesar the things that are Caesar's, and to God the things that are God's. And they marvelled at him.
+____
+[Mar 12:15-17 KJV] But he, knowing their hypocrisy, said unto them, Why tempt ye me? bring me a penny, that I may see [it]. And they brought [it]. And he saith unto them, Whose [is] this image and superscription? And they said unto him, Caesar's. And Jesus answering said unto them, Render to Caesar the things that are Caesar's, and to God the things that are God's. And they marvelled at him.
+____
 
 At a surface level, it would be easy to look at this answer and think that Christ simply avoided the trap and told the Pharisees to keep giving their tithes and keep paying their taxes. But I believe the Word of God is sharper than that and cuts deeper than that.
 
@@ -32,47 +34,53 @@ Christ knew what was going on in their heart, and this is what I believe he was 
 
 The Phairsees distorted the Word of God by adding all their traditions to it until they ultimately used it to serve themselves.
 
-The Sadducee
-------------
+== The Sadducee
 
 The next question came from a Sadducee. The Sadducees were a religious sect that were opposed to all the added traditions of the Pharisees that weren't found in the Torah. They believed strongly that the written Word was the only authoritative source for doctrine. They also happened to deny the truth of resurrection. This, and other disagreements, put them at odds with the Pharisees. So they were probably glad to see the Pharisees put in their place with the first question.
 
 The Sadducee came to Jesus with a hypothetical question about the doctrine of resurrection that involved seven brothers that had each married, and then died soon thereafter. The catch here was that they all married the same woman in succession:
 
-   [Mar 12:23-24 KJV] In the resurrection therefore, when they shall rise, whose wife shall she be of them? for the seven had her to wife.
+____
+[Mar 12:23-24 KJV] In the resurrection therefore, when they shall rise, whose wife shall she be of them? for the seven had her to wife.
+____
 
 How could resurrection ever take place, they were thinking, if you have a situation like this. Of course, Christ knew there was no real problem here and pointed out the source of their difficulty:
 
-   [Mar 12:24-25 KJV] And Jesus answering said unto them, Do ye not therefore err, because ye know not the scriptures, neither the power of God? For when they shall rise from the dead, they neither marry, nor are given in marriage; but are as the angels which are in heaven.
+____
+[Mar 12:24-25 KJV] And Jesus answering said unto them, Do ye not therefore err, because ye know not the scriptures, neither the power of God? For when they shall rise from the dead, they neither marry, nor are given in marriage; but are as the angels which are in heaven.
+____
 
 The Sadducees distorted the Word of God by leaving things out. And ultimately they were again using the Scriptures to serve themselves.
 
-The Scribe
-----------
+== The Scribe
 
 Seeing how well Jesus had answered the Sadducee, a Scribe decided to ask a skill testing question. The Scribes were the keepers and teachers of the Law. They liked to sort, categorize, organize, and study the commandments. Perhaps they even got into debates over which commandments were most important:
 
-   [Mar 12:28 KJV] And one of the scribes came, and having heard them reasoning together, and perceiving that he had answered them well, asked him, Which is the first commandment of all?
-   
+____
+[Mar 12:28 KJV] And one of the scribes came, and having heard them reasoning together, and perceiving that he had answered them well, asked him, Which is the first commandment of all?
+____
+
 Christ answers this simply and directly with insight that actually applies to all three questions:
 
-   [Mar 12:29-31 KJV] And Jesus answered him, The first of all the commandments [is], Hear, O Israel; The Lord our God is one Lord: And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength: this [is] the first commandment. And the second [is] like, [namely] this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these.
+____
+[Mar 12:29-31 KJV] And Jesus answered him, The first of all the commandments [is], Hear, O Israel; The Lord our God is one Lord: And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength: this [is] the first commandment. And the second [is] like, [namely] this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these.
+____
 
 Remember the coin that was stamped with Caesar's image on it? Man was created in the image of God. We have God's image stamped on us. If we are to render unto God the things that are God's, that surely involves the whole person. It's one thing to read, teach, and debate the Words of God. But it's an entirely different thing to truly understand these words to the point that we actually desire what God wants. This involves the entire person. And I believe that this is what it means to render the things that are God's unto God.
 
-The Greatest Commandment
-========================
+== The Greatest Commandment
 
 The greatest commandment is about *love*: first and foremost loving God, and then loving other people. And they are related: loving God leads to loving other people.
 
 This love is not a feeling or emotion. It is service and sacrifice. The word for *love* is the same word used in John 3:16 "for God so *loved* the word that He gave". So loving with the heart, soul, mind, and strength is giving to Him with the heart, soul, mind, and strength.
 
-Heart & Soul
-------------
+=== Heart & Soul
 
 Heart and soul are the key words to understanding the greatest commandment. They are also closely related. To see this, we need to go back to the passage in Deuteronomy that Christ was quoting in Mark:
 
-   [Deu 6:4-6 KJV] Hear, O Israel: The LORD our God [is] one LORD: And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might. And these words, which I command thee this day, shall be in thine heart:
+____
+[Deu 6:4-6 KJV] Hear, O Israel: The LORD our God [is] one LORD: And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might. And these words, which I command thee this day, shall be in thine heart:
+____
 
 Which word is missing here that was present in Mark? *Heart* and *soul* and *strength* (or might, as it is translated here) are all present. But the word *mind* is absent. Why is this significant?
 
@@ -84,9 +92,9 @@ In Romans chapter 1, Paul describes the sad path of nations that resisted the tr
 
 Christ acknowledges the importance of the rational mind as part of a complete person, but I don't believe it was the major focus of His teaching. You can see this quite easily by looking at how many times he actually uses the word. Just looking at the words spoken by Christ in the book of Mark reveals the following:
 
-- Heart: 8x
-- Soul: 8x
-- Mind: 1x (only in the above quotation from Deuteronomy)
+* Heart: 8x
+* Soul: 8x
+* Mind: 1x (only in the above quotation from Deuteronomy)
 
 It's fair to say that Christ focused on the heart and soul in His teaching. He speaks about them 8 times more frequently than the mind throughout the book of Mark.
 
@@ -94,8 +102,7 @@ Looking back at the book of Deuteronomy, it turns out it's filled with reference
 
 Out of the 49 references to heart in Deuteronomy, ten of them are actually the phrase "heart and soul." This is very fitting seeing that there are ten commandments. After all, the law can be summed up by loving God with all of your heart and your soul and loving others as a result.
 
-The Soul
---------
+=== The Soul
 
 The challenge in understanding the word *soul* is that fact that the meaning of this word is colored heavily by Greek philosophy going all the way back to philosophers like Plato. Plato's concept of the soul was an immortal part of a person, distinct from their body. This soul was the "real person" trapped inside a body. Upon death, the soul leaves the body and carries on in existence.
 
@@ -105,7 +112,9 @@ The first three appearances of this word are not even in reference to human bein
 
 When we reach the creation of Adam (a human being), we read:
 
-   [Gen 2:7 KJV] And the LORD God formed man [of] the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
+____
+[Gen 2:7 KJV] And the LORD God formed man [of] the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
+____
 
 In other words, when God combined the body formed from dust with the breath or spirit He breathed into Adam, the result was a living creature or a living soul.
 
@@ -113,39 +122,45 @@ One challenge with the word soul is the fact that it can be used figuratively. E
 
 Loving God with all of your soul doesn't mean loving Him with some piece of you that is inside your body but distinct from your body. It means loving God with the entire creature that He has made you to be. It is all encompassing.
 
-The Heart
----------
+=== The Heart
 
 When we think of this word, its natural to imagine a bodily organ that pumps blood. But the Hebrew words *leb* and *lebab*, which are translated *heart* in the Old Testament, literally mean the innermost part of something. These words are used in such phrases as "the *heart* of the sea" or the "the *midst* of heaven".
 
 When heart is spoken of in the human context, it represents the innermost or central part of your soul. Life is described, in Proverbs 4:23, as flowing out of the heart:
 
-   Keep thy heart with all diligence; for out of it [are] the issues of life.
+____
+Keep thy heart with all diligence; for out of it [are] the issues of life.
+____
 
 The heart is seen as the fountain your life flows out of. It drives the very activities and actions of life.
 
 This understanding of the heart is found throughout the teaching of Christ. In a great moment of teaching, the Pharasees come to Christ and ask Him why he didn't wash His hands before eating, according to their tradition. Christ has a marvelous way of taking this surface-level question and turning it around to teach something much deeper.
 
-   [Mat 15:17-20 KJV] Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught? But those things which proceed out of the mouth come forth from the heart; and they defile the man. For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies: These are [the things] which defile a man: but to eat with unwashen hands defileth not a man.
+____
+[Mat 15:17-20 KJV] Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught? But those things which proceed out of the mouth come forth from the heart; and they defile the man. For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies: These are [the things] which defile a man: but to eat with unwashen hands defileth not a man.
+____
 
 The Pharasees were worrying about being made unclean with dirty hands. But this was only a surface level cleanliness. It was their heart that was really making them unclean. And no amount of washing in water could cleanse that part.
 
 In the Sermon on the Mount in Matthew 5, Christ zeros in on the heart in a series of alternating contrasts between the letter of the law and the Spirit of God that was behind the law. He says, in effect:
 
-   You have heard it said: don't murder. This is the letter of the law. But I say unto you: anyone who is angry without cause has committed murder in his heart. This is the Spirit behind the law.
+____
+You have heard it said: don't murder. This is the letter of the law. But I say unto you: anyone who is angry without cause has committed murder in his heart. This is the Spirit behind the law.
 
-   You have heard it said: don't commit adultery. This is the letter of the law. But I say unto you: anyone who lusts has committed adultery in his heart. This is the Spirit behind the law.
+You have heard it said: don't commit adultery. This is the letter of the law. But I say unto you: anyone who lusts has committed adultery in his heart. This is the Spirit behind the law.
+____
 
 The Pharisees, in their attempt to not break the letter of law of God, added layer upon layer of protection around the law until it became almost unrecognizable. But none of this dealt with the source of the problem, the heart. The fact that so many laws were required to achieve a form of outward conformance is actually a testament to just how bad the heart problem was. Christ came to deal with the problem at its source. If the problem is deal with here, fulfilling the letter of the law will be a natural outcome.
 
 Any works that are acceptable to God always flow out of a heart that is led by His Word. This is what Christ is getting at in the parable of the wise and foolish builders.
 
-   [Luk 6:45-49 KJV] A good man out of the good treasure of his heart bringeth forth that which is good; and an evil man out of the evil treasure of his heart bringeth forth that which is evil: for of the abundance of the heart his mouth speaketh. And why call ye me, Lord, Lord, and do not the things which I say? Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like: He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock. But he that heareth, and doeth not, is like a man that without a foundation built an house upon the earth; against which the stream did beat vehemently, and immediately it fell; and the ruin of that house was great.
+____
+[Luk 6:45-49 KJV] A good man out of the good treasure of his heart bringeth forth that which is good; and an evil man out of the evil treasure of his heart bringeth forth that which is evil: for of the abundance of the heart his mouth speaketh. And why call ye me, Lord, Lord, and do not the things which I say? Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like: He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock. But he that heareth, and doeth not, is like a man that without a foundation built an house upon the earth; against which the stream did beat vehemently, and immediately it fell; and the ruin of that house was great.
+____
 
 Who or what is the rock in this parable? It is the Word of God. But more importantly, where is the rock? The wise builder dug deep and laid a foundation upon the rock. This was no mere surface encounter with the Word. This was an encounter with the Word at the deepest level. The heart filled with and led by the Word of God is what serving God is all about.
 
-A Man After God's Own Heart
-===========================
+== A Man After God's Own Heart
 
 When we looked at the words heart and soul in the Hebrew Old Testament, we saw that the book of Psalms had more references to *heart* than any other book. It's not entirely surprising that David, "a man after God's own heart" (1 Sam 13:14, Acts 13:22), would write a lot about the heart. What can we lean about the heart from David?
 
@@ -153,13 +168,17 @@ David make some pretty big mistakes during his life. He committed adultery and t
 
 Psalm 51 records David's response to God after the prophet Nathan came to him to confront him about his sin:
 
-   [Psa 51:2-4, 6, 10, 16-17 KJV] Wash me throughly from mine iniquity, and cleanse me from my sin. For I acknowledge my transgressions: and my sin [is] ever before me. Against thee, thee only, have I sinned, and done [this] evil in thy sight: that thou mightest be justified when thou speakest, [and] be clear when thou judgest. ... Behold, thou desirest truth in the inward parts: and in the hidden [part] thou shalt make me to know wisdom. ... Create in me a clean heart, O God; and renew a right spirit within me. ... For thou desirest not sacrifice; else would I give [it]: thou delightest not in burnt offering. The sacrifices of God [are] a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
+____
+[Psa 51:2-4, 6, 10, 16-17 KJV] Wash me throughly from mine iniquity, and cleanse me from my sin. For I acknowledge my transgressions: and my sin [is] ever before me. Against thee, thee only, have I sinned, and done [this] evil in thy sight: that thou mightest be justified when thou speakest, [and] be clear when thou judgest. ... Behold, thou desirest truth in the inward parts: and in the hidden [part] thou shalt make me to know wisdom. ... Create in me a clean heart, O God; and renew a right spirit within me. ... For thou desirest not sacrifice; else would I give [it]: thou delightest not in burnt offering. The sacrifices of God [are] a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
+____
 
 When the sinful heart encounters the Word of God, there can be only two responses: that heart can be hardened or it can be broken. David's encounter with the truth of his failure resulted in a broken spirit and a contrite heart. He knew that what God really desired in the law wasn't just burnt offerings and sacrifices. Yes, those were part of serving God under the law, but the actual objective of the law was to bring about an awareness of sin that leads to this broken and contrite heart. This is something God will never despise.
 
 The cry of David's heart in Psalm 51 is answered 1000 years later in the Son of David. At the start of His earthly ministry, Christ went into a synagogue one Sabbath, opened the book of Isaiah, and read this:
 
-   [Isa 61:1-2 KJV] The Spirit of the Lord GOD [is] upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to [them that are] bound; To proclaim the acceptable year of the LORD.
+____
+[Isa 61:1-2 KJV] The Spirit of the Lord GOD [is] upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to [them that are] bound; To proclaim the acceptable year of the LORD.
+____
 
 This is Christ announcing that He was there for those who had their heart broken by the law. He was there to set free those in bondage so they could become what God had always wanted them to be.
 
@@ -169,24 +188,26 @@ The ministry of Christ wasn't about healing the sick and feeding the hungry. Yes
 
 Unfortunately, not many in the nation Israel had a heart like David's. Instead of being broken, they were hardened and blinded. The book of Acts is the story of God trying to reach the hard heart of Israel who had rejected their own Messiah. The book of Acts ends with Israel in blindness. Not blindness for ever, but blindness until one day God prepares their hearts to look upon the one they had pierced and mourn (Zech 12:10). Blindness until one day they have a heart like the heart of David.
 
-The Greatest Prayer
-===================
+== The Greatest Prayer
 
 Did the blindness and hardness of the heart of Israel prevent God from moving forward in His purposes? Late in his ministry, the Apostle Paul sheds some light on this in the book of Ephesians.
 
-   [Eph 3:8-11 KJV] Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; And to make all [men] see what [is] the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: To the intent that now unto the principalities and powers in heavenly [places] might be known by the church the manifold wisdom of God, According to the eternal purpose which he purposed in Christ Jesus our Lord:
+____
+[Eph 3:8-11 KJV] Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; And to make all [men] see what [is] the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: To the intent that now unto the principalities and powers in heavenly [places] might be known by the church the manifold wisdom of God, According to the eternal purpose which he purposed in Christ Jesus our Lord:
+____
 
 Throughout the book of Acts, Paul was focused on reaching the heart of one nation, the nation of Israel (TBD citation from Acts). Even when he was ministering to other nations (i.e. the Gentiles), he was using it as a way to ultimately reach Israel (Rom 11:13-14).
 
 But Paul's focus in the book of Ephesians is different. Paul is specifically addressing those that were outside the nation of Israel and strangers to the covenants (Eph 2:11-12). But the objective here is not to reach the nation of Israel. His objective is to "make all see" together without distinction this "fellowship of the mystery". The resulting outcome of this objective is the "manifold wisdom of God" being made known to heavenly rulers and powers. In other words, God is in some way working through the nations to teach something to heavenly beings. And this is something that was always a part of His  eternal purpose from the beginning.
 
-.. note::
-
-   The word fellowship is the Greek word *koinonia*. This is the same word used in the book of Corinthians for communion (1 Cor 10:16). These believers came together to remember the body and blood of Christ. The communion (or fellowship) here was fundamentally about the unity these believers shared with Christ under the New Covenant that His blood established (1 Cor 11:23-25).
+[NOTE]
+The word fellowship is the Greek word *koinonia*. This is the same word used in the book of Corinthians for communion (1 Cor 10:16). These believers came together to remember the body and blood of Christ. The communion (or fellowship) here was fundamentally about the unity these believers shared with Christ under the New Covenant that His blood established (1 Cor 11:23-25).
 
 In the great prayer that forms the center of the book of Ephesians, Paul reveals the key to the fellowship of the Mystery:
 
-   [Eph 3:14-19 NKJV] For this reason I bow my knees to the Father of our Lord Jesus Christ, from whom the whole family in heaven and earth is named, that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man, that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love, may be able to comprehend with all the saints what [is] the width and length and depth and height--to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.
+____
+[Eph 3:14-19 NKJV] For this reason I bow my knees to the Father of our Lord Jesus Christ, from whom the whole family in heaven and earth is named, that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man, that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love, may be able to comprehend with all the saints what [is] the width and length and depth and height--to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.
+____
 
 
 What Paul is praying for us to see here is the communion of the Mystery. This is about constant communion with God through Christ dwelling in our hearts. There is something special here that is at a level that God had never before revealed. This isn't about knowing about the love of Christ with our mind, this is knowing the love of Christ in our heart at such a level that we want the same things He wants. Our very lives can be constant communion with God if he fills every aspect.
