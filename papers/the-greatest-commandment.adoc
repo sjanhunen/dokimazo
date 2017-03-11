@@ -24,8 +24,9 @@ But why would the heart, the soul, and the mind be specifically and distinctly m
 
 The key words to the greatest commandment are heart and soul. They are also closely related. To see this, we need to go back to the passage in Deuteronomy that Christ was quoting in Mark:
 
+[quote,Deu 6:4-6 KJV]
 ____
-[Deu 6:4-6 KJV] Hear, O Israel: The LORD our God [is] one LORD: And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might. And these words, which I command thee this day, shall be in thine heart:
+Hear, O Israel: The LORD our God [is] one LORD: And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might. And these words, which I command thee this day, shall be in thine heart:
 ____
 
 Which word is missing here that was present in Mark? *Heart* and *soul* and *strength* (or might, as it is translated here) are all present. But the word *mind* is absent. Why is this significant?
@@ -58,8 +59,9 @@ The first three appearances of this word are not even in reference to human bein
 
 When we reach the creation of Adam (a human being), we read:
 
+[quote, Gen 2:7 KJV]
 ____
-[Gen 2:7 KJV] And the LORD God formed man [of] the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
+And the LORD God formed man [of] the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
 ____
 
 In other words, when God combined the body formed from dust with the breath or spirit He breathed into Adam, the result was a living creature or a living soul.
@@ -72,8 +74,9 @@ Loving God with all of your soul doesn't mean loving Him with some piece of you 
 
 When we think of this word, its natural to imagine a bodily organ that pumps blood. But the Hebrew words *leb* and *lebab*, which are translated *heart* in the Old Testament, literally mean the innermost part of something. These words are used in such phrases as "the *heart* of the sea" or the "the *midst* of heaven".
 
-When heart is spoken of in the human context, it represents the innermost or central part of your soul. Life is described, in Proverbs 4:23, as flowing out of the heart:
+When heart is spoken of in the human context, it represents the innermost or central part of your soul. Life is described, in Proverbs, as flowing out of the heart:
 
+[quote, Prov 4:23 KJV]
 ____
 Keep thy heart with all diligence; for out of it [are] the issues of life.
 ____
@@ -82,8 +85,9 @@ The heart is seen as the fountain your life flows out of. It drives the very act
 
 This understanding of the heart is found throughout the teaching of Christ. In a great moment of teaching, the Pharasees come to Christ and ask Him why he didn't wash His hands before eating, according to their tradition. Christ has a marvelous way of taking this surface-level question and turning it around to teach something much deeper.
 
+[quote, Mat 15:17-20 KJV]
 ____
-[Mat 15:17-20 KJV] Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught? But those things which proceed out of the mouth come forth from the heart; and they defile the man. For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies: These are [the things] which defile a man: but to eat with unwashen hands defileth not a man.
+Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught? But those things which proceed out of the mouth come forth from the heart; and they defile the man. For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies: These are [the things] which defile a man: but to eat with unwashen hands defileth not a man.
 ____
 
 The Pharasees were worrying about being made unclean with dirty hands. But this was only a surface level cleanliness. It was their heart that was really making them unclean. And no amount of washing in water could cleanse that part.
@@ -100,8 +104,9 @@ The Pharisees, in their attempt to not break the letter of law of God, added lay
 
 Any works that are acceptable to God always flow out of a heart that is led by His Word. This is what Christ is getting at in the parable of the wise and foolish builders.
 
+[quote, Luk 6:45-49 KJV]
 ____
-[Luk 6:45-49 KJV] A good man out of the good treasure of his heart bringeth forth that which is good; and an evil man out of the evil treasure of his heart bringeth forth that which is evil: for of the abundance of the heart his mouth speaketh. And why call ye me, Lord, Lord, and do not the things which I say? Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like: He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock. But he that heareth, and doeth not, is like a man that without a foundation built an house upon the earth; against which the stream did beat vehemently, and immediately it fell; and the ruin of that house was great.
+A good man out of the good treasure of his heart bringeth forth that which is good; and an evil man out of the evil treasure of his heart bringeth forth that which is evil: for of the abundance of the heart his mouth speaketh. And why call ye me, Lord, Lord, and do not the things which I say? Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like: He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock. But he that heareth, and doeth not, is like a man that without a foundation built an house upon the earth; against which the stream did beat vehemently, and immediately it fell; and the ruin of that house was great.
 ____
 
 Who or what is the rock in this parable? It is the Word of God. But more importantly, where is the rock? The wise builder dug deep and laid a foundation upon the rock. This was no mere surface encounter with the Word. This was an encounter with the Word at the deepest level. The heart filled with and led by the Word of God is what serving God is all about.
@@ -114,16 +119,18 @@ David make some pretty big mistakes during his life. He committed adultery and t
 
 Psalm 51 records David's response to God after the prophet Nathan came to him to confront him about his sin:
 
+[quote, "Psa 51:2-4, 6, 10, 16-17 KJV"]
 ____
-[Psa 51:2-4, 6, 10, 16-17 KJV] Wash me throughly from mine iniquity, and cleanse me from my sin. For I acknowledge my transgressions: and my sin [is] ever before me. Against thee, thee only, have I sinned, and done [this] evil in thy sight: that thou mightest be justified when thou speakest, [and] be clear when thou judgest. ... Behold, thou desirest truth in the inward parts: and in the hidden [part] thou shalt make me to know wisdom. ... Create in me a clean heart, O God; and renew a right spirit within me. ... For thou desirest not sacrifice; else would I give [it]: thou delightest not in burnt offering. The sacrifices of God [are] a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
+Wash me throughly from mine iniquity, and cleanse me from my sin. For I acknowledge my transgressions: and my sin [is] ever before me. Against thee, thee only, have I sinned, and done [this] evil in thy sight: that thou mightest be justified when thou speakest, [and] be clear when thou judgest. ... Behold, thou desirest truth in the inward parts: and in the hidden [part] thou shalt make me to know wisdom. ... Create in me a clean heart, O God; and renew a right spirit within me. ... For thou desirest not sacrifice; else would I give [it]: thou delightest not in burnt offering. The sacrifices of God [are] a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.
 ____
 
 When the sinful heart encounters the Word of God, there can be only two responses: that heart can be hardened or it can be broken. David's encounter with the truth of his failure resulted in a broken spirit and a contrite heart. He knew that what God really desired in the law wasn't just burnt offerings and sacrifices. Yes, those were part of serving God under the law, but the actual objective of the law was to bring about an awareness of sin that leads to this broken and contrite heart. This is something God will never despise.
 
 The cry of David's heart in Psalm 51 is answered 1000 years later in the Son of David. At the start of His earthly ministry, Christ went into a synagogue one Sabbath, opened the book of Isaiah, and read this:
 
+[quote, Isa 61:1-2 KJV]
 ____
-[Isa 61:1-2 KJV] The Spirit of the Lord GOD [is] upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to [them that are] bound; To proclaim the acceptable year of the LORD.
+The Spirit of the Lord GOD [is] upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to [them that are] bound; To proclaim the acceptable year of the LORD.
 ____
 
 This is Christ announcing that He was there for those who had their heart broken by the law. He was there to set free those in bondage so they could become what God had always wanted them to be. God wanted Israel to be a light and an example to all other nations on earth. Israel was destined to be a living, breathing, walking, talking example of what God's heart looked like. They were to educate and teach the world about Him.
@@ -132,12 +139,13 @@ The ministry of Christ wasn't about healing the sick and feeding the hungry. Yes
 
 == The Greatest Prayer
 
-Unfortunately, not many in the nation Israel had a heart like David's. Instead of being broken, they were hardened and blinded. The book of Acts is the story of God trying to reach the hard heart of Israel who had rejected their own Messiah. The book of Acts ends with Israel in blindness. Not blindness for ever, but blindness until one day God prepares their hearts to look upon the one they had pierced and mourn (Zech 12:10). Blindness until one day they have a heart like the heart of David.
+Unfortunately, not many in the nation Israel had a heart like David's. Instead of being broken, they were hardened and blinded. The book of Acts is the history of God making every attempt to reach the hard heart of Israel who had rejected their own Messiah. The book of Acts ends with Israel in blindness. Not blindness for ever, but blindness until one day God prepares their hearts to look upon the one they had pierced and mourn (Zech 12:10). Blindness until one day they have a heart like the heart of David.
 
-The Apostile Paul certainly experienced this hardness of heart in his ministry to Israel during the Acts period. Perhaps this is why when he was addressing the nations at large in the book of Ephesians, he writes the book around this central prayer
+The Apostile Paul certainly experienced the hardness of this nation in his ministry to Israel during the Acts period. Perhaps this is why when he was addressing the nations at large in the book of Ephesians, he writes the book around this central prayer
 
+[quote, Eph 3:14-19 NKJV]
 ____
-[Eph 3:14-19 NKJV] For this reason I bow my knees to the Father of our Lord Jesus Christ, from whom the whole family in heaven and earth is named, that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man, that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love, may be able to comprehend with all the saints what [is] the width and length and depth and height--to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.
+For this reason I bow my knees to the Father of our Lord Jesus Christ, from whom the whole family in heaven and earth is named, that He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man, that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love, may be able to comprehend with all the saints what [is] the width and length and depth and height--to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.
 ____
 
 If Christ does not dwell in our hearts, we can at best become like the Pharisee, the Sadducee, or the Scribe. True Bible study is getting to know God at such a level that He fills our hearts with the love of Christ. If we understand all mysteries and don't have love, we really are nothing. The natural outcome of a true and complete understanding of God is love. If we could ask God only one thing, it would be this. This is a prayer that when spoken from a broken heart won't go unanswered.
