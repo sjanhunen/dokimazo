@@ -57,6 +57,12 @@ vegetables in a solution. But the first is temporary. The second, the act of
 baptising the vegetable, produces a permanent change.
 _________
 
+Often in evangelical Christian circles, baptism is presented as something that is optional but is encouraged as a way to follow Christ in obedience.
+Baptism is not considered to produce any change in the individual, but it can perhaps be a faith building experience.
+For example, believers questioning thier own faith who have not been baptized are often encouraged to get baptized as a way to make a testament of thier faith and overcome their doubts.
+The risk is that we turn baptism into something that is more about us and our actions than about Christ.
+But is baptism ever really presented as something optional in Scripture? And does baptism actually change people?
+
 Being baptized into something means to be so affected that there is a lasting change that takes place.
 Often, the emphasis is placed on the act rather than the change, or on the symbolism of the act rathen than the act itself.
 How would we understand baptism if we focus on the change brought about by it?
@@ -65,8 +71,13 @@ How does washing fit into this in Greek meaning? Is this reading too much into b
 
 Look at the different themes associated with baptism in scripture (e.g. deliverance, judgement, cleansing, healing).
 
+
 Christ as a Teacher on Baptism
 ------------------------------
+
+A concordance of Christ's teaching on baptism:
+
+- TODO
 
 Christ illustrates with three baptisms in His earthly ministry:
 
@@ -95,18 +106,32 @@ Christ's own words on what it takes to follow Him.
 Peter as a teacher on Baptism
 -----------------------------
 
-- The Flood and the Ark (1 Pet 3:21): Notice how Noah and his family didn't get wet
+A concordance of Peter's teaching on baptism:
+
+- [1Pe 3:21 KJV] 21 The like figure whereunto [even] baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:
+- TODO
+
+Peter makes the comment that "baptism doth also now save us", but he is very clear that this is not the washing away of filth of the flesh.
+This cannot be water baptism.
+He clearly relates this "baptism" to the resurrection of Christ in that same verse.
+And just a few verses earlier, he speaks of Christ being put to death in the flesh but quickened in the Spirit.
+So Peter ties salvation back to the death, burial, and resurrection of Christ.
+Thinking of Noah and his family, it was actually faith that saved them (because that is what it took to build and get on the ark).
 
 It's key to see a transformation and deliverance that Noah and his family went through.
 
 Paul as a teacher on Baptism
 ----------------------------
 
-Paul speaks of baptism more than any other author when we consider all three.
+A concordance of Paul's teaching on baptism:
+
+- TODO
+
 
 - The Crossing of the Red Sea (1 Cor 10:2): Moses and Israel didn't get wet
 - References to carnal ordinances (Heb 9:10)
 
+Paul speaks of baptism more than any other author when we consider all three.
 
 Baptism in Water
 ----------------
