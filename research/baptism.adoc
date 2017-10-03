@@ -83,39 +83,54 @@ And wasn't this something of a sensation back in his day that created quite a st
 
 What was so special or unique about what John was doing?
 It actually wasn't the fact that he was baptizing people in water.
-Water baptism has its roots way back in the Old Testament.
-This becomes especially clear when we see the connection between washing in water and baptism.
+Baptism in water was present in the Old Testament.
+This link becomes especially clear when we see the connection between washing in water and baptism.
 
-Any Priest in the Old Testament was required to wash before performing service to God.
+In Hebrews, we read this about the tabernacle service of the Old Tesament.
+
+Heb 9:9-10 KJV
+______________
+[The Tabernacle] Which [was] a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;
+[Which stood] only in meats and drinks, and divers washings, and carnal ordinances, imposed [on them] until the time of reformation.
+______________
+
+The word translated "washings" is the Greek word for baptism.
+So we could quite correctly say that "diverse baptisms" were a significant part of the ceremonial law associated with the tabernacle.
+
+If we look at baptism or washing in water as it related to the Priests under the Old Covenant, it fell under two major categories:
+the initiation or consecration of the priest and the ongoing service of the priest in the tabernacle.
+
+The very first initiation of a priest was perfomed by Moses. We read about it in Exodus.
 
 Exo 29:4 KJV
 _____________
 And Aaron and his sons thou shalt bring unto the door of the tabernacle of the congregation, and shalt wash them with water.
 _____________
 
+Here Moses is washes Aaron and his sons, and he then goes on to clothe them with new clothes and anoint them with oil as he prepares them for their office as priests.
 The word wash in the Hebrew is *rachats*, and it is used numerious times throughout the Old Testament in the descriptions of priestly duties.
-
-[Exo 30:20 KJV] 20 When they go into the tabernacle of the congregation, they shall wash[H7364] with water, that they die not; or when they come near to the altar to minister, to burn offering made by fire unto the LORD:
-
-https://www.blueletterbible.org/lang/lexicon/lexicon.cfm?Strongs=H7364&t=KJV
-
 It can mean taking a whole body bath or just washing your hands. But it is a required form of purification under the Law.
+But washing in water was not something that a priest experienced once; it was an essential, ongoing part of his duties.
 
-The Mikvah
+Exo 30:20 KJV
+_____________
+When they go into the tabernacle of the congregation, they shall wash[H7364] with water, that they die not; or when they come near to the altar to minister, to burn offering made by fire unto the LORD:
+_____________
 
-- http://www.chabad.org/theJewishWoman/article_cdo/aid/1541/jewish/The-Mikvah.htm
-- http://free.messianicbible.com/feature/mikvah-baptism-the-connection-between-immersion-conversion-and-being-born-again/
-- https://en.wikipedia.org/wiki/Ritual_washing_in_Judaism
+This was very serious stuff. The consequence of not washing before coming near the altar was death.
+The difference here is that the priest washed himself in his day to day service.
+In fact, it is possible that the only priests that were baptized by someone else (at least as recorded in scripture) were Aaron and his sons.
 
-For priests, three that always goes together:
+So the significance of what John the Baptist was doing is found here.
+People were getting baptized by him rather than washing themselves.
+The religious leaders were puzzled by this since this was not the norm.
+In fact, they new that, after Moses, the only two others that might do this are Elijah and the Christ.
 
-- Washing in Water (symbolic of purification)
-- Anointing with Oil (symbolic of spirit anointing)
-- Changing Clothes (symbolic of resurrected body?)
+TODO: add reference here.
 
-The oil is a symbol of Holy Spirit anointing.
-So with the baptism of Jesus, we see the washing in water first followed by the anointing with the Holy Spirit.
-The water and oil are closely linked with Priestly service. Much like water baptism and spirit baptism are for Israel.
+The significance of John's baptism can be really appreciated in light of God's purpose to make the nation of Israel a kingdom of priests.
+In other words, the priestly tribe of the Old Covenant was a picture of what God wanted to make the entire Israel of the New Covenant.
+John is announcing this and preparing for this.
 
 So the baptism of Christ can be seen in light of Him fulfiling the requirements of a priest under the law.
 In Mat 3:15, when John almost refuses to baptize Him, Jesus says that He was baptized to "fulfill all righteousness".
@@ -149,7 +164,6 @@ Several key things stand out about this Jordan river crossing (Joshua 3-4):
 John is baptizing in the Jordan river near the place where Joshua crossed over with the children of Israel many years before.
 And you have John and Jesus as key figures now much like Caleb and Joshua were so many years later.
 
-
 While baptism in water can be symbolic of the death, burial, and resurrection of Christ, that wasn't the primary significant of John's baptism.
 And it wasn't likely what any of those baptized by John were thinking about as they were getting baptized.
 In fact, they really had no idea what was going to happen to Christ in just a few short years.
@@ -157,14 +171,21 @@ The washing in water represented the purification and repentance of the nation o
 There is no evidence that this changed after the resurrection of Christ (Acts 2:38).
 I believe Peter is carrying on the baptism of John here with the added baptism of the Spirit.
 
-John clearly says that one is coming who will baptize with Holy Spirit fire (Mat 3:11, Luk 3:16).
 
 Baptism in Spirit
 -----------------
 
-Is this really another baptism?
-Are there clear references to this in Scripture that make it distinct from baptism into the death of Christ?
-Are the gifts of the Spirit ever referred to as baptism in the spirit?
+John clearly says that one is coming who will baptize with Holy Spirit fire (Mat 3:11, Luk 3:16).
+
+For priests, three that always goes together:
+
+- Washing in Water (symbolic of purification)
+- Anointing with Oil (symbolic of spirit anointing)
+- Changing Clothes (symbolic of resurrected body?)
+
+The oil is a symbol of Holy Spirit anointing.
+So with the baptism of Jesus, we see the washing in water first followed by the anointing with the Holy Spirit.
+The water and oil are closely linked with Priestly service. Much like water baptism and spirit baptism are for Israel.
 
 Think about what happened when Christ was baptized by John.
 The washing in water was present with faith, and the sign followed after.
@@ -471,3 +492,16 @@ The word bapto is found in the following passages:
 
 - Job 9:31
 - Dan 4:33, 5:21
+
+References
+==========
+
+- The Mikvah
+
+    - http://www.chabad.org/theJewishWoman/article_cdo/aid/1541/jewish/The-Mikvah.htm
+    - http://free.messianicbible.com/feature/mikvah-baptism-the-connection-between-immersion-conversion-and-being-born-again/
+    - https://en.wikipedia.org/wiki/Ritual_washing_in_Judaism
+
+- An excellent reference on baptism, washing, sprinking throughout the Bible: http://www.fivesolas.com/sprinkle.htm
+
+- Concordance on Hebrew word for wash: https://www.blueletterbible.org/lang/lexicon/lexicon.cfm?Strongs=H7364&t=KJV
