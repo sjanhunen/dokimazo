@@ -13,14 +13,13 @@ How would this change our lives and impact our faith?
 Baptism in Water
 ----------------
 
-It might be tempting to think that water baptism is something that was first instituted by John the Baptist.
+It would be easy to think that water baptism is something that was first instituted by John the Baptist.
 After all, this was a big part of his ministry along the banks of the Jordar river.
-And it really is what he has become most widely known for.
-So much so, that it's a part of his name.
+It is probably what he has become most widely known for.
+So much so, that it's a permanent part of his name.
 
-Baptism in water was present throughout the Old Testament.
+But baptism in water was present throughout the Old Testament.
 It was intimately associated with the tabernacle and the duties of the priests.
-In Hebrews, we read this about the tabernacle service:
 
 Heb 9:9-10 KJV
 ______________
@@ -30,29 +29,25 @@ ______________
 
 The word translated "washings" is the Greek word for baptism.
 We could quite correctly say that these "diverse washings" where "diverse baptisms" required under the ceremonial law.
-Could all this washing in water actually change anything?
-Of course, this external washing could not cleanse you on the inside
-It would not deal with the conscience.
-But washing in water is a great way to remove dirt.
-It's an essential part of good hygene, which was mandatory for a priest.
+In fact, washing in water was required both at the initial consecration of a priest and during his ongoing day-to-day service in the tabernacle.
 
-The washings or baptisms required for Priests serving under the Old Covenant fell into two categories:
-the initial consecration of the priest and the ongoing service of the priest in the tabernacle.
-Aaron was the first priest initiated under the Old Covenant.
-And it was Moses who performed the initial baptism of Aaron and his sons.
+The initial washing or cleansing of a Priest was special; it was different from the rest.
+Back in Exodus, it was Moses who performed the first consecration of Aaron and his sons.
 
 Exo 29:4 KJV
 _____________
 And Aaron and his sons thou shalt bring unto the door of the tabernacle of the congregation, and shalt wash them with water.
 _____________
 
-Here Moses washes Aaron and his sons as he prepares them for their office as priests.
-He then clothed them with new clothes and finally anointed them with oil.
-
 The word for wash in the Hebrew is *rachats*.
-It can mean taking a fully body wash like a bath or just washing your hands, depending upon the situation.
-But it was a required form of purification under the Law, and the Old Testament is filled with refernces to washing.
-Washing in water was not something that a priest did just once at the start of their minsitry; it was an essential, ongoing part of his duties.
+It can mean taking a full body wash like a bath or just washing your hands, depending upon the situation.
+Based on what we know from Jewish history, this initial priestly cleansing was much more of a full body wash than it was a mere washing of hands.
+And in the case of Aaron and his sons, it was someone else who did the washing.
+Aaron didn't wash himself. Moses washed Aaron.
+Or put another way, Moses baptized Aaron and his sons in water.
+
+After this initial washing in water, a priest was required to wash before service in the tabernacle.
+But this washing was performed by the priest himself and was much closer to the hand washing side of the spectrum than the full body washing end.
 
 Exo 30:20 KJV
 _____________
@@ -60,17 +55,20 @@ When they go into the tabernacle of the congregation, they shall wash[H7364] wit
 _____________
 
 This was very serious stuff. The consequence of not washing before coming near the altar was death.
-The difference here is that the priest had to wash himself in his day to day service.
-In fact, it is possible that the only priests that were baptized by someone else (at least as recorded in the Old Testament) were Aaron and his sons.
+Imagine going into work each day and being greeted by a sign on the wall that said "wash your hands or die!".
+You can see how it might be possible to get carried away with this and start washing a few extra times just to be sure you're safe.
+This is in fact what had happened by the Pharisees by the time Jesus arrived on the scene.
+They had become some obsessed with washing in water, that the washing had become more important than the original law itself.
 
-So the significance of what John the Baptist was doing is found here.
+Fast forward to John the Baptist.
 People were getting baptized by him rather than washing themselves.
 The religious leaders were puzzled by this since this was not the norm.
 In fact, they new that, after Moses, the only two others that might do this are Elijah and the Christ.
+In fact, it is possible that the only priests that were baptized by someone else (at least as recorded in the Old Testament) were Aaron and his sons.
 
-TODO: add reference here.
+TODO: is these a rereference here.
 
-The significance of John's baptism can be really appreciated in light of God's purpose to make the nation of Israel a kingdom of priests.
+The full significance of John's baptism can be really appreciated in light of God's purpose to make the nation of Israel a kingdom of priests.
 In other words, the priestly tribe of the Old Covenant was a picture of what God wanted to make the entire Israel of the New Covenant.
 John is announcing this and preparing for this.
 
@@ -135,14 +133,20 @@ I believe Peter is carrying on the baptism of John here with the added baptism o
 Baptism in Spirit
 -----------------
 
-The water baptism John was performing was only half of the picture.
+The consecration of a priest didn't stop with washing in water.
+After washing Aaron and his sons in water, Moses changed their clothes, and then finally anointed them with oil.
+What is the significance of these three?
+
+- Washing in water: cleansing away sin, but also required under the law
+- Changing clothes: putting on righteousness
+- Anointing in oil: anointing in the spirit
+
+Jesus went straight from water to the spirit. He didn't need to put on righteousness.
+Everyone else had to wait until after His death, burial, and resurrection.
+This is why baptism in water, faith in Christ, and anointing in the Spirit all go together as a package deal for a Priest under the New Covenant.
+
 John clearly said that one was coming who would baptize with Holy Spirit fire (Mat 3:11, Luk 3:16).
-
-For priests, three that always goes together:
-
-- Washing in Water (symbolic of purification)
-- Anointing with Oil (symbolic of spirit anointing)
-- Changing Clothes (symbolic of resurrected body?)
+Jesus as the greatest high priest would then anoint a nation of priests.
 
 The oil is a symbol of Holy Spirit anointing.
 So with the baptism of Jesus, we see the washing in water first followed by the anointing with the Holy Spirit.
@@ -466,6 +470,8 @@ Let's review a brief anthropology of the old and new creations.
 Both John and Paul had special revelations associated with heaven and with the church in the new creation.
 John calls the church the "bride". Paul call the church the "husband".
 The old creation is at best a picture of what is coming.
+Revelation: king, priest, bride
+Ephesians: head, husband
 
 All purposes in the New Creation start with the baptism into the death of Christ.
 The New Creation reveals the manifold wisdom of God (Eph 3:10).
