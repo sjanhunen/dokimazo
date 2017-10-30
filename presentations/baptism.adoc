@@ -211,7 +211,7 @@ Christ Died = I Died
 
 == Baptism without hands
 
-Christ Buried + Christ Raised = I am buried + I am raised
+Christ Buried + Christ Raised = I was buried + I was raised
 
 == You are Complete in Christ
 
@@ -246,24 +246,9 @@ anthropos => human being, whether male or female
 
 == The Old vs The New
 
-old anthropos | new anthropos
 old creation | new creation
-
-== The Old Creation
-
-1. Adam as head (Romans)
-2. Adam & Eve as one body (Genesis & Ephesians)
-3. Nations & Israel (Genesis)
-
-== The New Creation
-
-1. Christ as Head (Ephesians)
-2. Christ & The Church as One Body (Ephesians)
-3. The Husband & The Bride (Ephesians & Revelation)
-
-== The Old vs New
-
-Table Summary
+old anthropos | new anthropos
+Adam | Christ
 
 == The Calling of a Priest
 
