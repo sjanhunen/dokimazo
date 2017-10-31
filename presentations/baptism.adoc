@@ -3,23 +3,23 @@
 // 'revealjsdir' value by removing the comments from the line below:
 //:revealjsdir: node_modules/asciidoctor-reveal.js/node_modules/reveal.js
 
-What do you think of when you hear this word?
+What do you picture?
 
 == John the Baptist
 
-Did water baptism start with him?
+Did he establish water baptism?
 
 == Water Washing in the Tabernacle
 
-Heb 9:9-10 KJV
-______________
-[The Tabernacle] Which [was] a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;
-[Which stood] only in meats and drinks, and divers washings, and carnal ordinances, imposed [on them] until the time of reformation.
-______________
+Heb 9:9-10 NKJV
+_______________
+It [was] symbolic for the present time in which both gifts and sacrifices are offered which cannot make him who performed the service perfect in regard to the conscience--
+[concerned] only with foods and drinks, various washings, and fleshly ordinances imposed until the time of reformation.
+_______________
 
-== "Washing" is the word for "baptism"
+== "Washing" is "baptism"
 
-These "diverse baptisms" were a significant part of the Tabernacle service done by priests.
+These "various baptisms" were required for priests
 
 == The Ordination of a Priest
 
