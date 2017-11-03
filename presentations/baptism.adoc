@@ -5,6 +5,10 @@
 
 What do you picture?
 
+== Baptism
+
+image::cross.png[www.bible-history.com,400]
+
 == John the Baptist
 
 Did he establish water baptism?
@@ -207,11 +211,11 @@ anthropos => human being, whether male or female
 
 == The New Creation
 
-The Cross
+image::cross.png[www.bible-history.com,400]
 
-is the end of
-
-gender, race, religion
+[line-through]#gender#,
+[line-through]#race#,
+[line-through]#religion#
 
 == Baptism
 
@@ -244,9 +248,9 @@ _____________
 
 == The New Person
 
-"Put of the old" & "Put on the new"
-(Col 3)
+"Put off the old" & "Put on the new"
+(Col 3:9-10)
 
 == Baptism
 
-Image of the Cross
+image::cross.png[www.bible-history.com,400]
