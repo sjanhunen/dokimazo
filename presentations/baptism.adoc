@@ -5,9 +5,13 @@
 
 What do you picture?
 
-== Baptism
+== Baptism?
 
-// image::cross.png[www.bible-history.com,400]
+image::baptism.jpeg[baptism,600]
+
+== Baptism?
+
+image::cross.png[baptism,400]
 
 == John the Baptist
 
@@ -34,8 +38,6 @@ Exo 30:20 NKJV
 ______________
 When they go into the tabernacle of meeting, or when they come near the altar to minister, to burn an offering made by fire to the LORD, they shall wash with water, lest they die.
 ______________
-
-(Perpetual)
 
 == Wash your hands or die!
 
