@@ -236,22 +236,17 @@ Eph 4: walk worthy of your vocation
 
 Soldier | Priest
 
-== Baptized into Christ
+== Baptism
 
-How do we reflect this in our lives?
+How do we show this in our lives?
 
 == The Cross
 
-Gal 6:14 NKJV
+Gal 6:14
 _____________
 But God forbid that I should boast except in the cross of our Lord Jesus Christ, by whom the world has been crucified to me, and I to the world.
 _____________
 
-== The New Person
-
-"Put off the old" & "Put on the new"
-(Col 3:9-10)
-
 == Baptism
 
-// image::cross.png[www.bible-history.com,400]
+image::cross.png[www.bible-history.com,400]
