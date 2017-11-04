@@ -183,7 +183,7 @@ _______________
 
 Gal 3:27 NKJV
 _____________
-For as many of you as were baptized into Christ have _put on_ Christ.
+For as many of you as were baptized into Christ have put on Christ.
 _____________
 
 == Baptized into His Death
@@ -202,7 +202,7 @@ faith + water baptism + Spirit baptism
 
 baptized + washed + anointed
 
-== Circumcision & Baptism Explained
+== Circumcision & Baptism
 
 Col 2:8-14
 
@@ -218,27 +218,6 @@ Christ Buried + Christ Raised = I was buried + I was raised
 
 You are Complete in Christ
 
-== The Cross
-
-Eph 2:14-16 NKJV
-________________
-For He Himself is our peace, who has made both one, and has broken down the middle wall of separation,
-having abolished in His flesh the enmity, [that is], the law of commandments [contained] in ordinances, so as to create in Himself one new man [from] the two, [thus] making peace,
-and that He might reconcile them both to God in one body through the cross, thereby putting to death the enmity.
-________________
-
-== The New Person
-
-anthropos => human being, whether male or female
-
-== The New Creation
-
-// image::cross.png[www.bible-history.com,400]
-
-[line-through]#gender#,
-[line-through]#race#,
-[line-through]#religion#
-
 == Baptism
 
 Foundational vs Vocational
@@ -249,11 +228,11 @@ Eph 4: walk worthy of your vocation
 
 == The Calling of the Soldier
 
-1. Baptized into Christ (Eph 4)
-2. Washed in the Word (Eph 5)
-3. Armed in the Spirit (Eph 6)
+1. Baptized (Eph 4)
+2. Washed (Eph 5)
+3. Armed (Eph 6)
 
-== The New Person
+== The Vocations
 
 Soldier | Priest
 
