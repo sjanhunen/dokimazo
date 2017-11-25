@@ -2,11 +2,15 @@
 // 'revealjsdir' value by removing the comments from the line below:
 //:revealjsdir: node_modules/asciidoctor-reveal.js/node_modules/reveal.js
 
-== Pickles
-
 == Baptism
 
 What do you picture?
+
+[NOTE.speaker]
+--
+- How often is it an image with water?
+- There is another, much more significant image we can associate with baptism!
+--
 
 == Baptism?
 
@@ -18,9 +22,9 @@ image::cross.png[baptism,400]
 
 [NOTE.speaker]
 --
-- More powerful
 - How could this change the way we look at the world?
 - How could this change how the world sees us?
+- The main reason we associate baptism with water is due to someone who came before Jesus.
 --
 
 == John the Baptist
@@ -29,11 +33,9 @@ Did he establish water baptism?
 
 [NOTE.speaker]
 --
-- Main reason we associate baptism with water
-- Goes back to OT
-- Tabernacle
+- Baptism was present throughout the OT.
+- Deeply associated with the Tabernacle service of priests.
 --
-
 
 == Washing & the Tabernacle
 
@@ -45,8 +47,9 @@ _______________
 
 [NOTE.speaker]
 --
-- Way of life: ordination and work
-- Washing is baptism
+- This was not a one-time event; it was present at ordination and during life work.
+- Washing is the word baptism.
+- Moses ordained Aaron as the very first priest of Old Covenant.
 --
 
 == Ordination of a Priest
@@ -58,10 +61,10 @@ ________
 
 [NOTE.speaker]
 --
-- Initial washing different
-- Full body
-- Baptized
-- Ongoing washing
+- This initial washing was special - it was a full body wash, not just washing hands or feet.
+- Aaron didn't do the washing; Moses baptized Aaron.
+- After ordination, a Priest had perpetual washing that was a part of his work.
+- There were serious consequences for not washing!
 --
 
 == Perpetual Work of a Priest
@@ -71,14 +74,13 @@ ______________
 When they go into the tabernacle of meeting, or when they come near the altar to minister, to burn an offering made by fire to the LORD, they shall wash with water, lest they die.
 ______________
 
-== Wash your hands or die!
-
 [NOTE.speaker]
 --
-- Carried away
-- Pharisees
+- Imagine going into work and seeing a sign that said "Wash your hands or die!"
+- Over the centuries, this got embellished with layers of tradition.
+- Groups like the Pharisees got obsessed with this.
+- John was preaching repentance and baptizing-the Pharisees investigate!
 --
-
 
 == John the Baptist
 
@@ -86,12 +88,11 @@ ______________
 
 [NOTE.speaker]
 --
-- Repentance, baptisms
-- Washing is baptism
-- Not water, but approach surprising
-- Expected Elijah or Messiah
+* It wasn't the water that was surprising; it was how and where.
+** John was doing the baptizing.
+** Jordan river not temple or elsewhere.
+* This is something they were expecting Elijah or Messiah to do.
 --
-
 
 == Bethabara
 
@@ -101,10 +102,11 @@ image::baptism-of-jesus-bethabara.gif[www.bible-history.com,400]
 
 [NOTE.speaker]
 --
-- Joshua
-- Elijah
+* This location is deeply connected with history of Israel.
+** Near where Joshua crossed the Jordan river on the way to Jerico.
+** Likely last place Elijah was seen before he was taken up to heaven.
+* What was John doing if he wasn't Elijah or the Messiah?
 --
-
 
 == What was John doing?
 
@@ -117,9 +119,10 @@ ________________
 
 [NOTE.speaker]
 --
-- Lamb take away sins
-- Christ was the sin offering
-- How was going to sacrifice this Lamb?
+- John was revealing the Lamb of God to the nation of Israel.
+- Under Old Covenant, the high priest would make sin offering once a year.
+- Christ was the sin offering for this nation and the world.
+- Who is the high priest who was going to sacrifice this Lamb?
 --
 
 == The Great High Priest
@@ -133,7 +136,9 @@ ________________
 
 [NOTE.speaker]
 --
-- Aaron foreshadows Christ
+- The Great High Priest and the sin offering are one and the same.
+- Moses baptized the first high priest under the Old Covenant.
+- Aaron baptized the Great High Priest of the New Covenant.
 --
 
 
